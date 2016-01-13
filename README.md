@@ -21,7 +21,19 @@ APIs
 - [Google Drive API](https://developers.google.com/drive/v2/reference/) **The API to interact with Google Drive.** *v3*
 
 - [Google Fitness API](https://developers.google.com/fit/?hl=en) **The Fit API.** *v1*
-[Google Fitness API](https://developers.google.com/fit/?hl=en) **The Fit API.** *v1* 
+
+- [Google Geonomics API](https://cloud.google.com/genomics/v1beta2/reference/) **Provides access to Genomics data. An API to store, process, explore, and share genomic data. It supports reference-based alignements, genetic variants, and reference genomes. This API provides an implementation of the Global Alliance for Genomics and Health (GA4GH) v0.5.1 API as well as several extensions.** *v1beta2*
+
+- [Gmail API](https://developers.google.com/gmail/api/?hl=en) **The Gmail REST API.** *v1*
+
+- [Google Classroom API](https://developers.google.com/classroom/?hl=en) **The Google Classroom API.** *v1*
+
+- [The Google Fonts Developer API.](https://developers.google.com/fonts/?hl=en) **The Google Fonts API helps you add fonts to any web page.** *v1*
+
+- [Google Identity Toolkit API.](https://developers.google.com/identity/) **Help the third party sites to implement federated login.** *v1*
+
+
+
 
 
 
