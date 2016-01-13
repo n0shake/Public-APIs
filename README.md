@@ -32,8 +32,15 @@ APIs
 
 - [Google Identity Toolkit API.](https://developers.google.com/identity/) **Help the third party sites to implement federated login.** *v1*
 
+### Machine Learning
 
+[IBM Watson](https://developer.ibm.com/watson/) **IBM Watson API is a cognitive service that simplifies the process of preparing data and makes it easier to run predictive analysis.**
 
+[Microsoft Azure Machine Learning API] (https://azure.microsoft.com/en-us/services/machine-learning/api/) **Azure Machine Learning API helps data scientists publish in minutes which once used to take days after they had developed a feasible model.**
 
+[Google Prediction API] (https://cloud.google.com/prediction/docs) **Google Prediction API is a cloud-based machine learning and pattern matching tool for the upsell of opportunity analysis, customer sentiment analysis, churn analysis, spam detection, document classification, purchase prediction, recommendations, intelligent routing and more.**
 
+[Amazon MI API] (http://docs.aws.amazon.com/machine-learning/latest/APIReference/Welcome.html)
+**Amazon Machine Learning API simplifies the process of making predictions that require lots of expertise around model building, data cleansing and statistical analysis.**
 
+[Big ML] (https://bigml.com/developers/) **BigML is user-friendly and developer-friendly Machine learning API that mainly concentrates on decision trees.**
