@@ -6,7 +6,7 @@ This is an attempt to display all free public APIs scoured from the web which ma
 
 APIs
 -------
-### Google
+### Google 12
 
 - [Google BigQuery API](https://cloud.google.com/bigquery/docs/reference/v2/) - A data platform for customers to create, manage, share and query data. *v2*
 - [Google Books API](https://developers.google.com/books/) - Lets you search for books and manage your Google Books library. *v1*
@@ -21,7 +21,7 @@ APIs
 - [The Google Fonts Developer API.](https://developers.google.com/fonts/?hl=en) - The Google Fonts API helps you add fonts to any web page. *v1*
 - [Google Identity Toolkit API.](https://developers.google.com/identity/) - Help the third party sites to implement federated login. *v1*
 
-### Machine Learning
+### Machine Learning 5
 
 - [IBM Watson](https://developer.ibm.com/watson/) - Simplifies the process of preparing data and makes it easier to run predictive analysis.
 - [Microsoft Azure Machine Learning API](https://azure.microsoft.com/en-us/services/machine-learning/api/) - Helps data scientists publish in minutes which once used to take days after they had developed a feasible model.
@@ -29,11 +29,11 @@ APIs
 - [Amazon MI API](http://docs.aws.amazon.com/machine-learning/latest/APIReference/Welcome.html) - Amazon Machine Learning API simplifies the process of making predictions that require lots of expertise around model building, data cleansing and statistical analysis.
 - [Big ML](https://bigml.com/developers/) - BigML is user-friendly and developer-friendly Machine learning API that mainly concentrates on decision trees.
 
-### Data Science
+### Data Science 1
 
 - [Data Science Toolkit](https://github.com/petewarden/dstk) - A collection of the best open data sets and open-source tools for data science.
 
-### Social Media
+### Social Media 8
 
 - [Instagram](http://instagram.com/developer/) - Search photos by location, user, tags, view trending photos, and make custom items.
 - [Flickr](https://www.flickr.com/services/api/) - Search through user Flickr content, contacts, upload or replace photos. 
