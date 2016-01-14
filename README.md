@@ -28,3 +28,18 @@ APIs
 - [Google Prediction API](https://cloud.google.com/prediction/docs) - Cloud-based machine learning and pattern matching tool.
 - [Amazon MI API](http://docs.aws.amazon.com/machine-learning/latest/APIReference/Welcome.html) - Amazon Machine Learning API simplifies the process of making predictions that require lots of expertise around model building, data cleansing and statistical analysis.
 - [Big ML](https://bigml.com/developers/) - BigML is user-friendly and developer-friendly Machine learning API that mainly concentrates on decision trees.
+
+### Data Science
+
+- [Data Science Toolkit](https://github.com/petewarden/dstk) - A collection of the best open data sets and open-source tools for data science.
+
+### Social Media
+
+- [Instagram](http://instagram.com/developer/) - Search photos by location, user, tags, view trending photos, and make custom items.
+- [Flickr](https://www.flickr.com/services/api/) - Search through user Flickr content, contacts, upload or replace photos. 
+- [Google+](https://developers.google.com/+/api/) - Enables apps to login to Google+ view connections, groups, posts, and contact information. 
+- [LinkedIn](http://developer.linkedin.com/apis) - Enables apps to connect to user accounts, data, connections,groups, communications, and social streams. 
+- [Facebook](https://developers.facebook.com/) - For ads, games, payments, login, sharing stats, and user data. 
+- [Twitter](https://dev.twitter.com/) - Enables an app to interact with most of Twitter’s functions.
+- [Pinterest](https://developers.pinterest.com/api_docs/) - Enables apps to view the most clicked-through or repinned Pins, view related posts, and user profiles.
+- [Tumblr](https://www.tumblr.com/docs/en/api/v2) - Create new ways to use Tumblr with access to content, likes, followers, and drafts. 
