@@ -33,7 +33,7 @@ APIs
 
 - [Data Science Toolkit](https://github.com/petewarden/dstk) - A collection of the best open data sets and open-source tools for data science.
 
-### Social Media 8
+### Social Media 
 
 - [Instagram](http://instagram.com/developer/) - Search photos by location, user, tags, view trending photos, and make custom items.
 - [Flickr](https://www.flickr.com/services/api/) - Search through user Flickr content, contacts, upload or replace photos. 
@@ -48,9 +48,33 @@ APIs
 - [Gravatar](https://en.gravatar.com/site/implement/) - Create profiles and avatars using this web service.
 - [Weibo](http://open.weibo.com/wiki/API%E6%96%87%E6%A1%A3/en) - Programmatic access to China’s most popular microblogging site.
 - [DeviantArt](https://www.deviantart.com/developers/) - The largest social networking website for artists and art enthusiasts.
+- [WeChat](http://dev.wechat.com/wechatapi) - WeChat is a social messaging application that works across different and multiple platform.
+- [Whatsapp Document Interaction](https://www.whatsapp.com/faq/en/iphone/23559013) - If your application creates photos, videos or audio notes and you’d like your users to share these media using WhatsApp. #Limited
+- [Snapchat](https://github.com/mgp25/SC-API) - PHP library of Snapchat’s private API. #Private
+- [GoodReads](https://www.goodreads.com/api) - Allows developers access to Goodreads data in order to help websites or applications that deal with books.
+- [Telegram](https://core.telegram.org/) - The Telegram API allows you to build your own customized Telegram clients.
+- [Twitch](https://github.com/justintv/Twitch-API) - The Twitch API enables you to develop your own applications using the rich feature set that Twitch provides.
+- [Reddit](https://github.com/reddit/reddit/wiki/API) - API to build clients, crawlers, scrapers, and browser extensions. #OpenSource
+- [Zomato](https://developers.zomato.com/api) - Zomato APIs give you access to the freshest and most exhaustive information for over 1.5 million restaurants across 10,000 cities globally.
+- [Delicious](https://delicious.com/developers) - Access to Delicious’s API.
+- [Vimeo](https://developer.vimeo.com/) - Access to Vimeo’s API.
+- [Daily Motion](https://developer.dailymotion.com/) - Build applications centered around DailyMotion.
+- [EventBrite](https://github.com/eventbrite/eventbrite-sdk-python) - The Eventbrite Python SDK makes it trivial to interact with the Eventbrite API. #OpenSource
+- [Wordpress](https://codex.wordpress.org/WordPress_APIs) - Access to Wordpress’ API.
+- [Imgur](https://api.imgur.com/) - Imgur's API exposes the entire Imgur infrastructure via a standardized programmatic interface. 
+
+### Music
+- [Spotify](https://developer.spotify.com/web-api/) - Spotify’s Web API lets your applications fetch data from the Spotify music catalog and manage user’s playlists and saved music.
+- [NPR API](http://www.npr.org/api/index) - NPR's API is a content API, which essentially provides a structured way for other computer applications to get NPR stories in a predictable, flexible and powerful way.
+- [Last.fm](http://www.last.fm/api) -  The Last.fm API allows anyone to build their own programs using Last.fm data, whether they're on the web, the desktop or mobile devices.
+- [Sound Cloud](https://developers.soundcloud.com/docs/api/guide) - Using the SoundCloud API, you can build applications that take sound on the web to the next level.
+- [Rhapsody](https://developer.rhapsody.com/) - Access metadata, user’s entire library of music and do much more.
+
+### Music Stores:
+- [iTunes Search](http://www.apple.com/itunes/affiliates/resources/documentation/itunes-store-web-service-search-api.html) - The Search API allows you to place search fields in your website to search for content within the iTunes Store, App Store, iBooks Store and Mac App Store. 
 
 
 ### Credits
 
-[Computer Science Zone](http://www.computersciencezone.org/50-most-useful-apis-for-developers/)
-[Louis Dorrad](http://www.louisdorard.com/blog/machine-learning-apis-comparison)
+- [Computer Science Zone](http://www.computersciencezone.org/50-most-useful-apis-for-developers/)
+- [Louis Dorrad](http://www.louisdorard.com/blog/machine-learning-apis-comparison)
