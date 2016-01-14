@@ -42,4 +42,10 @@ APIs
 - [Facebook](https://developers.facebook.com/) - For ads, games, payments, login, sharing stats, and user data. 
 - [Twitter](https://dev.twitter.com/) - Enables an app to interact with most of Twitter’s functions.
 - [Pinterest](https://developers.pinterest.com/api_docs/) - Enables apps to view the most clicked-through or repinned Pins, view related posts, and user profiles.
-- [Tumblr](https://www.tumblr.com/docs/en/api/v2) - Create new ways to use Tumblr with access to content, likes, followers, and drafts. 
+- [Tumblr](https://www.tumblr.com/docs/en/api/v2) - Create new ways to use Tumblr with access to content, likes, followers, and drafts.
+
+
+### Credits
+
+[Computer Science Zone](http://www.computersciencezone.org/50-most-useful-apis-for-developers/)
+[Louis Dorrad](http://www.louisdorard.com/blog/machine-learning-apis-comparison)
