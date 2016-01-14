@@ -43,6 +43,11 @@ APIs
 - [Twitter](https://dev.twitter.com/) - Enables an app to interact with most of Twitter’s functions.
 - [Pinterest](https://developers.pinterest.com/api_docs/) - Enables apps to view the most clicked-through or repinned Pins, view related posts, and user profiles.
 - [Tumblr](https://www.tumblr.com/docs/en/api/v2) - Create new ways to use Tumblr with access to content, likes, followers, and drafts.
+- [FourSquare](https://developer.foursquare.com/) - Access to FourSquare database and ability to interact with Foursquare users.
+- [YouTube](https://developers.google.com/youtube/) - Add YouTube functionality to your sites and apps.
+- [Gravatar](https://en.gravatar.com/site/implement/) - Create profiles and avatars using this web service.
+- [Weibo](http://open.weibo.com/wiki/API%E6%96%87%E6%A1%A3/en) - Programmatic access to China’s most popular microblogging site.
+- [DeviantArt](https://www.deviantart.com/developers/) - The largest social networking website for artists and art enthusiasts.
 
 
 ### Credits
