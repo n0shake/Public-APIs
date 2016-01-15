@@ -70,11 +70,46 @@ APIs
 - [Sound Cloud](https://developers.soundcloud.com/docs/api/guide) - Using the SoundCloud API, you can build applications that take sound on the web to the next level.
 - [Rhapsody](https://developer.rhapsody.com/) - Access metadata, user’s entire library of music and do much more.
 
-### Music Stores: 1
+### Music Stores 2
 - [iTunes Search](http://www.apple.com/itunes/affiliates/resources/documentation/itunes-store-web-service-search-api.html) - The Search API allows you to place search fields in your website to search for content within the iTunes Store, App Store, iBooks Store and Mac App Store. 
+- [Reverb](https://dev.reverb.com/) - Sell and buy music related merchandise.
 
+### Lyrics 2
+- [ChartLyrics Lyrics API](http://www.chartlyrics.com/api.aspx) - Allows users to search for lyrics using the artist name, song title, or lyric text.
+- [Muisxmatch](https://developer.musixmatch.com/) - Power your music project by licensing access to the world’s most authoritative lyrics DB.
+
+### Song Identification 3
+- [Acoustid](https://acoustid.org/webservice) - Supports searching through their fingerprint database. #OpenSource 
+- [Gracenote](https://developer.gracenote.com/) - Largest source of music and video metadata on the planet.
+- [Echo Nest](http://developer.echonest.com/) - The Echo Nest API allows you to call methods that respond in JSON or XML.
+
+### Discovery 4
+- [Rovi](https://developers.rovicorp.com/) - Access to Metadata, search capabilities and recommendations.
+- [Setlist.fm](http://api.setlist.fm/docs/index.html) - The setlist.fm API has been designed to give you easy access to setlist data in order to build fancy websites and other applications.
+- [Shuffler.fm](http://developers.shuffler.fm/) - Recommends you artists and sites to subscribe. Ruby and Javascript wrappers available.
+- [TuneFind](http://www.tunefind.com/api) - Allows developers to enhance their services with song, show, and movie data from TuneFind.
+
+### Analytics 2
+- [MusicMetric](http://developer.musicmetric.com/) - Provides summaries, time series data, geographic data, demographic data, along with Sentiment analysis service for text.
+- [Next Big Sound](https://api3.nextbigsound.com/) - API offers a very simple interface to access data from NBS. Ruby wrapper available.
+
+### Miscellaneous 6
+- [BBC](http://www.bbc.co.uk/developer/technology/apis.html) - Variety of BBC APIs with access to interesting data from Radio Labs, programs played on BBC and linking data around the artist played on BBC.
+- [MuseScore](http://developers.musescore.com/) - REST based API which provides music metadata.
+- [Spreaker](http://developers.spreaker.com/) - Enables developers to read and write data to Spreaker.
+- [MixRadio](http://dev.mixrad.io/doc/) - Provides a set of web APIs and native platform SDKs built around their music catalogues.
+- [FreeDB](http://www.freedb.org/) - Look up CD information using the freed database.
+- [QuantOneMusic](http://quantonemusic.com/) - Answers the need for digital music data.
+
+### Source Control 5
+- [GitHub](https://developer.github.com/v3/) - Build real-world GitHub applications right from authentication, to manipulating results, to combining results with other service.
+- [GitHub Gists](https://developer.github.com/v3/gists/) - Access to GitHub’s Gists API.
+- [SVN](https://subversion.apache.org/docs/api/1.8/) - Collection of modular libraries written in the C programming language.
+- [Mercurial](https://www.mercurial-scm.org/wiki/MercurialApi) - Access to Mercurial’s API.
+- [Team Foundation Server](https://www.visualstudio.com/en-us/integrate/api/overview) - TFS APIs are based on REST, OAuth, Json and service hooks.
 
 ### Credits
 
+- [Music Machinery](http://musicmachinery.com/music-apis/)
 - [Computer Science Zone](http://www.computersciencezone.org/50-most-useful-apis-for-developers/)
 - [Louis Dorrad](http://www.louisdorard.com/blog/machine-learning-apis-comparison)
