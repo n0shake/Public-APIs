@@ -6,6 +6,41 @@ This is an attempt to display all free public APIs scoured from the web which ma
 
 APIs
 -------
+
+### Website and Mobile Analytics 12
+
+- [Clicky](https://clicky.com/help/api) - Allows you to extract your web site's traffic data into several formats, making it easy to integrate, analyze, or store your data within your own application.
+- [Woopra](https://www.woopra.com/docs/developer/analytics-api/) - Real-time website analysis tool that targets customer engagement. 
+- [MixPanel](https://mixpanel.com/help/reference) - Analytics for mobile and web which helps you analyze the actions people take in your application.
+- [IBM Digital Analytics](http://www.scl.com/using-the-ibm-digital-analytics-api-to-get-real-time-data/) - Web Analytics tool often used by e-commerce websites.
+- [Open Web Analytics](http://wiki.openwebanalytics.com/index.php?title=Data_Access_API) - Provides a way to request and work with your data outside of the OWA reporting interface.
+- [Google Analytics](https://developers.google.com/analytics/?hl=en) - Google Analytics provides APIs to collect, configure, and report on user-interactions with your online content.
+- [Amazon Mobile Analytics](https://aws.amazon.com/documentation/mobileanalytics/) - Service for collecting, visualizing, and understanding app usage data at scale.
+- [Flurry](https://developer.yahoo.com/flurry/docs/api/) - Yahoo’s Flurry provides you with a number of APIs enabling you to export your data.
+- [Parse](https://parse.com/docs/rest/guide#quick-reference-analytics) - Download recent data to run your own custom analytics. 
+- [Chartie](http://www.chartie.io/docs.php) - Free web API that mines the relevant trend patterns from your signal. 
+- [Zoho Reports API](https://zohoreportsapi.wiki.zoho.com/) - Build powerful reporting and analytical capabilities into your application.
+- [Localytics](http://docs.localytics.com/dev/query-api.html#query-api) - Interface to Localytics analytics platform. 
+
+### Advertising 5
+
+- [Apple iAd](https://developer.apple.com/iad/) - Generate advertising revenue from your iOS app using iAd API.
+- [Google AdSense](https://developers.google.com/adsense/?hl=en) - Free, flexible way to earn money from your websites, mobile sites, and site search results.
+- [Amazon Mobile Ads ](https://developer.amazon.com/public/apis/earn/mobile-ads) - Monetize across platforms with multiple ad formats.
+- [Facebook Marketing API](https://developers.facebook.com/docs/marketing-apis) - Manage ads and campaigns using the Facebook API.
+- [Roblox AdService](http://wiki.roblox.com/index.php?title=Mobile_Video_Ads) - Show video ads to mobile ROBLOX users in-game for another source of revenue for developers.
+
+### Login Authentication 8
+
+- [Facebook Login for Apps](https://developers.facebook.com/docs/facebook-login) - Secure, fast, convenient way to login in your app/website.
+- [Twitter Sign-in](https://dev.twitter.com/web/sign-in) - Works on websites, iOS, mobile and desktop applications.
+- [GitHub Authentication](https://developer.github.com/guides/basics-of-authentication/) - Access to GitHub’s Authentication API.
+- [LinkedIn](https://developer.linkedin.com/docs/signin-with-linkedin) - Make it convenient for your users to sign in with their professional identity.
+- [Google Identity](https://developers.google.com/identity/) - Build an auth system that will grow with your business and reduce the friction of getting users into your app. 
+- [Instagram](https://www.instagram.com/developer/authentication/) - Access to Instagram’s OAuth API.
+- [Paypal](https://developer.paypal.com/docs/integration/direct/identity/log-in-with-paypal/) - Enables your customers to sign in to your web site quickly and securely using their PayPal login credentials. 
+- [Salesforce](https://developer.salesforce.com/docs/atlas.en-us.api_rest.meta/api_rest/intro_understanding_authentication.htm) - Salesforce uses the OAuth protocol to allow users of applications to securely access data without having to reveal username and password credentials
+
 ### Google 12
 
 - [Google BigQuery API](https://cloud.google.com/bigquery/docs/reference/v2/) - A data platform for customers to create, manage, share and query data. *v2*
