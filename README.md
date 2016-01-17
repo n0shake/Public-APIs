@@ -143,6 +143,43 @@ APIs
 - [Mercurial](https://www.mercurial-scm.org/wiki/MercurialApi) - Access to Mercurial’s API.
 - [Team Foundation Server](https://www.visualstudio.com/en-us/integrate/api/overview) - TFS APIs are based on REST, OAuth, Json and service hooks.
 
+### Maps 9
+- [Google Maps API](https://developers.google.com/maps/?hl=en) - Google Maps APIs are available for Android, iOS, web browsers and through HTTP web services. [Clients can be found here.](https://github.com/googlemaps/)
+- [Yahoo Maps](https://developer.yahoo.com/maps/) - Yahoo Maps lets you easily embed rich and interactive maps using your choice of platform.
+- [Mapbox](https://www.mapbox.com/developers/api/maps/) - Access to MapBox’s API.
+- [CartoDB](http://docs.cartodb.com/cartodb-platform/maps-api/) - Allows you to generate maps based on data hosted in your CartoDB account.
+- [Bing Maps](https://www.microsoft.com/maps/choose-your-bing-maps-API.aspx) - Bing Maps platform provides multiple API options for your application.
+- [DigitalGlobe](http://developer.digitalglobe.com/maps-api/) - DigitalGlobe Maps API delivers the world's best satellite imagery, straight to your app. #Beta
+- [Amazon Maps API v2](https://developer.amazon.com/public/apis/experience/maps) - Add interactive 3D maps, graphics, and custom overlays to your Fire Tablet and Fire phone apps.
+- [Yandex](https://tech.yandex.com/maps/) - API for installing Yandex.Maps and the necessary tools for working it on your web app or site. 
+- [Scribble](https://www.scribblemaps.com/api/) - The Scribble Maps API is a cross browser, mobile ready, HTML5/JavaScript, interactive map builder.
+
+
+### Captcha 2
+- [Google reCAPTCHA](https://developers.google.com/recaptcha/intro?hl=en) - ReCAPTCHA lets you embed a CAPTCHA in your web pages in order to protect them against spam and other types of automated abuse.
+- [Anti-Captcha](https://anti-captcha.com/apidoc) - Access to Anti-Captcha’s API.
+
+### Big Data and Analytics 4
+- [Ryft](http://www.ryft.com/api) - integrate the Ryft ONE’s data analysis capabilities into existing big data environments for faster data analysis and real-time intelligence. 
+- [Google Charts](https://developers.google.com/chart/interactive/docs/) - Free tool with a wide range of capabilities for visualizing data from a website. 
+- [Mongo DB](https://github.com/mongodb) - mongoDB is ideal for developers who want precise control over the final results and processes for handling Big Data.
+- [Keen IO](https://keen.io/docs/api/) - Keen IO is a powerful, flexible, and scaleable solution that’s literally Big Data, easy-to-implement and at your fingertips.
+
+### Check-In 4
+- [Facebook Check-In](https://developers.facebook.com/docs/graph-api/reference/v2.3/checkin) - A check-in made to a location-based Page.
+- [FourSquare Check-In](https://developer.foursquare.com/docs/checkins/add) - Allows you to check in to a place. 
+- [Yahoo GeoPlanet](https://developer.yahoo.com/geo/geoplanet/guide/) - Geo-enable your applications using Yahoo GeoPlanet.
+- [Google Places](https://developers.google.com/places/?hl=en) - Access to Google Places’ API.
+
+### Weather 6
+- [Open Weather](http://openweathermap.org/api) - Access current weather data for any location on Earth including over 200,000 cities! 
+- [Yahoo Weather API](https://developer.yahoo.com/weather/) - Get up-to-date information for any location, including 5-day forecast, wind, atmosphere, astronomy conditions, and more.
+- [Wunderground API](http://www.wunderground.com/weather/api/) - Reliable data, accurate forecast, & global coverage in 80 languages.
+- [Forecast](https://developer.forecast.io/docs/v2) - The same API that powers Forecast.io and Dark Sky for iOS.
+- [AccuWeather](http://apidev.accuweather.com/developers/) - Provides subscribers access to location based weather data via a simple RESTful web interface.
+- [Weather Source](http://weathersource.com/weather-api) - Powerful Weather API built for systems that demand speed, reliability and heavy load.
+
+
 ### Credits
 
 - [Music Machinery](http://musicmachinery.com/music-apis/)
