@@ -182,6 +182,7 @@ APIs
 
 ### Credits
 
+- [NewStack](http://thenewstack.io/the-different-flavors-of-iot-apis/)
 - [Music Machinery](http://musicmachinery.com/music-apis/)
 - [Computer Science Zone](http://www.computersciencezone.org/50-most-useful-apis-for-developers/)
 - [Louis Dorrad](http://www.louisdorard.com/blog/machine-learning-apis-comparison)
