@@ -232,6 +232,15 @@ latitude/longitude, and text search based upon categories, address, city, provin
 
 - [FitBit](https://dev.fitbit.com/docs/) - Web API for accessing data from Fitbit activity trackers, Aria scale, and manually entered logs.
 
+### Dictionary 6
+
+- [Merriam-Webster Dictionary API](http://www.dictionaryapi.com/) - Gives developers access to a big ass resource of dictionary and thesaurus content as well as specialized medical, Spanish, ESL, and student-friendly vocabulary.
+- [Wordnik](http://developer.wordnik.com/docs.html#!/word) - Dictionary functions.
+- [Words API](https://www.wordsapi.com/) - Use it to find definitions for more than 150,000 words.
+- [Cambridge Dictionaries Online](http://dictionary.cambridge.org/license.html) - Access to Cambridge’s custom-developed API. #Trial
+- [Glosbe API](https://glosbe.com/a-api) - Dictionary API and Translation Memory API description.
+- [DictService](http://services.aonaware.com/DictService/DictService.asmx) - This Web Service allows you to access dictionary definitions from the dict.org service.
+
 ### Credits
 
 - [NewStack](http://thenewstack.io/the-different-flavors-of-iot-apis/)
