@@ -223,6 +223,15 @@ latitude/longitude, and text search based upon categories, address, city, provin
 - [Yelp](https://www.yelp.com/developers/documentation/v2/overview) - You can search location using geo bounding box, longitude and latitude, neighborhood, address or city and filter listings by “where”, using a list of support categories.
 - [YP](https://publisher.yp.com/) - Providing a places search that can be queried by keyword and longitude/latitude, street address, city, postal code, Neighborhood, state, points of interest or by phone number.
 
+### Augmented Reality
+
+- [Wikitude](http://www.wikitude.com/download/) - Wikitude’s all-in-one AR solution includes image recognition & tracking, 3D model rendering, video overlay, location based AR. #Trial
+- [Vuforia](http://developer.vuforia.com/library/) - Solid SDK with robust development options. #Trial
+
+### Fitness
+
+- [FitBit](https://dev.fitbit.com/docs/) - Web API for accessing data from Fitbit activity trackers, Aria scale, and manually entered logs.
+
 ### Credits
 
 - [NewStack](http://thenewstack.io/the-different-flavors-of-iot-apis/)
