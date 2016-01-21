@@ -2,7 +2,7 @@
 
 # Introduction
 
-This is an attempt to display all free public APIs scoured from the web which make their resources available for free.
+This is an attempt to display different APIs scoured from the web which make their resources available for consumption.
 
 APIs
 -------
@@ -178,6 +178,37 @@ APIs
 - [Forecast](https://developer.forecast.io/docs/v2) - The same API that powers Forecast.io and Dark Sky for iOS.
 - [AccuWeather](http://apidev.accuweather.com/developers/) - Provides subscribers access to location based weather data via a simple RESTful web interface.
 - [Weather Source](http://weathersource.com/weather-api) - Powerful Weather API built for systems that demand speed, reliability and heavy load.
+
+### IoT 
+
+- [Zetta](http://www.zettajs.org/) - An open source platform built on Node.js for creating IoT servers that run across geo-distributed computers and the cloud.
+- [Temboo SDK](https://www.temboo.com/download) - This platform acts as a layer on top of third-party APIs, using code snippets to trigger complex processes that run through their cloud platform.
+- [Xively](http://developer.xively.com/api/) - Uses free and open libraries to let you connect different types of hardware, using a variety of languages to their cloud service.
+- [ThingSpeak](https://github.com/iobridge/ThingSpeak) - “Internet of Things” application and API to store and retrieve data from things using HTTP over the Internet or via a Local Area Network. #OpenSource
+
+### Bitcoin/Bitcoin Wallets
+
+- [Bitcoin](https://bitcoin.org/en/developer-documentation) - Find useful resources, guides and reference material for developers.
+- [Coinbase](https://developers.coinbase.com/) - Coinbase APIs and developer tools make building bitcoin and blockchain apps much easier.
+- [Block](https://block.io/) - The most versatile and secure wallet for all your coins.
+- [Coinkite](https://coinkite.com/developers) - Coinkite's Bitcoin API provides simple and powerful REST integrations for adding bitcoin functions into your business / application. 
+- [bitpay](https://bitpay.com/developers) - A simple, RESTful API to the most powerful bitcoin infrastructure on the planet.
+- [BlockCypher](http://www.blockcypher.com/) - BlockCypher is the infrastructure fabric for blockchain applications
+- [biteasy](https://www.biteasy.com/developers) - Biteasy provides the following, free to use, APIs which a developer can use and build its own great applications.
+- [Bitcoincharts](https://bitcoincharts.com/about/markets-api/) - You can use this API to include markets data in your websites, mobile apps or desktop applets.
+- [MtGox/API](https://en.bitcoin.it/wiki/MtGox/API) - The MtGox API provides methods to access information from the market, place orders, and more.
+- [Exchange Rates API](https://blockchain.info/api/exchange_rates_api) - Market Prices and exchanges rates api.
+
+### BarCode
+
+- [Google Barcode](https://developers.google.com/vision/barcodes-overview?hl=en) - The Barcode API detects barcodes in real-time, on device, in any orientation. It can also detect multiple barcodes at once.
+
+### Placeholder Images
+
+- [PlaceKitten](https://placekitten.com/) - A quick and simple service for getting pictures of kittens for use as placeholders in your designs or code.  
+- [Placehold](https://placehold.it/) - A quick and simple image placeholder service.
+- [Lorem Pixel](http://lorempixel.com/) - Placeholder images for every case.
+- [DummyImage](http://dummyimage.com/) - Particularly nice, when compared to some of its competitors, in that it offers a great deal of flexibility.
 
 
 ### Credits
