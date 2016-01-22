@@ -241,13 +241,21 @@ latitude/longitude, and text search based upon categories, address, city, provin
 - [Glosbe API](https://glosbe.com/a-api) - Dictionary API and Translation Memory API description.
 - [DictService](http://services.aonaware.com/DictService/DictService.asmx) - This Web Service allows you to access dictionary definitions from the dict.org service.
 
-### URL Shorteners
+### URL Shorteners 5
 
 - [Google URL Shortener](https://developers.google.com/url-shortener/v1/) - Service that takes long URLs and squeezes them into fewer characters.
 - [Bitly](http://dev.bitly.com/links.html) - Access to Bitly’s API.
 - [Yourls](https://yourls.org/#API) - Generate or get existing short URLs, with sequential or custom keyword.
 - [Po.st](http://support.po.st/hc/en-us/articles/200328516-Po-st-REST-API) - Shorten URLs, Expand shortened URLs, see statistics etc.
 - [Readability](https://www.readability.com/developers/api/shortener) - Shorten long URLs and deliver a great reading view with a single, unique URL using the Shortener API.
+
+### Natural Language Processing 5
+
+- [TextRazor](https://www.textrazor.com/plans) - Helps you extract and understand the Who, What, Why, and How from your supplied text. #FreeToUse
+- [AlchemyAPI - IBM Company](http://www.alchemyapi.com/api) - Uses NLP and ML algorithms to extract semantic meta-data from content.
+- [Open Calais](http://www.opencalais.com/opencalais-api/) - Good entity extraction, no sentiment analysis.
+- [Semantria](https://www.lexalytics.com/) - SAAS API based on Lexalytics engine. #Paid
+- [Datum Box](http://www.datumbox.com/machine-learning-api/) - Datumbox offers a powerful open-source Machine Learning Framework written in Java. #OpenSource
 
 ### Credits
 
