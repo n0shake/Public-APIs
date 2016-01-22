@@ -241,6 +241,14 @@ latitude/longitude, and text search based upon categories, address, city, provin
 - [Glosbe API](https://glosbe.com/a-api) - Dictionary API and Translation Memory API description.
 - [DictService](http://services.aonaware.com/DictService/DictService.asmx) - This Web Service allows you to access dictionary definitions from the dict.org service.
 
+### URL Shorteners
+
+- [Google URL Shortener](https://developers.google.com/url-shortener/v1/) - Service that takes long URLs and squeezes them into fewer characters.
+- [Bitly](http://dev.bitly.com/links.html) - Access to Bitly’s API.
+- [Yourls](https://yourls.org/#API) - Generate or get existing short URLs, with sequential or custom keyword.
+- [Po.st](http://support.po.st/hc/en-us/articles/200328516-Po-st-REST-API) - Shorten URLs, Expand shortened URLs, see statistics etc.
+- [Readability](https://www.readability.com/developers/api/shortener) - Shorten long URLs and deliver a great reading view with a single, unique URL using the Shortener API.
+
 ### Credits
 
 - [NewStack](http://thenewstack.io/the-different-flavors-of-iot-apis/)
