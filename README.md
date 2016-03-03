@@ -4,6 +4,15 @@
 
 This is an attempt to categorise different APIs scoured from the web which make their resources available for consumption.
 
+## Table of Contents
+
+- [Advertising] (#advertising)
+- [Analytics] (#analytics)
+- [Augmented Reality] (#augmented-reality)
+
+
+
+
 APIs
 -------
 
