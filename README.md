@@ -93,7 +93,7 @@ APIs
 - [BlockCypher](http://www.blockcypher.com/) - BlockCypher is the infrastructure fabric for blockchain applications
 - [biteasy](https://www.biteasy.com/developers) - Biteasy provides the following, free to use, APIs which a developer can use and build its own great applications.
 - [Bitcoincharts](https://bitcoincharts.com/about/markets-api/) - You can use this API to include markets data in your websites, mobile apps or desktop applets.
-- [MtGox/API](https://en.bitcoin.it/wiki/MtGox/API) - The MtGox API provides methods to access information from the market, place orders, and more.
+- [ShapeShift.io](https://shapeshift.io/) - Exchange between cryptocurrencies without an account.  Well documented API for easy use.
 - [Exchange Rates API](https://blockchain.info/api/exchange_rates_api) - Market Prices and exchanges rates api.
 
 ### Captcha 
