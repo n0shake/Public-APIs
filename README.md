@@ -170,7 +170,7 @@ APIs
 
 ### Music Identification 
 
-- [Acoustid](https://acoustid.org/webservice) - Supports searching through their fingerprint database. [![Open Source](https://github.com/Abhishaker17/Awesome-APIs/blob/master/OSS.svg)] 
+- [Acoustid](https://acoustid.org/webservice) - Supports searching through their fingerprint database. ![Open Source](https://raw.githubusercontent.com/Abhishaker17/Awesome-APIs/master/opensource.png?token=AH5Y2imVR5ukgG9533IEqXnP-RJWxVJQks5W4PuNwA%3D%3D "Open Source") 
 - [Gracenote](https://developer.gracenote.com/) - Largest source of music and video metadata on the planet.
 - [Echo Nest](http://developer.echonest.com/) - The Echo Nest API allows you to call methods that respond in JSON or XML.
 
@@ -190,7 +190,7 @@ APIs
 - [AlchemyAPI - IBM Company](http://www.alchemyapi.com/api) - Uses NLP and ML algorithms to extract semantic meta-data from content.
 - [Open Calais](http://www.opencalais.com/opencalais-api/) - Good entity extraction, no sentiment analysis.
 - [Semantria](https://www.lexalytics.com/) - SAAS API based on Lexalytics engine. #Paid
-- [Datum Box](http://www.datumbox.com/machine-learning-api/) - Datumbox offers a powerful open-source Machine Learning Framework written in Java. [![Open Source](https://github.com/Abhishaker17/Awesome-APIs/blob/master/OSS.svg)]
+- [Datum Box](http://www.datumbox.com/machine-learning-api/) - Datumbox offers a powerful open-source Machine Learning Framework written in Java. ![Open Source](https://raw.githubusercontent.com/Abhishaker17/Awesome-APIs/master/opensource.png?token=AH5Y2imVR5ukgG9533IEqXnP-RJWxVJQks5W4PuNwA%3D%3D "Open Source")
 
 ### Placeholder Images 
 
@@ -233,12 +233,12 @@ latitude/longitude, and text search based upon categories, address, city, provin
 - [GoodReads](https://www.goodreads.com/api) - Allows developers access to Goodreads data in order to help websites or applications that deal with books.
 - [Telegram](https://core.telegram.org/) - The Telegram API allows you to build your own customized Telegram clients.
 - [Twitch](https://github.com/justintv/Twitch-API) - The Twitch API enables you to develop your own applications using the rich feature set that Twitch provides.
-- [Reddit](https://github.com/reddit/reddit/wiki/API) - API to build clients, crawlers, scrapers, and browser extensions. [![Open Source](https://github.com/Abhishaker17/Awesome-APIs/blob/master/OSS.svg)]
+- [Reddit](https://github.com/reddit/reddit/wiki/API) - API to build clients, crawlers, scrapers, and browser extensions. ![Open Source](https://raw.githubusercontent.com/Abhishaker17/Awesome-APIs/master/opensource.png?token=AH5Y2imVR5ukgG9533IEqXnP-RJWxVJQks5W4PuNwA%3D%3D "Open Source")
 - [Zomato](https://developers.zomato.com/api) - Zomato APIs give you access to the freshest and most exhaustive information for over 1.5 million restaurants across 10,000 cities globally.
 - [Delicious](https://delicious.com/developers) - Access to Delicious’s API.
 - [Vimeo](https://developer.vimeo.com/) - Access to Vimeo’s API.
 - [Daily Motion](https://developer.dailymotion.com/) - Build applications centered around DailyMotion.
-- [EventBrite](https://github.com/eventbrite/eventbrite-sdk-python) - The Eventbrite Python SDK makes it trivial to interact with the Eventbrite API. [![Open Source](https://github.com/Abhishaker17/Awesome-APIs/blob/master/OSS.svg)]
+- [EventBrite](https://github.com/eventbrite/eventbrite-sdk-python) - The Eventbrite Python SDK makes it trivial to interact with the Eventbrite API. ![Open Source](https://raw.githubusercontent.com/Abhishaker17/Awesome-APIs/master/opensource.png?token=AH5Y2imVR5ukgG9533IEqXnP-RJWxVJQks5W4PuNwA%3D%3D "Open Source")
 - [Wordpress](https://codex.wordpress.org/WordPress_APIs) - Access to Wordpress’ API.
 - [Imgur](https://api.imgur.com/) - Imgur's API exposes the entire Imgur infrastructure via a standardized programmatic interface. 
 
