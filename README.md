@@ -32,8 +32,8 @@ APIs
 
 ### Augmented Reality
 
-- [Wikitude](http://www.wikitude.com/download/) - Wikitude’s all-in-one AR solution includes image recognition & tracking, 3D model rendering, video overlay, location based AR. #Trial
-- [Vuforia](http://developer.vuforia.com/library/) - Solid SDK with robust development options. #Trial
+- [Wikitude](http://www.wikitude.com/download/) - Wikitude’s all-in-one AR solution includes image recognition & tracking, 3D model rendering, video overlay, location based AR. 💸
+- [Vuforia](http://developer.vuforia.com/library/) - Solid SDK with robust development options. 💸
 
 ### BarCode 
 
@@ -77,7 +77,7 @@ APIs
 - [Merriam-Webster Dictionary API](http://www.dictionaryapi.com/) - Gives developers access to a big ass resource of dictionary and thesaurus content as well as specialized medical, Spanish, ESL, and student-friendly vocabulary.
 - [Wordnik](http://developer.wordnik.com/docs.html#!/word) - Dictionary functions.
 - [Words API](https://www.wordsapi.com/) - Use it to find definitions for more than 150,000 words.
-- [Cambridge Dictionaries Online](http://dictionary.cambridge.org/license.html) - Access to Cambridge’s custom-developed API. #Trial
+- [Cambridge Dictionaries Online](http://dictionary.cambridge.org/license.html) - Access to Cambridge’s custom-developed API. 💸
 - [Glosbe API](https://glosbe.com/a-api) - Dictionary API and Translation Memory API description.
 - [DictService](http://services.aonaware.com/DictService/DictService.asmx) - This Web Service allows you to access dictionary definitions from the dict.org service.
 
@@ -102,10 +102,10 @@ APIs
 
 ### IoT 
 
-- [Zetta](http://www.zettajs.org/) - An open source platform built on Node.js for creating IoT servers that run across geo-distributed computers and the cloud.
+- [Zetta](http://www.zettajs.org/) - An open source platform built on Node.js for creating IoT servers that run across geo-distributed computers and the cloud. [![Open Source](https://github.com/Abhishaker17/Awesome-APIs/blob/master/OSS.svg)]
 - [Temboo SDK](https://www.temboo.com/download) - This platform acts as a layer on top of third-party APIs, using code snippets to trigger complex processes that run through their cloud platform.
 - [Xively](http://developer.xively.com/api/) - Uses free and open libraries to let you connect different types of hardware, using a variety of languages to their cloud service.
-- [ThingSpeak](https://github.com/iobridge/ThingSpeak) - “Internet of Things” application and API to store and retrieve data from things using HTTP over the Internet or via a Local Area Network. #OpenSource
+- [ThingSpeak](https://github.com/iobridge/ThingSpeak) - “Internet of Things” application and API to store and retrieve data from things using HTTP over the Internet or via a Local Area Network. 
 
 ### Login Authentication 
 
@@ -170,7 +170,7 @@ APIs
 
 ### Music Identification 
 
-- [Acoustid](https://acoustid.org/webservice) - Supports searching through their fingerprint database. #OpenSource 
+- [Acoustid](https://acoustid.org/webservice) - Supports searching through their fingerprint database. [![Open Source](https://github.com/Abhishaker17/Awesome-APIs/blob/master/OSS.svg)] 
 - [Gracenote](https://developer.gracenote.com/) - Largest source of music and video metadata on the planet.
 - [Echo Nest](http://developer.echonest.com/) - The Echo Nest API allows you to call methods that respond in JSON or XML.
 
@@ -190,7 +190,7 @@ APIs
 - [AlchemyAPI - IBM Company](http://www.alchemyapi.com/api) - Uses NLP and ML algorithms to extract semantic meta-data from content.
 - [Open Calais](http://www.opencalais.com/opencalais-api/) - Good entity extraction, no sentiment analysis.
 - [Semantria](https://www.lexalytics.com/) - SAAS API based on Lexalytics engine. #Paid
-- [Datum Box](http://www.datumbox.com/machine-learning-api/) - Datumbox offers a powerful open-source Machine Learning Framework written in Java. #OpenSource
+- [Datum Box](http://www.datumbox.com/machine-learning-api/) - Datumbox offers a powerful open-source Machine Learning Framework written in Java. [![Open Source](https://github.com/Abhishaker17/Awesome-APIs/blob/master/OSS.svg)]
 
 ### Placeholder Images 
 
@@ -233,12 +233,12 @@ latitude/longitude, and text search based upon categories, address, city, provin
 - [GoodReads](https://www.goodreads.com/api) - Allows developers access to Goodreads data in order to help websites or applications that deal with books.
 - [Telegram](https://core.telegram.org/) - The Telegram API allows you to build your own customized Telegram clients.
 - [Twitch](https://github.com/justintv/Twitch-API) - The Twitch API enables you to develop your own applications using the rich feature set that Twitch provides.
-- [Reddit](https://github.com/reddit/reddit/wiki/API) - API to build clients, crawlers, scrapers, and browser extensions. #OpenSource
+- [Reddit](https://github.com/reddit/reddit/wiki/API) - API to build clients, crawlers, scrapers, and browser extensions. [![Open Source](https://github.com/Abhishaker17/Awesome-APIs/blob/master/OSS.svg)]
 - [Zomato](https://developers.zomato.com/api) - Zomato APIs give you access to the freshest and most exhaustive information for over 1.5 million restaurants across 10,000 cities globally.
 - [Delicious](https://delicious.com/developers) - Access to Delicious’s API.
 - [Vimeo](https://developer.vimeo.com/) - Access to Vimeo’s API.
 - [Daily Motion](https://developer.dailymotion.com/) - Build applications centered around DailyMotion.
-- [EventBrite](https://github.com/eventbrite/eventbrite-sdk-python) - The Eventbrite Python SDK makes it trivial to interact with the Eventbrite API. #OpenSource
+- [EventBrite](https://github.com/eventbrite/eventbrite-sdk-python) - The Eventbrite Python SDK makes it trivial to interact with the Eventbrite API. [![Open Source](https://github.com/Abhishaker17/Awesome-APIs/blob/master/OSS.svg)]
 - [Wordpress](https://codex.wordpress.org/WordPress_APIs) - Access to Wordpress’ API.
 - [Imgur](https://api.imgur.com/) - Imgur's API exposes the entire Imgur infrastructure via a standardized programmatic interface. 
 
