@@ -310,3 +310,10 @@ latitude/longitude, and text search based upon categories, address, city, provin
 - [Music Machinery](http://musicmachinery.com/music-apis/)
 - [Computer Science Zone](http://www.computersciencezone.org/50-most-useful-apis-for-developers/)
 - [Louis Dorrad](http://www.louisdorard.com/blog/machine-learning-apis-comparison)
+
+# License
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
