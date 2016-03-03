@@ -40,6 +40,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 - [Source Control] (#source-control)
 - [URL Shorteners] (#url-shorteners)
 - [Weather] (#weather)
+- [More Resouces] (#more-resources)
 
 
 APIs
