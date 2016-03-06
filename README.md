@@ -41,6 +41,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 - [URL Shorteners] (#url-shorteners)
 - [Weather] (#weather)
 - [More Resouces] (#more-resources)
+- [Contribute] (#contribute)
 
 
 APIs
@@ -316,6 +317,10 @@ latitude/longitude, and text search based upon categories, address, city, provin
 
 - [Programmable Web](http://www.programmableweb.com/apis/directory)
 - [More Awesome APIs](https://github.com/Kikobeats/awesome-api)
+
+### Contributions
+
+Pull requests are welcome. Please adhere to the [guidelines](https://github.com/Abhishaker17/Awesome-APIs/blob/master/Contributing%20Guidelines.md).
 
 # License
 
