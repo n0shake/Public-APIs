@@ -317,6 +317,7 @@ latitude/longitude, and text search based upon categories, address, city, provin
 
 - [Programmable Web](http://www.programmableweb.com/apis/directory)
 - [More Awesome APIs](https://github.com/Kikobeats/awesome-api)
+- [APIs.guru](http://APIs.guru)
 
 ### Contributions
 
