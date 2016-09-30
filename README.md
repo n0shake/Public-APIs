@@ -231,6 +231,7 @@ APIs
 - [Open Calais](http://www.opencalais.com/opencalais-api/) - Good entity extraction, no sentiment analysis.
 - [Semantria](https://www.lexalytics.com/) - SAAS API based on Lexalytics engine. #Paid
 - [Datum Box](http://www.datumbox.com/machine-learning-api/) - Datumbox offers a powerful open-source Machine Learning Framework written in Java. ![Open Source](https://raw.githubusercontent.com/Abhishaker17/Awesome-APIs/master/opensource.png?token=AH5Y2imVR5ukgG9533IEqXnP-RJWxVJQks5W4PuNwA%3D%3D "Open Source")
+- [Wit AI](https://wit.ai/) - Provides an intent-based NLP API to easily build text and audio based chat bots. ![Open Source](https://raw.githubusercontent.com/Abhishaker17/Awesome-APIs/master/opensource.png?token=AH5Y2imVR5ukgG9533IEqXnP-RJWxVJQks5W4PuNwA%3D%3D "Open Source")
 
 ### Placeholder Images 
 
