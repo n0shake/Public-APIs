@@ -124,6 +124,7 @@ APIs
 ### Fitness
 
 - [FitBit](https://dev.fitbit.com/docs/) - Web API for accessing data from Fitbit activity trackers, Aria scale, and manually entered logs.
+- [Strava](https://strava.github.io/api/) - API for accessing and managing data about athletes, activities and segments.
 
 ### Google 
 
