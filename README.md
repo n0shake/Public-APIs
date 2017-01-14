@@ -285,6 +285,7 @@ latitude/longitude, and text search based upon categories, address, city, provin
 - [EventBrite](https://github.com/eventbrite/eventbrite-sdk-python) - The Eventbrite Python SDK makes it trivial to interact with the Eventbrite API. ![Open Source](https://raw.githubusercontent.com/Abhishaker17/Awesome-APIs/master/opensource.png?token=AH5Y2imVR5ukgG9533IEqXnP-RJWxVJQks5W4PuNwA%3D%3D "Open Source")
 - [Wordpress](https://codex.wordpress.org/WordPress_APIs) - Access to Wordpress’ API.
 - [Imgur](https://api.imgur.com/) - Imgur's API exposes the entire Imgur infrastructure via a standardized programmatic interface.
+- [NewsAPI](https://newsapi.org/) - 70+ news sources and their headlines, one API.
 
 ### Source Control
 - [GitHub](https://developer.github.com/v3/) - Build real-world GitHub applications right from authentication, to manipulating results, to combining results with other service.
