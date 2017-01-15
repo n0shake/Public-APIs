@@ -226,6 +226,10 @@ APIs
 - [iTunes Search](http://www.apple.com/itunes/affiliates/resources/documentation/itunes-store-web-service-search-api.html) - The Search API allows you to place search fields in your website to search for content within the iTunes Store, App Store, iBooks Store and Mac App Store.
 - [Reverb](https://dev.reverb.com/) - Sell and buy music related merchandise.
 
+### News
+
+- [NewsAPI](https://newsapi.org/) - 70+ news sources and their headlines, one API.
+
 ### Natural Language Processing
 
 - [TextRazor](https://www.textrazor.com/plans) - Helps you extract and understand the Who, What, Why, and How from your supplied text. #FreeToUse
@@ -285,7 +289,6 @@ latitude/longitude, and text search based upon categories, address, city, provin
 - [EventBrite](https://github.com/eventbrite/eventbrite-sdk-python) - The Eventbrite Python SDK makes it trivial to interact with the Eventbrite API. ![Open Source](https://raw.githubusercontent.com/Abhishaker17/Awesome-APIs/master/opensource.png?token=AH5Y2imVR5ukgG9533IEqXnP-RJWxVJQks5W4PuNwA%3D%3D "Open Source")
 - [Wordpress](https://codex.wordpress.org/WordPress_APIs) - Access to Wordpress’ API.
 - [Imgur](https://api.imgur.com/) - Imgur's API exposes the entire Imgur infrastructure via a standardized programmatic interface.
-- [NewsAPI](https://newsapi.org/) - 70+ news sources and their headlines, one API.
 
 ### Source Control
 - [GitHub](https://developer.github.com/v3/) - Build real-world GitHub applications right from authentication, to manipulating results, to combining results with other service.
