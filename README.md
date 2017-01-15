@@ -198,7 +198,6 @@ APIs
 
 ### Music Analytics
 
-- [MusicMetric](http://developer.musicmetric.com/) - Provides summaries, time series data, geographic data, demographic data, along with Sentiment analysis service for text.
 - [Next Big Sound](https://api3.nextbigsound.com/) - API offers a very simple interface to access data from NBS. Ruby wrapper available.
 
 ### Music Discovery
