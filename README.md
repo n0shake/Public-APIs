@@ -34,10 +34,12 @@ This is an attempt to categorise different APIs scoured from the web which make 
     - [Music Lyrics] (#music-lyrics)
     - [Music Store] (#music-stores)
 - [Natural Language Processing] (#natural-language-processing)
+- [News](#news-services)
 - [Placeholder Images] (#placeholder-images)
 - [Places] (#places)
 - [Social Media] (#social-media)
 - [Source Control] (#source-control)
+- [Transportation] 
 - [URL Shorteners] (#url-shorteners)
 - [Weather] (#weather)
 - [More Resouces] (#more-resources)
@@ -226,6 +228,10 @@ APIs
 - [iTunes Search](http://www.apple.com/itunes/affiliates/resources/documentation/itunes-store-web-service-search-api.html) - The Search API allows you to place search fields in your website to search for content within the iTunes Store, App Store, iBooks Store and Mac App Store.
 - [Reverb](https://dev.reverb.com/) - Sell and buy music related merchandise.
 
+### News Services
+
+- [NewsAPI](https://newsapi.org/) - 70+ news sources and their headlines, one API.
+
 ### Natural Language Processing
 
 - [TextRazor](https://www.textrazor.com/plans) - Helps you extract and understand the Who, What, Why, and How from your supplied text. #FreeToUse
@@ -292,6 +298,10 @@ latitude/longitude, and text search based upon categories, address, city, provin
 - [SVN](https://subversion.apache.org/docs/api/1.8/) - Collection of modular libraries written in the C programming language.
 - [Mercurial](https://www.mercurial-scm.org/wiki/MercurialApi) - Access to Mercurial’s API.
 - [Team Foundation Server](https://www.visualstudio.com/en-us/integrate/api/overview) - TFS APIs are based on REST, OAuth, Json and service hooks.
+
+### Transportation 
+
+- [Edmunds](http://developer.edmunds.com/) - A dataset containing all the car makes.
 
 ### URL Shorteners
 
