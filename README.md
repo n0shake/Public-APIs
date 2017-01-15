@@ -226,7 +226,7 @@ APIs
 - [iTunes Search](http://www.apple.com/itunes/affiliates/resources/documentation/itunes-store-web-service-search-api.html) - The Search API allows you to place search fields in your website to search for content within the iTunes Store, App Store, iBooks Store and Mac App Store.
 - [Reverb](https://dev.reverb.com/) - Sell and buy music related merchandise.
 
-### News
+### News Services
 
 - [NewsAPI](https://newsapi.org/) - 70+ news sources and their headlines, one API.
 
