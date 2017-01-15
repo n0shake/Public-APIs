@@ -40,7 +40,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 - [Places] (#places)
 - [Social Media] (#social-media)
 - [Source Control] (#source-control)
-- [Transportation] 
+- [Transportation] (#transportation)
 - [URL Shorteners] (#url-shorteners)
 - [Weather] (#weather)
 - [More Resouces] (#more-resources)
@@ -309,10 +309,6 @@ latitude/longitude, and text search based upon categories, address, city, provin
 - [Uber](https://developer.uber.com/) - Uber provides API for customizing trip experiences, requesting rides, powering logistics, creating bots and so much more.
 - [Lyft](https://www.lyft.com/developers) - Get real-time ETAs, availability, price estimates, ride status through the Lyft API.
 - [Moovit](https://www.developers.moovitapp.com/) - Connect users from your app to the Moovit app with a specific action through deeplinks.
-
-
-### Transportation 
-
 - [Edmunds](http://developer.edmunds.com/) - A dataset containing all the car makes.
 
 ### URL Shorteners
