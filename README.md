@@ -24,6 +24,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 - [File Storage and Manipulation] (#file-storage-and-manipulation)
 - [Fitness] (#fitness)
 - [Google] (#google)
+- [Image Moderation] (#image-moderation)
 - [IoT] (#iot)
 - [Login and Authentication] (#login-authentication)
 - [Machine Learning] (#machine-learning)
@@ -151,6 +152,10 @@ APIs
 - [Google Classroom API](https://developers.google.com/classroom/?hl=en) - The Google Classroom API. *v1*
 - [The Google Fonts Developer API.](https://developers.google.com/fonts/?hl=en) - The Google Fonts API helps you add fonts to any web page. *v1*
 - [Google Identity Toolkit API.](https://developers.google.com/identity/) - Help the third party sites to implement federated login. *v1*
+
+### Image Moderation
+
+- [WebPurify](https://www.webpurify.com/image-moderation/) - Provides live image moderation by humans. Free for first 100 images. 2¢ per image after. 💸
 
 ### IoT
 
