@@ -152,6 +152,7 @@ APIs
 - [Temboo SDK](https://www.temboo.com/download) - This platform acts as a layer on top of third-party APIs, using code snippets to trigger complex processes that run through their cloud platform.
 - [Xively](http://developer.xively.com/api/) - Uses free and open libraries to let you connect different types of hardware, using a variety of languages to their cloud service.
 - [ThingSpeak](https://github.com/iobridge/ThingSpeak) - “Internet of Things” application and API to store and retrieve data from things using HTTP over the Internet or via a Local Area Network.
+- [Particle](https://docs.particle.io/reference/api/) - API to manage Particle devices (including their own Arduino-compatible ones and the Raspberry Pi) and control them. Free for up to 25 devices and 250k events/month.
 
 ### Login Authentication
 
