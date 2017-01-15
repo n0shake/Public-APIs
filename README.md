@@ -291,7 +291,7 @@ latitude/longitude, and text search based upon categories, address, city, provin
 - [SVN](https://subversion.apache.org/docs/api/1.8/) - Collection of modular libraries written in the C programming language.
 - [Mercurial](https://www.mercurial-scm.org/wiki/MercurialApi) - Access to Mercurial’s API.
 - [Team Foundation Server](https://www.visualstudio.com/en-us/integrate/api/overview) - TFS APIs are based on REST, OAuth, Json and service hooks.
-- [Bitbucket](https://developer.atlassian.com/bitbucket/api/2/reference/) - Access to Bitbucket's API
+- [Bitbucket](https://developer.atlassian.com/bitbucket/api/2/reference/) - Access to Bitbucket's API.
 
 ### URL Shorteners
 
