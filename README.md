@@ -20,6 +20,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 - [Check In] (#check-in)
 - [Data Science] (#data-science)
 - [Dictionary] (#dictionary)
+- [File Storage and Manipulation] (#file-storage-and-manipulation)
 - [Fitness] (#fitness)
 - [Google] (#google)
 - [IoT] (#iot)
@@ -51,11 +52,9 @@ APIs
 
 ### Advertising
 
-- [Apple iAd](https://developer.apple.com/iad/) - Generate advertising revenue from your iOS app using iAd API.
 - [Google AdSense](https://developers.google.com/adsense/?hl=en) - Free, flexible way to earn money from your websites, mobile sites, and site search results.
 - [Amazon Mobile Ads ](https://developer.amazon.com/public/apis/earn/mobile-ads) - Monetize across platforms with multiple ad formats.
 - [Facebook Marketing API](https://developers.facebook.com/docs/marketing-apis) - Manage ads and campaigns using the Facebook API.
-- [Roblox AdService](http://wiki.roblox.com/index.php?title=Mobile_Video_Ads) - Show video ads to mobile ROBLOX users in-game for another source of revenue for developers.
 
 ### Analytics
 
@@ -123,6 +122,12 @@ APIs
 - [Glosbe API](https://glosbe.com/a-api) - Dictionary API and Translation Memory API description.
 - [DictService](http://services.aonaware.com/DictService/DictService.asmx) - This Web Service allows you to access dictionary definitions from the dict.org service.
 
+### File Storage and Manipulation
+- [Dropbox] (https://www.dropbox.com/developers) - API for accessing stored files and pictures which is easy to use and free for small amounts of data.
+- [Amazon S3] (https://aws.amazon.com/de/documentation/s3/) - API that provides access to stored files and can be added easily to any service - and it's free for twelve months.
+- [Cloudinary] (http://cloudinary.com/documentation) - API for image and video storage and manipulation - free for up to 75,000 images and 7,500 manipulations per month, good documentation, it can also manipulate GIFs and PDFs.
+- [Filestack] (https://filestack.com/docs/getting-started) - API for image and file manipulation, 250 uploads and 500 uploads per month for free, free CDN, HTML widget.
+
 ### Fitness
 
 - [FitBit](https://dev.fitbit.com/docs/) - Web API for accessing data from Fitbit activity trackers, Aria scale, and manually entered logs.
@@ -149,6 +154,7 @@ APIs
 - [Temboo SDK](https://www.temboo.com/download) - This platform acts as a layer on top of third-party APIs, using code snippets to trigger complex processes that run through their cloud platform.
 - [Xively](http://developer.xively.com/api/) - Uses free and open libraries to let you connect different types of hardware, using a variety of languages to their cloud service.
 - [ThingSpeak](https://github.com/iobridge/ThingSpeak) - “Internet of Things” application and API to store and retrieve data from things using HTTP over the Internet or via a Local Area Network.
+- [Particle](https://docs.particle.io/reference/api/) - API to manage Particle devices (including their own Arduino-compatible ones and the Raspberry Pi) and control them. Free for up to 25 devices and 250k events/month.
 
 ### Login Authentication
 
@@ -202,7 +208,6 @@ APIs
 
 ### Music Analytics
 
-- [MusicMetric](http://developer.musicmetric.com/) - Provides summaries, time series data, geographic data, demographic data, along with Sentiment analysis service for text.
 - [Next Big Sound](https://api3.nextbigsound.com/) - API offers a very simple interface to access data from NBS. Ruby wrapper available.
 
 ### Music Discovery
@@ -298,6 +303,13 @@ latitude/longitude, and text search based upon categories, address, city, provin
 - [SVN](https://subversion.apache.org/docs/api/1.8/) - Collection of modular libraries written in the C programming language.
 - [Mercurial](https://www.mercurial-scm.org/wiki/MercurialApi) - Access to Mercurial’s API.
 - [Team Foundation Server](https://www.visualstudio.com/en-us/integrate/api/overview) - TFS APIs are based on REST, OAuth, Json and service hooks.
+- [Bitbucket](https://developer.atlassian.com/bitbucket/api/2/reference/) - Access to Bitbucket's API.
+
+### Transportation
+- [Uber](https://developer.uber.com/) - Uber provides API for customizing trip experiences, requesting rides, powering logistics, creating bots and so much more.
+- [Lyft](https://www.lyft.com/developers) - Get real-time ETAs, availability, price estimates, ride status through the Lyft API.
+- [Moovit](https://www.developers.moovitapp.com/) - Connect users from your app to the Moovit app with a specific action through deeplinks.
+
 
 ### Transportation 
 
