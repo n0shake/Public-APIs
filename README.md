@@ -52,7 +52,6 @@ APIs
 - [Google AdSense](https://developers.google.com/adsense/?hl=en) - Free, flexible way to earn money from your websites, mobile sites, and site search results.
 - [Amazon Mobile Ads ](https://developer.amazon.com/public/apis/earn/mobile-ads) - Monetize across platforms with multiple ad formats.
 - [Facebook Marketing API](https://developers.facebook.com/docs/marketing-apis) - Manage ads and campaigns using the Facebook API.
-- [Roblox AdService](http://wiki.roblox.com/index.php?title=Mobile_Video_Ads) - Show video ads to mobile ROBLOX users in-game for another source of revenue for developers.
 
 ### Analytics
 
