@@ -21,6 +21,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 - [Data Science] (#data-science)
 - [Dictionary] (#dictionary)
 - [Fitness] (#fitness)
+- [File Storage and Manipulation] (#file-storage-and-manipulation)
 - [Google] (#google)
 - [IoT] (#iot)
 - [Login and Authentication] (#login-authentication)
@@ -118,6 +119,12 @@ APIs
 - [Cambridge Dictionaries Online](http://dictionary.cambridge.org/license.html) - Access to Cambridge’s custom-developed API. 💸
 - [Glosbe API](https://glosbe.com/a-api) - Dictionary API and Translation Memory API description.
 - [DictService](http://services.aonaware.com/DictService/DictService.asmx) - This Web Service allows you to access dictionary definitions from the dict.org service.
+
+### File Storage and Manipulation
+- [Dropbox] (https://www.dropbox.com/developers) - API for accessing stored files and pictures which is easy to use and free for small amounts of data.
+- [Amazon S3] (https://aws.amazon.com/de/documentation/s3/) - API that provides access to stored files and can be added easily to any service - and it's free for twelve months.
+- [Cloudinary] (http://cloudinary.com/documentation) - API for image and video storage and manipulation - free for up to 75,000 images and 7,500 manipulations per month, good documentation, it can also manipulate GIFs and PDFs.
+- [Filestack] (https://filestack.com/docs/getting-started) - API for image and file manipulation, 250 uploads and 500 uploads per month for free, free CDN, HTML widget.
 
 ### Fitness
 
