@@ -104,6 +104,7 @@ APIs
 ### Captcha
 - [Google reCAPTCHA](https://developers.google.com/recaptcha/intro?hl=en) - ReCAPTCHA lets you embed a CAPTCHA in your web pages in order to protect them against spam and other types of automated abuse.
 - [Anti-Captcha](https://anti-captcha.com/apidoc) - Access to Anti-Captcha’s API.
+- [Naver Captcha](https://developers.naver.com/products/captcha) - Access to Naver’s Captcha API.
 
 ### Check-In
 - [Facebook Check-In](https://developers.facebook.com/docs/graph-api/reference/v2.3/checkin) - A check-in made to a location-based Page.
@@ -176,6 +177,8 @@ APIs
 - [PayPal](https://developer.paypal.com/docs/integration/direct/identity/log-in-with-paypal/) - Enables your customers to sign in to your web site quickly and securely using their PayPal login credentials. 
 - [Salesforce](https://developer.salesforce.com/docs/atlas.en-us.api_rest.meta/api_rest/intro_understanding_authentication.htm) - Salesforce uses the OAuth protocol to allow users of applications to securely access data without having to reveal username and password credentials.
 - [Firebase](https://firebase.google.com/docs/reference/) - Authentication, analytics, cloud messaging, crash reporting, ads and more.  
+- [Naver Login for Apps](https://developers.naver.com/products/login/api) - Access to Naver’s Authentication API.
+- [Kakao Login for Apps](https://developers.kakao.com/features/platform) - Access to Kakao’s Authentication API.
 
 
 ### Machine Learning
@@ -197,6 +200,9 @@ APIs
 - [Amazon Maps API v2](https://developer.amazon.com/public/apis/experience/maps) - Add interactive 3D maps, graphics, and custom overlays to your Fire Tablet and Fire phone apps.
 - [Yandex](https://tech.yandex.com/maps/) - API for installing Yandex.Maps and the necessary tools for working it on your web app or site.
 - [Scribble](https://www.scribblemaps.com/api/) - The Scribble Maps API is a cross browser, mobile ready, HTML5/JavaScript, interactive map builder.
+- [Naver Maps API](https://developers.naver.com/products/map) - Naver Maps provide multiple APIs for Korean map.
+- [Daum Maps API](http://apis.map.daum.net/) - Daum Maps provide multiple APIs for Korean map.
+
 
 ### Miscellaneous
 
@@ -305,6 +311,7 @@ latitude/longitude, and text search based upon categories, address, city, provin
 - [EventBrite](https://github.com/eventbrite/eventbrite-sdk-python) - The Eventbrite Python SDK makes it trivial to interact with the Eventbrite API. ![Open Source](https://raw.githubusercontent.com/Abhishaker17/Awesome-APIs/master/opensource.png?token=AH5Y2imVR5ukgG9533IEqXnP-RJWxVJQks5W4PuNwA%3D%3D "Open Source")
 - [Wordpress](https://codex.wordpress.org/WordPress_APIs) - Access to Wordpress’ API.
 - [Imgur](https://api.imgur.com/) - Imgur's API exposes the entire Imgur infrastructure via a standardized programmatic interface.
+- [Kakao](https://developers.kakao.com/features/kakao) - Access to Kakao’s APIs.
 
 ### Source Control
 - [GitHub](https://developer.github.com/v3/) - Build real-world GitHub applications right from authentication, to manipulating results, to combining results with other service.
@@ -328,6 +335,7 @@ latitude/longitude, and text search based upon categories, address, city, provin
 - [Po.st](http://support.po.st/hc/en-us/articles/200328516-Po-st-REST-API) - Shorten URLs, Expand shortened URLs, see statistics etc.
 - [Readability](https://www.readability.com/developers/api/shortener) - Shorten long URLs and deliver a great reading view with a single, unique URL using the Shortener API.
 - [Anon.click](https://anon.click/api/) - Shorten long URLs and optionally protect them with passwords or captcha. No registration required.
+- [Naver URL Shortener](https://developers.naver.com/products/shortenurl) - Access to Naver’s shorten url API.
 
 ### Weather
 
