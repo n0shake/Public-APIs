@@ -15,7 +15,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 - [Augmented Reality] (#augmented-reality)
 - [Bar Code] (#barcode)
 - [Big Data and Analytics] (#big-data-and-analytics)
-- [Bitcoin] (#bitcoin/bitcoin-wallets)
+- [Bitcoin] (#bitcoinbitcoin-wallets)
 - [Captcha] (#captcha)
 - [Check In] (#check-in)
 - [Content] (#content)
