@@ -312,7 +312,7 @@ latitude/longitude, and text search based upon categories, address, city, provin
 - [Wordpress](https://codex.wordpress.org/WordPress_APIs) - Access to Wordpress’ API.
 - [Imgur](https://api.imgur.com/) - Imgur's API exposes the entire Imgur infrastructure via a standardized programmatic interface.
 - [Kakao](https://developers.kakao.com/features/kakao) - Access to Kakao’s APIs.
-- [Path](https://path.com/developers) - Access to Path’s APIs.
+- [Path](https://path.com/developers) - Path is a simple and beautiful space to capture and share everyday moments of your life with people who matter most to you.
 
 ### Source Control
 - [GitHub](https://developer.github.com/v3/) - Build real-world GitHub applications right from authentication, to manipulating results, to combining results with other service.
