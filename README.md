@@ -63,6 +63,7 @@ APIs
 - [Clicky](https://clicky.com/help/api) - Allows you to extract your web site's traffic data into several formats, making it easy to integrate, analyze, or store your data within your own application.
 - [Woopra](https://www.woopra.com/docs/developer/analytics-api/) - Real-time website analysis tool that targets customer engagement.
 - [MixPanel](https://mixpanel.com/help/reference) - Analytics for mobile and web which helps you analyze the actions people take in your application.
+- [Countly](http://resources.count.ly/reference) - Self-hosted or private cloud mobile, web and desktop analytics. ![Open Source](https://raw.githubusercontent.com/Abhishaker17/Awesome-APIs/master/opensource.png?token=AH5Y2imVR5ukgG9533IEqXnP-RJWxVJQks5W4PuNwA%3D%3D "Open Source")
 - [IBM Digital Analytics](http://www.scl.com/using-the-ibm-digital-analytics-api-to-get-real-time-data/) - Web Analytics tool often used by e-commerce websites.
 - [Open Web Analytics](http://wiki.openwebanalytics.com/index.php?title=Data_Access_API) - Provides a way to request and work with your data outside of the OWA reporting interface.
 - [Google Analytics](https://developers.google.com/analytics/?hl=en) - Google Analytics provides APIs to collect, configure, and report on user-interactions with your online content.
