@@ -140,7 +140,7 @@ APIs
 
 ### Face Recognition
 
-- [Kairos](https://www.kairos.com/) - Face recognition, emotion analysis and measuring engagement of people in images or videos any mobile or web application. 30 Day Trial 💸
+- [Kairos](https://www.kairos.com/) - Face recognition, emotion analysis and measuring engagement of people in images or videos for any mobile or web application. 30 Day Trial 💸
 
 ### File Storage and Manipulation
 - [Dropbox] (https://www.dropbox.com/developers) - API for accessing stored files and pictures which is easy to use and free for small amounts of data.
