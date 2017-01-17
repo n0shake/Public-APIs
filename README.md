@@ -32,6 +32,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 - [Machine Learning] (#machine-learning)
 - [Maps] (#maps)
 - [Miscellaneous] (#miscellaneous)
+- [Movies] (#movies)
 - [Music] (#music)
 	- [Music Analytics] (#music-analytics)
 	- [Music Discovery] (#music-discovery)
@@ -229,6 +230,10 @@ APIs
 - [QuantOneMusic](http://quantonemusic.com/) - Answers the need for digital music data.
 - [WolframAlpha](http://products.wolframalpha.com/api/) - Integrate top of the line computational knowledge into your applications through the WolframAlpha API. 💸
 - [RestCountries](https://restcountries.eu) - Get information about countries via a RESTful API. ![Open Source](https://raw.githubusercontent.com/Abhishaker17/Awesome-APIs/master/opensource.png?token=AH5Y2imVR5ukgG9533IEqXnP-RJWxVJQks5W4PuNwA%3D%3D "Open Source")
+
+### Movies
+
+- [OMDB](https://www.omdbapi.com/) - The OMDb API is a free web service to obtain movie information. ![Open Source](https://raw.githubusercontent.com/Abhishaker17/Awesome-APIs/master/opensource.png?token=AH5Y2imVR5ukgG9533IEqXnP-RJWxVJQks5W4PuNwA%3D%3D "Open Source")
 
 ### Music
 
