@@ -376,6 +376,11 @@ latitude/longitude, and text search based upon categories, address, city, provin
 - [Computer Science Zone](http://www.computersciencezone.org/50-most-useful-apis-for-developers/)
 - [Louis Dorrad](http://www.louisdorard.com/blog/machine-learning-apis-comparison)
 
+### Resources For Design and Discovery of APIs
+- [Swagger](http://swagger.io/) - Tools for designing, building, and documenting RESTful APIs. ![Open Source](https://raw.githubusercontent.com/Abhishaker17/Awesome-APIs/master/opensource.png?token=AH5Y2imVR5ukgG9533IEqXnP-RJWxVJQks5W4PuNwA%3D%3D "Open Source")
+- [OpenAPI](https://www.openapis.org) - Standard, language-agnostic interface to REST APIs (based on [Swagger](http://swagger.io/)). ![Open Source](https://raw.githubusercontent.com/Abhishaker17/Awesome-APIs/master/opensource.png?token=AH5Y2imVR5ukgG9533IEqXnP-RJWxVJQks5W4PuNwA%3D%3D "Open Source")
+- [Apiary](https://apiary.io/) - Collaborative tool to design APIs. 💸
+
 ### More Resources
 
 - [Programmable Web](https://www.programmableweb.com/apis/directory)
