@@ -236,6 +236,7 @@ APIs
 - [Last.fm](http://www.last.fm/api) -  The Last.fm API allows anyone to build their own programs using Last.fm data, whether they're on the web, the desktop or mobile devices.
 - [Sound Cloud](https://developers.soundcloud.com/docs/api/guide) - Using the SoundCloud API, you can build applications that take sound on the web to the next level.
 - [Rhapsody](https://developer.rhapsody.com/) - Access metadata, user’s entire library of music and do much more.
+- [MusicGraph](https://developer.musicgraph.com) - Search through more than 7 billion music facts and connections.
 
 ### Music Analytics
 
