@@ -134,7 +134,7 @@ APIs
 - [Pearson Dictionaries API](http://developer.pearson.com/apis/dictionaries) - (*BETA*) Gives access to a very large database of words and phrases with through explanations - free usage for up to 4 million calls/month.
 
 ### Entertainment
-- [Marvel](https://developer.marvel.com/) - Access over 70 years worth of comic data with Marvel's official developer API. ![Open Source](https://raw.githubusercontent.com/Abhishaker17/Awesome-APIs/master/opensource.png?token=AH5Y2imVR5ukgG9533IEqXnP-RJWxVJQks5W4PuNwA%3D%3D "Open Source")
+- [Marvel](https://developer.marvel.com/) - Access over 70 years worth of comic data with Marvel's official developer API.
 
 ### File Storage and Manipulation
 - [Dropbox] (https://www.dropbox.com/developers) - API for accessing stored files and pictures which is easy to use and free for small amounts of data.
