@@ -132,7 +132,7 @@ APIs
 - [DictService](http://services.aonaware.com/DictService/DictService.asmx) - This Web Service allows you to access dictionary definitions from the dict.org service.
 
 ### Entertainment
-- [Marvel](https://developer.marvel.com/) - Access over 70 years worth of comic data with Marvel's official developer API.
+- [Marvel](https://developer.marvel.com/) - Access over 70 years of comic data with Marvel's official developer API.
 
 ### File Storage and Manipulation
 - [Dropbox] (https://www.dropbox.com/developers) - API for accessing stored files and pictures which is easy to use and free for small amounts of data.
