@@ -70,7 +70,7 @@ APIs
 - [Google Analytics](https://developers.google.com/analytics/?hl=en) - Google Analytics provides APIs to collect, configure, and report on user-interactions with your online content.
 - [Amazon Mobile Analytics](https://aws.amazon.com/documentation/mobileanalytics/) - Service for collecting, visualizing, and understanding app usage data at scale.
 - [Flurry](https://developer.yahoo.com/flurry/docs/api/) - Yahoo’s Flurry provides you with a number of APIs enabling you to export your data.
-- [Parse](https://parseplatform.github.io//docs/rest/guide) - Download recent data to run your own custom analytics.
+- [Parse](http://parseplatform.github.io/docs/rest/guide/) - Download recent data to run your own custom analytics.
 - [Chartie](http://www.chartie.io/docs.php) - Free web API that mines the relevant trend patterns from your signal.
 - [Zoho Reports API](https://zohoreportsapi.wiki.zoho.com/) - Build powerful reporting and analytical capabilities into your application.
 - [Localytics](http://docs.localytics.com/dev/query-api.html#query-api) - Interface to Localytics analytics platform.
@@ -78,7 +78,7 @@ APIs
 ### Augmented Reality
 
 - [Wikitude](http://www.wikitude.com/download/) - Wikitude’s all-in-one AR solution includes image recognition & tracking, 3D model rendering, video overlay, location based AR. 💸
-- [Vuforia](https://developer.vuforia.com/library/) - Solid SDK with robust development options. 💸
+- [Vuforia](https://library.vuforia.com/) - Solid SDK with robust development options. 💸
 
 ### BarCode
 
@@ -150,7 +150,7 @@ APIs
 - [Google CustomSearch API](https://developers.google.com/custom-search/json-api/v1/overview) - Lets you search over a website or collection of websites. *v1*
 - [Google Drive API](https://developers.google.com/drive/v2/reference/) - The API to interact with Google Drive. *v3*
 - [Google Fitness API](https://developers.google.com/fit/?hl=en) - The Fit API. *v1*
-- [Google Geonomics API](https://cloud.google.com/genomics/reference/rest) - Provides access to Genomics data. *v1beta2*
+- [Google Geonomics API](https://cloud.google.com/genomics/reference/rest/) - Provides access to Genomics data. *v1beta2*
 - [Gmail API](https://developers.google.com/gmail/api/?hl=en) - The Gmail REST API. *v1*
 - [Google Classroom API](https://developers.google.com/classroom/?hl=en) - The Google Classroom API. *v1*
 - [The Google Fonts Developer API.](https://developers.google.com/fonts/?hl=en) - The Google Fonts API helps you add fonts to any web page. *v1*
@@ -189,17 +189,17 @@ APIs
 - [Microsoft Azure Machine Learning API](https://azure.microsoft.com/en-us/services/cognitive-services/) - Helps data scientists publish in minutes which once used to take days after they had developed a feasible model.
 - [Google Prediction API](https://cloud.google.com/prediction/docs) - Cloud-based machine learning and pattern matching tool.
 - [Amazon MI API](http://docs.aws.amazon.com/machine-learning/latest/APIReference/Welcome.html) - Amazon Machine Learning API simplifies the process of making predictions that require lots of expertise around model building, data cleansing and statistical analysis.
-- [Big ML](https://bigml.com/developers/) - BigML is user-friendly and developer-friendly Machine learning API that mainly concentrates on decision trees.
+- [Big ML](http://bigml.com/api/) - BigML is user-friendly and developer-friendly Machine learning API that mainly concentrates on decision trees.
 
 ### Maps
 
 - [Google Maps API](https://developers.google.com/maps/?hl=en) - Google Maps APIs are available for Android, iOS, web browsers and through HTTP web services. [Clients can be found here.](https://github.com/googlemaps/)
 - [Yahoo Maps](https://developer.yahoo.com/maps/) - Yahoo Maps lets you easily embed rich and interactive maps using your choice of platform.
 - [Mapbox](https://www.mapbox.com/developers/api/maps/) - Access to MapBox’s API.
-- [CartoDB](http://docs.cartodb.com/cartodb-platform/maps-api/) - Allows you to generate maps based on data hosted in your CartoDB account.
+- [CartoDB](http://docs.carto.com/cartodb-platform/maps-api/) - Allows you to generate maps based on data hosted in your CartoDB account.
 - [Bing Maps](https://www.microsoft.com/maps/choose-your-bing-maps-API.aspx) - Bing Maps platform provides multiple API options for your application.
-- [DigitalGlobe](http://developer.digitalglobe.com/maps-api/) - DigitalGlobe Maps API delivers the world's best satellite imagery, straight to your app. #Beta
-- [Amazon Maps API v2](https://developer.amazon.com/public/apis/experience/maps) - Add interactive 3D maps, graphics, and custom overlays to your Fire Tablet and Fire phone apps.
+- [DigitalGlobe](http://dgdev2016.wpengine.com/maps-api/) - DigitalGlobe Maps API delivers the world's best satellite imagery, straight to your app. #Beta
+- [Amazon Maps API v2](https://developer.amazon.com/maps) - Add interactive 3D maps, graphics, and custom overlays to your Fire Tablet and Fire phone apps.
 - [Yandex](https://tech.yandex.com/maps/) - API for installing Yandex.Maps and the necessary tools for working it on your web app or site.
 - [Scribble](https://www.scribblemaps.com/api/) - The Scribble Maps API is a cross browser, mobile ready, HTML5/JavaScript, interactive map builder.
 - [Naver Maps API](https://developers.naver.com/products/map) - Naver Maps provide multiple APIs for Korean map.
@@ -210,7 +210,7 @@ APIs
 
 - [BBC](http://www.bbc.co.uk/developer/technology/apis.html) - Variety of BBC APIs with access to interesting data from Radio Labs, programs played on BBC and linking data around the artist played on BBC.
 - [MuseScore](http://developers.musescore.com/) - REST based API which provides music metadata.
-- [Spreaker](http://developers.spreaker.com/) - Enables developers to read and write data to Spreaker.
+- [Spreaker](https://developers.spreaker.com/) - Enables developers to read and write data to Spreaker.
 - [MixRadio](http://dev.mixrad.io/doc/) - Provides a set of web APIs and native platform SDKs built around their music catalogues.
 - [FreeDB](http://www.freedb.org/) - Look up CD information using the freed database.
 - [QuantOneMusic](http://quantonemusic.com/) - Answers the need for digital music data.
@@ -247,7 +247,7 @@ APIs
 
 ### Music Stores
 
-- [iTunes Search](http://www.apple.com/itunes/affiliates/resources/documentation/itunes-store-web-service-search-api.html) - The Search API allows you to place search fields in your website to search for content within the iTunes Store, App Store, iBooks Store and Mac App Store.
+- [iTunes Search](https://affiliate.itunes.apple.com/resources/documentation/itunes-store-web-service-search-api.html) - The Search API allows you to place search fields in your website to search for content within the iTunes Store, App Store, iBooks Store and Mac App Store.
 - [Reverb](https://dev.reverb.com/) - Sell and buy music related merchandise.
 
 ### News Services
@@ -268,7 +268,7 @@ APIs
 - [PlaceKitten](https://placekitten.com/) - A quick and simple service for getting pictures of kittens for use as placeholders in your designs or code.  
 - [Placehold](https://placehold.it/) - A quick and simple image placeholder service.
 - [Lorem Pixel](http://lorempixel.com/) - Placeholder images for every case.
-- [DummyImage](http://dummyimage.com/) - Particularly nice, when compared to some of its competitors, in that it offers a great deal of flexibility.
+- [DummyImage](https://dummyimage.com/) - Particularly nice, when compared to some of its competitors, in that it offers a great deal of flexibility.
 - [Unsplash](https://unsplash.it/) - Beautiful placeholders using images from the popular [Unsplash](https://unsplash.com/)
 
 ### Places
@@ -278,18 +278,18 @@ APIs
 - [Foursquare Venue](https://developer.foursquare.com/overview/venues) - Providing a places search that can be searched by  hierarchical list of categories, longitude/latitude etc.
 - [Fwix](http://fwix.com/developer_tools/api) - Providing a places search that can be searched by
 latitude/longitude, and text search based upon categories, address, city, province, postal code, country etc
-- [Google Places API](http://code.google.com/apis/maps/documentation/places/) - Providing a places search that can be searched by latitude/longitude, keyword matched against all fields, name of place, type of place restricted by radius.
-- [Nokia](https://developer.here.com/javascript-apis) - Providing a JavaScript places search that can be searched by search term, with a detail search for display by JS widget.
+- [Google Places API](http://developers.google.com/maps/documentation/places/?csw=1) - Providing a places search that can be searched by latitude/longitude, keyword matched against all fields, name of place, type of place restricted by radius.
+- [Nokia](https://developer.here.com/develop/javascript-api) - Providing a JavaScript places search that can be searched by search term, with a detail search for display by JS widget.
 - [Yahoo GeoPlanet](https://developer.yahoo.com/geo/geoplanet/) - Providing a places search that can be searched by type, county, state, country, oceans, seas, continents, hierarchy and full text search.
 - [Yelp](https://www.yelp.com/developers/documentation/v2/overview) - You can search location using geo bounding box, longitude and latitude, neighborhood, address or city and filter listings by “where”, using a list of support categories.
 - [YP](https://publisher.yp.com/) - Providing a places search that can be queried by keyword and longitude/latitude, street address, city, postal code, Neighborhood, state, points of interest or by phone number.
 
 ### Social Media
 
-- [Instagram](http://instagram.com/developer/) - Search photos by location, user, tags, view trending photos, and make custom items.
+- [Instagram](https://www.instagram.com/developer/) - Search photos by location, user, tags, view trending photos, and make custom items.
 - [Flickr](https://www.flickr.com/services/api/) - Search through user Flickr content, contacts, upload or replace photos.
-- [Google+](https://developers.google.com/+/api/) - Enables apps to login to Google+ view connections, groups, posts, and contact information.
-- [LinkedIn](http://developer.linkedin.com/apis) - Enables apps to connect to user accounts, data, connections,groups, communications, and social streams.
+- [Google+](https://developers.google.com/+/web/api/rest/) - Enables apps to login to Google+ view connections, groups, posts, and contact information.
+- [LinkedIn](https://developer.linkedin.com/apis) - Enables apps to connect to user accounts, data, connections,groups, communications, and social streams.
 - [Facebook](https://developers.facebook.com/) - For ads, games, payments, login, sharing stats, and user data.
 - [Twitter](https://dev.twitter.com/) - Enables an app to interact with most of Twitter’s functions.
 - [Pinterest](https://www.pinterest.com/login/?next=http%3A%2F%2Fdevelopers.pinterest.com%2Fapi_docs%2F) - Enables apps to view the most clicked-through or repinned Pins, view related posts, and user profiles.
@@ -321,7 +321,7 @@ latitude/longitude, and text search based upon categories, address, city, provin
 - [GitHub Gists](https://developer.github.com/v3/gists/) - Access to GitHub’s Gists API.
 - [SVN](https://subversion.apache.org/docs/api/1.8/) - Collection of modular libraries written in the C programming language.
 - [Mercurial](https://www.mercurial-scm.org/wiki/MercurialApi) - Access to Mercurial’s API.
-- [Team Foundation Server](https://www.visualstudio.com/docs/integrate/get-started/overview) - TFS APIs are based on REST, OAuth, Json and service hooks.
+- [Team Foundation Server](https://www.visualstudio.com/en-us/docs/integrate/get-started/overview) - TFS APIs are based on REST, OAuth, Json and service hooks.
 - [Bitbucket](https://developer.atlassian.com/bitbucket/api/2/reference/) - Access to Bitbucket's API.
 
 ### Transportation
@@ -368,6 +368,6 @@ Pull requests are welcome. Please adhere to the [guidelines](https://github.com/
 
 # License
 
-<a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+<a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
