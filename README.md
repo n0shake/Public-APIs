@@ -228,6 +228,7 @@ APIs
 - [FreeDB](http://www.freedb.org/) - Look up CD information using the freed database.
 - [QuantOneMusic](http://quantonemusic.com/) - Answers the need for digital music data.
 - [WolframAlpha](http://products.wolframalpha.com/api/) - Integrate top of the line computational knowledge into your applications through the WolframAlpha API. 💸
+- [RestCountries](https://restcountries.eu) - Get information about countries via a RESTful API. ![Open Source](https://raw.githubusercontent.com/Abhishaker17/Awesome-APIs/master/opensource.png?token=AH5Y2imVR5ukgG9533IEqXnP-RJWxVJQks5W4PuNwA%3D%3D "Open Source")
 
 ### Music
 
