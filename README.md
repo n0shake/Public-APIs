@@ -219,6 +219,7 @@ APIs
 - [Spreaker](https://developers.spreaker.com/) - Enables developers to read and write data to Spreaker.
 - [FreeDB](http://www.freedb.org/) - Look up CD information using the freed database.
 - [QuantOneMusic](http://quantonemusic.com/) - Answers the need for digital music data.
+- [WolframAlpha](http://products.wolframalpha.com/api/) - The easy way to integrate top-of-the-line computational knowledge into your applications. 💸
 
 ### Music
 
