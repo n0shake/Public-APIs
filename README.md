@@ -292,7 +292,7 @@ latitude/longitude, and text search based upon categories, address, city, provin
 - [LinkedIn](http://developer.linkedin.com/apis) - Enables apps to connect to user accounts, data, connections,groups, communications, and social streams.
 - [Facebook](https://developers.facebook.com/) - For ads, games, payments, login, sharing stats, and user data.
 - [Twitter](https://dev.twitter.com/) - Enables an app to interact with most of Twitter’s functions.
-- [Pinterest](https://developers.pinterest.com/api_docs/) - Enables apps to view the most clicked-through or repinned Pins, view related posts, and user profiles.
+- [Pinterest](https://www.pinterest.com/login/?next=http%3A%2F%2Fdevelopers.pinterest.com%2Fapi_docs%2F) - Enables apps to view the most clicked-through or repinned Pins, view related posts, and user profiles.
 - [Tumblr](https://www.tumblr.com/docs/en/api/v2) - Create new ways to use Tumblr with access to content, likes, followers, and drafts.
 - [FourSquare](https://developer.foursquare.com/) - Access to FourSquare database and ability to interact with Foursquare users.
 - [YouTube](https://developers.google.com/youtube/) - Add YouTube functionality to your sites and apps.
@@ -321,7 +321,7 @@ latitude/longitude, and text search based upon categories, address, city, provin
 - [GitHub Gists](https://developer.github.com/v3/gists/) - Access to GitHub’s Gists API.
 - [SVN](https://subversion.apache.org/docs/api/1.8/) - Collection of modular libraries written in the C programming language.
 - [Mercurial](https://www.mercurial-scm.org/wiki/MercurialApi) - Access to Mercurial’s API.
-- [Team Foundation Server](https://www.visualstudio.com/en-us/integrate/api/overview) - TFS APIs are based on REST, OAuth, Json and service hooks.
+- [Team Foundation Server](https://www.visualstudio.com/docs/integrate/get-started/overview) - TFS APIs are based on REST, OAuth, Json and service hooks.
 - [Bitbucket](https://developer.atlassian.com/bitbucket/api/2/reference/) - Access to Bitbucket's API.
 
 ### Transportation
@@ -335,7 +335,7 @@ latitude/longitude, and text search based upon categories, address, city, provin
 - [Google URL Shortener](https://developers.google.com/url-shortener/v1/) - Service that takes long URLs and squeezes them into fewer characters.
 - [Bitly](http://dev.bitly.com/links.html) - Access to Bitly’s API.
 - [Yourls](https://yourls.org/#API) - Generate or get existing short URLs, with sequential or custom keyword.
-- [Po.st](http://support.po.st/hc/en-us/articles/200328516-Po-st-REST-API) - Shorten URLs, Expand shortened URLs, see statistics etc.
+- [Po.st](https://post.zendesk.com/hc/en-us/articles/200328516-Po-st-REST-API) - Shorten URLs, Expand shortened URLs, see statistics etc.
 - [Readability](https://www.readability.com/developers/api/shortener) - Shorten long URLs and deliver a great reading view with a single, unique URL using the Shortener API.
 - [Anon.click](https://anon.click/api/) - Shorten long URLs and optionally protect them with passwords or captcha. No registration required.
 - [Naver URL Shortener](https://developers.naver.com/products/shortenurl) - Access to Naver’s shorten url API.
@@ -344,30 +344,30 @@ latitude/longitude, and text search based upon categories, address, city, provin
 
 - [Open Weather](http://openweathermap.org/api) - Access current weather data for any location on Earth including over 200,000 cities!
 - [Yahoo Weather API](https://developer.yahoo.com/weather/) - Get up-to-date information for any location, including 5-day forecast, wind, atmosphere, astronomy conditions, and more.
-- [Wunderground API](http://www.wunderground.com/weather/api/) - Reliable data, accurate forecast, & global coverage in 80 languages.
-- [Forecast](https://developer.forecast.io/docs/v2) - The same API that powers Forecast.io and Dark Sky for iOS.
+- [Wunderground API](https://www.wunderground.com/weather/api/) - Reliable data, accurate forecast, & global coverage in 80 languages.
+- [Forecast](https://darksky.net/dev/docs) - The same API that powers Forecast.io and Dark Sky for iOS.
 - [AccuWeather](http://apidev.accuweather.com/developers/) - Provides subscribers access to location based weather data via a simple RESTful web interface.
 - [Weather Source](http://weathersource.com/weather-api) - Powerful Weather API built for systems that demand speed, reliability and heavy load.
 
 ### Credits
 
 - [NewStack](http://thenewstack.io/the-different-flavors-of-iot-apis/)
-- [Music Machinery](http://musicmachinery.com/music-apis/)
+- [Music Machinery](https://musicmachinery.com/music-apis/)
 - [Computer Science Zone](http://www.computersciencezone.org/50-most-useful-apis-for-developers/)
 - [Louis Dorrad](http://www.louisdorard.com/blog/machine-learning-apis-comparison)
 
 ### More Resources
 
-- [Programmable Web](http://www.programmableweb.com/apis/directory)
+- [Programmable Web](https://www.programmableweb.com/apis/directory)
 - [More Awesome APIs](https://github.com/Kikobeats/awesome-api)
-- [APIs.guru](http://APIs.guru)
+- [APIs.guru](https://apis.guru/)
 
 ### Contributions
 
-Pull requests are welcome. Please adhere to the [guidelines](https://github.com/Abhishaker17/Awesome-APIs/blob/master/Contributing%20Guidelines.md).
+Pull requests are welcome. Please adhere to the [guidelines](https://github.com/abhishekbanthia/Awesome-APIs/blob/master/Contributing%20Guidelines.md).
 
 # License
 
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+<a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
