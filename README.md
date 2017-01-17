@@ -55,7 +55,7 @@ APIs
 ### Advertising
 
 - [Google AdSense](https://developers.google.com/adsense/?hl=en) - Free, flexible way to earn money from your websites, mobile sites, and site search results.
-- [Amazon Mobile Ads ](https://developer.amazon.com/public/apis/earn/mobile-ads) - Monetize across platforms with multiple ad formats.
+- [Amazon Mobile Ads](https://developer.amazon.com/public/apis/earn/mobile-ads) - Monetize across platforms with multiple ad formats.
 - [Facebook Marketing API](https://developers.facebook.com/docs/marketing-apis) - Manage ads and campaigns using the Facebook API.
 - [Microsoft Advertising Platform - Bing Ads API](https://msdn.microsoft.com/en-us/library/bing-ads-api.aspx) - Provides programmatic access to various advertising technologies.
 
