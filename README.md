@@ -129,6 +129,7 @@ APIs
 - [Cambridge Dictionaries Online](http://dictionary.cambridge.org/license.html) - Access to Cambridge’s custom-developed API. 💸
 - [Glosbe API](https://glosbe.com/a-api) - Dictionary API and Translation Memory API description.
 - [DictService](http://services.aonaware.com/DictService/DictService.asmx) - This Web Service allows you to access dictionary definitions from the dict.org service.
+- [Pearson Dictionaries API](http://developer.pearson.com/apis/dictionaries) - (*BETA*) Gives access to a very large database of words and phrases with through explanations - free usage for up to 4 million calls/month.
 
 ### File Storage and Manipulation
 - [Dropbox] (https://www.dropbox.com/developers) - API for accessing stored files and pictures which is easy to use and free for small amounts of data.
