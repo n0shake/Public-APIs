@@ -234,7 +234,7 @@ APIs
 - [Spotify](https://developer.spotify.com/web-api/) - Spotify’s Web API lets your applications fetch data from the Spotify music catalog and manage user’s playlists and saved music.
 - [NPR API](http://www.npr.org/api/index) - NPR's API is a content API, which essentially provides a structured way for other computer applications to get NPR stories in a predictable, flexible and powerful way.
 - [Last.fm](http://www.last.fm/api) -  The Last.fm API allows anyone to build their own programs using Last.fm data, whether they're on the web, the desktop or mobile devices.
-- [Sound Cloud](https://developers.soundcloud.com/docs/api/guide) - Using the SoundCloud API, you can build applications that take sound on the web to the next level.
+- [Sound Cloud](https://developers.soundcloud.com) - Using the SoundCloud API, you can build applications that take sound on the web to the next level.
 - [Rhapsody](https://developer.rhapsody.com/) - Access metadata, user’s entire library of music and do much more.
 - [MusicGraph](https://developer.musicgraph.com) - Search through more than 7 billion music facts and connections.
 
