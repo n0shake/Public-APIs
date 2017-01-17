@@ -97,7 +97,7 @@ APIs
 - [Block](https://block.io/) - The most versatile and secure wallet for all your coins.
 - [Coinkite](https://coinkite.com/developers) - Coinkite's Bitcoin API provides simple and powerful REST integrations for adding bitcoin functions into your business / application.
 - [bitpay](https://bitpay.com/developers) - A simple, RESTful API to the most powerful bitcoin infrastructure on the planet.
-- [BlockCypher](http://www.blockcypher.com/) - BlockCypher is the infrastructure fabric for blockchain applications
+- [BlockCypher](https://www.blockcypher.com/) - BlockCypher is the infrastructure fabric for blockchain applications
 - [biteasy](https://www.biteasy.com/developers) - Biteasy provides the following, free to use, APIs which a developer can use and build its own great applications.
 - [Bitcoincharts](https://bitcoincharts.com/about/markets-api/) - You can use this API to include markets data in your websites, mobile apps or desktop applets.
 - [ShapeShift.io](https://shapeshift.io/) - Exchange between cryptocurrencies without an account.  Well documented API for easy use.
@@ -143,14 +143,14 @@ APIs
 
 ### Google
 
-- [Google BigQuery API](https://cloud.google.com/bigquery/docs/reference/v2/) - A data platform for customers to create, manage, share and query data. *v2*
+- [Google BigQuery API](https://cloud.google.com/bigquery/docs/reference/rest/v2/) - A data platform for customers to create, manage, share and query data. *v2*
 - [Google Books API](https://developers.google.com/books/) - Lets you search for books and manage your Google Books library. *v1*
 - [Google Calendar API](https://developers.google.com/google-apps/calendar/?hl=en) - Lets you manipulate events and other calendar data. *v3*
-- [Google Monitoring API](https://cloud.google.com/monitoring/api/) - API for accessing Google Cloud and API monitoring data. *v2beta2*
+- [Google Monitoring API](https://cloud.google.com/monitoring/api/v3/) - API for accessing Google Cloud and API monitoring data. *v2beta2*
 - [Google CustomSearch API](https://developers.google.com/custom-search/json-api/v1/overview) - Lets you search over a website or collection of websites. *v1*
 - [Google Drive API](https://developers.google.com/drive/v2/reference/) - The API to interact with Google Drive. *v3*
 - [Google Fitness API](https://developers.google.com/fit/?hl=en) - The Fit API. *v1*
-- [Google Geonomics API](https://cloud.google.com/genomics/v1beta2/reference/) - Provides access to Genomics data. *v1beta2*
+- [Google Geonomics API](https://cloud.google.com/genomics/reference/rest) - Provides access to Genomics data. *v1beta2*
 - [Gmail API](https://developers.google.com/gmail/api/?hl=en) - The Gmail REST API. *v1*
 - [Google Classroom API](https://developers.google.com/classroom/?hl=en) - The Google Classroom API. *v1*
 - [The Google Fonts Developer API.](https://developers.google.com/fonts/?hl=en) - The Google Fonts API helps you add fonts to any web page. *v1*
@@ -163,8 +163,8 @@ APIs
 ### IoT
 
 - [Zetta](http://www.zettajs.org/) - An open source platform built on Node.js for creating IoT servers that run across geo-distributed computers and the cloud. ![Open Source](https://raw.githubusercontent.com/Abhishaker17/Awesome-APIs/master/opensource.png?token=AH5Y2imVR5ukgG9533IEqXnP-RJWxVJQks5W4PuNwA%3D%3D "Open Source")
-- [Temboo SDK](https://www.temboo.com/download) - This platform acts as a layer on top of third-party APIs, using code snippets to trigger complex processes that run through their cloud platform.
-- [Xively](http://developer.xively.com/api/) - Uses free and open libraries to let you connect different types of hardware, using a variety of languages to their cloud service.
+- [Temboo SDK](https://temboo.com/download) - This platform acts as a layer on top of third-party APIs, using code snippets to trigger complex processes that run through their cloud platform.
+- [Xively](https://developer.xively.com/api/) - Uses free and open libraries to let you connect different types of hardware, using a variety of languages to their cloud service.
 - [ThingSpeak](https://github.com/iobridge/ThingSpeak) - “Internet of Things” application and API to store and retrieve data from things using HTTP over the Internet or via a Local Area Network.
 - [Particle](https://docs.particle.io/reference/api/) - API to manage Particle devices (including their own Arduino-compatible ones and the Raspberry Pi) and control them. Free for up to 25 devices and 250k events/month.
 
@@ -186,7 +186,7 @@ APIs
 ### Machine Learning
 
 - [IBM Watson](https://developer.ibm.com/watson/) - Simplifies the process of preparing data and makes it easier to run predictive analysis.
-- [Microsoft Azure Machine Learning API](https://azure.microsoft.com/en-us/services/machine-learning/api/) - Helps data scientists publish in minutes which once used to take days after they had developed a feasible model.
+- [Microsoft Azure Machine Learning API](https://azure.microsoft.com/en-us/services/cognitive-services/) - Helps data scientists publish in minutes which once used to take days after they had developed a feasible model.
 - [Google Prediction API](https://cloud.google.com/prediction/docs) - Cloud-based machine learning and pattern matching tool.
 - [Amazon MI API](http://docs.aws.amazon.com/machine-learning/latest/APIReference/Welcome.html) - Amazon Machine Learning API simplifies the process of making predictions that require lots of expertise around model building, data cleansing and statistical analysis.
 - [Big ML](https://bigml.com/developers/) - BigML is user-friendly and developer-friendly Machine learning API that mainly concentrates on decision trees.
