@@ -58,6 +58,7 @@ APIs
 - [Amazon Mobile Ads](https://developer.amazon.com/mobile-ads) - Monetize across platforms with multiple ad formats.
 - [Facebook Marketing API](https://developers.facebook.com/docs/marketing-apis) - Manage ads and campaigns using the Facebook API.
 - [Microsoft Advertising Platform - Bing Ads API](https://msdn.microsoft.com/en-us/library/bing-ads-api.aspx) - Provides programmatic access to various advertising technologies.
+- [Yahoo Gemini API](https://developer.yahoo.com/gemini/) - Allows advertisers to manage complex Gemini accounts and campaigns more efficiently.
 
 ### Analytics
 
