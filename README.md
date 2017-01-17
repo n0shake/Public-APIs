@@ -21,6 +21,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 - [Content] (#content)
 - [Data Science] (#data-science)
 - [Dictionary] (#dictionary)
+- [Entertainment] (#entertainment)
 - [File Storage and Manipulation] (#file-storage-and-manipulation)
 - [Fitness] (#fitness)
 - [Google] (#google)
@@ -42,6 +43,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 - [Places] (#places)
 - [Social Media] (#social-media)
 - [Source Control] (#source-control)
+- [Sport] (#sport)
 - [Transportation] (#transportation)
 - [URL Shorteners] (#url-shorteners)
 - [Weather] (#weather)
@@ -129,6 +131,9 @@ APIs
 - [Cambridge Dictionaries Online](http://dictionary.cambridge.org/license.html) - Access to Cambridge’s custom-developed API. 💸
 - [Glosbe API](https://glosbe.com/a-api) - Dictionary API and Translation Memory API description.
 - [DictService](http://services.aonaware.com/DictService/DictService.asmx) - This Web Service allows you to access dictionary definitions from the dict.org service.
+
+### Entertainment
+- [Marvel](https://developer.marvel.com/) - Access over 70 years worth of comic data with Marvel's official developer API. ![Open Source](https://raw.githubusercontent.com/Abhishaker17/Awesome-APIs/master/opensource.png?token=AH5Y2imVR5ukgG9533IEqXnP-RJWxVJQks5W4PuNwA%3D%3D "Open Source")
 
 ### File Storage and Manipulation
 - [Dropbox] (https://www.dropbox.com/developers) - API for accessing stored files and pictures which is easy to use and free for small amounts of data.
@@ -319,6 +324,9 @@ latitude/longitude, and text search based upon categories, address, city, provin
 - [Mercurial](https://www.mercurial-scm.org/wiki/MercurialApi) - Access to Mercurial’s API.
 - [Team Foundation Server](https://www.visualstudio.com/en-us/docs/integrate/get-started/overview) - TFS APIs are based on REST, OAuth, Json and service hooks.
 - [Bitbucket](https://developer.atlassian.com/bitbucket/api/2/reference/) - Access to Bitbucket's API.
+
+### Sport
+- [Ergast Formula 1](http://ergast.com/mrd/) - Provides access to current and historical Formula 1 race data from 1950 to today. ![Open Source](https://raw.githubusercontent.com/Abhishaker17/Awesome-APIs/master/opensource.png?token=AH5Y2imVR5ukgG9533IEqXnP-RJWxVJQks5W4PuNwA%3D%3D "Open Source")
 
 ### Transportation
 - [Uber](https://developer.uber.com/) - Uber provides API for customizing trip experiences, requesting rides, powering logistics, creating bots and so much more.
