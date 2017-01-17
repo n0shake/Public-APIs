@@ -210,7 +210,6 @@ APIs
 - [BBC](http://www.bbc.co.uk/developer/technology/apis.html) - Variety of BBC APIs with access to interesting data from Radio Labs, programs played on BBC and linking data around the artist played on BBC.
 - [MuseScore](http://developers.musescore.com/) - REST based API which provides music metadata.
 - [Spreaker](https://developers.spreaker.com/) - Enables developers to read and write data to Spreaker.
-- [MixRadio](http://dev.mixrad.io/doc/) - Provides a set of web APIs and native platform SDKs built around their music catalogues.
 - [FreeDB](http://www.freedb.org/) - Look up CD information using the freed database.
 - [QuantOneMusic](http://quantonemusic.com/) - Answers the need for digital music data.
 
