@@ -22,6 +22,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 - [Data Science] (#data-science)
 - [Dictionary] (#dictionary)
 - [Entertainment] (#entertainment)
+- [Face Recognition] (#face-recognition)
 - [File Storage and Manipulation] (#file-storage-and-manipulation)
 - [Fitness] (#fitness)
 - [Google] (#google)
@@ -136,6 +137,10 @@ APIs
 ### Entertainment
 - [Marvel](https://developer.marvel.com/) - Access over 70 years of comic data with Marvel's official developer API.
 - [Pokéapi](https://pokeapi.co/) - All the Pokémon data you'll ever need, in one place. ![Open Source](https://raw.githubusercontent.com/Abhishaker17/Awesome-APIs/master/opensource.png?token=AH5Y2imVR5ukgG9533IEqXnP-RJWxVJQks5W4PuNwA%3D%3D "Open Source")
+
+### Face Recognition
+
+- [Kairos](https://www.kairos.com/) - Face recognition, emotion analysis and measuring engagement of people in images or videos any mobile or web application. 30 Day Trial 💸
 
 ### File Storage and Manipulation
 - [Dropbox] (https://www.dropbox.com/developers) - API for accessing stored files and pictures which is easy to use and free for small amounts of data.
