@@ -55,7 +55,7 @@ APIs
 ### Advertising
 
 - [Google AdSense](https://developers.google.com/adsense/?hl=en) - Free, flexible way to earn money from your websites, mobile sites, and site search results.
-- [Amazon Mobile Ads](https://developer.amazon.com/public/apis/earn/mobile-ads) - Monetize across platforms with multiple ad formats.
+- [Amazon Mobile Ads](https://developer.amazon.com/mobile-ads) - Monetize across platforms with multiple ad formats.
 - [Facebook Marketing API](https://developers.facebook.com/docs/marketing-apis) - Manage ads and campaigns using the Facebook API.
 - [Microsoft Advertising Platform - Bing Ads API](https://msdn.microsoft.com/en-us/library/bing-ads-api.aspx) - Provides programmatic access to various advertising technologies.
 
@@ -65,12 +65,12 @@ APIs
 - [Woopra](https://www.woopra.com/docs/developer/analytics-api/) - Real-time website analysis tool that targets customer engagement.
 - [MixPanel](https://mixpanel.com/help/reference) - Analytics for mobile and web which helps you analyze the actions people take in your application.
 - [Countly](http://resources.count.ly/reference) - Self-hosted or private cloud mobile, web and desktop analytics. ![Open Source](https://raw.githubusercontent.com/Abhishaker17/Awesome-APIs/master/opensource.png?token=AH5Y2imVR5ukgG9533IEqXnP-RJWxVJQks5W4PuNwA%3D%3D "Open Source")
-- [IBM Digital Analytics](http://www.scl.com/using-the-ibm-digital-analytics-api-to-get-real-time-data/) - Web Analytics tool often used by e-commerce websites.
-- [Open Web Analytics](http://wiki.openwebanalytics.com/index.php?title=Data_Access_API) - Provides a way to request and work with your data outside of the OWA reporting interface.
+- [IBM Digital Analytics](http://www.scl.com/insights/blog/using-the-ibm-digital-analytics-api-to-get-real-time-data/) - Web Analytics tool often used by e-commerce websites.
+- [Open Web Analytics](https://github.com/padams/Open-Web-Analytics/wikiindex.php?title=Data_Access_API) - Provides a way to request and work with your data outside of the OWA reporting interface.
 - [Google Analytics](https://developers.google.com/analytics/?hl=en) - Google Analytics provides APIs to collect, configure, and report on user-interactions with your online content.
 - [Amazon Mobile Analytics](https://aws.amazon.com/documentation/mobileanalytics/) - Service for collecting, visualizing, and understanding app usage data at scale.
 - [Flurry](https://developer.yahoo.com/flurry/docs/api/) - Yahoo’s Flurry provides you with a number of APIs enabling you to export your data.
-- [Parse](https://parse.com/docs/rest/guide#quick-reference-analytics) - Download recent data to run your own custom analytics.
+- [Parse](https://parseplatform.github.io//docs/rest/guide) - Download recent data to run your own custom analytics.
 - [Chartie](http://www.chartie.io/docs.php) - Free web API that mines the relevant trend patterns from your signal.
 - [Zoho Reports API](https://zohoreportsapi.wiki.zoho.com/) - Build powerful reporting and analytical capabilities into your application.
 - [Localytics](http://docs.localytics.com/dev/query-api.html#query-api) - Interface to Localytics analytics platform.
@@ -78,7 +78,7 @@ APIs
 ### Augmented Reality
 
 - [Wikitude](http://www.wikitude.com/download/) - Wikitude’s all-in-one AR solution includes image recognition & tracking, 3D model rendering, video overlay, location based AR. 💸
-- [Vuforia](http://developer.vuforia.com/library/) - Solid SDK with robust development options. 💸
+- [Vuforia](https://developer.vuforia.com/library/) - Solid SDK with robust development options. 💸
 
 ### BarCode
 
