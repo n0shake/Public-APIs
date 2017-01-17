@@ -66,12 +66,11 @@ APIs
 - [MixPanel](https://mixpanel.com/help/reference) - Analytics for mobile and web which helps you analyze the actions people take in your application.
 - [Countly](http://resources.count.ly/reference) - Self-hosted or private cloud mobile, web and desktop analytics. ![Open Source](https://raw.githubusercontent.com/Abhishaker17/Awesome-APIs/master/opensource.png?token=AH5Y2imVR5ukgG9533IEqXnP-RJWxVJQks5W4PuNwA%3D%3D "Open Source")
 - [IBM Digital Analytics](http://www.scl.com/insights/blog/using-the-ibm-digital-analytics-api-to-get-real-time-data/) - Web Analytics tool often used by e-commerce websites.
-- [Open Web Analytics](https://github.com/padams/Open-Web-Analytics/wikiindex.php?title=Data_Access_API) - Provides a way to request and work with your data outside of the OWA reporting interface.
+- [Open Web Analytics](https://github.com/padams/Open-Web-Analytics/wiki/Data-Access-API) - Provides a way to request and work with your data outside of the OWA reporting interface.
 - [Google Analytics](https://developers.google.com/analytics/?hl=en) - Google Analytics provides APIs to collect, configure, and report on user-interactions with your online content.
 - [Amazon Mobile Analytics](https://aws.amazon.com/documentation/mobileanalytics/) - Service for collecting, visualizing, and understanding app usage data at scale.
 - [Flurry](https://developer.yahoo.com/flurry/docs/api/) - Yahoo’s Flurry provides you with a number of APIs enabling you to export your data.
 - [Parse](http://parseplatform.github.io/docs/rest/guide/) - Download recent data to run your own custom analytics.
-- [Chartie](http://www.chartie.io/docs.php) - Free web API that mines the relevant trend patterns from your signal.
 - [Zoho Reports API](https://zohoreportsapi.wiki.zoho.com/) - Build powerful reporting and analytical capabilities into your application.
 - [Localytics](http://docs.localytics.com/dev/query-api.html#query-api) - Interface to Localytics analytics platform.
 
@@ -231,7 +230,6 @@ APIs
 
 - [Rovi](https://developers.rovicorp.com/) - Access to Metadata, search capabilities and recommendations.
 - [Setlist.fm](http://api.setlist.fm/docs/index.html) - The setlist.fm API has been designed to give you easy access to setlist data in order to build fancy websites and other applications.
-- [Shuffler.fm](http://developers.shuffler.fm/) - Recommends you artists and sites to subscribe. Ruby and Javascript wrappers available.
 - [TuneFind](http://www.tunefind.com/api) - Allows developers to enhance their services with song, show, and movie data from TuneFind.
 
 ### Music Identification
@@ -247,7 +245,7 @@ APIs
 
 ### Music Stores
 
-- [iTunes Search](https://affiliate.itunes.apple.com/resources/documentation/itunes-store-web-service-search-api.html) - The Search API allows you to place search fields in your website to search for content within the iTunes Store, App Store, iBooks Store and Mac App Store.
+- [iTunes Search](https://affiliate.itunes.apple.com/resources/documentation/itunes-store-web-service-search-api/) - The Search API allows you to place search fields in your website to search for content within the iTunes Store, App Store, iBooks Store and Mac App Store.
 - [Reverb](https://dev.reverb.com/) - Sell and buy music related merchandise.
 
 ### News Services
@@ -278,7 +276,7 @@ APIs
 - [Foursquare Venue](https://developer.foursquare.com/overview/venues) - Providing a places search that can be searched by  hierarchical list of categories, longitude/latitude etc.
 - [Fwix](http://fwix.com/developer_tools/api) - Providing a places search that can be searched by
 latitude/longitude, and text search based upon categories, address, city, province, postal code, country etc
-- [Google Places API](http://developers.google.com/maps/documentation/places/?csw=1) - Providing a places search that can be searched by latitude/longitude, keyword matched against all fields, name of place, type of place restricted by radius.
+- [Google Places API](https://developers.google.com/places/documentation/?csw=1) - Providing a places search that can be searched by latitude/longitude, keyword matched against all fields, name of place, type of place restricted by radius.
 - [Nokia](https://developer.here.com/develop/javascript-api) - Providing a JavaScript places search that can be searched by search term, with a detail search for display by JS widget.
 - [Yahoo GeoPlanet](https://developer.yahoo.com/geo/geoplanet/) - Providing a places search that can be searched by type, county, state, country, oceans, seas, continents, hierarchy and full text search.
 - [Yelp](https://www.yelp.com/developers/documentation/v2/overview) - You can search location using geo bounding box, longitude and latitude, neighborhood, address or city and filter listings by “where”, using a list of support categories.
@@ -289,7 +287,7 @@ latitude/longitude, and text search based upon categories, address, city, provin
 - [Instagram](https://www.instagram.com/developer/) - Search photos by location, user, tags, view trending photos, and make custom items.
 - [Flickr](https://www.flickr.com/services/api/) - Search through user Flickr content, contacts, upload or replace photos.
 - [Google+](https://developers.google.com/+/web/api/rest/) - Enables apps to login to Google+ view connections, groups, posts, and contact information.
-- [LinkedIn](https://developer.linkedin.com/apis) - Enables apps to connect to user accounts, data, connections,groups, communications, and social streams.
+- [LinkedIn](http://developer.linkedin.com/) - Enables apps to connect to user accounts, data, connections,groups, communications, and social streams.
 - [Facebook](https://developers.facebook.com/) - For ads, games, payments, login, sharing stats, and user data.
 - [Twitter](https://dev.twitter.com/) - Enables an app to interact with most of Twitter’s functions.
 - [Pinterest](https://www.pinterest.com/login/?next=http%3A%2F%2Fdevelopers.pinterest.com%2Fapi_docs%2F) - Enables apps to view the most clicked-through or repinned Pins, view related posts, and user profiles.
@@ -299,7 +297,6 @@ latitude/longitude, and text search based upon categories, address, city, provin
 - [Gravatar](https://en.gravatar.com/site/implement/) - Create profiles and avatars using this web service.
 - [Weibo](http://open.weibo.com/wiki/API%E6%96%87%E6%A1%A3/en) - Programmatic access to China’s most popular microblogging site.
 - [DeviantArt](https://www.deviantart.com/developers/) - The largest social networking website for artists and art enthusiasts.
-- [WeChat](http://dev.wechat.com/wechatapi) - WeChat is a social messaging application that works across different and multiple platform.
 - [Whatsapp Document Interaction](https://www.whatsapp.com/faq/en/iphone/23559013) - If your application creates photos, videos or audio notes and you’d like your users to share these media using WhatsApp. #Limited
 - [Snapchat](https://github.com/mgp25/SC-API) - PHP library of Snapchat’s private API. #Private
 - [GoodReads](https://www.goodreads.com/api) - Allows developers access to Goodreads data in order to help websites or applications that deal with books.
@@ -307,7 +304,7 @@ latitude/longitude, and text search based upon categories, address, city, provin
 - [Twitch](https://github.com/justintv/Twitch-API) - The Twitch API enables you to develop your own applications using the rich feature set that Twitch provides.
 - [Reddit](https://github.com/reddit/reddit/wiki/API) - API to build clients, crawlers, scrapers, and browser extensions. ![Open Source](https://raw.githubusercontent.com/Abhishaker17/Awesome-APIs/master/opensource.png?token=AH5Y2imVR5ukgG9533IEqXnP-RJWxVJQks5W4PuNwA%3D%3D "Open Source")
 - [Zomato](https://developers.zomato.com/api) - Zomato APIs give you access to the freshest and most exhaustive information for over 1.5 million restaurants across 10,000 cities globally.
-- [Delicious](https://delicious.com/developers) - Access to Delicious’s API.
+- [Delicious](https://github.com/domainersuitedev/delicious-api) - Access to Delicious’s API.
 - [Vimeo](https://developer.vimeo.com/) - Access to Vimeo’s API.
 - [Daily Motion](https://developer.dailymotion.com/) - Build applications centered around DailyMotion.
 - [EventBrite](https://github.com/eventbrite/eventbrite-sdk-python) - The Eventbrite Python SDK makes it trivial to interact with the Eventbrite API. ![Open Source](https://raw.githubusercontent.com/Abhishaker17/Awesome-APIs/master/opensource.png?token=AH5Y2imVR5ukgG9533IEqXnP-RJWxVJQks5W4PuNwA%3D%3D "Open Source")
@@ -336,7 +333,6 @@ latitude/longitude, and text search based upon categories, address, city, provin
 - [Bitly](http://dev.bitly.com/links.html) - Access to Bitly’s API.
 - [Yourls](https://yourls.org/#API) - Generate or get existing short URLs, with sequential or custom keyword.
 - [Po.st](https://post.zendesk.com/hc/en-us/articles/200328516-Po-st-REST-API) - Shorten URLs, Expand shortened URLs, see statistics etc.
-- [Readability](https://www.readability.com/developers/api/shortener) - Shorten long URLs and deliver a great reading view with a single, unique URL using the Shortener API.
 - [Anon.click](https://anon.click/api/) - Shorten long URLs and optionally protect them with passwords or captcha. No registration required.
 - [Naver URL Shortener](https://developers.naver.com/products/shortenurl) - Access to Naver’s shorten url API.
 
