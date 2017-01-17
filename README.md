@@ -163,7 +163,7 @@ APIs
 
 - [Zetta](http://www.zettajs.org/) - An open source platform built on Node.js for creating IoT servers that run across geo-distributed computers and the cloud. ![Open Source](https://raw.githubusercontent.com/Abhishaker17/Awesome-APIs/master/opensource.png?token=AH5Y2imVR5ukgG9533IEqXnP-RJWxVJQks5W4PuNwA%3D%3D "Open Source")
 - [Temboo SDK](https://temboo.com/download) - This platform acts as a layer on top of third-party APIs, using code snippets to trigger complex processes that run through their cloud platform.
-- [Xively](https://developer.xively.com/api/) - Uses free and open libraries to let you connect different types of hardware, using a variety of languages to their cloud service.
+- [Xively](https://developer.xively.com/reference) - Uses free and open libraries to let you connect different types of hardware, using a variety of languages to their cloud service.
 - [ThingSpeak](https://github.com/iobridge/ThingSpeak) - “Internet of Things” application and API to store and retrieve data from things using HTTP over the Internet or via a Local Area Network.
 - [Particle](https://docs.particle.io/reference/api/) - API to manage Particle devices (including their own Arduino-compatible ones and the Raspberry Pi) and control them. Free for up to 25 devices and 250k events/month.
 
@@ -236,7 +236,6 @@ APIs
 
 - [Acoustid](https://acoustid.org/webservice) - Supports searching through their fingerprint database. ![Open Source](https://raw.githubusercontent.com/Abhishaker17/Awesome-APIs/master/opensource.png?token=AH5Y2imVR5ukgG9533IEqXnP-RJWxVJQks5W4PuNwA%3D%3D "Open Source")
 - [Gracenote](https://developer.gracenote.com/) - Largest source of music and video metadata on the planet.
-- [Echo Nest](http://developer.echonest.com/) - The Echo Nest API allows you to call methods that respond in JSON or XML.
 
 ### Music Lyrics
 
@@ -287,7 +286,7 @@ latitude/longitude, and text search based upon categories, address, city, provin
 - [Instagram](https://www.instagram.com/developer/) - Search photos by location, user, tags, view trending photos, and make custom items.
 - [Flickr](https://www.flickr.com/services/api/) - Search through user Flickr content, contacts, upload or replace photos.
 - [Google+](https://developers.google.com/+/web/api/rest/) - Enables apps to login to Google+ view connections, groups, posts, and contact information.
-- [LinkedIn](http://developer.linkedin.com/) - Enables apps to connect to user accounts, data, connections,groups, communications, and social streams.
+- [LinkedIn](https://developer.linkedin.com/) - Enables apps to connect to user accounts, data, connections,groups, communications, and social streams.
 - [Facebook](https://developers.facebook.com/) - For ads, games, payments, login, sharing stats, and user data.
 - [Twitter](https://dev.twitter.com/) - Enables an app to interact with most of Twitter’s functions.
 - [Pinterest](https://www.pinterest.com/login/?next=http%3A%2F%2Fdevelopers.pinterest.com%2Fapi_docs%2F) - Enables apps to view the most clicked-through or repinned Pins, view related posts, and user profiles.
