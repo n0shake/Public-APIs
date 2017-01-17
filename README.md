@@ -110,7 +110,7 @@ APIs
 
 ### Check-In
 - [Facebook Check-In](https://developers.facebook.com/docs/graph-api/reference/v2.3/checkin) - A check-in made to a location-based Page.
-- [FourSquare Check-In](https://developer.foursquare.com/docs/checkins/add) - Allows you to check in to a place.
+- [Foursquare Check-In](https://developer.foursquare.com/docs/checkins/add) - Allows you to check in to a place.
 - [Yahoo GeoPlanet](https://developer.yahoo.com/geo/geoplanet/guide/) - Geo-enable your applications using Yahoo GeoPlanet.
 - [Google Places](https://developers.google.com/places/?hl=en) - Access to Google Places’ API.
 
@@ -291,7 +291,7 @@ latitude/longitude, and text search based upon categories, address, city, provin
 - [Twitter](https://dev.twitter.com/) - Enables an app to interact with most of Twitter’s functions.
 - [Pinterest](https://www.pinterest.com/login/?next=http%3A%2F%2Fdevelopers.pinterest.com%2Fapi_docs%2F) - Enables apps to view the most clicked-through or repinned Pins, view related posts, and user profiles.
 - [Tumblr](https://www.tumblr.com/docs/en/api/v2) - Create new ways to use Tumblr with access to content, likes, followers, and drafts.
-- [FourSquare](https://developer.foursquare.com/) - Access to FourSquare database and ability to interact with Foursquare users.
+- [Foursquare](https://developer.foursquare.com/) - Access to Foursquare database and ability to interact with Foursquare users.
 - [YouTube](https://developers.google.com/youtube/) - Add YouTube functionality to your sites and apps.
 - [Gravatar](https://en.gravatar.com/site/implement/) - Create profiles and avatars using this web service.
 - [Weibo](http://open.weibo.com/wiki/API%E6%96%87%E6%A1%A3/en) - Programmatic access to China’s most popular microblogging site.
