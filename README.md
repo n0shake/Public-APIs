@@ -18,6 +18,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 - [Bitcoin] (#bitcoinbitcoin-wallets)
 - [Captcha] (#captcha)
 - [Check In] (#check-in)
+- [Commerce] (#commerce)
 - [Content] (#content)
 - [Data Science] (#data-science)
 - [Dictionary] (#dictionary)
@@ -119,6 +120,9 @@ APIs
 - [Foursquare Check-In](https://developer.foursquare.com/docs/checkins/add) - Allows you to check in to a place.
 - [Yahoo GeoPlanet](https://developer.yahoo.com/geo/geoplanet/guide/) - Geo-enable your applications using Yahoo GeoPlanet.
 - [Google Places](https://developers.google.com/places/?hl=en) - Access to Google Places’ API.
+
+### Commerce
+- [Moltin](https://www.moltin.com/developers) - Unified APIs for inventory, carts, the checkout process, payments and more, so you can focus on creating seamless customer experiences at any scale.
 
 ### Content
 - [qKast Channel Content](https://github.com/egfx/qKast) - Access live content collections sourced from any page around the web.
