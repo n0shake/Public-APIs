@@ -21,6 +21,8 @@ This is an attempt to categorise different APIs scoured from the web which make 
 - [Content] (#content)
 - [Data Science] (#data-science)
 - [Dictionary] (#dictionary)
+- [Entertainment] (#entertainment)
+- [Face Recognition] (#face-recognition)
 - [File Storage and Manipulation] (#file-storage-and-manipulation)
 - [Fitness] (#fitness)
 - [Google] (#google)
@@ -43,6 +45,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 - [Places] (#places)
 - [Social Media] (#social-media)
 - [Source Control] (#source-control)
+- [Sport] (#sport)
 - [Transportation] (#transportation)
 - [URL Shorteners] (#url-shorteners)
 - [Weather] (#weather)
@@ -111,7 +114,7 @@ APIs
 
 ### Check-In
 - [Facebook Check-In](https://developers.facebook.com/docs/graph-api/reference/v2.3/checkin) - A check-in made to a location-based Page.
-- [FourSquare Check-In](https://developer.foursquare.com/docs/checkins/add) - Allows you to check in to a place.
+- [Foursquare Check-In](https://developer.foursquare.com/docs/checkins/add) - Allows you to check in to a place.
 - [Yahoo GeoPlanet](https://developer.yahoo.com/geo/geoplanet/guide/) - Geo-enable your applications using Yahoo GeoPlanet.
 - [Google Places](https://developers.google.com/places/?hl=en) - Access to Google Places’ API.
 
@@ -130,6 +133,16 @@ APIs
 - [Cambridge Dictionaries Online](http://dictionary.cambridge.org/license.html) - Access to Cambridge’s custom-developed API. 💸
 - [Glosbe API](https://glosbe.com/a-api) - Dictionary API and Translation Memory API description.
 - [DictService](http://services.aonaware.com/DictService/DictService.asmx) - This Web Service allows you to access dictionary definitions from the dict.org service.
+- [Pearson Dictionaries API](http://developer.pearson.com/apis/dictionaries) - (*BETA*) Gives access to a very large database of words and phrases with through explanations - free usage for up to 4 million calls/month.
+
+### Entertainment
+- [Marvel](https://developer.marvel.com/) - Access over 70 years of comic data with Marvel's official developer API.
+- [Comic Vine](http://comicvine.gamespot.com/api/) - An extremely mature, well organized and continuely updated resource of comic information.
+- [Pokéapi](https://pokeapi.co/) - All the Pokémon data you'll ever need, in one place. ![Open Source](https://raw.githubusercontent.com/Abhishaker17/Awesome-APIs/master/opensource.png?token=AH5Y2imVR5ukgG9533IEqXnP-RJWxVJQks5W4PuNwA%3D%3D "Open Source")
+
+### Face Recognition
+
+- [Kairos](https://www.kairos.com/) - Face recognition, emotion analysis and measuring engagement of people in images or videos for any mobile or web application. 30 Day Trial 💸
 
 ### File Storage and Manipulation
 - [Dropbox] (https://www.dropbox.com/developers) - API for accessing stored files and pictures which is easy to use and free for small amounts of data.
@@ -141,6 +154,7 @@ APIs
 
 - [FitBit](https://dev.fitbit.com/docs/) - Web API for accessing data from Fitbit activity trackers, Aria scale, and manually entered logs.
 - [Strava](https://strava.github.io/api/) - API for accessing and managing data about athletes, activities and segments.
+- [Withings](http://oauth.withings.com/api) - Access to data from Withings activity trackers and body measures.
 
 ### Google
 
@@ -214,6 +228,8 @@ APIs
 - [Spreaker](https://developers.spreaker.com/) - Enables developers to read and write data to Spreaker.
 - [FreeDB](http://www.freedb.org/) - Look up CD information using the freed database.
 - [QuantOneMusic](http://quantonemusic.com/) - Answers the need for digital music data.
+- [WolframAlpha](http://products.wolframalpha.com/api/) - Integrate top of the line computational knowledge into your applications through the WolframAlpha API. 💸
+- [RestCountries](https://restcountries.eu) - Get information about countries via a RESTful API. ![Open Source](https://raw.githubusercontent.com/Abhishaker17/Awesome-APIs/master/opensource.png?token=AH5Y2imVR5ukgG9533IEqXnP-RJWxVJQks5W4PuNwA%3D%3D "Open Source")
 
 ### Movies
 
@@ -224,8 +240,9 @@ APIs
 - [Spotify](https://developer.spotify.com/web-api/) - Spotify’s Web API lets your applications fetch data from the Spotify music catalog and manage user’s playlists and saved music.
 - [NPR API](http://www.npr.org/api/index) - NPR's API is a content API, which essentially provides a structured way for other computer applications to get NPR stories in a predictable, flexible and powerful way.
 - [Last.fm](http://www.last.fm/api) -  The Last.fm API allows anyone to build their own programs using Last.fm data, whether they're on the web, the desktop or mobile devices.
-- [Sound Cloud](https://developers.soundcloud.com/docs/api/guide) - Using the SoundCloud API, you can build applications that take sound on the web to the next level.
+- [Sound Cloud](https://developers.soundcloud.com) - Using the SoundCloud API, you can build applications that take sound on the web to the next level.
 - [Rhapsody](https://developer.rhapsody.com/) - Access metadata, user’s entire library of music and do much more.
+- [MusicGraph](https://developer.musicgraph.com) - Search through more than 7 billion music facts and connections.
 
 ### Music Analytics
 
@@ -296,7 +313,7 @@ latitude/longitude, and text search based upon categories, address, city, provin
 - [Twitter](https://dev.twitter.com/) - Enables an app to interact with most of Twitter’s functions.
 - [Pinterest](https://www.pinterest.com/login/?next=http%3A%2F%2Fdevelopers.pinterest.com%2Fapi_docs%2F) - Enables apps to view the most clicked-through or repinned Pins, view related posts, and user profiles.
 - [Tumblr](https://www.tumblr.com/docs/en/api/v2) - Create new ways to use Tumblr with access to content, likes, followers, and drafts.
-- [FourSquare](https://developer.foursquare.com/) - Access to FourSquare database and ability to interact with Foursquare users.
+- [Foursquare](https://developer.foursquare.com/) - Access to Foursquare database and ability to interact with Foursquare users.
 - [YouTube](https://developers.google.com/youtube/) - Add YouTube functionality to your sites and apps.
 - [Gravatar](https://en.gravatar.com/site/implement/) - Create profiles and avatars using this web service.
 - [Weibo](http://open.weibo.com/wiki/API%E6%96%87%E6%A1%A3/en) - Programmatic access to China’s most popular microblogging site.
@@ -324,6 +341,9 @@ latitude/longitude, and text search based upon categories, address, city, provin
 - [Mercurial](https://www.mercurial-scm.org/wiki/MercurialApi) - Access to Mercurial’s API.
 - [Team Foundation Server](https://www.visualstudio.com/en-us/docs/integrate/get-started/overview) - TFS APIs are based on REST, OAuth, Json and service hooks.
 - [Bitbucket](https://developer.atlassian.com/bitbucket/api/2/reference/) - Access to Bitbucket's API.
+
+### Sport
+- [Ergast Formula 1](http://ergast.com/mrd/) - Provides access to current and historical Formula 1 race data from 1950 to today.
 
 ### Transportation
 - [Uber](https://developer.uber.com/) - Uber provides API for customizing trip experiences, requesting rides, powering logistics, creating bots and so much more.
