@@ -306,6 +306,10 @@ latitude/longitude, and text search based upon categories, address, city, provin
 - [Yelp](https://www.yelp.com/developers/documentation/v2/overview) - You can search location using geo bounding box, longitude and latitude, neighborhood, address or city and filter listings by “where”, using a list of support categories.
 - [YP](https://publisher.yp.com/) - Providing a places search that can be queried by keyword and longitude/latitude, street address, city, postal code, Neighborhood, state, points of interest or by phone number.
 
+### Retail
+
+- [Amazon Product Advertising API](http://docs.aws.amazon.com/AWSECommerceService/latest/DG/Welcome.html) - Get access to the data used by Amazon including items for sale, customer reviews, seller reviews, item search, product promotions, and more. 
+
 ### Social Media
 
 - [Instagram](https://www.instagram.com/developer/) - Search photos by location, user, tags, view trending photos, and make custom items.
