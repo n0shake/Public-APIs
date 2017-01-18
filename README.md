@@ -49,6 +49,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 - [Transportation] (#transportation)
 - [URL Shorteners] (#url-shorteners)
 - [Weather] (#weather)
+- [Resources For Design and Discovery of APIs](#resources-for-design-and-discovery-of-apis)
 - [More Resources] (#more-resources)
 - [Contribute] (#contributions)
 
