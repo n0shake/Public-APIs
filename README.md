@@ -233,7 +233,7 @@ APIs
 
 ### Movies
 
-- [OMDB](https://www.omdbapi.com/) - The OMDb API is a free web service to obtain movie information. ![Open Source](https://raw.githubusercontent.com/Abhishaker17/Awesome-APIs/master/opensource.png?token=AH5Y2imVR5ukgG9533IEqXnP-RJWxVJQks5W4PuNwA%3D%3D "Open Source")
+- [OMDB](https://www.omdbapi.com/) - The OMDb API is a free web service to obtain movie information.
 
 ### Music
 
