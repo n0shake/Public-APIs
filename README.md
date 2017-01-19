@@ -176,8 +176,7 @@ APIs
 
 - [WebPurify](https://www.webpurify.com/image-moderation/) - Provides live image moderation by humans. Free for first 100 images. 2¢ per image after. 💸
 - [CheckNu.de](http://www.checknu.de/) - Minimum quality insurance for you user's images, detect nude photo easily. Free without limitation.
-- [nullnude.com](http://www.nullnude.com/) - The adult content detection API. Free for 600 images per month.
-- [sightengine.com](http://www.sightengine.com/) - The Realtime image moderation API.
+- [NullNude.com](http://www.nullnude.com/) - The adult content detection API. Free for 600 images per month. 💸
 
 
 ### IoT
