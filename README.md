@@ -252,7 +252,7 @@ APIs
 - [Sound Cloud](https://developers.soundcloud.com) - Using the SoundCloud API, you can build applications that take sound on the web to the next level.
 - [Rhapsody](https://developer.rhapsody.com/) - Access metadata, user’s entire library of music and do much more.
 - [MusicGraph](https://developer.musicgraph.com) - Search through more than 7 billion music facts and connections.
-- [music-api](https://github.com/LIU9293/musicAPI) - Centralized Node.JS API SDK for xiami, netease, and qq music.(Top 3 music provider in China)
+- [musicApi](https://github.com/LIU9293/musicAPI) - Centralized Node.JS API SDK for Xiami, Netease, and QQ music - The Top 3 music providers in China.
 
 ### Music Analytics
 
