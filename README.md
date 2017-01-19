@@ -233,7 +233,7 @@ APIs
 - [WolframAlpha](http://products.wolframalpha.com/api/) - Integrate top of the line computational knowledge into your applications through the WolframAlpha API. 💸
 - [RestCountries](https://restcountries.eu) - Get information about countries via a RESTful API. ![Open Source](https://raw.githubusercontent.com/Abhishaker17/Awesome-APIs/master/opensource.png?token=AH5Y2imVR5ukgG9533IEqXnP-RJWxVJQks5W4PuNwA%3D%3D "Open Source")
 - [Pastebin](http://pastebin.com/api) - Quickly share text or code, with support for over 250 languages for syntax highlighting.
-- [NASA](https://api.nasa.gov/index.html) - Get NASA data, including imagery.
+- [NASA](https://api.nasa.gov/index.html) - Get NASA data, including imagery, list of asteroids based on their closest approach date to Earth and much more.
 
 ### Movies
 
