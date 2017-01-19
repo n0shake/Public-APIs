@@ -7,4 +7,4 @@ before_script:
   - gem install awesome_bot
 
 script:
-- awesome_bot README.md --allow-dupe --allow-redirect --white-list https://coinkite.com/developers,https://publisher.yp.com/,https://azure.microsoft.com/en-us/services/cognitive-services/,https://developers.soundcloud.com, https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png, https://creativecommons.org/licenses/by-nc-sa/4.0/, http://swagger.io/
+- awesome_bot README.md --allow-dupe --allow-redirect --white-list https://coinkite.com/developers,https://publisher.yp.com/,https://azure.microsoft.com/en-us/services/cognitive-services/,https://developers.soundcloud.com
