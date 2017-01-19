@@ -27,6 +27,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 - [File Storage and Manipulation] (#file-storage-and-manipulation)
 - [Fitness] (#fitness)
 - [Google] (#google)
+- [Identity Verification] (#identity-verification)
 - [Image Moderation] (#image-moderation)
 - [IoT] (#iot)
 - [Login and Authentication] (#login-authentication)
@@ -177,6 +178,11 @@ APIs
 - [Google Classroom API](https://developers.google.com/classroom/?hl=en) - The Google Classroom API. *v1*
 - [The Google Fonts Developer API.](https://developers.google.com/fonts/?hl=en) - The Google Fonts API helps you add fonts to any web page. *v1*
 - [Google Identity Toolkit API.](https://developers.google.com/identity/) - Help the third party sites to implement federated login. *v1*
+
+### Identity Verification
+
+- [BlockScore](https://docs.blockscore.com/) - A real-time API for verifying an identity by name, address, date of birth, and social security number.
+- [Cognito](https://cognitohq.com/docs) - A powerful API for verifying and retrieving identity information. Can take a customer's cellphone number and return name, address history, full SSN, and date of birth.
 
 ### Image Moderation
 
