@@ -7,7 +7,6 @@ This is an attempt to categorise different APIs scoured from the web which make 
 > *Items marked with ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") are open-source
 > *Items marked with 💸 are trial based APIs
 
-
 ## Table of Contents
 
 - [Advertising] (#advertising)
@@ -25,6 +24,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 - [Face Recognition] (#face-recognition)
 - [File Storage and Manipulation] (#file-storage-and-manipulation)
 - [Fitness] (#fitness)
+- [Flight] (#flight)
 - [Google] (#google)
 - [Image Moderation] (#image-moderation)
 - [IoT] (#iot)
@@ -107,6 +107,7 @@ APIs
 - [Bitcoincharts](https://bitcoincharts.com/about/markets-api/) - You can use this API to include markets data in your websites, mobile apps or desktop applets.
 - [ShapeShift.io](https://shapeshift.io/) - Exchange between cryptocurrencies without an account.  Well documented API for easy use.
 - [Exchange Rates API](https://blockchain.info/api/exchange_rates_api) - Market Prices and exchanges rates api.
+- [Fixer Foreign Calculator](http://fixer.io/) - JSON API for foreign exchange rates and currency conversion
 
 ### Captcha
 - [Google reCAPTCHA](https://developers.google.com/recaptcha/intro?hl=en) - ReCAPTCHA lets you embed a CAPTCHA in your web pages in order to protect them against spam and other types of automated abuse.
@@ -157,6 +158,10 @@ APIs
 - [Strava](https://strava.github.io/api/) - API for accessing and managing data about athletes, activities and segments.
 - [Withings](http://oauth.withings.com/api) - Access to data from Withings activity trackers and body measures.
 
+### Flight
+
+- [British Airways](https://developer.ba.com/page) - British Airways APIs.
+
 ### Google
 
 - [Google BigQuery API](https://cloud.google.com/bigquery/docs/reference/rest/v2/) - A data platform for customers to create, manage, share and query data. *v2*
@@ -175,6 +180,7 @@ APIs
 ### Image Moderation
 
 - [WebPurify](https://www.webpurify.com/image-moderation/) - Provides live image moderation by humans. Free for first 100 images. 2¢ per image after. 💸
+- [Dribble](http://developer.dribbble.com/) - Documentation and resources for developers building applications with the Dribbble API.
 
 ### IoT
 
@@ -193,7 +199,7 @@ APIs
 - [LinkedIn](https://developer.linkedin.com/docs/signin-with-linkedin) - Make it convenient for your users to sign in with their professional identity.
 - [Google Identity](https://developers.google.com/identity/) - Build an auth system that will grow with your business and reduce the friction of getting users into your app.
 - [Instagram](https://www.instagram.com/developer/authentication/) - Access to Instagram’s OAuth API.
-- [PayPal](https://developer.paypal.com/docs/integration/direct/identity/log-in-with-paypal/) - Enables your customers to sign in to your web site quickly and securely using their PayPal login credentials. 
+- [PayPal](https://developer.paypal.com/docs/integration/direct/identity/log-in-with-paypal/) - Enables your customers to sign in to your web site quickly and securely using their PayPal login credentials.
 - [Salesforce](https://developer.salesforce.com/docs/atlas.en-us.api_rest.meta/api_rest/intro_understanding_authentication.htm) - Salesforce uses the OAuth protocol to allow users of applications to securely access data without having to reveal username and password credentials.
 - [Firebase](https://firebase.google.com/docs/reference/) - Authentication, analytics, cloud messaging, crash reporting, ads and more.  
 - [Naver Login for Apps](https://developers.naver.com/products/login/api) - Access to Naver’s Authentication API.
@@ -275,6 +281,9 @@ APIs
 ### News Services
 
 - [NewsAPI](https://newsapi.org/) - 70+ news sources and their headlines, one API.
+- [New York Times](http://developer.nytimes.com/) -  New York Times developer network and  API.
+- [The Guardian API](http://open-platform.theguardian.com/documentation/) -  The Guardian platform and  API.
+- [Hackernews API](https://github.com/HackerNews/API) -  Hacker News API.
 
 ### Natural Language Processing
 
