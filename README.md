@@ -4,7 +4,7 @@
 
 This is an attempt to categorise different APIs scoured from the web which make their resources available for consumption.
 
-> *Items marked with ![Open Source](https://raw.githubusercontent.com/Abhishaker17/Public-APIs/master/opensource.png?token=AH5Y2imVR5ukgG9533IEqXnP-RJWxVJQks5W4PuNwA%3D%3D "Open Source") are open-source
+> *Items marked with ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") are open-source
 > *Items marked with 💸 are trial based APIs
 
 
