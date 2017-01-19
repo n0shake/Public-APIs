@@ -198,8 +198,7 @@ APIs
 - [Firebase](https://firebase.google.com/docs/reference/) - Authentication, analytics, cloud messaging, crash reporting, ads and more.  
 - [Naver Login for Apps](https://developers.naver.com/products/login/api) - Access to Naver’s Authentication API.
 - [Kakao Login for Apps](https://developers.kakao.com/features/platform) - Access to Kakao’s Authentication API.
-- [Auth0](https://auth0.com) - Authenticate and authorize apps and APIs with any identity provider running on any stack any device or cloud.
-
+- [Auth0](https://auth0.com) - Authenticate and authorize apps and APIs with any identity provider running on any stack any device or cloud. Free for 700 active users.
 
 ### Machine Learning
 
