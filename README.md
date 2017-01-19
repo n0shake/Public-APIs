@@ -404,7 +404,7 @@ latitude/longitude, and text search based upon categories, address, city, provin
 
 ### Contributions
 
-Pull requests are welcome. Please adhere to the [guidelines](https://github.com/abhishekbanthia/Public-APIs/blob/master/Contributing%20Guidelines.md).
+Pull requests are welcome. Please adhere to the [guidelines](https://github.com/abhishekbanthia/Public-APIs/blob/master/CONTRIBUTING.md).
 
 # License
 
