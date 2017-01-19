@@ -48,6 +48,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 - [Sport] (#sport)
 - [Transportation] (#transportation)
 - [URL Shorteners] (#url-shorteners)
+- [Videogames] (#videogames)
 - [Weather] (#weather)
 - [Resources For Design and Discovery of APIs](#resources-for-design-and-discovery-of-apis)
 - [More Resources] (#more-resources)
@@ -362,6 +363,12 @@ latitude/longitude, and text search based upon categories, address, city, provin
 - [Po.st](https://post.zendesk.com/hc/en-us/articles/200328516-Po-st-REST-API) - Shorten URLs, Expand shortened URLs, see statistics etc.
 - [Anon.click](https://anon.click/api/) - Shorten long URLs and optionally protect them with passwords or captcha. No registration required.
 - [Naver URL Shortener](https://developers.naver.com/products/shortenurl) - Access to Naver’s shorten url API.
+
+### Videogames
+
+- [GiantBomb](http://www.giantbomb.com/api/) - API to query the GiantBomb database for videogames, characters, companies, genres and many more.
+- [IGDB](https://www.igdb.com/api) - Access the International Games Database and get information about videogames, characters, companies, genres and many more. Commercial usage is allowed.
+- [TheGamesDB.net](http://wiki.thegamesdb.net/index.php?title=API_Introduction) - Free API to access information about videogames, platforms, genres and ratings.
 
 ### Weather
 
