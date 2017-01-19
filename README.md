@@ -155,6 +155,7 @@ APIs
 - [Amazon S3] (https://aws.amazon.com/de/documentation/s3/) - API that provides access to stored files and can be added easily to any service - and it's free for twelve months.
 - [Cloudinary] (http://cloudinary.com/documentation) - API for image and video storage and manipulation - free for up to 75,000 images and 7,500 manipulations per month, good documentation, it can also manipulate GIFs and PDFs.
 - [Filestack] (https://filestack.com/docs/getting-started) - API for image and file manipulation, 250 uploads and 500 uploads per month for free, free CDN, HTML widget.
+- [Microsoft Graph] (https://graph.microsoft.io/en-us/docs/api-reference/v1.0/resources/onedrive) - API for accessing stored files and photos for personal and enterprise users with high resolution thumbnails and Microsoft Office APIs.
 
 ### Fitness
 
