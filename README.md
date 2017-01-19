@@ -1,10 +1,10 @@
-# Public-APIs [![Build Status](https://travis-ci.org/abhishekbanthia/Awesome-APIs.svg?branch=master)](https://travis-ci.org/abhishekbanthia/Awesome-APIs)
+# Public-APIs [![Build Status](https://travis-ci.org/abhishekbanthia/Public-APIs.svg?branch=master)](https://travis-ci.org/abhishekbanthia/Public-APIs)
 
 # Introduction
 
 This is an attempt to categorise different APIs scoured from the web which make their resources available for consumption.
 
-> *Items marked with ![Open Source](https://raw.githubusercontent.com/Abhishaker17/Awesome-APIs/master/opensource.png?token=AH5Y2imVR5ukgG9533IEqXnP-RJWxVJQks5W4PuNwA%3D%3D "Open Source") are open-source
+> *Items marked with ![Open Source](https://raw.githubusercontent.com/Abhishaker17/Public-APIs/master/opensource.png?token=AH5Y2imVR5ukgG9533IEqXnP-RJWxVJQks5W4PuNwA%3D%3D "Open Source") are open-source
 > *Items marked with 💸 are trial based APIs
 
 
@@ -70,7 +70,7 @@ APIs
 - [Clicky](https://clicky.com/help/api) - Allows you to extract your web site's traffic data into several formats, making it easy to integrate, analyze, or store your data within your own application.
 - [Woopra](https://www.woopra.com/docs/developer/analytics-api/) - Real-time website analysis tool that targets customer engagement.
 - [MixPanel](https://mixpanel.com/help/reference) - Analytics for mobile and web which helps you analyze the actions people take in your application.
-- [Countly](http://resources.count.ly/reference) - Self-hosted or private cloud mobile, web and desktop analytics. ![Open Source](https://raw.githubusercontent.com/Abhishaker17/Awesome-APIs/master/opensource.png?token=AH5Y2imVR5ukgG9533IEqXnP-RJWxVJQks5W4PuNwA%3D%3D "Open Source")
+- [Countly](http://resources.count.ly/reference) - Self-hosted or private cloud mobile, web and desktop analytics. ![Open Source](https://raw.githubusercontent.com/Abhishaker17/Public-APIs/master/opensource.png?token=AH5Y2imVR5ukgG9533IEqXnP-RJWxVJQks5W4PuNwA%3D%3D "Open Source")
 - [IBM Digital Analytics](http://www.scl.com/insights/blog/using-the-ibm-digital-analytics-api-to-get-real-time-data/) - Web Analytics tool often used by e-commerce websites.
 - [Open Web Analytics](https://github.com/padams/Open-Web-Analytics/wiki/Data-Access-API) - Provides a way to request and work with your data outside of the OWA reporting interface.
 - [Google Analytics](https://developers.google.com/analytics/?hl=en) - Google Analytics provides APIs to collect, configure, and report on user-interactions with your online content.
@@ -139,7 +139,7 @@ APIs
 ### Entertainment
 - [Marvel](https://developer.marvel.com/) - Access over 70 years of comic data with Marvel's official developer API.
 - [Comic Vine](http://comicvine.gamespot.com/api/) - An extremely mature, well organized and continuely updated resource of comic information.
-- [Pokéapi](https://pokeapi.co/) - All the Pokémon data you'll ever need, in one place. ![Open Source](https://raw.githubusercontent.com/Abhishaker17/Awesome-APIs/master/opensource.png?token=AH5Y2imVR5ukgG9533IEqXnP-RJWxVJQks5W4PuNwA%3D%3D "Open Source")
+- [Pokéapi](https://pokeapi.co/) - All the Pokémon data you'll ever need, in one place. ![Open Source](https://raw.githubusercontent.com/Abhishaker17/Public-APIs/master/opensource.png?token=AH5Y2imVR5ukgG9533IEqXnP-RJWxVJQks5W4PuNwA%3D%3D "Open Source")
 
 ### Face Recognition
 
@@ -178,7 +178,7 @@ APIs
 
 ### IoT
 
-- [Zetta](http://www.zettajs.org/) - An open source platform built on Node.js for creating IoT servers that run across geo-distributed computers and the cloud. ![Open Source](https://raw.githubusercontent.com/Abhishaker17/Awesome-APIs/master/opensource.png?token=AH5Y2imVR5ukgG9533IEqXnP-RJWxVJQks5W4PuNwA%3D%3D "Open Source")
+- [Zetta](http://www.zettajs.org/) - An open source platform built on Node.js for creating IoT servers that run across geo-distributed computers and the cloud. ![Open Source](https://raw.githubusercontent.com/Abhishaker17/Public-APIs/master/opensource.png?token=AH5Y2imVR5ukgG9533IEqXnP-RJWxVJQks5W4PuNwA%3D%3D "Open Source")
 - [Temboo SDK](https://temboo.com/download) - This platform acts as a layer on top of third-party APIs, using code snippets to trigger complex processes that run through their cloud platform.
 - [Xively](https://developer.xively.com/reference) - Uses free and open libraries to let you connect different types of hardware, using a variety of languages to their cloud service.
 - [ThingSpeak](https://github.com/iobridge/ThingSpeak) - “Internet of Things” application and API to store and retrieve data from things using HTTP over the Internet or via a Local Area Network.
@@ -231,7 +231,7 @@ APIs
 - [FreeDB](http://www.freedb.org/) - Look up CD information using the freed database.
 - [QuantOneMusic](http://quantonemusic.com/) - Answers the need for digital music data.
 - [WolframAlpha](http://products.wolframalpha.com/api/) - Integrate top of the line computational knowledge into your applications through the WolframAlpha API. 💸
-- [RestCountries](https://restcountries.eu) - Get information about countries via a RESTful API. ![Open Source](https://raw.githubusercontent.com/Abhishaker17/Awesome-APIs/master/opensource.png?token=AH5Y2imVR5ukgG9533IEqXnP-RJWxVJQks5W4PuNwA%3D%3D "Open Source")
+- [RestCountries](https://restcountries.eu) - Get information about countries via a RESTful API. ![Open Source](https://raw.githubusercontent.com/Abhishaker17/Public-APIs/master/opensource.png?token=AH5Y2imVR5ukgG9533IEqXnP-RJWxVJQks5W4PuNwA%3D%3D "Open Source")
 - [Pastebin](http://pastebin.com/api) - Quickly share text or code, with support for over 250 languages for syntax highlighting.
 
 ### Movies
@@ -259,7 +259,7 @@ APIs
 
 ### Music Identification
 
-- [Acoustid](https://acoustid.org/webservice) - Supports searching through their fingerprint database. ![Open Source](https://raw.githubusercontent.com/Abhishaker17/Awesome-APIs/master/opensource.png?token=AH5Y2imVR5ukgG9533IEqXnP-RJWxVJQks5W4PuNwA%3D%3D "Open Source")
+- [Acoustid](https://acoustid.org/webservice) - Supports searching through their fingerprint database. ![Open Source](https://raw.githubusercontent.com/Abhishaker17/Public-APIs/master/opensource.png?token=AH5Y2imVR5ukgG9533IEqXnP-RJWxVJQks5W4PuNwA%3D%3D "Open Source")
 - [Gracenote](https://developer.gracenote.com/) - Largest source of music and video metadata on the planet.
 
 ### Music Lyrics
@@ -282,8 +282,8 @@ APIs
 - [AlchemyAPI - IBM Company](http://www.alchemyapi.com/api) - Uses NLP and ML algorithms to extract semantic meta-data from content.
 - [Open Calais](http://www.opencalais.com/opencalais-api/) - Good entity extraction, no sentiment analysis.
 - [Semantria](https://www.lexalytics.com/) - SAAS API based on Lexalytics engine. #Paid
-- [Datum Box](http://www.datumbox.com/machine-learning-api/) - Datumbox offers a powerful open-source Machine Learning Framework written in Java. ![Open Source](https://raw.githubusercontent.com/Abhishaker17/Awesome-APIs/master/opensource.png?token=AH5Y2imVR5ukgG9533IEqXnP-RJWxVJQks5W4PuNwA%3D%3D "Open Source")
-- [Wit AI](https://wit.ai/) - Provides an intent-based NLP API to easily build text and audio based chat bots. ![Open Source](https://raw.githubusercontent.com/Abhishaker17/Awesome-APIs/master/opensource.png?token=AH5Y2imVR5ukgG9533IEqXnP-RJWxVJQks5W4PuNwA%3D%3D "Open Source")
+- [Datum Box](http://www.datumbox.com/machine-learning-api/) - Datumbox offers a powerful open-source Machine Learning Framework written in Java. ![Open Source](https://raw.githubusercontent.com/Abhishaker17/Public-APIs/master/opensource.png?token=AH5Y2imVR5ukgG9533IEqXnP-RJWxVJQks5W4PuNwA%3D%3D "Open Source")
+- [Wit AI](https://wit.ai/) - Provides an intent-based NLP API to easily build text and audio based chat bots. ![Open Source](https://raw.githubusercontent.com/Abhishaker17/Public-APIs/master/opensource.png?token=AH5Y2imVR5ukgG9533IEqXnP-RJWxVJQks5W4PuNwA%3D%3D "Open Source")
 
 ### Placeholder Images
 
@@ -326,12 +326,12 @@ latitude/longitude, and text search based upon categories, address, city, provin
 - [GoodReads](https://www.goodreads.com/api) - Allows developers access to Goodreads data in order to help websites or applications that deal with books.
 - [Telegram](https://core.telegram.org/) - The Telegram API allows you to build your own customized Telegram clients.
 - [Twitch](https://github.com/justintv/Twitch-API) - The Twitch API enables you to develop your own applications using the rich feature set that Twitch provides.
-- [Reddit](https://github.com/reddit/reddit/wiki/API) - API to build clients, crawlers, scrapers, and browser extensions. ![Open Source](https://raw.githubusercontent.com/Abhishaker17/Awesome-APIs/master/opensource.png?token=AH5Y2imVR5ukgG9533IEqXnP-RJWxVJQks5W4PuNwA%3D%3D "Open Source")
+- [Reddit](https://github.com/reddit/reddit/wiki/API) - API to build clients, crawlers, scrapers, and browser extensions. ![Open Source](https://raw.githubusercontent.com/Abhishaker17/Public-APIs/master/opensource.png?token=AH5Y2imVR5ukgG9533IEqXnP-RJWxVJQks5W4PuNwA%3D%3D "Open Source")
 - [Zomato](https://developers.zomato.com/api) - Zomato APIs give you access to the freshest and most exhaustive information for over 1.5 million restaurants across 10,000 cities globally.
 - [Delicious](https://github.com/domainersuitedev/delicious-api) - Access to Delicious’s API.
 - [Vimeo](https://developer.vimeo.com/) - Access to Vimeo’s API.
 - [Daily Motion](https://developer.dailymotion.com/) - Build applications centered around DailyMotion.
-- [EventBrite](https://github.com/eventbrite/eventbrite-sdk-python) - The Eventbrite Python SDK makes it trivial to interact with the Eventbrite API. ![Open Source](https://raw.githubusercontent.com/Abhishaker17/Awesome-APIs/master/opensource.png?token=AH5Y2imVR5ukgG9533IEqXnP-RJWxVJQks5W4PuNwA%3D%3D "Open Source")
+- [EventBrite](https://github.com/eventbrite/eventbrite-sdk-python) - The Eventbrite Python SDK makes it trivial to interact with the Eventbrite API. ![Open Source](https://raw.githubusercontent.com/Abhishaker17/Public-APIs/master/opensource.png?token=AH5Y2imVR5ukgG9533IEqXnP-RJWxVJQks5W4PuNwA%3D%3D "Open Source")
 - [Wordpress](https://codex.wordpress.org/WordPress_APIs) - Access to Wordpress’ API.
 - [Imgur](https://api.imgur.com/) - Imgur's API exposes the entire Imgur infrastructure via a standardized programmatic interface.
 - [Kakao](https://developers.kakao.com/features/kakao) - Access to Kakao’s APIs.
@@ -380,8 +380,8 @@ latitude/longitude, and text search based upon categories, address, city, provin
 - [Louis Dorrad](http://www.louisdorard.com/blog/machine-learning-apis-comparison)
 
 ### Resources For Design and Discovery of APIs
-- [Swagger](http://swagger.io/) - Tools for designing, building, and documenting RESTful APIs. ![Open Source](https://raw.githubusercontent.com/Abhishaker17/Awesome-APIs/master/opensource.png?token=AH5Y2imVR5ukgG9533IEqXnP-RJWxVJQks5W4PuNwA%3D%3D "Open Source")
-- [OpenAPI](https://www.openapis.org) - Standard, language-agnostic interface to REST APIs (based on [Swagger](http://swagger.io/)). ![Open Source](https://raw.githubusercontent.com/Abhishaker17/Awesome-APIs/master/opensource.png?token=AH5Y2imVR5ukgG9533IEqXnP-RJWxVJQks5W4PuNwA%3D%3D "Open Source")
+- [Swagger](http://swagger.io/) - Tools for designing, building, and documenting RESTful APIs. ![Open Source](https://raw.githubusercontent.com/Abhishaker17/Public-APIs/master/opensource.png?token=AH5Y2imVR5ukgG9533IEqXnP-RJWxVJQks5W4PuNwA%3D%3D "Open Source")
+- [OpenAPI](https://www.openapis.org) - Standard, language-agnostic interface to REST APIs (based on [Swagger](http://swagger.io/)). ![Open Source](https://raw.githubusercontent.com/Abhishaker17/Public-APIs/master/opensource.png?token=AH5Y2imVR5ukgG9533IEqXnP-RJWxVJQks5W4PuNwA%3D%3D "Open Source")
 - [Apiary](https://apiary.io/) - Collaborative tool to design APIs. 💸
 
 ### More Resources
@@ -392,10 +392,10 @@ latitude/longitude, and text search based upon categories, address, city, provin
 
 ### Contributions
 
-Pull requests are welcome. Please adhere to the [guidelines](https://github.com/abhishekbanthia/Awesome-APIs/blob/master/Contributing%20Guidelines.md).
+Pull requests are welcome. Please adhere to the [guidelines](https://github.com/abhishekbanthia/Public-APIs/blob/master/Contributing%20Guidelines.md).
 
 # License
 
 <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/Public)
