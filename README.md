@@ -156,6 +156,7 @@ APIs
 - [FitBit](https://dev.fitbit.com/docs/) - Web API for accessing data from Fitbit activity trackers, Aria scale, and manually entered logs.
 - [Strava](https://strava.github.io/api/) - API for accessing and managing data about athletes, activities and segments.
 - [Withings](http://oauth.withings.com/api) - Access to data from Withings activity trackers and body measures.
+- [Lumo](https://dev.lumobodytech.com/docs/) - The [Lumo](http://www.lumobodytech.com/) API provides access to detailed user activity with 5 minute resolution as well as access to user profile information, such as height, weight, gender, etc. 
 
 ### Google
 
