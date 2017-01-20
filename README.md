@@ -146,6 +146,8 @@ APIs
 - [Pearson Dictionaries API](http://developer.pearson.com/apis/dictionaries) - (*BETA*) Gives access to a very large database of words and phrases with through explanations - free usage for up to 4 million calls/month.
 
 ### Entertainment
+
+- [BBC](http://www.bbc.co.uk/developer/technology/apis.html) - Variety of BBC APIs with access to interesting data from Radio Labs, programs played on BBC and linking data around the artist played on BBC.
 - [Marvel](https://developer.marvel.com/) - Access over 70 years of comic data with Marvel's official developer API.
 - [Comic Vine](http://comicvine.gamespot.com/api/) - An extremely mature, well organized and continuely updated resource of comic information.
 - [Pokéapi](https://pokeapi.co/) - All the Pokémon data you'll ever need, in one place. ![Open Source](hhttps://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
@@ -244,15 +246,11 @@ APIs
 
 ### Miscellaneous
 
-- [BBC](http://www.bbc.co.uk/developer/technology/apis.html) - Variety of BBC APIs with access to interesting data from Radio Labs, programs played on BBC and linking data around the artist played on BBC.
-- [MuseScore](http://developers.musescore.com/) - REST based API which provides music metadata.
 - [Spreaker](https://developers.spreaker.com/) - Enables developers to read and write data to Spreaker.
 - [FreeDB](http://www.freedb.org/) - Look up CD information using the freed database.
-- [QuantOneMusic](http://quantonemusic.com/) - Answers the need for digital music data.
 - [WolframAlpha](http://products.wolframalpha.com/api/) - Integrate top of the line computational knowledge into your applications through the WolframAlpha API. 💸
 - [RestCountries](https://restcountries.eu) - Get information about countries via a RESTful API. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
 - [Pastebin](http://pastebin.com/api) - Quickly share text or code, with support for over 250 languages for syntax highlighting.
-- [NASA](https://api.nasa.gov/index.html) - Get NASA data, including imagery, list of asteroids based on their closest approach date to Earth and much more.
 
 ### Movies
 
@@ -267,6 +265,8 @@ APIs
 - [Rhapsody](https://developer.rhapsody.com/) - Access metadata, user’s entire library of music and do much more.
 - [MusicGraph](https://developer.musicgraph.com) - Search through more than 7 billion music facts and connections.
 - [musicApi](https://github.com/LIU9293/musicAPI) - Centralized Node.JS API SDK for Xiami, Netease, and QQ music - The Top 3 music providers in China.
+- [MuseScore](http://developers.musescore.com/) - REST based API which provides music metadata.
+- [QuantOneMusic](http://quantonemusic.com/) - Answers the need for digital music data.
 
 ### Music Analytics
 
@@ -335,6 +335,7 @@ latitude/longitude, and text search based upon categories, address, city, provin
 
 - [Open Science Framework](https://osf.io/y9jdt/wiki/home/) - A free, open source workflow/project management system for storing, collaborating on, and sharing research across the scholarly life cycle. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
 - [SHARE](http://share-research.readthedocs.io/en/latest/) - A free, open dataset of scholarly research activity across the scholarly lifecycle. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
+- [NASA](https://api.nasa.gov/index.html) - Get NASA data, including imagery, list of asteroids based on their closest approach date to Earth and much more.
 
 ### Social Media
 
