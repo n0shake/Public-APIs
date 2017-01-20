@@ -45,6 +45,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 - [News](#news-services)
 - [Placeholder Images] (#placeholder-images)
 - [Places] (#places)
+- [Science] (#science)
 - [Social Media] (#social-media)
 - [Source Control] (#source-control)
 - [Sport] (#sport)
@@ -325,6 +326,11 @@ latitude/longitude, and text search based upon categories, address, city, provin
 ### Retail
 
 - [Amazon Product Advertising API](http://docs.aws.amazon.com/AWSECommerceService/latest/DG/Welcome.html) - Get access to the data used by Amazon including items for sale, customer reviews, seller reviews, item search, product promotions, and more. 
+
+### Science
+
+- [Open Science Framework](https://osf.io/y9jdt/wiki/home/) - A free, open source workflow/project management system for storing, collaborating on, and sharing research across the scholarly life cycle. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
+- [SHARE](http://share-research.readthedocs.io/en/latest/) - A free, open dataset of scholarly research activity across the scholarly lifecycle. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
 
 ### Social Media
 
