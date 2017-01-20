@@ -122,6 +122,7 @@ APIs
 - [Google Places](https://developers.google.com/places/?hl=en) - Access to Google Places’ API.
 
 ### Commerce
+- [Marketcloud](https://www.marketcloud.it) - eCommerce APIs for developers. It covers inventory and database, carts and checkout, payments, user authentication, and more. You just bring the frontend.
 - [Moltin](https://www.moltin.com/developers) - Unified APIs for inventory, carts, the checkout process, payments and more, so you can focus on creating seamless customer experiences at any scale.
 
 ### Content
