@@ -242,6 +242,7 @@ APIs
 - [Scribble](https://www.scribblemaps.com/api/) - The Scribble Maps API is a cross browser, mobile ready, HTML5/JavaScript, interactive map builder.
 - [Naver Maps API](https://developers.naver.com/products/map) - Naver Maps provide multiple APIs for Korean map.
 - [Daum Maps API](http://apis.map.daum.net/) - Daum Maps provide multiple APIs for Korean map.
+- [Leaflet.js](http://leafletjs.com/) - An open-source JavaScript library for mobile-friendly interactive maps. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
 
 
 ### Miscellaneous
