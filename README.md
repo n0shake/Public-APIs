@@ -160,6 +160,7 @@ APIs
 - [Comic Vine](http://comicvine.gamespot.com/api/) - An extremely mature, well organized and continuely updated resource of comic information.
 - [Marvel](https://developer.marvel.com/) - Access over 70 years of comic data with Marvel's official developer API.
 - [Pokéapi](https://pokeapi.co/) - All the Pokémon data you'll ever need, in one place. ![Open Source](hhttps://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
+- [Swapi](https://swapi.co/documentation) - Star Wars API with data you didn't even know existed, or that you needed to know.
 
 ### Face Recognition
 
@@ -205,6 +206,7 @@ APIs
 ### Image Moderation
 
 - [CheckNu.de](http://www.checknu.de/) - Minimum quality insurance for you user's images, detect nude photo easily. Free without limitation.
+- [Clarifai](https://developer.clarifai.com/guide/publicmodels#nsfw) - AI API that analyzes images and videos and returns probability scores on the likelihood that the image contains pornography.
 - [NullNude.com](http://www.nullnude.com/) - The adult content detection API. Free for 600 images per month. 💸
 - [WebPurify](https://www.webpurify.com/image-moderation/) - Provides live image moderation by humans. Free for first 100 images. 2¢ per image after. 💸
 
@@ -212,6 +214,7 @@ APIs
 ### IoT
 
 - [Particle](https://docs.particle.io/reference/api/) - API to manage Particle devices (including their own Arduino-compatible ones and the Raspberry Pi) and control them. Free for up to 25 devices and 250k events/month.
+- [PubNub](https://www.pubnub.com/docs) - API to make realtime applications with variety of hardware devices including Arduino, RPi, Kinoma, Atmel, Samsung Smart TV WebOS, and more.
 - [Philips Hue](https://developers.meethue.com/documentation/getting-started) - Registration (free) and local Hue Bridge (not free) required - Control Hue brand lights made by Philips.  API calls are made to the Hue Bridge residing on local network.  Includes a web based UI.
 - [SmartThings](http://developer.smartthings.com/) - API for Samsung SmartThings Smart Home Hub products (ZigBee, Z-Wave, IP).
 - [Temboo SDK](https://temboo.com/download) - This platform acts as a layer on top of third-party APIs, using code snippets to trigger complex processes that run through their cloud platform.
