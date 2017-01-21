@@ -6,9 +6,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 
 > *Items marked with ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") are open-source
 > *Items marked with 💸 are trial based APIs
-
 ## Table of Contents
-
 - [Advertising] (#advertising)
 - [Analytics] (#analytics)
 - [Augmented Reality] (#augmented-reality)
@@ -180,7 +178,6 @@ APIs
 ### Image Moderation
 
 - [WebPurify](https://www.webpurify.com/image-moderation/) - Provides live image moderation by humans. Free for first 100 images. 2¢ per image after. 💸
-- [Dribble](http://developer.dribbble.com/) - Documentation and resources for developers building applications with the Dribbble API.
 
 ### IoT
 
@@ -392,6 +389,7 @@ latitude/longitude, and text search based upon categories, address, city, provin
 - [Swagger](http://swagger.io/) - Tools for designing, building, and documenting RESTful APIs. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
 - [OpenAPI](https://www.openapis.org) - Standard, language-agnostic interface to REST APIs (based on [Swagger](http://swagger.io/)). ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
 - [Apiary](https://apiary.io/) - Collaborative tool to design APIs. 💸
+- [Dribble](http://developer.dribbble.com/) - Documentation and resources for developers building applications with the Dribbble API.
 
 ### More Resources
 
