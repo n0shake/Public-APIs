@@ -148,11 +148,13 @@ APIs
 
 - [Cambridge Dictionaries Online](http://dictionary.cambridge.org/license.html) - Access to Cambridge’s custom-developed API. 💸
 - [DictService](http://services.aonaware.com/DictService/DictService.asmx) - This Web Service allows you to access dictionary definitions from the dict.org service.
+
 - [Glosbe API](https://glosbe.com/a-api) - Dictionary API and Translation Memory API description.
 - [Merriam-Webster Dictionary API](http://www.dictionaryapi.com/) - Gives developers access to a big ass resource of dictionary and thesaurus content as well as specialized medical, Spanish, ESL, and student-friendly vocabulary.
-- [Pearson Dictionaries API](http://developer.pearson.com/apis/dictionaries) - (*BETA*) Gives access to a very large database of words and phrases with through explanations - free usage for up to 4 million calls/month.
 - [Wordnik](http://developer.wordnik.com/docs.html#!/word) - Dictionary functions.
 - [Words API](https://www.wordsapi.com/) - Use it to find definitions for more than 150,000 words.
+- [Pearson Dictionaries API](http://developer.pearson.com/apis/dictionaries) - (*BETA*) Gives access to a very large database of words and phrases with thorough explanations - free usage for up to 4 million calls/month.
+
 
 ### Entertainment
 
@@ -252,11 +254,14 @@ APIs
 - [Daum Maps API](http://apis.map.daum.net/) - Daum Maps provide multiple APIs for Korean map.
 - [DigitalGlobe](http://dgdev2016.wpengine.com/maps-api/) - DigitalGlobe Maps API delivers the world's best satellite imagery, straight to your app. #Beta
 - [Google Maps API](https://developers.google.com/maps/?hl=en) - Google Maps APIs are available for Android, iOS, web browsers and through HTTP web services. [Clients can be found here.](https://github.com/googlemaps/)
+- [Leaflet.js](http://leafletjs.com/) - An open-source JavaScript library for mobile-friendly interactive maps. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
 - [Mapbox](https://www.mapbox.com/developers/api/maps/) - Access to MapBox’s API.
 - [Naver Maps API](https://developers.naver.com/products/map) - Naver Maps provide multiple APIs for Korean map.
 - [Scribble](https://www.scribblemaps.com/api/) - The Scribble Maps API is a cross browser, mobile ready, HTML5/JavaScript, interactive map builder.
 - [Yahoo Maps](https://developer.yahoo.com/maps/) - Yahoo Maps lets you easily embed rich and interactive maps using your choice of platform.
 - [Yandex](https://tech.yandex.com/maps/) - API for installing Yandex.Maps and the necessary tools for working it on your web app or site.
+- [Daum Maps API](http://apis.map.daum.net/) - Daum Maps provide multiple APIs for Korean map.
+
 
 ### Miscellaneous
 
@@ -381,10 +386,9 @@ latitude/longitude, and text search based upon categories, address, city, provin
 - [Weibo](http://open.weibo.com/wiki/API%E6%96%87%E6%A1%A3/en) - Programmatic access to China’s most popular microblogging site.
 - [Whatsapp Document Interaction](https://www.whatsapp.com/faq/en/iphone/23559013) - If your application creates photos, videos or audio notes and you’d like your users to share these media using WhatsApp. #Limited
 - [Wordpress](https://codex.wordpress.org/WordPress_APIs) - Access to Wordpress’ API.
+- [Untappd](https://untappd.com/api/docs) - Untappd is a mobile web app that allows you to socially share beers that you're enjoying.
 - [YouTube](https://developers.google.com/youtube/) - Add YouTube functionality to your sites and apps.
 - [Zomato](https://developers.zomato.com/api) - Zomato APIs give you access to the freshest and most exhaustive information for over 1.5 million restaurants across 10,000 cities globally.
-
-
 
 ### Source Control
 
