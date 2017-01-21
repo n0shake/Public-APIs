@@ -333,6 +333,7 @@ APIs
 - [Placehold](https://placehold.it/) - A quick and simple image placeholder service.
 - [PlaceKitten](https://placekitten.com/) - A quick and simple service for getting pictures of kittens for use as placeholders in your designs or code.  
 - [Unsplash](https://unsplash.it/) - Beautiful placeholders using images from the popular [Unsplash](https://unsplash.com/)
+- [PlaceCage](http://www.placecage.com/) - Image placeholder featuring Nick Cage
 
 ### Places
 
