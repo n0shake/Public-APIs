@@ -66,7 +66,7 @@ APIs
 - [Amazon Mobile Ads](https://developer.amazon.com/mobile-ads) - Monetize across platforms with multiple ad formats.
 - [Facebook Marketing API](https://developers.facebook.com/docs/marketing-apis) - Manage ads and campaigns using the Facebook API.
 - [Google AdSense](https://developers.google.com/adsense/?hl=en) - Free, flexible way to earn money from your websites, mobile sites, and site search results.
-- [Google AdWords API](https://developers.google.com/adwords/api/docs/guides/start) - Manage Google AdWords campaigns programmatically. 
+- [Google AdWords API](https://developers.google.com/adwords/api/docs/guides/start) - Manage Google AdWords campaigns programmatically.
 - [Microsoft Advertising Platform - Bing Ads API](https://msdn.microsoft.com/en-us/library/bing-ads-api.aspx) - Provides programmatic access to various advertising technologies.
 - [Yahoo Gemini API](https://developer.yahoo.com/gemini/) - Allows advertisers to manage complex Gemini accounts and campaigns more efficiently.
 
@@ -135,6 +135,7 @@ APIs
 ### Commerce
 - [Marketcloud](https://www.marketcloud.it) - eCommerce APIs for developers. It covers inventory and database, carts and checkout, payments, user authentication, and more. You just bring the frontend.
 - [Moltin](https://www.moltin.com/developers) - Unified APIs for inventory, carts, the checkout process, payments and more, so you can focus on creating seamless customer experiences at any scale.
+- [Stripe](https://stripe.com/docs/api) - Allows both private individuals and businesses to accept payments over the Internet.
 
 ### Content
 
@@ -179,7 +180,7 @@ APIs
 
 - [FitBit](https://dev.fitbit.com/docs/) - Web API for accessing data from Fitbit activity trackers, Aria scale, and manually entered logs.
 - [HealthGraph] (https://runkeeper.com/developer/healthgraph/registration-authorization) - RunKeeper's web-based HealthGraph API presents Health Graph data, and provides information about a user and friends.
-- [Lumo](https://dev.lumobodytech.com/docs/) - The [Lumo](http://www.lumobodytech.com/) API provides access to detailed user activity with 5 minute resolution as well as access to user profile information, such as height, weight, gender, etc. 
+- [Lumo](https://dev.lumobodytech.com/docs/) - The [Lumo](http://www.lumobodytech.com/) API provides access to detailed user activity with 5 minute resolution as well as access to user profile information, such as height, weight, gender, etc.
 - [Strava](https://strava.github.io/api/) - API for accessing and managing data about athletes, activities and segments.
 - [Withings](http://oauth.withings.com/api) - Access to data from Withings activity trackers and body measures.
 
@@ -227,13 +228,13 @@ APIs
 
 - [Auth0](https://auth0.com) - Authenticate and authorize apps and APIs with any identity provider running on any stack any device or cloud. Free for 700 active users.
 - [Facebook Login for Apps](https://developers.facebook.com/docs/facebook-login) - Secure, fast, convenient way to login in your app/website.
-- [Firebase](https://firebase.google.com/docs/reference/) - Authentication, analytics, cloud messaging, crash reporting, ads and more.  
+- [Firebase](https://firebase.google.com/docs/reference/) - Authentication, analytics, cloud messaging, crash reporting, ads and more.
 - [GitHub Authentication](https://developer.github.com/guides/basics-of-authentication/) - Access to GitHub’s Authentication API.
 - [Instagram](https://www.instagram.com/developer/authentication/) - Access to Instagram’s OAuth API.
 - [Kakao Login for Apps](https://developers.kakao.com/features/platform) - Access to Kakao’s Authentication API.
 - [LinkedIn](https://developer.linkedin.com/docs/signin-with-linkedin) - Make it convenient for your users to sign in with their professional identity.
 - [Naver Login for Apps](https://developers.naver.com/products/login/api) - Access to Naver’s Authentication API.
-- [PayPal](https://developer.paypal.com/docs/integration/direct/identity/log-in-with-paypal/) - Enables your customers to sign in to your web site quickly and securely using their PayPal login credentials. 
+- [PayPal](https://developer.paypal.com/docs/integration/direct/identity/log-in-with-paypal/) - Enables your customers to sign in to your web site quickly and securely using their PayPal login credentials.
 - [Salesforce](https://developer.salesforce.com/docs/atlas.en-us.api_rest.meta/api_rest/intro_understanding_authentication.htm) - Salesforce uses the OAuth protocol to allow users of applications to securely access data without having to reveal username and password credentials.
 - [Twitter Sign-in](https://dev.twitter.com/web/sign-in) - Works on websites, iOS, mobile and desktop applications.
 
@@ -330,7 +331,7 @@ APIs
 - [DummyImage](https://dummyimage.com/) - Particularly nice, when compared to some of its competitors, in that it offers a great deal of flexibility.
 - [Lorem Pixel](http://lorempixel.com/) - Placeholder images for every case.
 - [Placehold](https://placehold.it/) - A quick and simple image placeholder service.
-- [PlaceKitten](https://placekitten.com/) - A quick and simple service for getting pictures of kittens for use as placeholders in your designs or code.  
+- [PlaceKitten](https://placekitten.com/) - A quick and simple service for getting pictures of kittens for use as placeholders in your designs or code.
 - [Unsplash](https://unsplash.it/) - Beautiful placeholders using images from the popular [Unsplash](https://unsplash.com/)
 
 ### Places
@@ -348,7 +349,7 @@ latitude/longitude, and text search based upon categories, address, city, provin
 
 ### Retail
 
-- [Amazon Product Advertising API](http://docs.aws.amazon.com/AWSECommerceService/latest/DG/Welcome.html) - Get access to the data used by Amazon including items for sale, customer reviews, seller reviews, item search, product promotions, and more. 
+- [Amazon Product Advertising API](http://docs.aws.amazon.com/AWSECommerceService/latest/DG/Welcome.html) - Get access to the data used by Amazon including items for sale, customer reviews, seller reviews, item search, product promotions, and more.
 
 ### Science
 
