@@ -136,6 +136,7 @@ APIs
 - [Marketcloud](https://www.marketcloud.it) - eCommerce APIs for developers. It covers inventory and database, carts and checkout, payments, user authentication, and more. You just bring the frontend.
 - [Moltin](https://www.moltin.com/developers) - Unified APIs for inventory, carts, the checkout process, payments and more, so you can focus on creating seamless customer experiences at any scale.
 - [Stripe](https://stripe.com/docs/api) - Allows both private individuals and businesses to accept payments over the Internet.
+- [Braintree](https://developers.braintreepayments.com) - Specializes in mobile and web payment systems for ecommerce companies.
 
 ### Content
 
