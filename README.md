@@ -245,6 +245,7 @@ APIs
 - [Google Prediction API](https://cloud.google.com/prediction/docs) - Cloud-based machine learning and pattern matching tool.
 - [IBM Watson](https://developer.ibm.com/watson/) - Simplifies the process of preparing data and makes it easier to run predictive analysis.
 - [Microsoft Azure Machine Learning API](https://azure.microsoft.com/en-us/services/cognitive-services/) - Helps data scientists publish in minutes which once used to take days after they had developed a feasible model.
+- [AYLIEN](https://aylien.com/) - AYLIEN Text Analysis API is a package of Natural Language Processing, Information Retrieval and Machine Learning tools for extracting meaning and insight from textual and visual content with ease.
 
 ### Maps
 
