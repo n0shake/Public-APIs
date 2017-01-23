@@ -277,6 +277,7 @@ APIs
 
 ### Music
 
+- [Discogs](https://www.discogs.com/developers/) - Access database of artists, labels, releases, marketplace and more.
 - [Last.fm](http://www.last.fm/api) -  The Last.fm API allows anyone to build their own programs using Last.fm data, whether they're on the web, the desktop or mobile devices.
 - [MuseScore](http://developers.musescore.com/) - REST based API which provides music metadata.
 - [musicApi](https://github.com/LIU9293/musicAPI) - Centralized Node.JS API SDK for Xiami, Netease, and QQ music - The Top 3 music providers in China.
