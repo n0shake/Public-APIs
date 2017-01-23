@@ -277,7 +277,8 @@ APIs
 
 ### Music
 
-- [Last.fm](http://www.last.fm/api) -  The Last.fm API allows anyone to build their own programs using Last.fm data, whether they're on the web, the desktop or mobile devices.
+- [Deezer](http://developers.deezer.com/api) - Deezer API provides a nice set of services to build up web applications allowing the discovery of Deezer's music catalogue.
+- [Last.fm](http://www.last.fm/api) - The Last.fm API allows anyone to build their own programs using Last.fm data, whether they're on the web, the desktop or mobile devices.
 - [MuseScore](http://developers.musescore.com/) - REST based API which provides music metadata.
 - [musicApi](https://github.com/LIU9293/musicAPI) - Centralized Node.JS API SDK for Xiami, Netease, and QQ music - The Top 3 music providers in China.
 - [MusicGraph](https://developer.musicgraph.com) - Search through more than 7 billion music facts and connections.
