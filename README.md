@@ -102,8 +102,7 @@ APIs
 - [Keen IO](https://keen.io/docs/api/) - Keen IO is a powerful, flexible, and scaleable solution that’s literally Big Data, easy-to-implement and at your fingertips.
 - [Mongo DB](https://github.com/mongodb) - mongoDB is ideal for developers who want precise control over the final results and processes for handling Big Data.
 - [Ryft](http://www.ryft.com/api) - integrate the Ryft ONE’s data analysis capabilities into existing big data environments for faster data analysis and real-time intelligence.
-
-
+- [LinkedData.Center](http://linkeddata.center/home/gdaas) - a RDF graph database as a service with W3C SPARQL query and SPARQL update apis. 💸
 
 ### Bitcoin/Bitcoin Wallets
 
