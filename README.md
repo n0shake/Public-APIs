@@ -321,6 +321,7 @@ APIs
 ### News Services
 
 - [NewsAPI](https://newsapi.org/) - 70+ news sources and their headlines, one API.
+- [The Guardian](http://open-platform.theguardian.com/) - Access a huge range of content from The Guardian.
 
 ### Natural Language Processing
 
