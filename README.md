@@ -265,6 +265,7 @@ APIs
 
 ### Miscellaneous
 
+- [Callook.info](https://callook.info) - Look up information about United States ham radio callsigns.
 - [FreeDB](http://www.freedb.org/) - Look up CD information using the freed database.
 ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
 - [Pastebin](http://pastebin.com/api) - Quickly share text or code, with support for over 250 languages for syntax highlighting.
