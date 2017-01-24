@@ -242,11 +242,11 @@ APIs
 ### Machine Learning
 
 - [Amazon MI API](http://docs.aws.amazon.com/machine-learning/latest/APIReference/Welcome.html) - Amazon Machine Learning API simplifies the process of making predictions that require lots of expertise around model building, data cleansing and statistical analysis.
+- [AYLIEN](http://aylien.com/) - AYLIEN Text Analysis API is a package of Natural Language Processing, Information Retrieval and Machine Learning tools for extracting meaning and insight from textual and visual content with ease.
 - [Big ML](http://bigml.com/api/) - BigML is user-friendly and developer-friendly Machine learning API that mainly concentrates on decision trees.
 - [Google Prediction API](https://cloud.google.com/prediction/docs) - Cloud-based machine learning and pattern matching tool.
 - [IBM Watson](https://developer.ibm.com/watson/) - Simplifies the process of preparing data and makes it easier to run predictive analysis.
 - [Microsoft Azure Machine Learning API](https://azure.microsoft.com/en-us/services/cognitive-services/) - Helps data scientists publish in minutes which once used to take days after they had developed a feasible model.
-- [AYLIEN](http://aylien.com/) - AYLIEN Text Analysis API is a package of Natural Language Processing, Information Retrieval and Machine Learning tools for extracting meaning and insight from textual and visual content with ease.
 
 ### Maps
 
