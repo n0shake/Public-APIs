@@ -175,6 +175,7 @@ APIs
 - [Dropbox] (https://www.dropbox.com/developers) - API for accessing stored files and pictures which is easy to use and free for small amounts of data.
 - [Filestack] (https://filestack.com/docs/getting-started) - API for image and file manipulation, 250 uploads and 500 uploads per month for free, free CDN, HTML widget.
 - [Microsoft Graph] (https://graph.microsoft.io/en-us/docs/api-reference/v1.0/resources/onedrive) - API for accessing stored files and photos for personal and enterprise users with high resolution thumbnails and Microsoft Office APIs.
+- [Yogurl] (http://yogurl.io) - API and CLI for serving files and code over HTTP instantly ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
 
 ### Fitness
 
