@@ -214,6 +214,7 @@ APIs
 
 ### IoT
 
+- [ARTIK Cloud](https://developer.artik.cloud) - ARTIK Cloud is an open data exchange platform for the Internet of Things.
 - [Lelylan](http://dev.lelylan.com/api) - Open Source Internet of Things Cloud Platform. Microservices Architecture. For Developers. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
 - [Particle](https://docs.particle.io/reference/api/) - API to manage Particle devices (including their own Arduino-compatible ones and the Raspberry Pi) and control them. Free for up to 25 devices and 250k events/month.
 - [PubNub](https://www.pubnub.com/docs) - API to make realtime applications with variety of hardware devices including Arduino, RPi, Kinoma, Atmel, Samsung Smart TV WebOS, and more. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
