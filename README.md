@@ -270,6 +270,7 @@ APIs
 - [Callook.info](https://callook.info) - Look up information about United States ham radio callsigns.
 - [FreeDB](http://www.freedb.org/) - Look up CD information using the freed database.
 ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
+- [Labs64 NetLicensing](https://www.labs64.de/confluence/x/pwCo) ([API Test Center](http://io.labs64.com/NetLicensing-API/)) - Innovative License Management Solution.
 - [Pastebin](http://pastebin.com/api) - Quickly share text or code, with support for over 250 languages for syntax highlighting.
 - [Spreaker](https://developers.spreaker.com/) - Enables developers to read and write data to Spreaker.
 - [RestCountries](https://restcountries.eu) - Get information about countries via a RESTful API.
