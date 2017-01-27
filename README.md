@@ -19,6 +19,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 - [Captcha] (#captcha)
 - [Check In] (#check-in)
 - [Commerce] (#commerce)
+- [Communication] (#communication)
 - [Content] (#content)
 - [Data Science] (#data-science)
 - [Dictionary] (#dictionary)
@@ -136,6 +137,9 @@ APIs
 - [Moltin](https://www.moltin.com/developers) - Unified APIs for inventory, carts, the checkout process, payments and more, so you can focus on creating seamless customer experiences at any scale.
 - [Stripe](https://stripe.com/docs/api) - Allows both private individuals and businesses to accept payments over the Internet.
 - [Braintree](https://developers.braintreepayments.com) - Specializes in mobile and web payment systems for ecommerce companies.
+
+### Communication
+- [Exotel](https://exotel.in/) - Exotel is a cloud telephony service provider for small and medium enterprises in India.
 
 ### Content
 
