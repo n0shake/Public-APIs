@@ -46,6 +46,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 - [News](#news-services)
 - [Placeholder Images] (#placeholder-images)
 - [Places] (#places)
+- [Quotes] (#quotes)
 - [Science] (#science)
 - [Social Media] (#social-media)
 - [Source Control] (#source-control)
@@ -360,6 +361,11 @@ APIs
 - [Yahoo GeoPlanet](https://developer.yahoo.com/geo/geoplanet/) - Providing a places search that can be searched by type, county, state, country, oceans, seas, continents, hierarchy and full text search.
 - [Yelp](https://www.yelp.com/developers/documentation/v3/) - You can search location using longitude and latitude, neighborhood, address or city and filter listings by “where”, using a list of support categories.
 - [YP](https://publisher.yp.com/) - Providing a places search that can be queried by keyword and longitude/latitude, street address, city, postal code, Neighborhood, state, points of interest or by phone number.
+
+### Quotes
+
+- [Forismatic](http://api.forismatic.com/api/1.0/) - Gives you a random quote per click.
+- [They Said So](http://quotes.rest/qod.json?category=inspire) - Gives you a random quote per day.
 
 ### Retail
 
