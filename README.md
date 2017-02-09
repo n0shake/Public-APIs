@@ -34,6 +34,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 - [Login and Authentication] (#login-authentication)
 - [Machine Learning] (#machine-learning)
 - [Maps] (#maps)
+- [Math] (#math)
 - [Miscellaneous] (#miscellaneous)
 - [Movies] (#movies)
 - [Music] (#music)
@@ -271,6 +272,9 @@ APIs
 - [Yahoo Maps](https://developer.yahoo.com/maps/) - Yahoo Maps lets you easily embed rich and interactive maps using your choice of platform.
 - [Yandex](https://tech.yandex.com/maps/) - API for installing Yandex.Maps and the necessary tools for working it on your web app or site.
 - [Daum Maps API](http://apis.map.daum.net/) - Daum Maps provide multiple APIs for Korean map.
+
+### Math
+- [Newton](https://newton.now.sh/) - An API for Arithmetic and Symbolic Math. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
 
 
 ### Miscellaneous
