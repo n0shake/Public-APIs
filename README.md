@@ -21,6 +21,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 - [Commerce] (#commerce)
 - [Communication] (#communication)
 - [Content] (#content)
+- [Currency] (#currency)
 - [Data Science] (#data-science)
 - [Dictionary] (#dictionary)
 - [Entertainment] (#entertainment)
@@ -147,6 +148,10 @@ APIs
 ### Content
 
 - [qKast Channel Content](https://github.com/egfx/qKast) - Access live content collections sourced from any page around the web.
+
+### Currency
+
+- [Fixer.io](http://fixer.io/) - JSON API for foreign exchange rates and currency conversion.
 
 ### Data Science
 
