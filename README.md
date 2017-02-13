@@ -1,4 +1,4 @@
-# Public-APIs [![Build Status](https://travis-ci.org/abhishekbanthia/Public-APIs.svg?branch=master)](https://travis-ci.org/abhishekbanthia/Public-APIs)
+# Public-APIs [![Build Status](https://travis-ci.org/abhishekbanthia/Public-APIs.svg?branch=master)](https://travis-ci.org/abhishekbanthia/Public-APIs) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
 # Introduction
 
@@ -10,52 +10,54 @@ This is an attempt to categorise different APIs scoured from the web which make 
 
 ## Table of Contents
 
-- [Advertising] (#advertising)
-- [Analytics] (#analytics)
-- [Augmented Reality] (#augmented-reality)
-- [Bar Code] (#barcode)
-- [Big Data and Analytics] (#big-data-and-analytics)
-- [Bitcoin] (#bitcoinbitcoin-wallets)
-- [Captcha] (#captcha)
-- [Check In] (#check-in)
-- [Commerce] (#commerce)
-- [Content] (#content)
-- [Data Science] (#data-science)
-- [Dictionary] (#dictionary)
-- [Entertainment] (#entertainment)
-- [Face Recognition] (#face-recognition)
-- [File Storage and Manipulation] (#file-storage-and-manipulation)
-- [Fitness] (#fitness)
-- [Google] (#google)
-- [Identity Verification] (#identity-verification)
-- [Image Moderation] (#image-moderation)
-- [IoT] (#iot)
-- [Login and Authentication] (#login-authentication)
-- [Machine Learning] (#machine-learning)
-- [Maps] (#maps)
-- [Miscellaneous] (#miscellaneous)
-- [Movies] (#movies)
-- [Music] (#music)
-	- [Music Analytics] (#music-analytics)
-	- [Music Discovery] (#music-discovery)
-	- [Music Identification] (#music-identification)
-    - [Music Lyrics] (#music-lyrics)
-    - [Music Store] (#music-stores)
-- [Natural Language Processing] (#natural-language-processing)
+- [Advertising](#advertising)
+- [Analytics](#analytics)
+- [Augmented Reality](#augmented-reality)
+- [Bar Code](#barcode)
+- [Big Data and Analytics](#big-data-and-analytics)
+- [Bitcoin](#bitcoinbitcoin-wallets)
+- [Captcha](#captcha)
+- [Check In](#check-in)
+- [Commerce](#commerce)
+- [Communication](#communication)
+- [Content](#content)
+- [Data Science](#data-science)
+- [Dictionary](#dictionary)
+- [Entertainment](#entertainment)
+- [Face Recognition](#face-recognition)
+- [File Storage and Manipulation](#file-storage-and-manipulation)
+- [Fitness](#fitness)
+- [Google](#google)
+- [Identity Verification](#identity-verification)
+- [Image Moderation](#image-moderation)
+- [IoT](#iot)
+- [Login and Authentication](#login-authentication)
+- [Machine Learning](#machine-learning)
+- [Maps](#maps)
+- [Miscellaneous](#miscellaneous)
+- [Movies](#movies)
+- [Music](#music)
+	- [Music Analytics](#music-analytics)
+	- [Music Discovery](#music-discovery)
+	- [Music Identification](#music-identification)
+    - [Music Lyrics](#music-lyrics)
+    - [Music Store](#music-stores)
+- [Natural Language Processing](#natural-language-processing)
 - [News](#news-services)
-- [Placeholder Images] (#placeholder-images)
-- [Places] (#places)
-- [Science] (#science)
-- [Social Media] (#social-media)
-- [Source Control] (#source-control)
-- [Sport] (#sport)
-- [Transportation] (#transportation)
-- [URL Shorteners] (#url-shorteners)
-- [Videogames] (#videogames)
-- [Weather] (#weather)
+- [Placeholder Images](#placeholder-images)
+- [Places](#places)
+- [Quotes](#quotes)
+- [Science](#science)
+- [Social Media](#social-media)
+- [Source Control](#source-control)
+- [Sport](#sport)
+- [Transportation](#transportation)
+- [URL Shorteners](#url-shorteners)
+- [Videogames](#videogames)
+- [Weather](#weather)
 - [Resources For Design and Discovery of APIs](#resources-for-design-and-discovery-of-apis)
-- [More Resources] (#more-resources)
-- [Contribute] (#contributions)
+- [More Resources](#more-resources)
+- [Contribute](#contributions)
 
 
 APIs
@@ -67,6 +69,7 @@ APIs
 - [Facebook Marketing API](https://developers.facebook.com/docs/marketing-apis) - Manage ads and campaigns using the Facebook API.
 - [Google AdSense](https://developers.google.com/adsense/?hl=en) - Free, flexible way to earn money from your websites, mobile sites, and site search results.
 - [Google AdWords API](https://developers.google.com/adwords/api/docs/guides/start) - Manage Google AdWords campaigns programmatically. 
+- [Google AdWords API](https://developers.google.com/adwords/api/docs/guides/start) - Manage Google AdWords campaigns programmatically.
 - [Microsoft Advertising Platform - Bing Ads API](https://msdn.microsoft.com/en-us/library/bing-ads-api.aspx) - Provides programmatic access to various advertising technologies.
 - [Yahoo Gemini API](https://developer.yahoo.com/gemini/) - Allows advertisers to manage complex Gemini accounts and campaigns more efficiently.
 
@@ -103,7 +106,7 @@ APIs
 - [Mongo DB](https://github.com/mongodb) - mongoDB is ideal for developers who want precise control over the final results and processes for handling Big Data.
 - [Ryft](http://www.ryft.com/api) - integrate the Ryft ONE’s data analysis capabilities into existing big data environments for faster data analysis and real-time intelligence.
 
-
+- [LinkedData.Center](http://linkeddata.center/home/gdaas) - a RDF graph database as a service with W3C SPARQL query and SPARQL update apis. 💸
 
 ### Bitcoin/Bitcoin Wallets
 
@@ -133,8 +136,15 @@ APIs
 - [Yahoo GeoPlanet](https://developer.yahoo.com/geo/geoplanet/guide/) - Geo-enable your applications using Yahoo GeoPlanet.
 
 ### Commerce
+
 - [Marketcloud](https://www.marketcloud.it) - eCommerce APIs for developers. It covers inventory and database, carts and checkout, payments, user authentication, and more. You just bring the frontend.
 - [Moltin](https://www.moltin.com/developers) - Unified APIs for inventory, carts, the checkout process, payments and more, so you can focus on creating seamless customer experiences at any scale.
+- [Stripe](https://stripe.com/docs/api) - Allows both private individuals and businesses to accept payments over the Internet.
+- [Braintree](https://developers.braintreepayments.com) - Specializes in mobile and web payment systems for ecommerce companies.
+
+### Communication
+
+- [Exotel](https://exotel.in/) - Exotel is a cloud telephony service provider for small and medium enterprises in India. Free 15-day trial.💸 
 
 ### Content
 
@@ -153,7 +163,12 @@ APIs
 - [Merriam-Webster Dictionary API](http://www.dictionaryapi.com/) - Gives developers access to a big ass resource of dictionary and thesaurus content as well as specialized medical, Spanish, ESL, and student-friendly vocabulary.
 - [Wordnik](http://developer.wordnik.com/docs.html#!/word) - Dictionary functions.
 - [Words API](https://www.wordsapi.com/) - Use it to find definitions for more than 150,000 words.
+- [Glosbe API](https://glosbe.com/a-api) - Dictionary API and Translation Memory API description.
+- [Merriam-Webster Dictionary API](http://www.dictionaryapi.com/) - Gives developers access to a big ass resource of dictionary and thesaurus content as well as specialized medical, Spanish, ESL, and student-friendly vocabulary.
 - [Pearson Dictionaries API](http://developer.pearson.com/apis/dictionaries) - (*BETA*) Gives access to a very large database of words and phrases with thorough explanations - free usage for up to 4 million calls/month.
+- [Wordnik](http://developer.wordnik.com/docs.html#!/word) - Dictionary functions.
+- [Words API](https://www.wordsapi.com/) - Use it to find definitions for more than 150,000 words.
+
 
 
 ### Entertainment
@@ -170,16 +185,17 @@ APIs
 
 ### File Storage and Manipulation
 
-- [Amazon S3] (https://aws.amazon.com/de/documentation/s3/) - API that provides access to stored files and can be added easily to any service - and it's free for twelve months.
-- [Cloudinary] (http://cloudinary.com/documentation) - API for image and video storage and manipulation - free for up to 75,000 images and 7,500 manipulations per month, good documentation, it can also manipulate GIFs and PDFs.
-- [Dropbox] (https://www.dropbox.com/developers) - API for accessing stored files and pictures which is easy to use and free for small amounts of data.
-- [Filestack] (https://filestack.com/docs/getting-started) - API for image and file manipulation, 250 uploads and 500 uploads per month for free, free CDN, HTML widget.
-- [Microsoft Graph] (https://graph.microsoft.io/en-us/docs/api-reference/v1.0/resources/onedrive) - API for accessing stored files and photos for personal and enterprise users with high resolution thumbnails and Microsoft Office APIs.
+- [Amazon S3](https://aws.amazon.com/de/documentation/s3/) - API that provides access to stored files and can be added easily to any service - and it's free for twelve months.
+- [Cloudinary](http://cloudinary.com/documentation) - API for image and video storage and manipulation - free for up to 75,000 images and 7,500 manipulations per month, good documentation, it can also manipulate GIFs and PDFs.
+- [Dropbox](https://www.dropbox.com/developers) - API for accessing stored files and pictures which is easy to use and free for small amounts of data.
+- [Filestack](https://filestack.com/docs/getting-started) - API for image and file manipulation, 250 uploads and 500 uploads per month for free, free CDN, HTML widget.
+- [Microsoft Graph](https://graph.microsoft.io/en-us/docs/api-reference/v1.0/resources/onedrive) - API for accessing stored files and photos for personal and enterprise users with high resolution thumbnails and Microsoft Office APIs.
+- [Yogurl](http://yogurl.io) - API and CLI for serving files and code over HTTP instantly ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
 
 ### Fitness
 
 - [FitBit](https://dev.fitbit.com/docs/) - Web API for accessing data from Fitbit activity trackers, Aria scale, and manually entered logs.
-- [HealthGraph] (https://runkeeper.com/developer/healthgraph/registration-authorization) - RunKeeper's web-based HealthGraph API presents Health Graph data, and provides information about a user and friends.
+- [HealthGraph](https://runkeeper.com/developer/healthgraph/registration-authorization) - RunKeeper's web-based HealthGraph API presents Health Graph data, and provides information about a user and friends.
 - [Lumo](https://dev.lumobodytech.com/docs/) - The [Lumo](http://www.lumobodytech.com/) API provides access to detailed user activity with 5 minute resolution as well as access to user profile information, such as height, weight, gender, etc. 
 - [Strava](https://strava.github.io/api/) - API for accessing and managing data about athletes, activities and segments.
 - [Withings](http://oauth.withings.com/api) - Access to data from Withings activity trackers and body measures.
@@ -215,6 +231,7 @@ APIs
 
 ### IoT
 
+- [Lelylan](http://dev.lelylan.com/api) - Open Source Internet of Things Cloud Platform. Microservices Architecture. For Developers. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
 - [Particle](https://docs.particle.io/reference/api/) - API to manage Particle devices (including their own Arduino-compatible ones and the Raspberry Pi) and control them. Free for up to 25 devices and 250k events/month.
 - [PubNub](https://www.pubnub.com/docs) - API to make realtime applications with variety of hardware devices including Arduino, RPi, Kinoma, Atmel, Samsung Smart TV WebOS, and more. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
 - [Philips Hue](https://developers.meethue.com/documentation/getting-started) - Registration (free) and local Hue Bridge (not free) required - Control Hue brand lights made by Philips.  API calls are made to the Hue Bridge residing on local network.  Includes a web based UI.
@@ -241,6 +258,7 @@ APIs
 ### Machine Learning
 
 - [Amazon MI API](http://docs.aws.amazon.com/machine-learning/latest/APIReference/Welcome.html) - Amazon Machine Learning API simplifies the process of making predictions that require lots of expertise around model building, data cleansing and statistical analysis.
+- [AYLIEN](http://aylien.com/) - AYLIEN Text Analysis API is a package of Natural Language Processing, Information Retrieval and Machine Learning tools for extracting meaning and insight from textual and visual content with ease.
 - [Big ML](http://bigml.com/api/) - BigML is user-friendly and developer-friendly Machine learning API that mainly concentrates on decision trees.
 - [Google Prediction API](https://cloud.google.com/prediction/docs) - Cloud-based machine learning and pattern matching tool.
 - [IBM Watson](https://developer.ibm.com/watson/) - Simplifies the process of preparing data and makes it easier to run predictive analysis.
@@ -265,19 +283,24 @@ APIs
 
 ### Miscellaneous
 
+- [Callook.info](https://callook.info) - Look up information about United States ham radio callsigns.
 - [FreeDB](http://www.freedb.org/) - Look up CD information using the freed database.
-![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
+- [Labs64 NetLicensing](https://www.labs64.de/confluence/x/pwCo) ([API Test Center](http://io.labs64.com/NetLicensing-API/)) - Innovative License Management Solution.
+- [Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
 - [Pastebin](http://pastebin.com/api) - Quickly share text or code, with support for over 250 languages for syntax highlighting.
-- [Spreaker](https://developers.spreaker.com/) - Enables developers to read and write data to Spreaker.
 - [RestCountries](https://restcountries.eu) - Get information about countries via a RESTful API.
+- [Spreaker](https://developers.spreaker.com/) - Enables developers to read and write data to Spreaker.
 - [WolframAlpha](http://products.wolframalpha.com/api/) - Integrate top of the line computational knowledge into your applications through the WolframAlpha API. 💸
 
 ### Movies
 
 - [OMDB](https://www.omdbapi.com/) - OMDb provides a free web service to obtain information and metadata about movies.
+- [TMDb](https://www.themoviedb.org/documentation/api) - TMDb provides powerful searches as well as powerful movie discovery.
 
 ### Music
 
+- [Deezer](http://developers.deezer.com/api) - Deezer API provides a nice set of services to build up web applications allowing the discovery of Deezer's music catalogue.
+- [Discogs](https://www.discogs.com/developers/) - Access database of artists, labels, releases, marketplace and more.
 - [Last.fm](http://www.last.fm/api) -  The Last.fm API allows anyone to build their own programs using Last.fm data, whether they're on the web, the desktop or mobile devices.
 - [MuseScore](http://developers.musescore.com/) - REST based API which provides music metadata.
 - [musicApi](https://github.com/LIU9293/musicAPI) - Centralized Node.JS API SDK for Xiami, Netease, and QQ music - The Top 3 music providers in China.
@@ -316,10 +339,12 @@ APIs
 ### News Services
 
 - [NewsAPI](https://newsapi.org/) - 70+ news sources and their headlines, one API.
+- [The Guardian](http://open-platform.theguardian.com/) - Access a huge range of content from The Guardian.
 
 ### Natural Language Processing
 
 - [AlchemyAPI - IBM Company](http://www.alchemyapi.com/api) - Uses NLP and ML algorithms to extract semantic meta-data from content.
+- [API AI](https://docs.api.ai/) - Natural Language Interactions for Bots, Applications, Services, and Devices
 - [Datum Box](http://www.datumbox.com/machine-learning-api/) - Datumbox offers a powerful open-source Machine Learning Framework written in Java. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
 - [Open Calais](http://www.opencalais.com/opencalais-api/) - Good entity extraction, no sentiment analysis.
 - [Semantria](https://www.lexalytics.com/) - SAAS API based on Lexalytics engine. #Paid
@@ -339,17 +364,20 @@ APIs
 - [CityGrid](http://docs.citygridmedia.com/display/citygridv2/Places+API) - Enables developers to create web and mobile applications that find local businesses, organizations, and points of interest by a variety of search criteria.
 - [Factual](http://developer.factual.com/get-started/) - Providing a places search that can be searched by latitude/longitude, and “where” using full text search query string.
 - [Foursquare Venue](https://developer.foursquare.com/overview/venues) - Providing a places search that can be searched by  hierarchical list of categories, longitude/latitude etc.
-- [Fwix](http://fwix.com/developer_tools/api) - Providing a places search that can be searched by
-latitude/longitude, and text search based upon categories, address, city, province, postal code, country etc
 - [Google Places API](https://developers.google.com/places/documentation/?csw=1) - Providing a places search that can be searched by latitude/longitude, keyword matched against all fields, name of place, type of place restricted by radius.
 - [Nokia](https://developer.here.com/develop/javascript-api) - Providing a JavaScript places search that can be searched by search term, with a detail search for display by JS widget.
 - [Yahoo GeoPlanet](https://developer.yahoo.com/geo/geoplanet/) - Providing a places search that can be searched by type, county, state, country, oceans, seas, continents, hierarchy and full text search.
-- [Yelp](https://www.yelp.com/developers/documentation/v2/overview) - You can search location using geo bounding box, longitude and latitude, neighborhood, address or city and filter listings by “where”, using a list of support categories.
+- [Yelp](https://www.yelp.com/developers/documentation/v3/) - You can search location using longitude and latitude, neighborhood, address or city and filter listings by “where”, using a list of support categories.
 - [YP](https://publisher.yp.com/) - Providing a places search that can be queried by keyword and longitude/latitude, street address, city, postal code, Neighborhood, state, points of interest or by phone number.
+
+### Quotes
+
+- [Forismatic](http://api.forismatic.com/api/1.0/) - Gives you a random quote per click.
+- [They Said So](http://quotes.rest/qod.json?category=inspire) - Gives you a random quote per day.
 
 ### Retail
 
-- [Amazon Product Advertising API](http://docs.aws.amazon.com/AWSECommerceService/latest/DG/Welcome.html) - Get access to the data used by Amazon including items for sale, customer reviews, seller reviews, item search, product promotions, and more. 
+- [Amazon Product Advertising API](http://docs.aws.amazon.com/AWSECommerceService/latest/DG/Welcome.html) - Get access to the data used by Amazon including items for sale, customer reviews, seller reviews, item search, product promotions, and more.
 
 ### Science
 
@@ -383,6 +411,7 @@ latitude/longitude, and text search based upon categories, address, city, provin
 - [Twitter](https://dev.twitter.com/) - Enables an app to interact with most of Twitter’s functions.
 - [Tumblr](https://www.tumblr.com/docs/en/api/v2) - Create new ways to use Tumblr with access to content, likes, followers, and drafts.
 - [Vimeo](https://developer.vimeo.com/) - Access to Vimeo’s API.
+- [VK](https://vk.com/dev) - Access to VKontakte's API. This has a variety of features such as authorization via VK, embedding VK comments for things like blogs, and taking payments via VK. Additionally, you may use the VK API to control much of the functionality on the website (for example, adjusting shop inventory in your VK community's market section).
 - [Weibo](http://open.weibo.com/wiki/API%E6%96%87%E6%A1%A3/en) - Programmatic access to China’s most popular microblogging site.
 - [Whatsapp Document Interaction](https://www.whatsapp.com/faq/en/iphone/23559013) - If your application creates photos, videos or audio notes and you’d like your users to share these media using WhatsApp. #Limited
 - [Wordpress](https://codex.wordpress.org/WordPress_APIs) - Access to Wordpress’ API.
@@ -399,16 +428,18 @@ latitude/longitude, and text search based upon categories, address, city, provin
 - [SVN](https://subversion.apache.org/docs/api/1.8/) - Collection of modular libraries written in the C programming language.
 - [Team Foundation Server](https://www.visualstudio.com/en-us/docs/integrate/get-started/overview) - TFS APIs are based on REST, OAuth, Json and service hooks.
 
-
 ### Sport
 
 - [Ergast Formula 1](http://ergast.com/mrd/) - Provides access to current and historical Formula 1 race data from 1950 to today.
 
 ### Transportation
 
+- [AfterShip](https://www.aftership.com/docs/api/4/overview) - Provides multi-carrier shipment tracking APIs.
 - [Edmunds](http://developer.edmunds.com/) - A dataset containing all the car makes.
 - [Lyft](https://www.lyft.com/developers) - Get real-time ETAs, availability, price estimates, ride status through the Lyft API.
 - [Moovit](https://www.developers.moovitapp.com/) - Connect users from your app to the Moovit app with a specific action through deeplinks.
+- [Postmen](https://docs.postmen.com/) - Add shipping capability of FedEx, UPS, DHL, USPS and over 40 carriers worldwide.
+- [Postmates](https://postmates.com/developer/docs) - Build on-demand delivery into your app or website.
 - [Uber](https://developer.uber.com/) - Uber provides API for customizing trip experiences, requesting rides, powering logistics, creating bots and so much more.
 
 ### URL Shorteners
@@ -429,6 +460,7 @@ latitude/longitude, and text search based upon categories, address, city, provin
 ### Weather
 
 - [AccuWeather](http://apidev.accuweather.com/developers/) - Provides subscribers access to location based weather data via a simple RESTful web interface.
+- [AerisWeather](https://www.aerisweather.com) - Global weather data and imagery APIs, with a free developer subscription tier, boasting detailed documentation for simple to advanced queries, free SDKs and a Map Builder to get you up and running faster.
 - [Forecast](https://darksky.net/dev/docs) - The same API that powers Forecast.io and Dark Sky for iOS.
 - [Open Weather](http://openweathermap.org/api) - Access current weather data for any location on Earth including over 200,000 cities!
 - [Weather Source](http://weathersource.com/weather-api) - Powerful Weather API built for systems that demand speed, reliability and heavy load.
@@ -463,5 +495,3 @@ Pull requests are welcome. Please adhere to the [guidelines](https://github.com/
 # License
 
 <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
-
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
