@@ -10,54 +10,54 @@ This is an attempt to categorise different APIs scoured from the web which make 
 
 ## Table of Contents
 
-- [Advertising] (#advertising)
-- [Analytics] (#analytics)
-- [Augmented Reality] (#augmented-reality)
-- [Bar Code] (#barcode)
-- [Big Data and Analytics] (#big-data-and-analytics)
-- [Bitcoin] (#bitcoinbitcoin-wallets)
-- [Captcha] (#captcha)
-- [Check In] (#check-in)
-- [Commerce] (#commerce)
-- [Communication] (#communication)
-- [Content] (#content)
-- [Data Science] (#data-science)
-- [Dictionary] (#dictionary)
-- [Entertainment] (#entertainment)
-- [Face Recognition] (#face-recognition)
-- [File Storage and Manipulation] (#file-storage-and-manipulation)
-- [Fitness] (#fitness)
-- [Google] (#google)
-- [Identity Verification] (#identity-verification)
-- [Image Moderation] (#image-moderation)
-- [IoT] (#iot)
-- [Login and Authentication] (#login-authentication)
-- [Machine Learning] (#machine-learning)
-- [Maps] (#maps)
-- [Miscellaneous] (#miscellaneous)
-- [Movies] (#movies)
-- [Music] (#music)
-	- [Music Analytics] (#music-analytics)
-	- [Music Discovery] (#music-discovery)
-	- [Music Identification] (#music-identification)
-    - [Music Lyrics] (#music-lyrics)
-    - [Music Store] (#music-stores)
-- [Natural Language Processing] (#natural-language-processing)
+- [Advertising](#advertising)
+- [Analytics](#analytics)
+- [Augmented Reality](#augmented-reality)
+- [Bar Code](#barcode)
+- [Big Data and Analytics](#big-data-and-analytics)
+- [Bitcoin](#bitcoinbitcoin-wallets)
+- [Captcha](#captcha)
+- [Check In](#check-in)
+- [Commerce](#commerce)
+- [Communication](#communication)
+- [Content](#content)
+- [Data Science](#data-science)
+- [Dictionary](#dictionary)
+- [Entertainment](#entertainment)
+- [Face Recognition](#face-recognition)
+- [File Storage and Manipulation](#file-storage-and-manipulation)
+- [Fitness](#fitness)
+- [Google](#google)
+- [Identity Verification](#identity-verification)
+- [Image Moderation](#image-moderation)
+- [IoT](#iot)
+- [Login and Authentication](#login-authentication)
+- [Machine Learning](#machine-learning)
+- [Maps](#maps)
+- [Miscellaneous](#miscellaneous)
+- [Movies](#movies)
+- [Music](#music)
+	- [Music Analytics](#music-analytics)
+	- [Music Discovery](#music-discovery)
+	- [Music Identification](#music-identification)
+    - [Music Lyrics](#music-lyrics)
+    - [Music Store](#music-stores)
+- [Natural Language Processing](#natural-language-processing)
 - [News](#news-services)
-- [Placeholder Images] (#placeholder-images)
-- [Places] (#places)
-- [Quotes] (#quotes)
-- [Science] (#science)
-- [Social Media] (#social-media)
-- [Source Control] (#source-control)
-- [Sport] (#sport)
-- [Transportation] (#transportation)
-- [URL Shorteners] (#url-shorteners)
-- [Videogames] (#videogames)
-- [Weather] (#weather)
+- [Placeholder Images](#placeholder-images)
+- [Places](#places)
+- [Quotes](#quotes)
+- [Science](#science)
+- [Social Media](#social-media)
+- [Source Control](#source-control)
+- [Sport](#sport)
+- [Transportation](#transportation)
+- [URL Shorteners](#url-shorteners)
+- [Videogames](#videogames)
+- [Weather](#weather)
 - [Resources For Design and Discovery of APIs](#resources-for-design-and-discovery-of-apis)
-- [More Resources] (#more-resources)
-- [Contribute] (#contributions)
+- [More Resources](#more-resources)
+- [Contribute](#contributions)
 
 
 APIs
@@ -68,6 +68,7 @@ APIs
 - [Amazon Mobile Ads](https://developer.amazon.com/mobile-ads) - Monetize across platforms with multiple ad formats.
 - [Facebook Marketing API](https://developers.facebook.com/docs/marketing-apis) - Manage ads and campaigns using the Facebook API.
 - [Google AdSense](https://developers.google.com/adsense/?hl=en) - Free, flexible way to earn money from your websites, mobile sites, and site search results.
+- [Google AdWords API](https://developers.google.com/adwords/api/docs/guides/start) - Manage Google AdWords campaigns programmatically. 
 - [Google AdWords API](https://developers.google.com/adwords/api/docs/guides/start) - Manage Google AdWords campaigns programmatically.
 - [Microsoft Advertising Platform - Bing Ads API](https://msdn.microsoft.com/en-us/library/bing-ads-api.aspx) - Provides programmatic access to various advertising technologies.
 - [Yahoo Gemini API](https://developer.yahoo.com/gemini/) - Allows advertisers to manage complex Gemini accounts and campaigns more efficiently.
@@ -104,6 +105,7 @@ APIs
 - [Keen IO](https://keen.io/docs/api/) - Keen IO is a powerful, flexible, and scaleable solution that’s literally Big Data, easy-to-implement and at your fingertips.
 - [Mongo DB](https://github.com/mongodb) - mongoDB is ideal for developers who want precise control over the final results and processes for handling Big Data.
 - [Ryft](http://www.ryft.com/api) - integrate the Ryft ONE’s data analysis capabilities into existing big data environments for faster data analysis and real-time intelligence.
+
 - [LinkedData.Center](http://linkeddata.center/home/gdaas) - a RDF graph database as a service with W3C SPARQL query and SPARQL update apis. 💸
 
 ### Bitcoin/Bitcoin Wallets
@@ -143,6 +145,7 @@ APIs
 ### Communication
 
 - [Exotel](https://exotel.in/) - Exotel is a cloud telephony service provider for small and medium enterprises in India. Free 15-day trial.💸 
+- [Twilio](https://twilio.com) - Twilio is a cloud communications platform (SAAS) whose web service APIs make it easy for software developers to programmatically make and receive phone calls and send and receive text messages
 
 ### Content
 
@@ -156,6 +159,11 @@ APIs
 
 - [Cambridge Dictionaries Online](http://dictionary.cambridge.org/license.html) - Access to Cambridge’s custom-developed API. 💸
 - [DictService](http://services.aonaware.com/DictService/DictService.asmx) - This Web Service allows you to access dictionary definitions from the dict.org service.
+
+- [Glosbe API](https://glosbe.com/a-api) - Dictionary API and Translation Memory API description.
+- [Merriam-Webster Dictionary API](http://www.dictionaryapi.com/) - Gives developers access to a big ass resource of dictionary and thesaurus content as well as specialized medical, Spanish, ESL, and student-friendly vocabulary.
+- [Wordnik](http://developer.wordnik.com/docs.html#!/word) - Dictionary functions.
+- [Words API](https://www.wordsapi.com/) - Use it to find definitions for more than 150,000 words.
 - [Glosbe API](https://glosbe.com/a-api) - Dictionary API and Translation Memory API description.
 - [Merriam-Webster Dictionary API](http://www.dictionaryapi.com/) - Gives developers access to a big ass resource of dictionary and thesaurus content as well as specialized medical, Spanish, ESL, and student-friendly vocabulary.
 - [Pearson Dictionaries API](http://developer.pearson.com/apis/dictionaries) - (*BETA*) Gives access to a very large database of words and phrases with thorough explanations - free usage for up to 4 million calls/month.
@@ -163,12 +171,13 @@ APIs
 - [Words API](https://www.wordsapi.com/) - Use it to find definitions for more than 150,000 words.
 
 
+
 ### Entertainment
 
 - [BBC](http://www.bbc.co.uk/developer/technology/apis.html) - Variety of BBC APIs with access to interesting data from Radio Labs, programs played on BBC and linking data around the artist played on BBC.
 - [Comic Vine](http://comicvine.gamespot.com/api/) - An extremely mature, well organized and continuely updated resource of comic information.
 - [Marvel](https://developer.marvel.com/) - Access over 70 years of comic data with Marvel's official developer API.
-- [Pokéapi](https://pokeapi.co/) - All the Pokémon data you'll ever need, in one place. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
+- [Pokéapi](https://pokeapi.co/) - All the Pokémon data you'll ever need, in one place. ![Open Source](hhttps://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
 - [Swapi](https://swapi.co/documentation) - Star Wars API with data you didn't even know existed, or that you needed to know.
 
 ### Face Recognition
@@ -177,18 +186,18 @@ APIs
 
 ### File Storage and Manipulation
 
-- [Amazon S3] (https://aws.amazon.com/de/documentation/s3/) - API that provides access to stored files and can be added easily to any service - and it's free for twelve months.
-- [Cloudinary] (http://cloudinary.com/documentation) - API for image and video storage and manipulation - free for up to 75,000 images and 7,500 manipulations per month, good documentation, it can also manipulate GIFs and PDFs.
-- [Dropbox] (https://www.dropbox.com/developers) - API for accessing stored files and pictures which is easy to use and free for small amounts of data.
-- [Filestack] (https://filestack.com/docs/getting-started) - API for image and file manipulation, 250 uploads and 500 uploads per month for free, free CDN, HTML widget.
-- [Microsoft Graph] (https://graph.microsoft.io/en-us/docs/api-reference/v1.0/resources/onedrive) - API for accessing stored files and photos for personal and enterprise users with high resolution thumbnails and Microsoft Office APIs.
-- [Yogurl] (http://yogurl.io) - API and CLI for serving files and code over HTTP instantly ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
+- [Amazon S3](https://aws.amazon.com/de/documentation/s3/) - API that provides access to stored files and can be added easily to any service - and it's free for twelve months.
+- [Cloudinary](http://cloudinary.com/documentation) - API for image and video storage and manipulation - free for up to 75,000 images and 7,500 manipulations per month, good documentation, it can also manipulate GIFs and PDFs.
+- [Dropbox](https://www.dropbox.com/developers) - API for accessing stored files and pictures which is easy to use and free for small amounts of data.
+- [Filestack](https://filestack.com/docs/getting-started) - API for image and file manipulation, 250 uploads and 500 uploads per month for free, free CDN, HTML widget.
+- [Microsoft Graph](https://graph.microsoft.io/en-us/docs/api-reference/v1.0/resources/onedrive) - API for accessing stored files and photos for personal and enterprise users with high resolution thumbnails and Microsoft Office APIs.
+- [Yogurl](http://yogurl.io) - API and CLI for serving files and code over HTTP instantly ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
 
 ### Fitness
 
 - [FitBit](https://dev.fitbit.com/docs/) - Web API for accessing data from Fitbit activity trackers, Aria scale, and manually entered logs.
-- [HealthGraph] (https://runkeeper.com/developer/healthgraph/registration-authorization) - RunKeeper's web-based HealthGraph API presents Health Graph data, and provides information about a user and friends.
-- [Lumo](https://dev.lumobodytech.com/docs/) - The [Lumo](http://www.lumobodytech.com/) API provides access to detailed user activity with 5 minute resolution as well as access to user profile information, such as height, weight, gender, etc.
+- [HealthGraph](https://runkeeper.com/developer/healthgraph/registration-authorization) - RunKeeper's web-based HealthGraph API presents Health Graph data, and provides information about a user and friends.
+- [Lumo](https://dev.lumobodytech.com/docs/) - The [Lumo](http://www.lumobodytech.com/) API provides access to detailed user activity with 5 minute resolution as well as access to user profile information, such as height, weight, gender, etc. 
 - [Strava](https://strava.github.io/api/) - API for accessing and managing data about athletes, activities and segments.
 - [Withings](http://oauth.withings.com/api) - Access to data from Withings activity trackers and body measures.
 
@@ -237,13 +246,13 @@ APIs
 
 - [Auth0](https://auth0.com) - Authenticate and authorize apps and APIs with any identity provider running on any stack any device or cloud. Free for 700 active users.
 - [Facebook Login for Apps](https://developers.facebook.com/docs/facebook-login) - Secure, fast, convenient way to login in your app/website.
-- [Firebase](https://firebase.google.com/docs/reference/) - Authentication, analytics, cloud messaging, crash reporting, ads and more.
+- [Firebase](https://firebase.google.com/docs/reference/) - Authentication, analytics, cloud messaging, crash reporting, ads and more.  
 - [GitHub Authentication](https://developer.github.com/guides/basics-of-authentication/) - Access to GitHub’s Authentication API.
 - [Instagram](https://www.instagram.com/developer/authentication/) - Access to Instagram’s OAuth API.
 - [Kakao Login for Apps](https://developers.kakao.com/features/platform) - Access to Kakao’s Authentication API.
 - [LinkedIn](https://developer.linkedin.com/docs/signin-with-linkedin) - Make it convenient for your users to sign in with their professional identity.
 - [Naver Login for Apps](https://developers.naver.com/products/login/api) - Access to Naver’s Authentication API.
-- [PayPal](https://developer.paypal.com/docs/integration/direct/identity/log-in-with-paypal/) - Enables your customers to sign in to your web site quickly and securely using their PayPal login credentials.
+- [PayPal](https://developer.paypal.com/docs/integration/direct/identity/log-in-with-paypal/) - Enables your customers to sign in to your web site quickly and securely using their PayPal login credentials. 
 - [Salesforce](https://developer.salesforce.com/docs/atlas.en-us.api_rest.meta/api_rest/intro_understanding_authentication.htm) - Salesforce uses the OAuth protocol to allow users of applications to securely access data without having to reveal username and password credentials.
 - [Twitter Sign-in](https://dev.twitter.com/web/sign-in) - Works on websites, iOS, mobile and desktop applications.
 
@@ -277,11 +286,12 @@ APIs
 
 - [Callook.info](https://callook.info) - Look up information about United States ham radio callsigns.
 - [FreeDB](http://www.freedb.org/) - Look up CD information using the freed database.
-![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
 - [Labs64 NetLicensing](https://www.labs64.de/confluence/x/pwCo) ([API Test Center](http://io.labs64.com/NetLicensing-API/)) - Innovative License Management Solution.
+- [Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
+- [Optimizely](https://optimizely.com) You can create, start, stop, and archive experiments (A/B testing) programmatically inside your own application. API includes entities such as projects, experiments, variations, goals, audiences, dimensions, and more.
 - [Pastebin](http://pastebin.com/api) - Quickly share text or code, with support for over 250 languages for syntax highlighting.
-- [Spreaker](https://developers.spreaker.com/) - Enables developers to read and write data to Spreaker.
 - [RestCountries](https://restcountries.eu) - Get information about countries via a RESTful API.
+- [Spreaker](https://developers.spreaker.com/) - Enables developers to read and write data to Spreaker.
 - [WolframAlpha](http://products.wolframalpha.com/api/) - Integrate top of the line computational knowledge into your applications through the WolframAlpha API. 💸
 
 ### Movies
@@ -348,7 +358,7 @@ APIs
 - [DummyImage](https://dummyimage.com/) - Particularly nice, when compared to some of its competitors, in that it offers a great deal of flexibility.
 - [Lorem Pixel](http://lorempixel.com/) - Placeholder images for every case.
 - [Placehold](https://placehold.it/) - A quick and simple image placeholder service.
-- [PlaceKitten](https://placekitten.com/) - A quick and simple service for getting pictures of kittens for use as placeholders in your designs or code.
+- [PlaceKitten](https://placekitten.com/) - A quick and simple service for getting pictures of kittens for use as placeholders in your designs or code.  
 - [Unsplash](https://unsplash.it/) - Beautiful placeholders using images from the popular [Unsplash](https://unsplash.com/)
 
 ### Places
@@ -420,7 +430,6 @@ APIs
 - [Mercurial](https://www.mercurial-scm.org/wiki/MercurialApi) - Access to Mercurial’s API.
 - [SVN](https://subversion.apache.org/docs/api/1.8/) - Collection of modular libraries written in the C programming language.
 - [Team Foundation Server](https://www.visualstudio.com/en-us/docs/integrate/get-started/overview) - TFS APIs are based on REST, OAuth, Json and service hooks.
-
 
 ### Sport
 
