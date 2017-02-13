@@ -145,6 +145,7 @@ APIs
 ### Communication
 
 - [Exotel](https://exotel.in/) - Exotel is a cloud telephony service provider for small and medium enterprises in India. Free 15-day trial.💸 
+- [Twilio](https://twilio.com) - Twilio is a cloud communications platform (SAAS) whose web service APIs make it easy for software developers to programmatically make and receive phone calls and send and receive text messages
 
 ### Content
 
@@ -287,6 +288,7 @@ APIs
 - [FreeDB](http://www.freedb.org/) - Look up CD information using the freed database.
 - [Labs64 NetLicensing](https://www.labs64.de/confluence/x/pwCo) ([API Test Center](http://io.labs64.com/NetLicensing-API/)) - Innovative License Management Solution.
 - [Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
+- [Optimizely](https://optimizely.com) You can create, start, stop, and archive experiments (A/B testing) programmatically inside your own application. API includes entities such as projects, experiments, variations, goals, audiences, dimensions, and more.
 - [Pastebin](http://pastebin.com/api) - Quickly share text or code, with support for over 250 languages for syntax highlighting.
 - [RestCountries](https://restcountries.eu) - Get information about countries via a RESTful API.
 - [Spreaker](https://developers.spreaker.com/) - Enables developers to read and write data to Spreaker.
