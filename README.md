@@ -182,17 +182,17 @@ APIs
 
 ### File Storage and Manipulation
 
-- [Amazon S3] (https://aws.amazon.com/de/documentation/s3/) - API that provides access to stored files and can be added easily to any service - and it's free for twelve months.
-- [Cloudinary] (http://cloudinary.com/documentation) - API for image and video storage and manipulation - free for up to 75,000 images and 7,500 manipulations per month, good documentation, it can also manipulate GIFs and PDFs.
-- [Dropbox] (https://www.dropbox.com/developers) - API for accessing stored files and pictures which is easy to use and free for small amounts of data.
-- [Filestack] (https://filestack.com/docs/getting-started) - API for image and file manipulation, 250 uploads and 500 uploads per month for free, free CDN, HTML widget.
-- [Microsoft Graph] (https://graph.microsoft.io/en-us/docs/api-reference/v1.0/resources/onedrive) - API for accessing stored files and photos for personal and enterprise users with high resolution thumbnails and Microsoft Office APIs.
-- [Yogurl] (http://yogurl.io) - API and CLI for serving files and code over HTTP instantly ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
+- [Amazon S3](https://aws.amazon.com/de/documentation/s3/) - API that provides access to stored files and can be added easily to any service - and it's free for twelve months.
+- [Cloudinary](http://cloudinary.com/documentation) - API for image and video storage and manipulation - free for up to 75,000 images and 7,500 manipulations per month, good documentation, it can also manipulate GIFs and PDFs.
+- [Dropbox](https://www.dropbox.com/developers) - API for accessing stored files and pictures which is easy to use and free for small amounts of data.
+- [Filestack](https://filestack.com/docs/getting-started) - API for image and file manipulation, 250 uploads and 500 uploads per month for free, free CDN, HTML widget.
+- [Microsoft Graph](https://graph.microsoft.io/en-us/docs/api-reference/v1.0/resources/onedrive) - API for accessing stored files and photos for personal and enterprise users with high resolution thumbnails and Microsoft Office APIs.
+- [Yogurl](http://yogurl.io) - API and CLI for serving files and code over HTTP instantly ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
 
 ### Fitness
 
 - [FitBit](https://dev.fitbit.com/docs/) - Web API for accessing data from Fitbit activity trackers, Aria scale, and manually entered logs.
-- [HealthGraph] (https://runkeeper.com/developer/healthgraph/registration-authorization) - RunKeeper's web-based HealthGraph API presents Health Graph data, and provides information about a user and friends.
+- [HealthGraph](https://runkeeper.com/developer/healthgraph/registration-authorization) - RunKeeper's web-based HealthGraph API presents Health Graph data, and provides information about a user and friends.
 - [Lumo](https://dev.lumobodytech.com/docs/) - The [Lumo](http://www.lumobodytech.com/) API provides access to detailed user activity with 5 minute resolution as well as access to user profile information, such as height, weight, gender, etc.
 - [Strava](https://strava.github.io/api/) - API for accessing and managing data about athletes, activities and segments.
 - [Withings](http://oauth.withings.com/api) - Access to data from Withings activity trackers and body measures.
@@ -209,7 +209,7 @@ APIs
 - [Google Fitness API](https://developers.google.com/fit/?hl=en) - The Fit API. *v1*
 - [The Google Fonts Developer API.](https://developers.google.com/fonts/?hl=en) - The Google Fonts API helps you add fonts to any web page. *v1*
 - [Google Geonomics API](https://cloud.google.com/genomics/reference/rest/) - Provides access to Genomics data. *v1beta2*
-- [Google Identity Toolkit API.](https://developers.google.com/identity/) - Help the third party sites to implement federated login. *v1*
+- [Google Identity Toolkit API.](https://developers.google.com/identity/) - Helps third party sites implement federated login. *v1*
 - [Google Monitoring API](https://cloud.google.com/monitoring/api/v3/) - API for accessing Google Cloud and API monitoring data. *v2beta2*
 
 ### Identity Verification
@@ -219,7 +219,7 @@ APIs
 
 ### Image Moderation
 
-- [CheckNu.de](http://www.checknu.de/) - Minimum quality insurance for you user's images, detect nude photo easily. Free without limitation.
+- [CheckNu.de](http://www.checknu.de/) - Minimum quality insurance for your user's images, detect nude photos easily. Free without limitation.
 - [Clarifai](https://developer.clarifai.com/guide/publicmodels#nsfw) - AI API that analyzes images and videos and returns probability scores on the likelihood that the image contains pornography.
 - [NullNude.com](http://www.nullnude.com/) - The adult content detection API. Free for 600 images per month. 💸
 - [WebPurify](https://www.webpurify.com/image-moderation/) - Provides live image moderation by humans. Free for first 100 images. 2¢ per image after. 💸
@@ -311,7 +311,7 @@ APIs
 - [NPR API](http://www.npr.org/api/index) - NPR's API is a content API, which essentially provides a structured way for other computer applications to get NPR stories in a predictable, flexible and powerful way.
 - [QuantOneMusic](http://quantonemusic.com/) - Answers the need for digital music data.
 - [Rhapsody](https://developer.rhapsody.com/) - Access metadata, user’s entire library of music and do much more.
-- [Sound Cloud](https://developers.soundcloud.com) - Using the SoundCloud API, you can build applications that take sound on the web to the next level.
+- [SoundCloud](https://developers.soundcloud.com) - Using the SoundCloud API, you can build applications that take sound on the web to the next level.
 - [Spotify](https://developer.spotify.com/web-api/) - Spotify’s Web API lets your applications fetch data from the Spotify music catalog and manage user’s playlists and saved music.
 
 ### Music Analytics
@@ -454,7 +454,7 @@ APIs
 - [Anon.click](https://anon.click/api/) - Shorten long URLs and optionally protect them with passwords or captcha. No registration required.
 - [Bitly](http://dev.bitly.com/links.html) - Access to Bitly’s API.
 - [Google URL Shortener](https://developers.google.com/url-shortener/v1/) - Service that takes long URLs and squeezes them into fewer characters.
-- [Naver URL Shortener](https://developers.naver.com/products/shortenurl) - Access to Naver’s shorten url API.
+- [Naver URL Shortener](https://developers.naver.com/products/shortenurl) - Access to Naver’s URL shortening API.
 - [Po.st](https://post.zendesk.com/hc/en-us/articles/200328516-Po-st-REST-API) - Shorten URLs, Expand shortened URLs, see statistics etc.
 - [Yourls](https://yourls.org/#API) - Generate or get existing short URLs, with sequential or custom keyword.
 
