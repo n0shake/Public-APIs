@@ -220,7 +220,11 @@ APIs
 ### Image Moderation
 
 - [CheckNu.de](http://www.checknu.de/) - Minimum quality insurance for your user's images, detect nude photos easily. Free without limitation.
+<<<<<<< HEAD
 - [Clarifai](https://developer.clarifai.com/docs/) - AI API that analyzes images and videos and returns probability scores on the likelihood that the image contains pornography.
+=======
+- [Clarifai](https://developer.clarifai.com/guide/publicmodels#nsfw) - AI API that analyzes images and videos and returns probability scores on the likelihood that the image contains pornography.
+>>>>>>> Grammar fixes and whitespace removal
 - [NullNude.com](http://www.nullnude.com/) - The adult content detection API. Free for 600 images per month. 💸
 - [WebPurify](https://www.webpurify.com/image-moderation/) - Provides live image moderation by humans. Free for first 100 images. 2¢ per image after. 💸
 
