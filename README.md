@@ -36,6 +36,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 - [Machine Learning] (#machine-learning)
 - [Maps] (#maps)
 - [Math] (#math)
+- [Medical] (#medical)
 - [Miscellaneous] (#miscellaneous)
 - [Movies] (#movies)
 - [Music] (#music)
@@ -214,6 +215,7 @@ APIs
 - [Google Identity Toolkit API.](https://developers.google.com/identity/) - Help the third party sites to implement federated login. *v1*
 - [Google Monitoring API](https://cloud.google.com/monitoring/api/v3/) - API for accessing Google Cloud and API monitoring data. *v2beta2*
 
+
 ### Identity Verification
 
 - [BlockScore](https://docs.blockscore.com/) - A real-time API for verifying an identity by name, address, date of birth, and social security number.
@@ -281,6 +283,11 @@ APIs
 ### Math
 
 - [Newton](https://newton.now.sh/) - An API for Arithmetic and Symbolic Math. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
+
+### Medical
+
+- [Infermedica](https://developer.infermedica.com/docs/introduction) - AI-based engine for patient triage and preliminary medical diagnosis. *v2*
+- [Lexigram](https://docs.lexigram.io/v1/welcome) - NLP that extracts mentions of clinical concepts from text, gives access to clinical ontology. *v1*
 
 ### Miscellaneous
 
