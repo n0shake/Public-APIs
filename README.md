@@ -275,6 +275,7 @@ APIs
 - [Lorem Pixel](http://lorempixel.com/) - Placeholder images for every case.
 - [DummyImage](https://dummyimage.com/) - Particularly nice, when compared to some of its competitors, in that it offers a great deal of flexibility.
 - [Unsplash](https://unsplash.it/) - Beautiful placeholders using images from the popular [Unsplash](https://unsplash.com/)
+- [Satyr](http://satyr.io/) - Free powerful API for generating dummy images with unique features like delay, aspect ratio, variable resolution, themes, flags and offline mode.
 
 ### Places
 
