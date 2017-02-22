@@ -96,7 +96,6 @@ APIs
 - [Vuforia](https://library.vuforia.com/) - Solid SDK with robust development options. 💸
 - [Wikitude](http://www.wikitude.com/download/) - Wikitude’s all-in-one AR solution includes image recognition & tracking, 3D model rendering, video overlay, location based AR. 💸
 
-
 ### BarCode
 
 - [Google Barcode](https://developers.google.com/vision/barcodes-overview?hl=en) - The Barcode API detects barcodes in real-time, on device, in any orientation. It can also detect multiple barcodes at once.
@@ -169,7 +168,6 @@ APIs
 - [Wordnik](http://developer.wordnik.com/docs.html#!/word) - Dictionary functions.
 - [Words API](https://www.wordsapi.com/) - Use it to find definitions for more than 150,000 words.
 
-
 ### Entertainment
 
 - [BBC](http://www.bbc.co.uk/developer/technology/apis.html) - Variety of BBC APIs with access to interesting data from Radio Labs, programs played on BBC and linking data around the artist played on BBC.
@@ -199,7 +197,6 @@ APIs
 - [Strava](https://strava.github.io/api/) - API for accessing and managing data about athletes, activities and segments.
 - [Withings](http://oauth.withings.com/api) - Access to data from Withings activity trackers and body measures.
 
-
 ### Google
 
 - [Gmail API](https://developers.google.com/gmail/api/?hl=en) - The Gmail REST API. *v1*
@@ -215,7 +212,6 @@ APIs
 - [Google Identity Toolkit API.](https://developers.google.com/identity/) - Help the third party sites to implement federated login. *v1*
 - [Google Monitoring API](https://cloud.google.com/monitoring/api/v3/) - API for accessing Google Cloud and API monitoring data. *v2beta2*
 
-
 ### Identity Verification
 
 - [BlockScore](https://docs.blockscore.com/) - A real-time API for verifying an identity by name, address, date of birth, and social security number.
@@ -227,7 +223,6 @@ APIs
 - [Clarifai](https://developer.clarifai.com/guide/publicmodels#nsfw) - AI API that analyzes images and videos and returns probability scores on the likelihood that the image contains pornography.
 - [NullNude.com](http://www.nullnude.com/) - The adult content detection API. Free for 600 images per month. 💸
 - [WebPurify](https://www.webpurify.com/image-moderation/) - Provides live image moderation by humans. Free for first 100 images. 2¢ per image after. 💸
-
 
 ### IoT
 
