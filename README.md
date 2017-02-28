@@ -89,7 +89,7 @@ APIs
 - [Parse](http://parseplatform.github.io/docs/rest/guide/) - Download recent data to run your own custom analytics.
 - [Woopra](https://www.woopra.com/docs/developer/analytics-api/) - Real-time website analysis tool that targets customer engagement.
 - [Zoho Reports API](https://zohoreportsapi.wiki.zoho.com/) - Build powerful reporting and analytical capabilities into your application.
-
+- [Fabric](https://get.fabric.io/) - A platform that helps your mobile team build better apps, understand your users, and grow your business.
 
 ### Augmented Reality
 
