@@ -468,7 +468,6 @@ APIs
 
 ### Weather
 
-- [AccuWeather](http://apidev.accuweather.com/developers/) - Provides subscribers access to location based weather data via a simple RESTful web interface.
 - [AerisWeather](https://www.aerisweather.com) - Global weather data and imagery APIs, with a free developer subscription tier, boasting detailed documentation for simple to advanced queries, free SDKs and a Map Builder to get you up and running faster.
 - [Forecast](https://darksky.net/dev/docs) - The same API that powers Forecast.io and Dark Sky for iOS.
 - [Open Weather](http://openweathermap.org/api) - Access current weather data for any location on Earth including over 200,000 cities!
