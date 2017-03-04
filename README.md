@@ -80,6 +80,7 @@ APIs
 - [Amazon Mobile Analytics](https://aws.amazon.com/documentation/mobileanalytics/) - Service for collecting, visualizing, and understanding app usage data at scale.
 - [Clicky](https://clicky.com/help/api) - Allows you to extract your web site's traffic data into several formats, making it easy to integrate, analyze, or store your data within your own application.
 - [Countly](http://resources.count.ly/reference) - Self-hosted or private cloud mobile, web and desktop analytics. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
+- [Fabric](https://fabric.io/) - A platform that helps your mobile team build better apps, understand your users, and grow your business.
 - [Flurry](https://developer.yahoo.com/flurry/docs/api/) - Yahoo’s Flurry provides you with a number of APIs enabling you to export your data.
 - [Google Analytics](https://developers.google.com/analytics/?hl=en) - Google Analytics provides APIs to collect, configure, and report on user-interactions with your online content.
 - [IBM Digital Analytics](http://www.scl.com/insights/blog/using-the-ibm-digital-analytics-api-to-get-real-time-data/) - Web Analytics tool often used by e-commerce websites.
@@ -89,7 +90,6 @@ APIs
 - [Parse](http://parseplatform.github.io/docs/rest/guide/) - Download recent data to run your own custom analytics.
 - [Woopra](https://www.woopra.com/docs/developer/analytics-api/) - Real-time website analysis tool that targets customer engagement.
 - [Zoho Reports API](https://zohoreportsapi.wiki.zoho.com/) - Build powerful reporting and analytical capabilities into your application.
-
 
 ### Augmented Reality
 
