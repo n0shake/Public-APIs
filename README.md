@@ -80,6 +80,7 @@ APIs
 - [Amazon Mobile Analytics](https://aws.amazon.com/documentation/mobileanalytics/) - Service for collecting, visualizing, and understanding app usage data at scale.
 - [Clicky](https://clicky.com/help/api) - Allows you to extract your web site's traffic data into several formats, making it easy to integrate, analyze, or store your data within your own application.
 - [Countly](http://resources.count.ly/reference) - Self-hosted or private cloud mobile, web and desktop analytics. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
+- [Fabric](https://get.fabric.io/) - A platform that helps your mobile team build better apps, understand your users, and grow your business.
 - [Flurry](https://developer.yahoo.com/flurry/docs/api/) - Yahoo’s Flurry provides you with a number of APIs enabling you to export your data.
 - [Google Analytics](https://developers.google.com/analytics/?hl=en) - Google Analytics provides APIs to collect, configure, and report on user-interactions with your online content.
 - [IBM Digital Analytics](http://www.scl.com/insights/blog/using-the-ibm-digital-analytics-api-to-get-real-time-data/) - Web Analytics tool often used by e-commerce websites.
@@ -89,7 +90,6 @@ APIs
 - [Parse](http://parseplatform.github.io/docs/rest/guide/) - Download recent data to run your own custom analytics.
 - [Woopra](https://www.woopra.com/docs/developer/analytics-api/) - Real-time website analysis tool that targets customer engagement.
 - [Zoho Reports API](https://zohoreportsapi.wiki.zoho.com/) - Build powerful reporting and analytical capabilities into your application.
-
 
 ### Augmented Reality
 
@@ -208,7 +208,7 @@ APIs
 - [Google Drive API](https://developers.google.com/drive/v2/reference/) - The API to interact with Google Drive. *v3*
 - [Google Fitness API](https://developers.google.com/fit/?hl=en) - The Fit API. *v1*
 - [The Google Fonts Developer API.](https://developers.google.com/fonts/?hl=en) - The Google Fonts API helps you add fonts to any web page. *v1*
-- [Google Geonomics API](https://cloud.google.com/genomics/reference/rest/) - Provides access to Genomics data. *v1beta2*
+- [Google Genomics API](https://cloud.google.com/genomics/reference/rest/) - Provides access to Genomics data. *v1beta2*
 - [Google Identity Toolkit API.](https://developers.google.com/identity/) - Helps third party sites implement federated login. *v1*
 - [Google Monitoring API](https://cloud.google.com/monitoring/api/v3/) - API for accessing Google Cloud and API monitoring data. *v2beta2*
 
@@ -220,7 +220,7 @@ APIs
 ### Image Moderation
 
 - [CheckNu.de](http://www.checknu.de/) - Minimum quality insurance for your user's images, detect nude photos easily. Free without limitation.
-- [Clarifai](https://developer.clarifai.com/guide/publicmodels#nsfw) - AI API that analyzes images and videos and returns probability scores on the likelihood that the image contains pornography.
+- [Clarifai](https://developer.clarifai.com/docs/) - AI API that analyzes images and videos and returns probability scores on the likelihood that the image contains pornography.
 - [NullNude.com](http://www.nullnude.com/) - The adult content detection API. Free for 600 images per month. 💸
 - [WebPurify](https://www.webpurify.com/image-moderation/) - Provides live image moderation by humans. Free for first 100 images. 2¢ per image after. 💸
 
@@ -258,6 +258,7 @@ APIs
 - [Google Prediction API](https://cloud.google.com/prediction/docs) - Cloud-based machine learning and pattern matching tool.
 - [IBM Watson](https://developer.ibm.com/watson/) - Simplifies the process of preparing data and makes it easier to run predictive analysis.
 - [Microsoft Azure Machine Learning API](https://azure.microsoft.com/en-us/services/cognitive-services/) - Helps data scientists publish in minutes which once used to take days after they had developed a feasible model.
+- [Unplugg](http://unplu.gg/test_api.html) - Automated Forecasting API for timeseries data which can be used to forecast energy consumption, temperature, or any other timeseries data which has some seasonality effect.
 
 ### Maps
 
@@ -468,7 +469,6 @@ APIs
 
 ### Weather
 
-- [AccuWeather](http://apidev.accuweather.com/developers/) - Provides subscribers access to location based weather data via a simple RESTful web interface.
 - [AerisWeather](https://www.aerisweather.com) - Global weather data and imagery APIs, with a free developer subscription tier, boasting detailed documentation for simple to advanced queries, free SDKs and a Map Builder to get you up and running faster.
 - [Forecast](https://darksky.net/dev/docs) - The same API that powers Forecast.io and Dark Sky for iOS.
 - [Open Weather](http://openweathermap.org/api) - Access current weather data for any location on Earth including over 200,000 cities!
