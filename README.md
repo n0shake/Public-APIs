@@ -334,7 +334,7 @@ APIs
 
 - [ChartLyrics Lyrics API](http://www.chartlyrics.com/api.aspx) - Allows users to search for lyrics using the artist name, song title, or lyric text.
 - [Lololyrics API](http://api.lololyrics.com/) - Given an artist and track name, obtains its lyrics and metadata such as the year released and album art. Specializes more in electronic dance music genres such as hardstyle.
-- [Muisxmatch](https://developer.musixmatch.com/) - Power your music project by licensing access to the world’s most authoritative lyrics DB.
+- [Musixmatch](https://developer.musixmatch.com/) - Power your music project by licensing access to the world’s most authoritative lyrics DB.
 
 ### Music Stores
 
