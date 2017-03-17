@@ -174,8 +174,8 @@ APIs
 - [Comic Vine](http://comicvine.gamespot.com/api/) - An extremely mature, well organized and continuely updated resource of comic information.
 - [Marvel](https://developer.marvel.com/) - Access over 70 years of comic data with Marvel's official developer API.
 - [Pokéapi](https://pokeapi.co/) - All the Pokémon data you'll ever need, in one place. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
-- [Swapi](https://swapi.co/documentation) - Star Wars API with data you didn't even know existed, or that you needed to know.
 - [Studio Ghibli](https://ghibliapi.herokuapp.com/) - Resources from Studio Ghibli films. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
+- [Swapi](https://swapi.co/documentation) - Star Wars API with data you didn't even know existed, or that you needed to know.
 
 ### Face Recognition
 
