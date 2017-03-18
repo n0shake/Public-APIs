@@ -7,4 +7,4 @@ before_script:
   - gem install awesome_bot
 
 script:
-- awesome_bot README.md --allow-dupe --allow-redirect --white-list https://coinkite.com/developers,https://publisher.yp.com/,https://azure.microsoft.com/en-us/services/cognitive-services/,https://developers.soundcloud.com,http://www.giantbomb.com/api/,http://www.last.fm/api  
+- awesome_bot README.md --allow-dupe --allow-redirect --white-list https://coinkite.com/developers,https://publisher.yp.com/,https://azure.microsoft.com/en-us/services/cognitive-services/,https://developers.soundcloud.com,http://www.giantbomb.com/api/,http://www.last.fm/api,https://developer.salesforce.com/docs/atlas.en-us.api_rest.meta/api_rest/intro_understanding_authentication.htm,https://developer.vimeo.com 

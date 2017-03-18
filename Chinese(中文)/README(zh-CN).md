@@ -334,7 +334,7 @@ APIs
 
 - [ChartLyrics Lyrics API](http://www.chartlyrics.com/api.aspx) - Allows users to search for lyrics using the artist name, song title, or lyric text.
 - [Lololyrics API](http://api.lololyrics.com/) - Given an artist and track name, obtains its lyrics and metadata such as the year released and album art. Specializes more in electronic dance music genres such as hardstyle.
-- [Musixmatch](https://developer.musixmatch.com/) - Power your music project by licensing access to the world’s most authoritative lyrics DB.
+- [Muisxmatch](https://developer.musixmatch.com/) - Power your music project by licensing access to the world’s most authoritative lyrics DB.
 
 ### Music Stores
 
@@ -363,7 +363,6 @@ APIs
 - [Lorem Pixel](http://lorempixel.com/) - Placeholder images for every case.
 - [Placehold](https://placehold.it/) - A quick and simple image placeholder service.
 - [PlaceKitten](https://placekitten.com/) - A quick and simple service for getting pictures of kittens for use as placeholders in your designs or code.
-- [Satyr](http://satyr.io/) - Free powerful API for generating dummy images with unique features like delay, aspect ratio, variable resolution, themes, flags and offline mode.
 - [Unsplash](https://unsplash.it/) - Beautiful placeholders using images from the popular [Unsplash](https://unsplash.com/)
 
 ### Places
@@ -472,7 +471,6 @@ APIs
 - [AerisWeather](https://www.aerisweather.com) - Global weather data and imagery APIs, with a free developer subscription tier, boasting detailed documentation for simple to advanced queries, free SDKs and a Map Builder to get you up and running faster.
 - [Forecast](https://darksky.net/dev/docs) - The same API that powers Forecast.io and Dark Sky for iOS.
 - [Open Weather](http://openweathermap.org/api) - Access current weather data for any location on Earth including over 200,000 cities!
-- [Weatherbit](https://www.weatherbit.io/api) - Access forecasts, current weather, and historical weather data for any point on the Earth! 
 - [Weather Source](http://weathersource.com/weather-api) - Powerful Weather API built for systems that demand speed, reliability and heavy load.
 - [Wunderground API](https://www.wunderground.com/weather/api/) - Reliable data, accurate forecast, & global coverage in 80 languages.
 - [Yahoo Weather API](https://developer.yahoo.com/weather/) - Get up-to-date information for any location, including 5-day forecast, wind, atmosphere, astronomy conditions, and more.
