@@ -1,81 +1,32 @@
 # Public-APIs [![Build Status](https://travis-ci.org/abhishekbanthia/Public-APIs.svg?branch=master)](https://travis-ci.org/abhishekbanthia/Public-APIs) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
-# Introduction
+# 说明
 
-This is an attempt to categorise different APIs scoured from the web which make their resources available for consumption.
+本项目旨在搜集并归类网上繁杂API资源，便于开发者更好的集成使用。
 
-> *Items marked with ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") are open-source
-> *Items marked with 💸 are trial based APIs
+> * 其中带有![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")的条目为开源API
+>
+>
+> * 带有💸的条目为付费或可试用API
 
+## 目录
 
-## Table of Contents
-
-- [Advertising] (#advertising)
-- [Analytics] (#analytics)
-- [Augmented Reality] (#augmented-reality)
-- [Bar Code] (#barcode)
-- [Big Data and Analytics] (#big-data-and-analytics)
-- [Bitcoin] (#bitcoinbitcoin-wallets)
-- [Captcha] (#captcha)
-- [Check In] (#check-in)
-- [Commerce] (#commerce)
-- [Communication] (#communication)
-- [Content] (#content)
-- [Currency] (#currency)
-- [Data Science] (#data-science)
-- [Dictionary] (#dictionary)
-- [Entertainment] (#entertainment)
-- [Face Recognition] (#face-recognition)
-- [File Storage and Manipulation] (#file-storage-and-manipulation)
-- [Fitness] (#fitness)
-- [Google] (#google)
-- [Identity Verification] (#identity-verification)
-- [Image Moderation] (#image-moderation)
-- [IoT] (#iot)
-- [Login and Authentication] (#login-authentication)
-- [Machine Learning] (#machine-learning)
-- [Maps] (#maps)
-- [Math] (#math)
-- [Medical] (#medical)
-- [Miscellaneous] (#miscellaneous)
-- [Movies] (#movies)
-- [Music] (#music)
-	- [Music Analytics] (#music-analytics)
-	- [Music Discovery] (#music-discovery)
-	- [Music Identification] (#music-identification)
-    - [Music Lyrics] (#music-lyrics)
-    - [Music Store] (#music-stores)
-- [Natural Language Processing] (#natural-language-processing)
-- [News](#news-services)
-- [Placeholder Images] (#placeholder-images)
-- [Places] (#places)
-- [Quotes] (#quotes)
-- [Science] (#science)
-- [Social Media] (#social-media)
-- [Source Control] (#source-control)
-- [Sport] (#sport)
-- [Transportation] (#transportation)
-- [URL Shorteners] (#url-shorteners)
-- [Videogames] (#videogames)
-- [Weather] (#weather)
-- [Resources For Design and Discovery of APIs](#resources-for-design-and-discovery-of-apis)
-- [More Resources] (#more-resources)
-- [Contribute] (#contributions)
+[TOC]
 
 
 APIs
 -------
 
-### Advertising
+### 广告（Advertising）
 
-- [Amazon Mobile Ads](https://developer.amazon.com/mobile-ads) - Monetize across platforms with multiple ad formats.
-- [Facebook Marketing API](https://developers.facebook.com/docs/marketing-apis) - Manage ads and campaigns using the Facebook API.
-- [Google AdSense](https://developers.google.com/adsense/?hl=en) - Free, flexible way to earn money from your websites, mobile sites, and site search results.
-- [Google AdWords API](https://developers.google.com/adwords/api/docs/guides/start) - Manage Google AdWords campaigns programmatically.
+- [Amazon Mobile Ads](https://developer.amazon.com/mobile-ads) -支持多币种、多平台、多样化的广告平台。
+- [Facebook Marketing API](https://developers.facebook.com/docs/marketing-apis) -通过Facebook API管理相关广告与活动信息。
+- [Google AdSense](https://developers.google.com/adsense/?hl=en) - 从你的web站点、移动站点和站点搜索结果等途径，自由、灵活的获得经济收入。
+- [Google AdWords API](https://developers.google.com/adwords/api/docs/guides/start) - 编程方式管理Google的广告与活动信息。
 - [Microsoft Advertising Platform - Bing Ads API](https://msdn.microsoft.com/en-us/library/bing-ads-api.aspx) - Provides programmatic access to various advertising technologies.
 - [Yahoo Gemini API](https://developer.yahoo.com/gemini/) - Allows advertisers to manage complex Gemini accounts and campaigns more efficiently.
 
-### Analytics
+### 数据分析（Analytics）
 
 - [Amazon Mobile Analytics](https://aws.amazon.com/documentation/mobileanalytics/) - Service for collecting, visualizing, and understanding app usage data at scale.
 - [Clicky](https://clicky.com/help/api) - Allows you to extract your web site's traffic data into several formats, making it easy to integrate, analyze, or store your data within your own application.
@@ -91,16 +42,16 @@ APIs
 - [Woopra](https://www.woopra.com/docs/developer/analytics-api/) - Real-time website analysis tool that targets customer engagement.
 - [Zoho Reports API](https://zohoreportsapi.wiki.zoho.com/) - Build powerful reporting and analytical capabilities into your application.
 
-### Augmented Reality
+### 增强现实（Augmented Reality，AR）
 
 - [Vuforia](https://library.vuforia.com/) - Solid SDK with robust development options. 💸
 - [Wikitude](http://www.wikitude.com/download/) - Wikitude’s all-in-one AR solution includes image recognition & tracking, 3D model rendering, video overlay, location based AR. 💸
 
-### BarCode
+### 二维码（BarCode）
 
 - [Google Barcode](https://developers.google.com/vision/barcodes-overview?hl=en) - The Barcode API detects barcodes in real-time, on device, in any orientation. It can also detect multiple barcodes at once.
 
-### Big Data and Analytics
+### 大数据与分析（Big Data and Analytics）
 
 - [Google Charts](https://developers.google.com/chart/interactive/docs/) - Free tool with a wide range of capabilities for visualizing data from a website.
 - [Keen IO](https://keen.io/docs/api/) - Keen IO is a powerful, flexible, and scaleable solution that’s literally Big Data, easy-to-implement and at your fingertips.
@@ -108,7 +59,7 @@ APIs
 - [Ryft](http://www.ryft.com/api) - integrate the Ryft ONE’s data analysis capabilities into existing big data environments for faster data analysis and real-time intelligence.
 - [LinkedData.Center](http://linkeddata.center/home/gdaas) - a RDF graph database as a service with W3C SPARQL query and SPARQL update apis. 💸
 
-### Bitcoin/Bitcoin Wallets
+### 比特币（Bitcoin/Bitcoin Wallets）
 
 - [Bitcoin](https://bitcoin.org/en/developer-documentation) - Find useful resources, guides and reference material for developers.
 - [Bitcoincharts](https://bitcoincharts.com/about/markets-api/) - You can use this API to include markets data in your websites, mobile apps or desktop applets.
@@ -122,39 +73,39 @@ APIs
 - [ShapeShift.io](https://shapeshift.io/) - Exchange between cryptocurrencies without an account.  Well documented API for easy use.
 
 
-### Captcha
+### 验证码（Captcha）
 
 - [Anti-Captcha](https://anti-captcha.com/apidoc) - Access to Anti-Captcha’s API.
 - [Naver Captcha](https://developers.naver.com/products/captcha) - Access to Naver’s Captcha API.
 - [Google reCAPTCHA](https://developers.google.com/recaptcha/intro?hl=en) - ReCAPTCHA lets you embed a CAPTCHA in your web pages in order to protect them against spam and other types of automated abuse.
 
-### Check-In
+### 签到（Check-In）
 
 - [Facebook Check-In](https://developers.facebook.com/docs/graph-api/reference/v2.3/checkin) - A check-in made to a location-based Page.
 - [Google Places](https://developers.google.com/places/?hl=en) - Access to Google Places’ API.
 - [Foursquare Check-In](https://developer.foursquare.com/docs/checkins/add) - Allows you to check in to a place.
 - [Yahoo GeoPlanet](https://developer.yahoo.com/geo/geoplanet/guide/) - Geo-enable your applications using Yahoo GeoPlanet.
 
-### Commerce
+### 商务（Commerce）
 
 - [Marketcloud](https://www.marketcloud.it) - eCommerce APIs for developers. It covers inventory and database, carts and checkout, payments, user authentication, and more. You just bring the frontend.
 - [Moltin](https://www.moltin.com/developers) - Unified APIs for inventory, carts, the checkout process, payments and more, so you can focus on creating seamless customer experiences at any scale.
 - [Stripe](https://stripe.com/docs/api) - Allows both private individuals and businesses to accept payments over the Internet.
 - [Braintree](https://developers.braintreepayments.com) - Specializes in mobile and web payment systems for ecommerce companies.
 
-### Communication
+### 通讯（Communication）
 
 - [Exotel](https://exotel.in/) - Exotel is a cloud telephony service provider for small and medium enterprises in India. Free 15-day trial.💸
 
-### Content
+### 内容（Content）
 
 - [qKast Channel Content](https://github.com/egfx/qKast) - Access live content collections sourced from any page around the web.
 
-### Currency
+### 汇率（Currency）
 
 - [Fixer.io](http://fixer.io/) - JSON API for foreign exchange rates and currency conversion.
 
-### Data Science
+### 数据科学（Data Science）
 
 - [Data Science Toolkit](https://github.com/petewarden/dstk) - A collection of the best open data sets and open-source tools for data science.
 
@@ -168,19 +119,20 @@ APIs
 - [Wordnik](http://developer.wordnik.com/docs.html#!/word) - Dictionary functions.
 - [Words API](https://www.wordsapi.com/) - Use it to find definitions for more than 150,000 words.
 
-### Entertainment
+### 娱乐（Entertainment）
 
 - [BBC](http://www.bbc.co.uk/developer/technology/apis.html) - Variety of BBC APIs with access to interesting data from Radio Labs, programs played on BBC and linking data around the artist played on BBC.
 - [Comic Vine](http://comicvine.gamespot.com/api/) - An extremely mature, well organized and continuely updated resource of comic information.
 - [Marvel](https://developer.marvel.com/) - Access over 70 years of comic data with Marvel's official developer API.
 - [Pokéapi](https://pokeapi.co/) - All the Pokémon data you'll ever need, in one place. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
+- [Studio Ghibli](https://ghibliapi.herokuapp.com/) - Resources from Studio Ghibli films. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
 - [Swapi](https://swapi.co/documentation) - Star Wars API with data you didn't even know existed, or that you needed to know.
 
-### Face Recognition
+### 脸部识别（Face Recognition）
 
 - [Kairos](https://www.kairos.com/) - Face recognition, emotion analysis and measuring engagement of people in images or videos for any mobile or web application. 30 Day Trial 💸
 
-### File Storage and Manipulation
+### 数据存储（File Storage and Manipulation）
 
 - [Amazon S3](https://aws.amazon.com/de/documentation/s3/) - API that provides access to stored files and can be added easily to any service - and it's free for twelve months.
 - [Cloudinary](http://cloudinary.com/documentation) - API for image and video storage and manipulation - free for up to 75,000 images and 7,500 manipulations per month, good documentation, it can also manipulate GIFs and PDFs.
@@ -189,7 +141,7 @@ APIs
 - [Microsoft Graph](https://graph.microsoft.io/en-us/docs/api-reference/v1.0/resources/onedrive) - API for accessing stored files and photos for personal and enterprise users with high resolution thumbnails and Microsoft Office APIs.
 - [Yogurl](http://yogurl.io) - API and CLI for serving files and code over HTTP instantly ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
 
-### Fitness
+### 健身（Fitness）
 
 - [FitBit](https://dev.fitbit.com/docs/) - Web API for accessing data from Fitbit activity trackers, Aria scale, and manually entered logs.
 - [HealthGraph](https://runkeeper.com/developer/healthgraph/registration-authorization) - RunKeeper's web-based HealthGraph API presents Health Graph data, and provides information about a user and friends.
@@ -197,7 +149,7 @@ APIs
 - [Strava](https://strava.github.io/api/) - API for accessing and managing data about athletes, activities and segments.
 - [Withings](http://oauth.withings.com/api) - Access to data from Withings activity trackers and body measures.
 
-### Google
+### 谷歌（Google）
 
 - [Gmail API](https://developers.google.com/gmail/api/?hl=en) - The Gmail REST API. *v1*
 - [Google BigQuery API](https://cloud.google.com/bigquery/docs/reference/rest/v2/) - A data platform for customers to create, manage, share and query data. *v2*
@@ -212,19 +164,19 @@ APIs
 - [Google Identity Toolkit API.](https://developers.google.com/identity/) - Helps third party sites implement federated login. *v1*
 - [Google Monitoring API](https://cloud.google.com/monitoring/api/v3/) - API for accessing Google Cloud and API monitoring data. *v2beta2*
 
-### Identity Verification
+### 身份验证（Identity Verification）
 
 - [BlockScore](https://docs.blockscore.com/) - A real-time API for verifying an identity by name, address, date of birth, and social security number.
 - [Cognito](https://cognitohq.com/docs) - A powerful API for verifying and retrieving identity information. Can take a customer's cellphone number and return name, address history, full SSN, and date of birth.
 
-### Image Moderation
+### 图像分级（Image Moderation）
 
 - [CheckNu.de](http://www.checknu.de/) - Minimum quality insurance for your user's images, detect nude photos easily. Free without limitation.
 - [Clarifai](https://developer.clarifai.com/docs/) - AI API that analyzes images and videos and returns probability scores on the likelihood that the image contains pornography.
 - [NullNude.com](http://www.nullnude.com/) - The adult content detection API. Free for 600 images per month. 💸
 - [WebPurify](https://www.webpurify.com/image-moderation/) - Provides live image moderation by humans. Free for first 100 images. 2¢ per image after. 💸
 
-### IoT
+### 物联网（IoT）
 
 - [Lelylan](http://dev.lelylan.com/api) - Open Source Internet of Things Cloud Platform. Microservices Architecture. For Developers. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
 - [Particle](https://docs.particle.io/reference/api/) - API to manage Particle devices (including their own Arduino-compatible ones and the Raspberry Pi) and control them. Free for up to 25 devices and 250k events/month.
@@ -236,7 +188,7 @@ APIs
 - [Xively](https://developer.xively.com/reference) - Uses free and open libraries to let you connect different types of hardware, using a variety of languages to their cloud service.
 - [Zetta](http://www.zettajs.org/) - An open source platform built on Node.js for creating IoT servers that run across geo-distributed computers and the cloud. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
 
-### Login Authentication
+### 登录认证（Login Authentication）
 
 - [Auth0](https://auth0.com) - Authenticate and authorize apps and APIs with any identity provider running on any stack any device or cloud. Free for 700 active users.
 - [Facebook Login for Apps](https://developers.facebook.com/docs/facebook-login) - Secure, fast, convenient way to login in your app/website.
@@ -250,7 +202,7 @@ APIs
 - [Salesforce](https://developer.salesforce.com/docs/atlas.en-us.api_rest.meta/api_rest/intro_understanding_authentication.htm) - Salesforce uses the OAuth protocol to allow users of applications to securely access data without having to reveal username and password credentials.
 - [Twitter Sign-in](https://dev.twitter.com/web/sign-in) - Works on websites, iOS, mobile and desktop applications.
 
-### Machine Learning
+### 机器学习（Machine Learning）
 
 - [Amazon MI API](http://docs.aws.amazon.com/machine-learning/latest/APIReference/Welcome.html) - Amazon Machine Learning API simplifies the process of making predictions that require lots of expertise around model building, data cleansing and statistical analysis.
 - [AYLIEN](http://aylien.com/) - AYLIEN Text Analysis API is a package of Natural Language Processing, Information Retrieval and Machine Learning tools for extracting meaning and insight from textual and visual content with ease.
@@ -260,7 +212,7 @@ APIs
 - [Microsoft Azure Machine Learning API](https://azure.microsoft.com/en-us/services/cognitive-services/) - Helps data scientists publish in minutes which once used to take days after they had developed a feasible model.
 - [Unplugg](http://unplu.gg/test_api.html) - Automated Forecasting API for timeseries data which can be used to forecast energy consumption, temperature, or any other timeseries data which has some seasonality effect.
 
-### Maps
+### 地图（Maps）
 
 - [Amazon Maps API v2](https://developer.amazon.com/maps) - Add interactive 3D maps, graphics, and custom overlays to your Fire Tablet and Fire phone apps.
 - [Bing Maps](https://www.microsoft.com/maps/choose-your-bing-maps-API.aspx) - Bing Maps platform provides multiple API options for your application.
@@ -276,32 +228,32 @@ APIs
 - [Yandex](https://tech.yandex.com/maps/) - API for installing Yandex.Maps and the necessary tools for working it on your web app or site.
 - [Daum Maps API](http://apis.map.daum.net/) - Daum Maps provide multiple APIs for Korean map.
 
-### Math
+### 数学（Math）
 
 - [Newton](https://newton.now.sh/) - An API for Arithmetic and Symbolic Math. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
 
-### Medical
+### 医学（Medical）
 
 - [Infermedica](https://developer.infermedica.com/docs/introduction) - AI-based engine for patient triage and preliminary medical diagnosis. *v2*
 - [Lexigram](https://docs.lexigram.io/v1/welcome) - NLP that extracts mentions of clinical concepts from text, gives access to clinical ontology. *v1*
 
-### Miscellaneous
+### 其他杂项（Miscellaneous）
 
 - [Callook.info](https://callook.info) - Look up information about United States ham radio callsigns.
 - [FreeDB](http://www.freedb.org/) - Look up CD information using the freed database.
-![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
+  ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
 - [Labs64 NetLicensing](https://www.labs64.de/confluence/x/pwCo) ([API Test Center](http://io.labs64.com/NetLicensing-API/)) - Innovative License Management Solution.
 - [Pastebin](http://pastebin.com/api) - Quickly share text or code, with support for over 250 languages for syntax highlighting.
 - [Spreaker](https://developers.spreaker.com/) - Enables developers to read and write data to Spreaker.
 - [RestCountries](https://restcountries.eu) - Get information about countries via a RESTful API.
 - [WolframAlpha](http://products.wolframalpha.com/api/) - Integrate top of the line computational knowledge into your applications through the WolframAlpha API. 💸
 
-### Movies
+### 电影（Movies）
 
 - [OMDB](https://www.omdbapi.com/) - OMDb provides a free web service to obtain information and metadata about movies.
 - [TMDb](https://www.themoviedb.org/documentation/api) - TMDb provides powerful searches as well as powerful movie discovery.
 
-### Music
+### 音乐（Music）
 
 - [Deezer](http://developers.deezer.com/api) - Deezer API provides a nice set of services to build up web applications allowing the discovery of Deezer's music catalogue.
 - [Discogs](https://www.discogs.com/developers/) - Access database of artists, labels, releases, marketplace and more.
@@ -315,38 +267,38 @@ APIs
 - [SoundCloud](https://developers.soundcloud.com) - Using the SoundCloud API, you can build applications that take sound on the web to the next level.
 - [Spotify](https://developer.spotify.com/web-api/) - Spotify’s Web API lets your applications fetch data from the Spotify music catalog and manage user’s playlists and saved music.
 
-### Music Analytics
+### 音乐分析（Music Analytics）
 
 - [Next Big Sound](https://api3.nextbigsound.com/) - API offers a very simple interface to access data from NBS. Ruby wrapper available.
 
-### Music Discovery
+### 音乐发现（Music Discovery）
 
 - [Rovi](https://developers.rovicorp.com/) - Access to Metadata, search capabilities and recommendations.
 - [Setlist.fm](http://api.setlist.fm/docs/index.html) - The setlist.fm API has been designed to give you easy access to setlist data in order to build fancy websites and other applications.
 - [TuneFind](http://www.tunefind.com/api) - Allows developers to enhance their services with song, show, and movie data from TuneFind.
 
-### Music Identification
+### 音乐识别（Music Identification）
 
 - [Acoustid](https://acoustid.org/webservice) - Supports searching through their fingerprint database. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
 - [Gracenote](https://developer.gracenote.com/) - Largest source of music and video metadata on the planet.
 
-### Music Lyrics
+### 音乐歌词（Music Lyrics）
 
 - [ChartLyrics Lyrics API](http://www.chartlyrics.com/api.aspx) - Allows users to search for lyrics using the artist name, song title, or lyric text.
 - [Lololyrics API](http://api.lololyrics.com/) - Given an artist and track name, obtains its lyrics and metadata such as the year released and album art. Specializes more in electronic dance music genres such as hardstyle.
-- [Muisxmatch](https://developer.musixmatch.com/) - Power your music project by licensing access to the world’s most authoritative lyrics DB.
+- [Musixmatch](https://developer.musixmatch.com/) - Power your music project by licensing access to the world’s most authoritative lyrics DB.
 
-### Music Stores
+### 音乐故事（Music Stores）
 
 - [iTunes Search](https://affiliate.itunes.apple.com/resources/documentation/itunes-store-web-service-search-api/) - The Search API allows you to place search fields in your website to search for content within the iTunes Store, App Store, iBooks Store and Mac App Store.
 - [Reverb](https://dev.reverb.com/) - Sell and buy music related merchandise.
 
-### News Services
+### 新闻服务（News Services）
 
 - [NewsAPI](https://newsapi.org/) - 70+ news sources and their headlines, one API.
 - [The Guardian](http://open-platform.theguardian.com/) - Access a huge range of content from The Guardian.
 
-### Natural Language Processing
+### 自然语言处理（Natural Language Processing）
 
 - [AlchemyAPI - IBM Company](http://www.alchemyapi.com/api) - Uses NLP and ML algorithms to extract semantic meta-data from content.
 - [API AI](https://docs.api.ai/) - Natural Language Interactions for Bots, Applications, Services, and Devices
@@ -357,15 +309,16 @@ APIs
 - [TextRazor](https://www.textrazor.com/plans) - Helps you extract and understand the Who, What, Why, and How from your supplied text. #FreeToUse
 - [Wit AI](https://wit.ai/) - Provides an intent-based NLP API to easily build text and audio based chat bots. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
 
-### Placeholder Images
+### 图像占位符（Placeholder Images）
 
 - [DummyImage](https://dummyimage.com/) - Particularly nice, when compared to some of its competitors, in that it offers a great deal of flexibility.
 - [Lorem Pixel](http://lorempixel.com/) - Placeholder images for every case.
 - [Placehold](https://placehold.it/) - A quick and simple image placeholder service.
 - [PlaceKitten](https://placekitten.com/) - A quick and simple service for getting pictures of kittens for use as placeholders in your designs or code.
+- [Satyr](http://satyr.io/) - Free powerful API for generating dummy images with unique features like delay, aspect ratio, variable resolution, themes, flags and offline mode.
 - [Unsplash](https://unsplash.it/) - Beautiful placeholders using images from the popular [Unsplash](https://unsplash.com/)
 
-### Places
+### 位置（Places）
 
 - [CityGrid](http://docs.citygridmedia.com/display/citygridv2/Places+API) - Enables developers to create web and mobile applications that find local businesses, organizations, and points of interest by a variety of search criteria.
 - [Factual](http://developer.factual.com/get-started/) - Providing a places search that can be searched by latitude/longitude, and “where” using full text search query string.
@@ -376,23 +329,23 @@ APIs
 - [Yelp](https://www.yelp.com/developers/documentation/v3/) - You can search location using longitude and latitude, neighborhood, address or city and filter listings by “where”, using a list of support categories.
 - [YP](https://publisher.yp.com/) - Providing a places search that can be queried by keyword and longitude/latitude, street address, city, postal code, Neighborhood, state, points of interest or by phone number.
 
-### Quotes
+### 引语（Quotes）
 
 - [Forismatic](http://api.forismatic.com/api/1.0/) - Gives you a random quote per click.
 - [They Said So](http://quotes.rest/qod.json?category=inspire) - Gives you a random quote per day.
 
-### Retail
+### 零售（Retail）
 
 - [Amazon Product Advertising API](http://docs.aws.amazon.com/AWSECommerceService/latest/DG/Welcome.html) - Get access to the data used by Amazon including items for sale, customer reviews, seller reviews, item search, product promotions, and more.
 
-### Science
+### 科学（Science）
 
 - [NASA](https://api.nasa.gov/index.html) - Get NASA data, including imagery, list of asteroids based on their closest approach date to Earth and much more.
 - [Open Science Framework](https://osf.io/y9jdt/wiki/home/) - A free, open source workflow/project management system for storing, collaborating on, and sharing research across the scholarly life cycle. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
 - [SHARE](http://share-research.readthedocs.io/en/latest/) - A free, open dataset of scholarly research activity across the scholarly lifecycle. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
 
 
-### Social Media
+### 社会媒体（Social Media）
 
 - [Daily Motion](https://developer.dailymotion.com/) - Build applications centered around DailyMotion.
 - [Delicious](https://github.com/domainersuitedev/delicious-api) - Access to Delicious’s API.
@@ -425,7 +378,7 @@ APIs
 - [YouTube](https://developers.google.com/youtube/) - Add YouTube functionality to your sites and apps.
 - [Zomato](https://developers.zomato.com/api) - Zomato APIs give you access to the freshest and most exhaustive information for over 1.5 million restaurants across 10,000 cities globally.
 
-### Source Control
+### 源码控制（Source Control）
 
 - [Bitbucket](https://developer.atlassian.com/bitbucket/api/2/reference/) - Access to Bitbucket's API.
 - [GitHub](https://developer.github.com/v3/) - Build real-world GitHub applications right from authentication, to manipulating results, to combining results with other service.
@@ -436,12 +389,12 @@ APIs
 - [Team Foundation Server](https://www.visualstudio.com/en-us/docs/integrate/get-started/overview) - TFS APIs are based on REST, OAuth, Json and service hooks.
 
 
-### Sport
+### 体育（Sport）
 
 - [Ergast Formula 1](http://ergast.com/mrd/) - Provides access to current and historical Formula 1 race data from 1950 to today.
 - [TheSportsDB](http://www.thesportsdb.com/) - Various sports events, results, players, teams and high quality artwork.
 
-### Transportation
+### 运输（Transportation）
 
 - [AfterShip](https://www.aftership.com/docs/api/4/overview) - Provides multi-carrier shipment tracking APIs.
 - [Edmunds](http://developer.edmunds.com/) - A dataset containing all the car makes.
@@ -451,7 +404,7 @@ APIs
 - [Postmates](https://postmates.com/developer/docs) - Build on-demand delivery into your app or website.
 - [Uber](https://developer.uber.com/) - Uber provides API for customizing trip experiences, requesting rides, powering logistics, creating bots and so much more.
 
-### URL Shorteners
+### 短网址（URL Shorteners）
 
 - [Anon.click](https://anon.click/api/) - Shorten long URLs and optionally protect them with passwords or captcha. No registration required.
 - [Bitly](http://dev.bitly.com/links.html) - Access to Bitly’s API.
@@ -460,46 +413,46 @@ APIs
 - [Po.st](https://post.zendesk.com/hc/en-us/articles/200328516-Po-st-REST-API) - Shorten URLs, Expand shortened URLs, see statistics etc.
 - [Yourls](https://yourls.org/#API) - Generate or get existing short URLs, with sequential or custom keyword.
 
-### Videogames
+### 视频游戏（Videogames）
 
 - [GiantBomb](http://www.giantbomb.com/api/) - API to query the GiantBomb database for videogames, characters, companies, genres and many more.
 - [IGDB](https://www.igdb.com/api) - Access the International Games Database and get information about videogames, characters, companies, genres and many more. Commercial usage is allowed.
 - [TheGamesDB.net](http://wiki.thegamesdb.net/index.php?title=API_Introduction) - Free API to access information about videogames, platforms, genres and ratings.
 
-### Weather
+### 天气（Weather）
 
 - [AerisWeather](https://www.aerisweather.com) - Global weather data and imagery APIs, with a free developer subscription tier, boasting detailed documentation for simple to advanced queries, free SDKs and a Map Builder to get you up and running faster.
 - [Forecast](https://darksky.net/dev/docs) - The same API that powers Forecast.io and Dark Sky for iOS.
 - [Open Weather](http://openweathermap.org/api) - Access current weather data for any location on Earth including over 200,000 cities!
+- [Weatherbit](https://www.weatherbit.io/api) - Access forecasts, current weather, and historical weather data for any point on the Earth!
 - [Weather Source](http://weathersource.com/weather-api) - Powerful Weather API built for systems that demand speed, reliability and heavy load.
 - [Wunderground API](https://www.wunderground.com/weather/api/) - Reliable data, accurate forecast, & global coverage in 80 languages.
 - [Yahoo Weather API](https://developer.yahoo.com/weather/) - Get up-to-date information for any location, including 5-day forecast, wind, atmosphere, astronomy conditions, and more.
 
-### Credits
+### 信用（ Credits）
 
 - [Computer Science Zone](http://www.computersciencezone.org/50-most-useful-apis-for-developers/)
 - [Louis Dorrad](http://www.louisdorard.com/blog/machine-learning-apis-comparison)
 - [Music Machinery](https://musicmachinery.com/music-apis/)
 - [NewStack](http://thenewstack.io/the-different-flavors-of-iot-apis/)
 
-### Resources For Design and Discovery of APIs
+### 探索与设计相关的API资源（Resources For Design and Discovery of APIs）
 
 - [Apiary](https://apiary.io/) - Collaborative tool to design APIs. 💸
 - [OpenAPI](https://www.openapis.org) - Standard, language-agnostic interface to REST APIs (based on [Swagger](http://swagger.io/)). ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
 - [Swagger](http://swagger.io/) - Tools for designing, building, and documenting RESTful APIs. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
 
 
-
-### More Resources
+### 更多资源（More Resources）
 
 - [APIs.guru](https://apis.guru/)
 - [More Awesome APIs](https://github.com/Kikobeats/awesome-api)
 - [Programmable Web](https://www.programmableweb.com/apis/directory)
 
-### Contributions
+### 参与项目（Contributions）
 
-Pull requests are welcome. Please adhere to the [guidelines](https://github.com/abhishekbanthia/Public-APIs/blob/master/CONTRIBUTING.md).
+欢迎开发者参与该项目，烦请阅读并遵守项目[规范](https://github.com/binglumeng/Public-APIs/blob/master/Chinese(%E4%B8%AD%E6%96%87)/CONTRIBUTING.md)
 
 # License
 
-<a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+<a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png" /></a>This work is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
