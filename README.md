@@ -1,6 +1,6 @@
 # Public-APIs [![Build Status](https://travis-ci.org/abhishekbanthia/Public-APIs.svg?branch=master)](https://travis-ci.org/abhishekbanthia/Public-APIs) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
-# Introduction
+# Introduction[中文版](./Chinese(中文)/README(zh-CN).md)
 
 This is an attempt to categorise different APIs scoured from the web which make their resources available for consumption.
 
