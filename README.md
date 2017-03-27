@@ -23,6 +23,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 - [Content](#content)
 - [Currency](#currency)
 - [Data Science](#data-science)
+- [Design](#design)
 - [Dictionary](#dictionary)
 - [Entertainment](#entertainment)
 - [Face Recognition](#face-recognition)
@@ -49,6 +50,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 - [News](#news-services)
 - [Placeholder Images](#placeholder-images)
 - [Places](#places)
+- [Product](#product)
 - [Quotes](#quotes)
 - [Science](#science)
 - [Social Media](#social-media)
@@ -157,6 +159,13 @@ APIs
 ### Data Science
 
 - [Data Science Toolkit](https://github.com/petewarden/dstk) - A collection of the best open data sets and open-source tools for data science.
+
+### Design
+
+- [Dribbble](http://developer.dribbble.com/) - Dribbble is a community of designers answering that question each day.
+- [Behance](https://www.behance.net/dev/api/endpoints/) - Behance is the leading online platform to showcase & discover creative work.
+- [Pexels](https://www.pexels.com/api/) - Pexels provides high quality and completely free stock photos licensed under the Creative Commons Zero (CC0) license.
+- [Pixabay](https://pixabay.com/api/docs/) - Free images and videos you can use anywhere.
 
 ### Dictionary
 
@@ -378,6 +387,10 @@ APIs
 - [Yelp](https://www.yelp.com/developers/documentation/v3/) - You can search location using longitude and latitude, neighborhood, address or city and filter listings by “where”, using a list of support categories.
 - [YP](https://publisher.yp.com/) - Providing a places search that can be queried by keyword and longitude/latitude, street address, city, postal code, Neighborhood, state, points of interest or by phone number.
 
+### Product
+
+- [Product Hunt](https://api.producthunt.com/v1/docs) - The best new products, every day.
+
 ### Quotes
 
 - [Forismatic](http://api.forismatic.com/api/1.0/) - Gives you a random quote per click.
@@ -406,6 +419,7 @@ APIs
 - [GoodReads](https://www.goodreads.com/api) - Allows developers access to Goodreads data in order to help websites or applications that deal with books.
 - [Google+](https://developers.google.com/+/web/api/rest/) - Enables apps to login to Google+ view connections, groups, posts, and contact information.
 - [Gravatar](https://en.gravatar.com/site/implement/) - Create profiles and avatars using this web service.
+- [Hacker News](://github.com/HackerNews/API) - Anything that good hackers would find interesting.
 - [Imgur](https://api.imgur.com/) - Imgur's API exposes the entire Imgur infrastructure via a standardized programmatic interface.
 - [Instagram](https://www.instagram.com/developer/) - Search photos by location, user, tags, view trending photos, and make custom items.
 - [Kakao](https://developers.kakao.com/features/kakao) - Access to Kakao’s APIs.
