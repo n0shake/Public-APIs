@@ -151,6 +151,7 @@ APIs
 ### Content
 
 - [qKast Channel Content](https://github.com/egfx/qKast) - Access live content collections sourced from any page around the web.
+- [PrexView](https://prexview.com/) - Transform your data from XML or JSON to high quality, beautiful and readable documents in PDF, HTML, PNG or JPG.
 
 ### Currency
 
