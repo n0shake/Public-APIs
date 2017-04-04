@@ -305,6 +305,7 @@ APIs
 - [Spreaker](https://developers.spreaker.com/) - Enables developers to read and write data to Spreaker.
 - [RestCountries](https://restcountries.eu) - Get information about countries via a RESTful API.
 - [WolframAlpha](http://products.wolframalpha.com/api/) - Integrate top of the line computational knowledge into your applications through the WolframAlpha API. 💸
+- [LetsValidate](https://github.com/letsvalidate/api) - Uncovers the technologies used on websites and URL to thumbnail.
 
 ### Movies
 
