@@ -164,7 +164,6 @@ APIs
 - [Dribbble](http://developer.dribbble.com/) - Dribbble is a community of designers answering that question each day.
 - [Behance](https://www.behance.net/dev/api/endpoints/) - Behance is the leading online platform to showcase & discover creative work.
 - [Pexels](https://www.pexels.com/api/) - Pexels provides high quality and completely free stock photos licensed under the Creative Commons Zero (CC0) license.
-- [Pixabay](https://pixabay.com/api/docs/) - Free images and videos you can use anywhere.
 
 ### Dictionary
 
