@@ -377,6 +377,8 @@ APIs
 - [PlaceKitten](https://placekitten.com/) - A quick and simple service for getting pictures of kittens for use as placeholders in your designs or code.
 - [Satyr](http://satyr.io/) - Free powerful API for generating dummy images with unique features like delay, aspect ratio, variable resolution, themes, flags and offline mode.
 - [Unsplash](https://unsplash.it/) - Beautiful placeholders using images from the popular [Unsplash](https://unsplash.com/)
+- [PlaceCage](http://www.placecage.com/) - Image placeholder featuring Nick Cage
+- [FillMurray](http://www.fillmurray.com/) - The internet was missing the ability to provide custom-sized placeholder images of Bill Murray. Now it can.
 
 ### Places
 
