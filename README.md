@@ -179,6 +179,7 @@ APIs
 
 - [BBC](http://www.bbc.co.uk/developer/technology/apis.html) - Variety of BBC APIs with access to interesting data from Radio Labs, programs played on BBC and linking data around the artist played on BBC.
 - [Comic Vine](http://comicvine.gamespot.com/api/) - An extremely mature, well organized and continuely updated resource of comic information.
+- [Magic: The Gathering Developers](http://magicthegathering.io) - Retrieves in-depth details about MTG cards. Search by parameters such as card name, mana cost, and card colors. Languages supported include English, Chinese (Simplified and Traditional), French, German, Italian, Japanese, Korean, Portuguese (Brazil), Russian, and Spanish. Not affiliated with Wizards of the Coast.
 - [Marvel](https://developer.marvel.com/) - Access over 70 years of comic data with Marvel's official developer API.
 - [Pokéapi](https://pokeapi.co/) - All the Pokémon data you'll ever need, in one place. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
 - [Studio Ghibli](https://ghibliapi.herokuapp.com/) - Resources from Studio Ghibli films. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
@@ -217,7 +218,7 @@ APIs
 - [Google Drive API](https://developers.google.com/drive/v2/reference/) - The API to interact with Google Drive. *v3*
 - [Google Fitness API](https://developers.google.com/fit/?hl=en) - The Fit API. *v1*
 - [The Google Fonts Developer API.](https://developers.google.com/fonts/?hl=en) - The Google Fonts API helps you add fonts to any web page. *v1*
-- [Google Genomics API](https://cloud.google.com/genomics/reference/rest/) - Provides access to Genomics data. *v1beta2*
+- [Google Geonomics API](https://cloud.google.com/genomics/reference/rest/) - Provides access to Genomics data. *v1beta2*
 - [Google Identity Toolkit API.](https://developers.google.com/identity/) - Helps third party sites implement federated login. *v1*
 - [Google Monitoring API](https://cloud.google.com/monitoring/api/v3/) - API for accessing Google Cloud and API monitoring data. *v2beta2*
 
@@ -230,7 +231,7 @@ APIs
 ### Image Moderation
 
 - [CheckNu.de](http://www.checknu.de/) - Minimum quality insurance for your user's images, detect nude photos easily. Free without limitation.
-- [Clarifai](https://developer.clarifai.com/docs/) - AI API that analyzes images and videos and returns probability scores on the likelihood that the image contains pornography.
+- [Clarifai](https://developer.clarifai.com/guide/publicmodels#nsfw) - AI API that analyzes images and videos and returns probability scores on the likelihood that the image contains pornography.
 - [NullNude.com](http://www.nullnude.com/) - The adult content detection API. Free for 600 images per month. 💸
 - [WebPurify](https://www.webpurify.com/image-moderation/) - Provides live image moderation by humans. Free for first 100 images. 2¢ per image after. 💸
 
