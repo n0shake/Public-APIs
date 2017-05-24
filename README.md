@@ -21,6 +21,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 - [Commerce](#commerce)
 - [Communication](#communication)
 - [Content](#content)
+- [Countries](#countries)
 - [Currency](#currency)
 - [Data Science](#data-science)
 - [Design](#design)
@@ -150,6 +151,10 @@ APIs
 ### Content
 
 - [qKast Channel Content](https://github.com/egfx/qKast) - Access live content collections sourced from any page around the web.
+
+### Countries
+
+- [CountryAPI](https://fabian7593.github.io/CountryAPI/) - Gets the list of all countries with important information, and respective flags.
 
 ### Currency
 
