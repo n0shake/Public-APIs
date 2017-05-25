@@ -21,6 +21,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 - [Commerce](#commerce)
 - [Communication](#communication)
 - [Content](#content)
+- [Countries](#countries)
 - [Currency](#currency)
 - [Data Science](#data-science)
 - [Design](#design)
@@ -150,6 +151,10 @@ APIs
 ### Content
 
 - [qKast Channel Content](https://github.com/egfx/qKast) - Access live content collections sourced from any page around the web.
+
+### Countries
+
+- [CountryAPI](https://fabian7593.github.io/CountryAPI/) - Gets the list of all countries with important information, and respective flags.
 
 ### Currency
 
@@ -384,6 +389,7 @@ APIs
 ### Places
 
 - [CityGrid](http://docs.citygridmedia.com/display/citygridv2/Places+API) - Enables developers to create web and mobile applications that find local businesses, organizations, and points of interest by a variety of search criteria.
+- [CountryAPI](https://fabian7593.github.io/CountryAPI/) - Gets all the countries with your respective information completely free, and open source project.
 - [Factual](http://developer.factual.com/get-started/) - Providing a places search that can be searched by latitude/longitude, and “where” using full text search query string.
 - [Foursquare Venue](https://developer.foursquare.com/overview/venues) - Providing a places search that can be searched by  hierarchical list of categories, longitude/latitude etc.
 - [Google Places API](https://developers.google.com/places/documentation/?csw=1) - Providing a places search that can be searched by latitude/longitude, keyword matched against all fields, name of place, type of place restricted by radius.
