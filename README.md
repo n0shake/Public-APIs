@@ -189,6 +189,7 @@ APIs
 ### Face Recognition
 
 - [Kairos](https://www.kairos.com/) - Face recognition, emotion analysis and measuring engagement of people in images or videos for any mobile or web application. 30 Day Trial 💸
+- [Skybiometry](https://www.skybiometry.com) - Face detection, emotional analysis, face grouping, recognition service and tagging the photo.
 
 ### File Storage and Manipulation
 
