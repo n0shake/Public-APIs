@@ -1,6 +1,6 @@
 # Public-APIs [![Build Status](https://travis-ci.org/abhishekbanthia/Public-APIs.svg?branch=master)](https://travis-ci.org/abhishekbanthia/Public-APIs) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
-# Introduction
+# Introduction[中文版](./Chinese(中文)/README(zh-CN).md)
 
 This is an attempt to categorise different APIs scoured from the web which make their resources available for consumption.
 
@@ -517,7 +517,11 @@ APIs
 
 ### More Resources
 
+- [Alibaba APIs](https://market.aliyun.com/data)
 - [APIs.guru](https://apis.guru/)
+- [Baidu APIStore](http://apistore.baidu.com/)
+- [JuHe APIs](https://www.juhe.cn/)
+- [JISU APIs](https://www.jisuapi.com/)
 - [More Awesome APIs](https://github.com/Kikobeats/awesome-api)
 - [Programmable Web](https://www.programmableweb.com/apis/directory)
 
