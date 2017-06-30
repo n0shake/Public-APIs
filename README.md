@@ -361,6 +361,7 @@ APIs
 ### News Services
 
 - [Faroo](http://www.faroo.com/hp/api/api.html) - Alternative to Google Web Search API / Google News Search API, allows you to search news within dates, fetch trending news, topics and terms.
+- [New York Times](http://developer.nytimes.com/) - Article search, best sellers, campaign finance, community, most popular, real estate, movie reviews, NY state legislature, Times newswire, tags, people
 - [NewsAPI](https://newsapi.org/) - 70+ news sources and their headlines, one API.
 - [The Guardian](http://open-platform.theguardian.com/) - Access a huge range of content from The Guardian.
 
