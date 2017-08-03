@@ -138,7 +138,7 @@ APIs
 
 ### Commerce
 
-- [koomalooma](http://business.koomalooma.com) - A Loyalty BPaaS (Business Process as a Service) for mobile and web companies. With koomalooma merchants issue points for actions their customers / users make on your mobile or web store, for example a purchase or a referral. koomalooma takes care of all the rest, from signing up users, keeping track of points and delivering rewards in over 80 countries.💸
+- [koomalooma](http://business.koomalooma.com) - A Loyalty BPaaS (Business Process as a Service) for mobile and web companies. Merchants issue points for actions their customers/users make, for example a purchase or a referral. koomalooma takes care of all the rest, from signing up users, keeping track of points and delivering rewards in over 80 countries.💸
 - [Marketcloud](https://www.marketcloud.it) - eCommerce APIs for developers. It covers inventory and database, carts and checkout, payments, user authentication, and more. You just bring the frontend.
 - [Moltin](https://www.moltin.com/developers) - Unified APIs for inventory, carts, the checkout process, payments and more, so you can focus on creating seamless customer experiences at any scale.
 - [Stripe](https://stripe.com/docs/api) - Allows both private individuals and businesses to accept payments over the Internet.
