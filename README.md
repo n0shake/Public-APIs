@@ -309,6 +309,7 @@ APIs
 - [ChuckNorris.io](https://api.chucknorris.io) - A free JSON API for hand curated Chuch Norris facts. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
 - [FreeDB](http://www.freedb.org/) - Look up CD information using the freed database.
 ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
+- [IP Sidekick](https://ipsidekick.com) - IP Sidekick is an API that returns information about an IP address. You can use it to customize your content based on the visitor's location or display their country.
 - [Judge0 API](https://api.judge0.com/) - Compile and run source code. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
 - [Labs64 NetLicensing](https://www.labs64.de/confluence/x/pwCo) ([API Test Center](http://io.labs64.com/NetLicensing-API/)) - Innovative License Management Solution.
 - [LetsValidate](https://github.com/letsvalidate/api) - Uncovers the technologies used on websites and URL to thumbnail.
