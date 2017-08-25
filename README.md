@@ -26,6 +26,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 - [Design](#design)
 - [Dictionary](#dictionary)
 - [Entertainment](#entertainment)
+- [Events](#events)
 - [Face Recognition](#face-recognition)
 - [File Storage and Manipulation](#file-storage-and-manipulation)
 - [Finance](#finance)
@@ -187,6 +188,10 @@ APIs
 - [Pokéapi](https://pokeapi.co/) - All the Pokémon data you'll ever need, in one place. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
 - [Studio Ghibli](https://ghibliapi.herokuapp.com/) - Resources from Studio Ghibli films. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
 - [Swapi](https://swapi.co/documentation) - Star Wars API with data you didn't even know existed, or that you needed to know.
+
+### Events
+
+- [Picatic](http://developer.picatic.com/?utm_medium=web&utm_source=github&utm_campaign=public-apis%20repo&utm_content=abhishekbanthia) - Sell tickets directly from your app or website.
 
 ### Face Recognition
 
