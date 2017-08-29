@@ -441,7 +441,7 @@ APIs
 - [GoodReads](https://www.goodreads.com/api) - Allows developers access to Goodreads data in order to help websites or applications that deal with books.
 - [Google+](https://developers.google.com/+/web/api/rest/) - Enables apps to login to Google+ view connections, groups, posts, and contact information.
 - [Gravatar](https://en.gravatar.com/site/implement/) - Create profiles and avatars using this web service.
-- [Hacker News](://github.com/HackerNews/API) - Anything that good hackers would find interesting.
+- [Hacker News](https://github.com/HackerNews/API) - Anything that good hackers would find interesting.
 - [Imgur](https://api.imgur.com/) - Imgur's API exposes the entire Imgur infrastructure via a standardized programmatic interface.
 - [Instagram](https://www.instagram.com/developer/) - Search photos by location, user, tags, view trending photos, and make custom items.
 - [Kakao](https://developers.kakao.com/features/kakao) - Access to Kakao’s APIs.
