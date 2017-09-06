@@ -58,6 +58,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 - [Social Media](#social-media)
 - [Source Control](#source-control)
 - [Sport](#sport)
+- [Storage](#storage)
 - [Transportation](#transportation)
 - [URL Shorteners](#url-shorteners)
 - [Videogames](#videogames)
@@ -480,6 +481,12 @@ APIs
 
 - [Ergast Formula 1](http://ergast.com/mrd/) - Provides access to current and historical Formula 1 race data from 1950 to today.
 - [TheSportsDB](http://www.thesportsdb.com/) - Various sports events, results, players, teams and high quality artwork.
+
+
+### Storage
+
+- [JSONbin.io](https://jsonbin.io/) - Free JSON data storage service, ideal for small scale web apps, website, mobile apps.
+
 
 ### Transportation
 
