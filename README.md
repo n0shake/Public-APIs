@@ -58,7 +58,6 @@ This is an attempt to categorise different APIs scoured from the web which make 
 - [Social Media](#social-media)
 - [Source Control](#source-control)
 - [Sport](#sport)
-- [Storage](#storage)
 - [Transportation](#transportation)
 - [URL Shorteners](#url-shorteners)
 - [Videogames](#videogames)
@@ -317,6 +316,7 @@ APIs
 - [FreeDB](http://www.freedb.org/) - Look up CD information using the freed database.
 ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
 - [IP Sidekick](https://ipsidekick.com) - IP Sidekick is an API that returns information about an IP address. You can use it to customize your content based on the visitor's location or display their country.
+- [JSONbin.io](https://jsonbin.io/api-reference) - Free JSON data storage service, ideal for small scale web apps, website, mobile apps.
 - [Judge0 API](https://api.judge0.com/) - Compile and run source code. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
 - [Labs64 NetLicensing](https://www.labs64.de/confluence/x/pwCo) ([API Test Center](http://io.labs64.com/NetLicensing-API/)) - Innovative License Management Solution.
 - [LetsValidate](https://github.com/letsvalidate/api) - Uncovers the technologies used on websites and URL to thumbnail.
@@ -481,12 +481,6 @@ APIs
 
 - [Ergast Formula 1](http://ergast.com/mrd/) - Provides access to current and historical Formula 1 race data from 1950 to today.
 - [TheSportsDB](http://www.thesportsdb.com/) - Various sports events, results, players, teams and high quality artwork.
-
-
-### Storage
-
-- [JSONbin.io](https://jsonbin.io/) - Free JSON data storage service, ideal for small scale web apps, website, mobile apps.
-
 
 ### Transportation
 
