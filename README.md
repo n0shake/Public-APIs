@@ -397,6 +397,7 @@ APIs
 - [PlaceKitten](https://placekitten.com/) - A quick and simple service for getting pictures of kittens for use as placeholders in your designs or code.
 - [Satyr](http://satyr.io/) - Free powerful API for generating dummy images with unique features like delay, aspect ratio, variable resolution, themes, flags and offline mode.
 - [Unsplash](https://unsplash.it/) - Beautiful placeholders using images from the popular [Unsplash](https://unsplash.com/)
+- [Houndify](https://www.houndify.com/) - Integrate voice and conversational intelligence into your products through an independent platform that is always learning. Customize, innovate, and differentiate while maintaining your own brand and users.
 
 ### Places
 
