@@ -328,7 +328,7 @@ APIs
 
 ### Movies
 
-- [OMDB](https://www.omdbapi.com/) - OMDb provides a free web service to obtain information and metadata about movies.
+- [OMDB](https://www.omdbapi.com/) - OMDb provides a subscription based web service to obtain information and metadata about movies.
 - [TMDb](https://www.themoviedb.org/documentation/api) - TMDb provides powerful searches as well as powerful movie discovery.
 
 ### Music
