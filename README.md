@@ -416,6 +416,7 @@ APIs
 
 ### Quotes
 
+- [FavQs](https://favqs.com/api) - FavQs allows you to collect, discover, and share your favorite quotes.
 - [Forismatic](http://api.forismatic.com/api/1.0/) - Gives you a random quote per click.
 - [They Said So](http://quotes.rest/qod.json?category=inspire) - Gives you a random quote per day.
 
