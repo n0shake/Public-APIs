@@ -56,6 +56,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 - [Social Media](#social-media)
 - [Source Control](#source-control)
 - [Sport](#sport)
+- [Text to Speech](#text-to-speech)
 - [Transportation](#transportation)
 - [URL Shorteners](#url-shorteners)
 - [Videogames](#videogames)
@@ -483,6 +484,10 @@ APIs
 
 - [Ergast Formula 1](http://ergast.com/mrd/) - Provides access to current and historical Formula 1 race data from 1950 to today.
 - [TheSportsDB](http://www.thesportsdb.com/) - Various sports events, results, players, teams and high quality artwork.
+
+### Text To Speech
+
+ - [VoiceRSS](http://www.voicerss.org/) - An API to convert Text to Speech, supporting 15+ major languages.
 
 ### Transportation
 
