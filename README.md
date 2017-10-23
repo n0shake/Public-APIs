@@ -325,6 +325,7 @@ APIs
 - [RestCountries](https://restcountries.eu) - Get information about countries via a RESTful API.
 - [WolframAlpha](http://products.wolframalpha.com/api/) - Integrate top of the line computational knowledge into your applications through the WolframAlpha API. 💸
 - [Wunderlist](https://developer.wunderlist.com/) - The Wunderlist API provides REST-based storage and synchronization of a user’s lists across multiple platforms and devices.
+- [StackExchange](https://api.stackexchange.com/) - The StackExchange API provides RESTful services to all the sites on the StackExchange domain.
 
 ### Movies
 
