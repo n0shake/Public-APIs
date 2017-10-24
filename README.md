@@ -56,7 +56,6 @@ This is an attempt to categorise different APIs scoured from the web which make 
 - [Social Media](#social-media)
 - [Source Control](#source-control)
 - [Sport](#sport)
-- [Text to Speech](#text-to-speech)
 - [Transportation](#transportation)
 - [URL Shorteners](#url-shorteners)
 - [Videogames](#videogames)
@@ -390,6 +389,7 @@ APIs
 - [Open Calais](http://www.opencalais.com/opencalais-api/) - Good entity extraction, no sentiment analysis.
 - [Semantria](https://www.lexalytics.com/) - SAAS API based on Lexalytics engine. #Paid
 - [TextRazor](https://www.textrazor.com/plans) - Helps you extract and understand the Who, What, Why, and How from your supplied text. #FreeToUse
+- [VoiceRSS](http://www.voicerss.org/) - An API to convert Text to Speech, supporting 15+ major languages.
 - [Wit AI](https://wit.ai/) - Provides an intent-based NLP API to easily build text and audio based chat bots. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
 
 ### Placeholder Images
@@ -484,10 +484,6 @@ APIs
 
 - [Ergast Formula 1](http://ergast.com/mrd/) - Provides access to current and historical Formula 1 race data from 1950 to today.
 - [TheSportsDB](http://www.thesportsdb.com/) - Various sports events, results, players, teams and high quality artwork.
-
-### Text To Speech
-
- - [VoiceRSS](http://www.voicerss.org/) - An API to convert Text to Speech, supporting 15+ major languages.
 
 ### Transportation
 
