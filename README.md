@@ -151,6 +151,7 @@ APIs
 ### Content
 
 - [qKast Channel Content](https://github.com/egfx/qKast) - Access live content collections sourced from any page around the web.
+- [Wikipedia](https://en.wikipedia.org/w/api.php) - free multilingual Encyclopedia.
 
 ### Currency
 
@@ -175,6 +176,7 @@ APIs
 - [Pearson Dictionaries API](http://developer.pearson.com/apis/dictionaries) - (*BETA*) Gives access to a very large database of words and phrases with thorough explanations - free usage for up to 4 million calls/month.
 - [Wordnik](http://developer.wordnik.com/docs.html#!/word) - Dictionary functions.
 - [Words API](https://www.wordsapi.com/) - Use it to find definitions for more than 150,000 words.
+- [Wiktionary API](https://en.wiktionary.org/w/api.php) - collaborative, free-content multilingual dictionary.
 
 ### Entertainment
 
@@ -293,6 +295,7 @@ APIs
 - [Leaflet.js](http://leafletjs.com/) - An open-source JavaScript library for mobile-friendly interactive maps. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
 - [Mapbox](https://www.mapbox.com/developers/api/maps/) - Access to MapBox’s API.
 - [Naver Maps API](https://developers.naver.com/products/map) - Naver Maps provide multiple APIs for Korean map.
+- [Open Street Map](http://wiki.openstreetmap.org/wiki/API) - Open Source Map
 - [Scribble](https://www.scribblemaps.com/api/) - The Scribble Maps API is a cross browser, mobile ready, HTML5/JavaScript, interactive map builder.
 - [Yahoo Maps](https://developer.yahoo.com/maps/) - Yahoo Maps lets you easily embed rich and interactive maps using your choice of platform.
 - [Yandex](https://tech.yandex.com/maps/) - API for installing Yandex.Maps and the necessary tools for working it on your web app or site.
