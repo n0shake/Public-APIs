@@ -491,6 +491,7 @@ APIs
 
 ### Transportation
 
+- [ADS-B Exchange](https://www.adsbexchange.com/data/) - Access real-time and historical data of any and all airborne aircraft.
 - [AfterShip](https://www.aftership.com/docs/api/4/overview) - Provides multi-carrier shipment tracking APIs.
 - [Edmunds](http://developer.edmunds.com/) - A dataset containing all the car makes.
 - [Lyft](https://www.lyft.com/developers) - Get real-time ETAs, availability, price estimates, ride status through the Lyft API.
