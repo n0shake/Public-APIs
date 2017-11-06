@@ -147,6 +147,7 @@ APIs
 ### Communication
 
 - [Exotel](https://exotel.in/) - Exotel is a cloud telephony service provider for small and medium enterprises in India. Free 15-day trial.💸
+- [Africa's Talking](https://africastalking.com/) - Access African telco services through a HTTP API.💸
 
 ### Content
 
