@@ -1,3 +1,4 @@
+
 # Public-APIs [![Twitter: @abgbm](https://img.shields.io/badge/contact-@abgbm-blue.svg?style=flat)](https://twitter.com/abgbm) [![Build Status](https://travis-ci.org/abhishekbanthia/Public-APIs.svg?branch=master)](https://travis-ci.org/abhishekbanthia/Public-APIs) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
 This is an attempt to categorise different APIs scoured from the web which make their resources available for consumption.
@@ -29,6 +30,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 - [File Storage and Manipulation](#file-storage-and-manipulation)
 - [Finance](#finance)
 - [Fitness](#fitness)
+- [Geocoding](#geocoding)
 - [Google](#google)
 - [Identity Verification](#identity-verification)
 - [Image Moderation](#image-moderation)
@@ -220,6 +222,10 @@ APIs
 - [Strava](https://strava.github.io/api/) - API for accessing and managing data about athletes, activities and segments.
 - [Withings](http://oauth.withings.com/api) - Access to data from Withings activity trackers and body measures.
 - [USDA API](https://ndb.nal.usda.gov/ndb/doc/index) - United States Department of Agriculture Open Source API for gathering nutritional data, and food reports.
+
+### Geocoding
+
+- [OpenCage](https://geocoder.opencagedata.com) - API for reverse and forward geocoding using opendata. Global Coverage.
 
 ### Google
 
