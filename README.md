@@ -211,6 +211,20 @@ APIs
 
 ### Finance
 - [IEX](https://iextrading.com/developer/) - Free Stocks and Market Data
+- Central Banks
+ - [Australia](https://www.rba.gov.au/statistics/tables/) (csv)
+ - [Canada](https://www.bankofcanada.ca/rates/exchange/) (csv, xml, json)
+ - [EU](https://sdw-wsrest.ecb.europa.eu/web/generator/index.html#tabData) (REST)
+ - [Georgia](https://nbg.gov.ge/api.html) (soap)
+ - [Ireland](https://data.gov.ie/data/search?publisher=central-bank-of-ireland) (xls)
+ - [Myanmar](https://forex.cbm.gov.mm/api/) (json)
+ - [Moldova](https://bnm.md/en/content/official-exchange-rates) (xml, json, xls)
+ - [New Zealand](https://www.rbnz.govt.nz/statistics) (xls)
+ - [Nigeria](https://www.cbn.gov.ng/rates/) (csv)
+ - [Peru](http://www.bcrp.gob.pe/statistics.html)
+ - RF [REST XML](https://www.cbr.ru/scripts/Root.asp?PrtId=SXML) [SOAP](https://www.cbr.ru/DailyInfoWebServ/DailyInfo.asmx) Some data is available only via the RESTful one, some is only via the SOAP one.
+ - [Switzerland](https://data.snb.ch/en)
+ - [Ukraine](https://bank.gov.ua/control/en/publish/article?art_id=25365630) (json, xml)
 
 ### Fitness
 
