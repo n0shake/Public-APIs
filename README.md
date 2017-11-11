@@ -261,6 +261,10 @@ APIs
 - [Xively](https://developer.xively.com/reference) - Uses free and open libraries to let you connect different types of hardware, using a variety of languages to their cloud service.
 - [Zetta](http://www.zettajs.org/) - An open source platform built on Node.js for creating IoT servers that run across geo-distributed computers and the cloud. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
 
+### Legal
+#### Open Licenses
+- [TLDRLegal Licenses API](https://tldrlegal.com/api/license)
+
 ### Login Authentication
 
 - [Auth0](https://auth0.com) - Authenticate and authorize apps and APIs with any identity provider running on any stack any device or cloud. Free for 700 active users.
