@@ -330,6 +330,7 @@ APIs
 - [LetsValidate](https://github.com/letsvalidate/api) - Uncovers the technologies used on websites and URL to thumbnail.
 - [Marijuana Strain API](http://strains.evanbusse.com/) - Documentation on over 2000 Marijuana strains including races, flavors, and effects.
 - [Pastebin](http://pastebin.com/api) - Quickly share text or code, with support for over 250 languages for syntax highlighting.
+- [LaunchLibrary](https://launchlibrary.net/docs/1.3/api.html) - Aggregated info about space launches
 - [Spreaker](https://developers.spreaker.com/) - Enables developers to read and write data to Spreaker.
 - [StackExchange](https://api.stackexchange.com/) - The StackExchange API provides RESTful services to all the sites on the StackExchange domain.
 - [RestCountries](https://restcountries.eu) - Get information about countries via a RESTful API.
