@@ -211,6 +211,20 @@ APIs
 
 ### Finance
 - [IEX](https://iextrading.com/developer/) - Free Stocks and Market Data
+- Central Banks
+ - [Australia](https://www.rba.gov.au/statistics/tables/) - plenty of kinds of data in CSV format.
+ - [Canada](https://www.bankofcanada.ca/rates/) - daily exchange rates and statistical data tables in CSV, XML or JSON formats.
+ - [EU](https://sdw-wsrest.ecb.europa.eu/web/generator/index.html#tabData) - variety of data is available via REST API.
+ - [Georgia](https://nbg.gov.ge/api.html) - currency exchange rates available via SOAP API.
+ - [Ireland](https://data.gov.ie/data/search?publisher=central-bank-of-ireland) - variety of data mainly in [XLS](https://en.wikipedia.org/wiki/Microsoft_Excel#File_formats) format.
+ - [Myanmar](http://forex.cbm.gov.mm/api/) - currency exchange rates in JSON format.
+ - [Moldova](https://bnm.md/en/content/official-exchange-rates) - currency exchange rates in XML, JSON and XLS formats.
+ - [New Zealand](https://www.rbnz.govt.nz/statistics) - variety of data in XLS format.
+ - [Nigeria](https://www.cbn.gov.ng/rates/) - not only exchange rates, but also other info in CSV format.
+ - [Peru](http://www.bcrp.gob.pe/statistics.html) - variety of data in [XLSX](https://en.wikipedia.org/wiki/Microsoft_Excel#File_formats) format.
+ - RF - variety of data via [REST XML](https://www.cbr.ru/scripts/Root.asp?PrtId=SXML) and [SOAP](https://www.cbr.ru/DailyInfoWebServ/DailyInfo.asmx) APIs. Some data is available only via the RESTful one, some is only via the SOAP one.
+ - [Switzerland](https://data.snb.ch/en) - rich variety of datan in XLS and CSV formats.
+ - [Ukraine](https://bank.gov.ua/control/en/publish/article?art_id=25365630) - exchange rates and bond placements in JSON and XML formats.
 
 ### Fitness
 
