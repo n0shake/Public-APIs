@@ -263,6 +263,9 @@ APIs
 
 ### Legal
 #### Open Licenses
+
+- [GitHub Licenses API](https://developer.github.com/v3/licenses/)
+- [ToSDR terms of service API](https://tosdr.org/api.html)
 - [TLDRLegal Licenses API](https://tldrlegal.com/api/license)
 
 ### Login Authentication
