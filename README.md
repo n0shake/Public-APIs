@@ -181,7 +181,6 @@ APIs
 
 ### Entertainment
 
-- [BBC](http://www.bbc.co.uk/developer/technology/apis.html) - Variety of BBC APIs with access to interesting data from Radio Labs, programs played on BBC and linking data around the artist played on BBC.
 - [Comic Vine](http://comicvine.gamespot.com/api/) - An extremely mature, well organized and continuely updated resource of comic information.
 - [Comichron Data](https://github.com/comichron-data/api) - API for comic sales data from comichron.com. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
 - [Danbooru](https://danbooru.donmai.us/posts?tags=help%3Aapi) - Get images cartegorized by tags.
