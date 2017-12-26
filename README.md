@@ -28,7 +28,8 @@ This is an attempt to categorise different APIs scoured from the web which make 
 - [Face Recognition](#face-recognition)
 - [File Storage and Manipulation](#file-storage-and-manipulation)
 - [Finance](#finance)
-- [Fitness](#fitness)
+- [Fitness
+](#fitness)
 - [Google](#google)
 - [Identity Verification](#identity-verification)
 - [Image Moderation](#image-moderation)
@@ -409,7 +410,7 @@ APIs
 ### Natural Language Processing
 
 - [AlchemyAPI - IBM Company](http://www.alchemyapi.com/api) - Uses NLP and ML algorithms to extract semantic meta-data from content.
-- [DialogFlow](https://dialogflow.com//) - Natural Language Interactions for Bots, Applications, Services, and Devices
+- [DialogFlow](https://dialogflow.com/) - Natural Language Interactions for Bots, Applications, Services, and Devices
 - [Datum Box](http://www.datumbox.com/machine-learning-api/) - Datumbox offers a powerful open-source Machine Learning Framework written in Java. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
 - [LUIS AI](https://www.luis.ai/) - Language Understanding Intelligent Service offers a fast and effective way of adding language understanding to applications.
 - [Open Calais](http://www.opencalais.com/opencalais-api/) - Good entity extraction, no sentiment analysis. 
