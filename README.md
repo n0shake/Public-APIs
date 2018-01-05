@@ -419,6 +419,7 @@ APIs
 - [TextRazor](https://www.textrazor.com/plans) - Helps you extract and understand the Who, What, Why, and How from your supplied text. #FreeToUse
 - [VoiceRSS](http://www.voicerss.org/) - An API to convert Text to Speech, supporting 15+ major languages.
 - [Wit AI](https://wit.ai/) - Provides an intent-based NLP API to easily build text and audio based chat bots. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
+- [Word Associations API] (https://wordassociations.net/en/api) - Provides service to get associations for a word or phrase. Words are grouped by semantics, meaning, and psychological perception.
 
 ### Placeholder Images
 
