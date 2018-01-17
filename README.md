@@ -346,6 +346,7 @@ APIs
 - [Labs64 NetLicensing](https://www.labs64.de/confluence/x/pwCo) ([API Test Center](http://io.labs64.com/NetLicensing-API/)) - Innovative License Management Solution.
 - [LaunchLibrary](https://launchlibrary.net/docs/1.3/api.html) - Aggregated info about space launches.
 - [LetsValidate](https://github.com/letsvalidate/api) - Uncovers the technologies used on websites and URL to thumbnail.
+- [LinkPreview](https://www.linkpreview.net) - Link Preview is a RESTful API that returns JSON formatted summary with title, description and preview image for any requested URL. Free & paid plans.
 - [Marijuana Strain API](http://strains.evanbusse.com/) - Documentation on over 2000 Marijuana strains including races, flavors, and effects.
 - [Pastebin](http://pastebin.com/api) - Quickly share text or code, with support for over 250 languages for syntax highlighting.
 - [Spreaker](https://developers.spreaker.com/) - Enables developers to read and write data to Spreaker.
