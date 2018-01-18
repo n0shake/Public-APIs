@@ -149,6 +149,7 @@ APIs
 
 - [Exotel](https://exotel.in/) - Exotel is a cloud telephony service provider for small and medium enterprises in India. Free 15-day trial.💸
 - [Africa's Talking](https://africastalking.com/) - Access African telco services through a HTTP API.💸
+- [MailGun](https://mailgun.com) - Transactional Email API Service For Developers. Free first 10000 emails per month. 💸
 
 ### Content
 
