@@ -149,7 +149,8 @@ APIs
 
 - [Africa's Talking](https://africastalking.com/) - Access African telco services through a HTTP API.💸
 - [Exotel](https://exotel.in/) - Exotel is a cloud telephony service provider for small and medium enterprises in India. Free 15-day trial.💸
-- [MailGun](https://mailgun.com) - Transactional Email API Service For Developers. Free first 10000 emails per month. 💸
+- [MailGun](https://mailgun.com) - Transactional Email API Service For Developers. Free first 10000 emails per month.💸
+- [The SMS Works](https://thesmsworks.co.uk/sms-api) - The SMS Works provides a low-cost, reliable SMS API for developers. Pay only for delivered texts, all failed messages are refunded.💸
 
 ### Content
 
