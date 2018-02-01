@@ -135,7 +135,6 @@ APIs
 - [Facebook Check-In](https://developers.facebook.com/docs/graph-api/reference/v2.3/checkin) - A check-in made to a location-based Page.
 - [Google Places](https://developers.google.com/places/?hl=en) - Access to Google Places’ API.
 - [Foursquare Check-In](https://developer.foursquare.com/docs/checkins/add) - Allows you to check in to a place.
-- [Yahoo GeoPlanet](https://developer.yahoo.com/geo/geoplanet/guide/) - Geo-enable your applications using Yahoo GeoPlanet.
 
 ### Commerce
 - [envoice](https://www.envoice.in) - Invoicing for online businesses. Simplify your invoicing process and get paid online with a debit or credit card via your payment gateway.
@@ -468,7 +467,6 @@ APIs
 
 ### Social Media
 
-- [500px](https://github.com/500px/api-documentation/) - 500px API provides programmatic access to 500px functionality and content.
 - [Daily Motion](https://developer.dailymotion.com/) - Build applications centered around DailyMotion.
 - [Delicious](https://github.com/domainersuitedev/delicious-api) - Access to Delicious’s API.
 - [DeviantArt](https://www.deviantart.com/developers/) - The largest social networking website for artists and art enthusiasts.
