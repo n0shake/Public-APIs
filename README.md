@@ -135,10 +135,9 @@ APIs
 - [Facebook Check-In](https://developers.facebook.com/docs/graph-api/reference/v2.3/checkin) - A check-in made to a location-based Page.
 - [Google Places](https://developers.google.com/places/?hl=en) - Access to Google Places’ API.
 - [Foursquare Check-In](https://developer.foursquare.com/docs/checkins/add) - Allows you to check in to a place.
-- [Yahoo GeoPlanet](https://developer.yahoo.com/geo/geoplanet/guide/) - Geo-enable your applications using Yahoo GeoPlanet.
 
 ### Commerce
-
+- [envoice](https://www.envoice.in) - Invoicing for online businesses. Simplify your invoicing process and get paid online with a debit or credit card via your payment gateway.
 - [koomalooma](http://business.koomalooma.com) - A Loyalty BPaaS (Business Process as a Service) for mobile and web companies. Merchants issue points for actions their customers/users make, for example a purchase or a referral. koomalooma takes care of all the rest, from signing up users, keeping track of points and delivering rewards in over 80 countries.💸
 - [Marketcloud](https://www.marketcloud.it) - eCommerce APIs for developers. It covers inventory and database, carts and checkout, payments, user authentication, and more. You just bring the frontend.
 - [Moltin](https://www.moltin.com/developers) - Unified APIs for inventory, carts, the checkout process, payments and more, so you can focus on creating seamless customer experiences at any scale.
@@ -440,7 +439,6 @@ APIs
 - [Foursquare Venue](https://developer.foursquare.com/overview/venues) - Providing a places search that can be searched by  hierarchical list of categories, longitude/latitude etc.
 - [Google Places API](https://developers.google.com/places/documentation/?csw=1) - Providing a places search that can be searched by latitude/longitude, keyword matched against all fields, name of place, type of place restricted by radius.
 - [Nokia](https://developer.here.com/develop/javascript-api) - Providing a JavaScript places search that can be searched by search term, with a detail search for display by JS widget.
-- [Yahoo GeoPlanet](https://developer.yahoo.com/geo/geoplanet/) - Providing a places search that can be searched by type, county, state, country, oceans, seas, continents, hierarchy and full text search.
 - [Yelp](https://www.yelp.com/developers/documentation/v3/) - You can search location using longitude and latitude, neighborhood, address or city and filter listings by “where”, using a list of support categories.
 - [YP](https://publisher.yp.com/) - Providing a places search that can be queried by keyword and longitude/latitude, street address, city, postal code, Neighborhood, state, points of interest or by phone number.
 
@@ -468,7 +466,6 @@ APIs
 
 ### Social Media
 
-- [500px](https://github.com/500px/api-documentation/) - 500px API provides programmatic access to 500px functionality and content.
 - [Daily Motion](https://developer.dailymotion.com/) - Build applications centered around DailyMotion.
 - [Delicious](https://github.com/domainersuitedev/delicious-api) - Access to Delicious’s API.
 - [DeviantArt](https://www.deviantart.com/developers/) - The largest social networking website for artists and art enthusiasts.
