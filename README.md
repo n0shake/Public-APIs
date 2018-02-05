@@ -416,6 +416,7 @@ APIs
 - [DialogFlow](https://dialogflow.com/) - Natural Language Interactions for Bots, Applications, Services, and Devices
 - [Datum Box](http://www.datumbox.com/machine-learning-api/) - Datumbox offers a powerful open-source Machine Learning Framework written in Java. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
 - [LUIS AI](https://www.luis.ai/) - Language Understanding Intelligent Service offers a fast and effective way of adding language understanding to applications.
+- [MeaningCloud](https://www.meaningcloud.com) - Text analysis APIs for topic extraction, sentiment analysis, automatic classification, morphosyntactic analysis, language detection and more. Several languages are supported.
 - [Open Calais](http://www.opencalais.com/opencalais-api/) - Good entity extraction, no sentiment analysis. 
 - [Recast.AI](https://recast.ai) - Recast.AI provide an NLP API for text analysis and entity extraction. Recast.AI is the leading platform to build, connect and monitor bots.
 - [Semantria](https://www.lexalytics.com/) - SAAS API based on Lexalytics engine. #Paid
