@@ -575,6 +575,8 @@ APIs
 - [APIs.guru](https://apis.guru/)
 - [More Awesome APIs](https://github.com/Kikobeats/awesome-api)
 - [Programmable Web](https://www.programmableweb.com/apis/directory)
+- [Postman API Tools](https://www.getpostman.com/docs/postman/postman_api/intro_api)
+
 
 ### Contributions
 
