@@ -551,6 +551,7 @@ APIs
 - [AerisWeather](https://www.aerisweather.com) - Global weather data and imagery APIs, with a free developer subscription tier, boasting detailed documentation for simple to advanced queries, free SDKs and a Map Builder to get you up and running faster.
 - [Forecast](https://darksky.net/dev/docs) - The same API that powers Forecast.io and Dark Sky for iOS.
 - [Open Weather](http://openweathermap.org/api) - Access current weather data for any location on Earth including over 200,000 cities!
+- [Storm Glass Marine Weather API](https://stormglass.io) - Global marine weather data from multiple sources in one single API!
 - [Weatherbit](https://www.weatherbit.io/api) - Access forecasts, current weather, and historical weather data for any point on the Earth!
 - [Weather Source](http://weathersource.com/weather-api) - Powerful Weather API built for systems that demand speed, reliability and heavy load.
 - [Wunderground API](https://www.wunderground.com/weather/api/) - Reliable data, accurate forecast, & global coverage in 80 languages.
