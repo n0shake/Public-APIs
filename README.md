@@ -114,7 +114,6 @@ APIs
 
 - [Bitcoin](https://bitcoin.org/en/developer-documentation) - Find useful resources, guides and reference material for developers.
 - [Bitcoincharts](https://bitcoincharts.com/about/markets-api/) - You can use this API to include markets data in your websites, mobile apps or desktop applets.
-- [biteasy](https://www.biteasy.com/developers) - Biteasy provides the following, free to use, APIs which a developer can use and build its own great applications.
 - [bitpay](https://bitpay.com/developers) - A simple, RESTful API to the most powerful bitcoin infrastructure on the planet.
 - [Block](https://block.io/) - The most versatile and secure wallet for all your coins.
 - [BlockCypher](https://www.blockcypher.com/) - BlockCypher is the infrastructure fabric for blockchain applications
