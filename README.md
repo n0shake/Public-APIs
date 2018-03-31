@@ -157,7 +157,8 @@ APIs
 
 ### Currency
 
-- [Fixer.io](http://fixer.io/) - JSON API for foreign exchange rates and currency conversion.
+- [1Forge.com](https://1forge.com/) - Real-time forex and crypto quotes via JSON and WebSocket.
+- [Fixer.io](http://fixer.io/) - JSON API for foreign exchange rates and currency conversion.  End of day data only.
 
 ### Data Science
 
