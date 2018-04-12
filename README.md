@@ -315,6 +315,7 @@ APIs
 - [Daum Maps API](http://apis.map.daum.net/) - Daum Maps provide multiple APIs for Korean map.
 - [DigitalGlobe](http://dgdev2016.wpengine.com/maps-api/) - DigitalGlobe Maps API delivers the world's best satellite imagery, straight to your app. #Beta
 - [Google Maps API](https://developers.google.com/maps/?hl=en) - Google Maps APIs are available for Android, iOS, web browsers and through HTTP web services. [Clients can be found here.](https://github.com/googlemaps/)
+- [HERE Maps API](https://developer.here.com/) - Wide range of APIs available through JavaScript, iOS, Android, or REST services.
 - [Leaflet.js](http://leafletjs.com/) - An open-source JavaScript library for mobile-friendly interactive maps. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
 - [Mapbox](https://www.mapbox.com/developers/api/maps/) - Access to MapBox’s API.
 - [Naver Maps API](https://developers.naver.com/products/map) - Naver Maps provide multiple APIs for Korean map.
