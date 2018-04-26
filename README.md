@@ -146,9 +146,9 @@ APIs
 ### Communication
 
 - [Africa's Talking](https://africastalking.com/) - Access African telco services through a HTTP API.💸
+- [iP1sms](https://www.ip1sms.com/en/developer/) - Send and recieve SMS messages worldwide.💸
 - [MailGun](https://mailgun.com) - Transactional Email API Service For Developers. Free first 10000 emails per month.💸
 - [Nexmo](https://developer.nexmo.com) - Make and receive phone calls, send and receive SMS worldwide. Libraries in Node, Ruby, Java, PHP, .NET & Python.💸
-- [iP1sms](https://www.ip1sms.com/en/developer/) - Send and recieve SMS messages worldwide.💸
 - [The SMS Works](https://thesmsworks.co.uk/sms-api) - The SMS Works provides a low-cost, reliable SMS API for developers. Pay only for delivered texts, all failed messages are refunded.💸
 
 ### Content
