@@ -424,6 +424,7 @@ APIs
 - [MeaningCloud](https://www.meaningcloud.com) - Text analysis APIs for topic extraction, sentiment analysis, automatic classification, morphosyntactic analysis, language detection and more. Several languages are supported.
 - [Open Calais](http://www.opencalais.com/opencalais-api/) - Good entity extraction, no sentiment analysis.
 - [Recast.AI](https://recast.ai) - Recast.AI provide an NLP API for text analysis and entity extraction. Recast.AI is the leading platform to build, connect and monitor bots.
+- [SummarizeBot API](https://www.summarizebot.com/summarization_business.html) - AI web data extraction and analysis. Multilingual summarization, keywords and sentiment analysis, language recognition, article extraction, comments identification, multimedia analysis, image and face recognition solutions. 💸
 - [Semantria](https://www.lexalytics.com/) - SAAS API based on Lexalytics engine. #Paid
 - [TextRazor](https://www.textrazor.com/plans) - Helps you extract and understand the Who, What, Why, and How from your supplied text. #FreeToUse
 - [VoiceRSS](http://www.voicerss.org/) - An API to convert Text to Speech, supporting 15+ major languages.
