@@ -219,6 +219,7 @@ APIs
 - Central Banks
  - [Australia](https://www.rba.gov.au/statistics/tables/) - plenty of kinds of data in CSV format.
  - [Canada](https://www.bankofcanada.ca/rates/) - daily exchange rates and statistical data tables in CSV, XML or JSON formats.
+ - [Exchangeratesapi](https://exchangeratesapi.io/) - Foreign exchange rates API with currency conversion. JSON & CORS. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
  - [EU](https://sdw-wsrest.ecb.europa.eu/web/generator/index.html#tabData) - variety of data is available via REST API.
  - [Georgia](https://nbg.gov.ge/api.html) - currency exchange rates available via SOAP API.
  - [Ireland](https://data.gov.ie/data/search?publisher=central-bank-of-ireland) - variety of data mainly in [XLS](https://en.wikipedia.org/wiki/Microsoft_Excel#File_formats) format.
