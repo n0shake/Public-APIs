@@ -15,6 +15,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 - [Big Data and Analytics](#big-data-and-analytics)
 - [Bitcoin](#bitcoinbitcoin-wallets)
 - [Captcha](#captcha)
+- [Chat](#chat)
 - [Check In](#check-in)
 - [Commerce](#commerce)
 - [Communication](#communication)
@@ -129,6 +130,10 @@ APIs
 - [Anti-Captcha](https://anti-captcha.com/apidoc) - Access to Anti-Captcha’s API.
 - [Naver Captcha](https://developers.naver.com/products/captcha) - Access to Naver’s Captcha API.
 - [Google reCAPTCHA](https://developers.google.com/recaptcha/intro?hl=en) - ReCAPTCHA lets you embed a CAPTCHA in your web pages in order to protect them against spam and other types of automated abuse.
+
+### Chat
+
+- [LiveChat](https://developers.livechatinc.com/)) online customer service software with customizable chat, embeddable widgets, help desk and web analytics tools. APIs include webhooks support, SDKs and open-source libraries to build on. App Marketplace available.💸
 
 ### Check-In
 
