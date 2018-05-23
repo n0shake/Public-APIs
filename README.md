@@ -90,7 +90,7 @@ APIs
 - [Localytics](http://docs.localytics.com/dev/query-api.html#query-api) - Interface to Localytics analytics platform.
 - [MixPanel](https://mixpanel.com/help/reference) - Analytics for mobile and web which helps you analyze the actions people take in your application.
 - [Open Web Analytics](https://github.com/padams/Open-Web-Analytics/wiki/Data-Access-API) - Provides a way to request and work with your data outside of the OWA reporting interface.
-- [Ticksel](https://ticksel.com) - Ticksel - Friendly website analytics made for humans. Secure and powerful yet simple to use.
+- [Ticksel](https://ticksel.com) - Friendly website analytics made for humans. Secure and powerful yet simple to use.
 - [Woopra](https://www.woopra.com/docs/developer/analytics-api/) - Real-time website analysis tool that targets customer engagement.
 - [Zoho Reports API](https://zohoreportsapi.wiki.zoho.com/) - Build powerful reporting and analytical capabilities into your application.
 
