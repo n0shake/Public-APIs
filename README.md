@@ -61,6 +61,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 - [URL Shorteners](#url-shorteners)
 - [Videogames](#videogames)
 - [Weather](#weather)
+- [Web Scraping](#web-scraping)
 - [Resources For Design and Discovery of APIs](#resources-for-design-and-discovery-of-apis)
 - [More Resources](#more-resources)
 - [Contribute](#contributions)
@@ -566,6 +567,10 @@ APIs
 - [Weather Source](http://weathersource.com/weather-api) - Powerful Weather API built for systems that demand speed, reliability and heavy load.
 - [Wunderground API](https://www.wunderground.com/weather/api/) - Reliable data, accurate forecast, & global coverage in 80 languages.
 - [Yahoo Weather API](https://developer.yahoo.com/weather/) - Get up-to-date information for any location, including 5-day forecast, wind, atmosphere, astronomy conditions, and more.
+
+### Web Scraping
+
+- [Scraper API](https://www.scraperapi.com) - Handles proxies, browsers, and CAPTCHAs for you, so you can scrape any web page with a simple API call. Start with 1,000 Free API calls/month
 
 ### Credits
 
