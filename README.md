@@ -353,7 +353,7 @@ APIs
 - [LaunchLibrary](https://launchlibrary.net/docs/1.3/api.html) - Aggregated info about space launches.
 - [LetsValidate](https://github.com/letsvalidate/api) - Uncovers the technologies used on websites and URL to thumbnail.
 - [LinkPreview](https://www.linkpreview.net) - RESTful API that returns JSON formatted summary with title, description and preview image for any requested URL. Free & paid plans.
-- [LiveChat](https://developers.livechatinc.com/)) online customer service software with customizable chat, embeddable widgets, help desk and web analytics tools. APIs include webhooks support, SDKs and open-source libraries to build on. App Marketplace available.💸
+- [LiveChat](https://developers.livechatinc.com/) - Online Customer Service software with customizable chat, embeddable widgets, help desk and web analytics tools. APIs include webhooks support, SDKs and open-source libraries to build on. 💸
 - [Marijuana Strain API](http://strains.evanbusse.com/) - Documentation on over 2000 Marijuana strains including races, flavors, and effects.
 - [Pastebin](http://pastebin.com/api) - Quickly share text or code, with support for over 250 languages for syntax highlighting.
 - [Spreaker](https://developers.spreaker.com/) - Enables developers to read and write data to Spreaker.
