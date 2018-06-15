@@ -341,7 +341,7 @@ APIs
 
 ### Miscellaneous
 - [Aadhaar Bridge](https://www.aadhaarbridge.com/) - Aadhaar is a 12-digit unique identification number issued by the Indian government to every individual resident of India. API allows you to authenticate and perform ekYC and eSign using Aadhar. 💸
-- [addons.mozilla.org](https://addons-server.readthedocs.io/en/latest/topics/api/index.html) - Mozilla's catalogue of addons for Firefox-compatible web browsers. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
+- [Mozilla Addons](https://addons-server.readthedocs.io/en/latest/topics/api/index.html) - Mozilla's catalogue of addons for Firefox-compatible web browsers. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
 - [ApiLeap](https://apileap.com/) - Chrome based screenshot API to convert URLs & HTML to images.
 - [Apility.io](https://apility.io/apidocs/) - IP addresses, Domains and Emails anti-abuse API blocklist and Geo IP location. 💸
 - [Bhagavad Gita](https://bhagavadgita.io/) - Bhagavad Gita in various languages. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
