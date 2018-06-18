@@ -119,9 +119,16 @@ APIs
 - [Block](https://block.io/) - The most versatile and secure wallet for all your coins.
 - [BlockCypher](https://www.blockcypher.com/) - BlockCypher is the infrastructure fabric for blockchain applications
 - [Coinbase](https://developers.coinbase.com/) - Coinbase APIs and developer tools make building bitcoin and blockchain apps much easier.
+- [CoinBin](https://coinbin.org/) - Cryptocurrency information
+- [CoinDesk](http://www.coindesk.com/api/) - Bitcoin Price Index
 - [Coinkite](https://coinkite.com/developers) - Coinkite's Bitcoin API provides simple and powerful REST integrations for adding bitcoin functions into your business / application.
+- [CoinMarketCap](https://coinmarketcap.com/api/) - Cryptocurrencies Prices
+- [CryptoCompare](https://www.cryptocompare.com/api) - Cryptocurrencies Comparison
+- [Cryptonator](https://www.cryptonator.com/api/) - Cryptocurrencies Exchange Rates
+- [Coinigy](https://coinigy.docs.apiary.io) - Interact with Coinigy Accounts and Exchange Accounts Directly
 - [Exchange Rates API](https://blockchain.info/api/exchange_rates_api) - Market Prices and exchanges rates api.
 - [ShapeShift.io](https://shapeshift.io/) - Exchange between cryptocurrencies without an account.  Well documented API for easy use.
+- [Poloniex](https://poloniex.com/support/api/) - US based digital asset exchange
 
 
 ### Captcha
