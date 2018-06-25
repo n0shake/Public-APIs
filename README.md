@@ -113,9 +113,13 @@ APIs
 
 ### Bitcoin/Bitcoin Wallets
 
+- [Binance](https://github.com/binance-exchange/binance-official-api-docs) - Exchange for Trading Cryptocurrencies based in China
 - [Bitcoin](https://bitcoin.org/en/developer-documentation) - Find useful resources, guides and reference material for developers.
+- [Bitfinex](https://docs.bitfinex.com/docs/introduction) - Cryptocurrency Trading Platform
 - [Bitcoincharts](https://bitcoincharts.com/about/markets-api/) - You can use this API to include markets data in your websites, mobile apps or desktop applets.
 - [bitpay](https://bitpay.com/developers) - A simple, RESTful API to the most powerful bitcoin infrastructure on the planet.
+- [Bitmex](https://www.bitmex.com/app/apiOverview) - Real-Time Cryptocurrency derivatives trading platform based in Hong Kong.
+- [BitMinter](https://bitminter.com/api) - Bitcoin mining pool made easy.
 - [Block](https://block.io/) - The most versatile and secure wallet for all your coins.
 - [BlockCypher](https://www.blockcypher.com/) - BlockCypher is the infrastructure fabric for blockchain applications
 - [Coinbase](https://developers.coinbase.com/) - Coinbase APIs and developer tools make building bitcoin and blockchain apps much easier.
