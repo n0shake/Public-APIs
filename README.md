@@ -123,6 +123,7 @@ APIs
 - [Coinkite](https://coinkite.com/developers) - Coinkite's Bitcoin API provides simple and powerful REST integrations for adding bitcoin functions into your business / application.
 - [CoinMarketCap](https://coinmarketcap.com/api/) - Cryptocurrencies Prices
 - [CryptoCompare](https://www.cryptocompare.com/api) - Cryptocurrencies Comparison
+- [CryptoStandardizer](https://cryptostandardizer.com) - Standardizes crypto coin symbols (e.g. BTC, XBT) across exchanges.
 - [Cryptonator](https://www.cryptonator.com/api/) - Cryptocurrencies Exchange Rates
 - [Coinigy](https://coinigy.docs.apiary.io) - Interact with Coinigy Accounts and Exchange Accounts Directly
 - [Exchange Rates API](https://blockchain.info/api/exchange_rates_api) - Market Prices and exchanges rates api.
