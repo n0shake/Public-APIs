@@ -160,9 +160,9 @@ APIs
 
 ### Content
 
+- [Perfect Tense API] (https://www.perfecttense.com/developers) - The Perfect Tense API is the only spelling and grammar checking API that uses artificial intelligence to automatically correct all of your text in one call.💸
 - [qKast Channel Content](https://github.com/egfx/qKast) - Access live content collections sourced from any page around the web.
 - [Wikipedia](https://en.wikipedia.org/w/api.php) - Free multilingual Encyclopedia.
-- [Perfect Tense API] (https://www.perfecttense.com/developers) - The Perfect Tense API is the only spelling and grammar checking API that uses artificial intelligence to automatically correct all of your text in one call.💸
 
 ### Currency
 
