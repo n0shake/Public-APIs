@@ -7,7 +7,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 
 
 ## Table of Contents
-
+  
 - [Advertising](#advertising)
 - [Analytics](#analytics)
 - [Augmented Reality](#augmented-reality)
@@ -127,6 +127,7 @@ APIs
 - [Coinkite](https://coinkite.com/developers) - Coinkite's Bitcoin API provides simple and powerful REST integrations for adding bitcoin functions into your business / application.
 - [CoinMarketCap](https://coinmarketcap.com/api/) - Cryptocurrencies Prices
 - [CryptoCompare](https://www.cryptocompare.com/api) - Cryptocurrencies Comparison
+- [CryptoStandardizer](https://cryptostandardizer.com) - Standardizes crypto coin symbols (e.g. BTC, XBT) across exchanges.
 - [Cryptonator](https://www.cryptonator.com/api/) - Cryptocurrencies Exchange Rates
 - [Coinigy](https://coinigy.docs.apiary.io) - Interact with Coinigy Accounts and Exchange Accounts Directly
 - [Exchange Rates API](https://blockchain.info/api/exchange_rates_api) - Market Prices and exchanges rates api.
@@ -357,8 +358,7 @@ APIs
 - [Callook.info](https://callook.info) - Look up information about United States ham radio callsigns.
 - [ChuckNorris.io](https://api.chucknorris.io) - A free JSON API for hand curated Chuch Norris facts. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
 - [Domainsdb.info](https://domainsdb.info) - Registered domain names search checks the lists of registered domains for names containing particular words/phrases/numbers or symbols.
-- [FreeDB](http://www.freedb.org/) - Look up CD information using the freed database.
-![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
+- [FreeDB](http://www.freedb.org/) - Look up CD information using the freed database. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
 - [IP Sidekick](https://ipsidekick.com) - IP Sidekick is an API that returns information about an IP address. You can use it to customize your content based on the visitor's location or display their country.
 - [JSONbin.io](https://jsonbin.io/api-reference) - Free JSON data storage service, ideal for small scale web apps, website, mobile apps.
 - [Judge0 API](https://api.judge0.com/) - Compile and run source code. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
@@ -373,6 +373,7 @@ APIs
 - [Spreaker](https://developers.spreaker.com/) - Enables developers to read and write data to Spreaker.
 - [StackExchange](https://api.stackexchange.com/) - The StackExchange API provides RESTful services to all the sites on the StackExchange domain.
 - [RestCountries](https://restcountries.eu) - Get information about countries via a RESTful API.
+- [Typeform](https://developer.typeform.com/) - Typeform's APIs allow you to create and edit Typeform surveys, and retrieve survey responses on demand. 
 - [Who Hosts This](https://www.who-hosts-this.com/API) - Detect the hosting provider powering any web site
 - [WolframAlpha](http://products.wolframalpha.com/api/) - Integrate top of the line computational knowledge into your applications through the WolframAlpha API. 💸
 - [Wunderlist](https://developer.wunderlist.com/) - The Wunderlist API provides REST-based storage and synchronization of a user’s lists across multiple platforms and devices.
@@ -385,6 +386,7 @@ APIs
 
 ### Music
 
+- [AI Mastering](https://aimastering.com/api_docs/) - AI Mastering API provides automated audio mastering service. You can upload your audio, master it, and download the mastered audio.
 - [Deezer](http://developers.deezer.com/api) - Deezer API provides a nice set of services to build up web applications allowing the discovery of Deezer's music catalogue.
 - [Discogs](https://www.discogs.com/developers/) - Access database of artists, labels, releases, marketplace and more.
 - [Last.fm](http://www.last.fm/api) -  The Last.fm API allows anyone to build their own programs using Last.fm data, whether they're on the web, the desktop or mobile devices.
@@ -507,11 +509,13 @@ APIs
 - [LinkedIn](https://developer.linkedin.com/) - Enables apps to connect to user accounts, data, connections,groups, communications, and social streams.
 - [Mastodon](https://github.com/tootsuite/documentation/blob/master/Using-the-API/API.md) - Access to [Mastodon](https://github.com/tootsuite/mastodon)’s APIs, the Open-source twitter competitor. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
 - [Microlink](https://microlink.io) - Turns any link into information. Take screenshots, extract predominant palette colors.
+- [MySocialApp](https://mysocialapp.io) - Seamless Social Networking features, API, SDK for any app.
 - [Path](https://path.com/developers) - Path is a simple and beautiful space to capture and share everyday moments of your life with people who matter most to you.
 - [Pinterest](https://www.pinterest.com/login/?next=http%3A%2F%2Fdevelopers.pinterest.com%2Fapi_docs%2F) - Enables apps to view the most clicked-through or repinned Pins, view related posts, and user profiles.
 - [Reddit](https://github.com/reddit/reddit/wiki/API) - API to build clients, crawlers, scrapers, and browser extensions. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
 - [Snapchat](https://github.com/mgp25/SC-API) - PHP library of Snapchat’s private API. #Private
 - [Telegram](https://core.telegram.org/) - The Telegram API allows you to build your own customized Telegram clients.
+- [Trash Nothing](https://trashnothing.com/developer) - Build apps on top of one of the largest freecycling and reuse communities with millions of people giving away thousands of free items every day.
 - [Twitch](https://dev.twitch.tv/docs) - The Twitch API enables you to develop your own applications using the rich feature set that Twitch provides.
 - [Twitter](https://dev.twitter.com/) - Enables an app to interact with most of Twitter’s functions.
 - [Tumblr](https://www.tumblr.com/docs/en/api/v2) - Create new ways to use Tumblr with access to content, likes, followers, and drafts.
@@ -591,15 +595,12 @@ APIs
 - [OpenAPI](https://www.openapis.org) - Standard, language-agnostic interface to REST APIs (based on [Swagger](http://swagger.io/)). ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
 - [Swagger](http://swagger.io/) - Tools for designing, building, and documenting RESTful APIs. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
 
-
-
 ### More Resources
 
 - [APIs.guru](https://apis.guru/)
 - [More Awesome APIs](https://github.com/Kikobeats/awesome-api)
 - [Programmable Web](https://www.programmableweb.com/apis/directory)
 - [Postman API Tools](https://www.getpostman.com/docs/postman/postman_api/intro_api)
-
 
 ### Contributions
 
