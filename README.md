@@ -381,6 +381,7 @@ APIs
 
 ### Music
 
+- [AI Mastering](https://aimastering.com/api_docs/) - AI Mastering API provides automated audio mastering service. You can upload your audio, master it, and download the mastered audio.
 - [Deezer](http://developers.deezer.com/api) - Deezer API provides a nice set of services to build up web applications allowing the discovery of Deezer's music catalogue.
 - [Discogs](https://www.discogs.com/developers/) - Access database of artists, labels, releases, marketplace and more.
 - [Last.fm](http://www.last.fm/api) -  The Last.fm API allows anyone to build their own programs using Last.fm data, whether they're on the web, the desktop or mobile devices.
