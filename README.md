@@ -28,8 +28,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 - [Face Recognition](#face-recognition)
 - [File Storage and Manipulation](#file-storage-and-manipulation)
 - [Finance](#finance)
-- [Fitness
-](#fitness)
+- [Fitness](#fitness)
 - [Google](#google)
 - [Identity Verification](#identity-verification)
 - [Image Moderation](#image-moderation)
@@ -57,6 +56,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 - [Social Media](#social-media)
 - [Source Control](#source-control)
 - [Sport](#sport)
+- [Time](#time)
 - [Transportation](#transportation)
 - [URL Shorteners](#url-shorteners)
 - [Videogames](#videogames)
@@ -540,6 +540,10 @@ APIs
 
 - [Ergast Formula 1](http://ergast.com/mrd/) - Provides access to current and historical Formula 1 race data from 1950 to today.
 - [TheSportsDB](http://www.thesportsdb.com/) - Various sports events, results, players, teams and high quality artwork.
+
+### Time
+
+- [WorldTimeAPI](http://worldtimeapi.org) - A JSON/plain-text which returns the (approx) current time for a provided timezone or IP. Targetted at limited-compute IoT devices.
 
 ### Transportation
 
