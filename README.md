@@ -318,6 +318,7 @@ APIs
 - [IBM Watson](https://developer.ibm.com/watson/) - Simplifies the process of preparing data and makes it easier to run predictive analysis.
 - [Microsoft Azure Machine Learning API](https://azure.microsoft.com/en-us/services/cognitive-services/) - Helps data scientists publish in minutes which once used to take days after they had developed a feasible model.
 - [Unplugg](http://unplu.gg/test_api.html) - Automated Forecasting API for timeseries data which can be used to forecast energy consumption, temperature, or any other timeseries data which has some seasonality effect.
+- [MonkeyLearn](https://monkeylearn.com/) - Text Analysis with Machine Learning.
 
 ### Maps
 
