@@ -14,6 +14,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 - [Bar Code](#barcode)
 - [Big Data and Analytics](#big-data-and-analytics)
 - [Bitcoin](#bitcoinbitcoin-wallets)
+- [Calendar](#calendar)
 - [Captcha](#captcha)
 - [Check In](#check-in)
 - [Commerce](#commerce)
@@ -129,6 +130,10 @@ APIs
 - [Exchange Rates API](https://blockchain.info/api/exchange_rates_api) - Market Prices and exchanges rates api.
 - [ShapeShift.io](https://shapeshift.io/) - Exchange between cryptocurrencies without an account.  Well documented API for easy use.
 - [Poloniex](https://poloniex.com/support/api/) - US based digital asset exchange
+
+### Calendar
+
+- [CalendarIndex](https://www.calendarindex) - Worldwide Holidays and Working Days API.
 
 ### Captcha
 
