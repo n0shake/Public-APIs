@@ -196,15 +196,16 @@ APIs
 
 ### Entertainment
 
+- [Cat as a Service (CATAAS)](https://cataas.com/#/) - Is a REST API to spread peace and love (or not) thanks to cats.
 - [Comic Vine](http://comicvine.gamespot.com/api/) - An extremely mature, well organized and continuely updated resource of comic information.
 - [Comichron Data](https://github.com/comichron-data/api) - API for comic sales data from comichron.com. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
 - [Danbooru](https://danbooru.donmai.us/posts?tags=help%3Aapi) - Get images cartegorized by tags.
+- [DwCheckApi](https://dwcheckapi.azurewebsites.net/swagger/) - A Discworld API featuring data on Books, Characters, and each Series. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
 - [Marvel](https://developer.marvel.com/) - Access over 70 years of comic data with Marvel's official developer API.
 - [Pokéapi](https://pokeapi.co/) - All the Pokémon data you'll ever need, in one place. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
 - [Rick and Morty](https://rickandmortyapi.com/) - All the Rick and Morty information, including images. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
 - [Studio Ghibli](https://ghibliapi.herokuapp.com/) - Resources from Studio Ghibli films. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
 - [Swapi](https://swapi.co/documentation) - Star Wars API with data you didn't even know existed, or that you needed to know.
-- [DwCheckApi](https://dwcheckapi.azurewebsites.net/swagger/) - A Discworld API featuring data on Books, Characters, and each Series. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
 
 ### Events
 
