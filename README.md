@@ -338,7 +338,6 @@ APIs
 - [Scribble](https://www.scribblemaps.com/api/) - The Scribble Maps API is a cross browser, mobile ready, HTML5/JavaScript, interactive map builder.
 - [Yahoo Maps](https://developer.yahoo.com/maps/) - Yahoo Maps lets you easily embed rich and interactive maps using your choice of platform.
 - [Yandex](https://tech.yandex.com/maps/) - API for installing Yandex.Maps and the necessary tools for working it on your web app or site.
-- [Daum Maps API](http://apis.map.daum.net/) - Daum Maps provide multiple APIs for Korean map.
 
 ### Math
 
