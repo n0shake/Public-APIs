@@ -341,7 +341,9 @@ APIs
 
 ### Math
 
+- [Matlab](https://www.programmableweb.com/api/matlab) - The MATLAB RESTful API enables you to evaluate MATLAB functions on remote servers using JSON representation of MATLAB data types.
 - [Newton](https://newton.now.sh/) - An API for Arithmetic and Symbolic Math. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
+
 
 ### Medical
 
