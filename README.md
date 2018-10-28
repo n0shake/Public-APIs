@@ -1,4 +1,4 @@
-# Public-APIs [![Twitter: @abgbm](https://img.shields.io/badge/contact-@abgbm-blue.svg?style=flat)](https://twitter.com/abgbm) [![Build Status](https://travis-ci.org/abhishekbanthia/Public-APIs.svg?branch=master)](https://travis-ci.org/abhishekbanthia/Public-APIs) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+﻿# Public-APIs [![Twitter: @abgbm](https://img.shields.io/badge/contact-@abgbm-blue.svg?style=flat)](https://twitter.com/abgbm) [![Build Status](https://travis-ci.org/abhishekbanthia/Public-APIs.svg?branch=master)](https://travis-ci.org/abhishekbanthia/Public-APIs) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
 This is an attempt to categorise different APIs scoured from the web which make their resources available for consumption.
 
@@ -579,6 +579,7 @@ APIs
 - [Weather Source](http://weathersource.com/weather-api) - Powerful Weather API built for systems that demand speed, reliability and heavy load.
 - [Wunderground API](https://www.wunderground.com/weather/api/) - Reliable data, accurate forecast, & global coverage in 80 languages.
 - [Yahoo Weather API](https://developer.yahoo.com/weather/) - Get up-to-date information for any location, including 5-day forecast, wind, atmosphere, astronomy conditions, and more.
+- [MeteoGroup](https://www.meteogroup.com/weather-api) - Feed your systems with actionable weather knowledge and increase your business performance!
 
 ### Credits
 
