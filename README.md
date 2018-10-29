@@ -368,6 +368,7 @@ APIs
 - [LiveChat](https://developers.livechatinc.com/) - Online Customer Service software with customizable chat, embeddable widgets, help desk and web analytics tools. APIs include webhooks support, SDKs and open-source libraries to build on. 💸
 - [Marijuana Strain API](http://strains.evanbusse.com/) - Documentation on over 2000 Marijuana strains including races, flavors, and effects.
 - [Pastebin](http://pastebin.com/api) - Quickly share text or code, with support for over 250 languages for syntax highlighting.
+- [Rocketium Video API](https://rocketium.com/api) - Rocketium Video API allows you to create Buzzfeed-like videos programmatically.
 - [Scraper API](https://www.scraperapi.com) - Scraper API handles proxies, browsers, and CAPTCHAs so developers can easily build scalable web scrapers.
 - [Spreaker](https://developers.spreaker.com/) - Enables developers to read and write data to Spreaker.
 - [StackExchange](https://api.stackexchange.com/) - The StackExchange API provides RESTful services to all the sites on the StackExchange domain.
