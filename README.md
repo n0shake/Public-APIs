@@ -384,6 +384,7 @@ APIs
 - [TMDb](https://www.themoviedb.org/documentation/api) - TMDb provides powerful searches as well as powerful movie discovery.
 - [Trakt](https://trakt.docs.apiary.io/) - Trakt collect lots of information about what tv shows and movies everyone is watching.
 - [TVmaze](https://www.tvmaze.com/api) - TV Show and web series database. Episode guide, cast, crew and character information. Recaps, reviews, episode trailers, celebrity photos and more.
+- [ANy] (https://any-api.com/) - Documentation and Test Consoles for Over 500 Public APIs
 
 ### Music
 
