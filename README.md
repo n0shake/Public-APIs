@@ -90,7 +90,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 
 ### Art
 
--[Cooper Hewitt](https://collection.cooperhewitt.org/api) - Get access to exhibit information from Cooper Hewitt as well as other data points
+- [Cooper Hewitt](https://collection.cooperhewitt.org/api) - Get access to exhibit information from Cooper Hewitt as well as other data points
 
 - [Rijksmuseum](http://rijksmuseum.github.io/) - Access to the art work in the Rijksmuseum
 
