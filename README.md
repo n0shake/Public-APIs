@@ -171,6 +171,7 @@ APIs
 
 - [1Forge.com](https://1forge.com/) - Real-time forex and crypto quotes via JSON and WebSocket.
 - [Fixer.io](http://fixer.io/) - JSON API for foreign exchange rates and currency conversion.  End of day data only.
+- [OpenRates.io](http://www.openrates.io/) - Live exchange rates and currency conversion API.
 
 ### Data Science
 
@@ -372,7 +373,7 @@ APIs
 - [Spreaker](https://developers.spreaker.com/) - Enables developers to read and write data to Spreaker.
 - [StackExchange](https://api.stackexchange.com/) - The StackExchange API provides RESTful services to all the sites on the StackExchange domain.
 - [RestCountries](https://restcountries.eu) - Get information about countries via a RESTful API.
-- [Typeform](https://developer.typeform.com/) - Typeform's APIs allow you to create and edit Typeform surveys, and retrieve survey responses on demand. 
+- [Typeform](https://developer.typeform.com/) - Typeform's APIs allow you to create and edit Typeform surveys, and retrieve survey responses on demand.
 - [Who Hosts This](https://www.who-hosts-this.com/API) - Detect the hosting provider powering any web site
 - [WolframAlpha](http://products.wolframalpha.com/api/) - Integrate top of the line computational knowledge into your applications through the WolframAlpha API. 💸
 - [WorldTimeAPI](http://worldtimeapi.org) - A JSON/plain-text which returns the (approx) current time for a provided timezone or IP. Targetted at limited-compute IoT devices.
