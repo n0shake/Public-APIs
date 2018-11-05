@@ -121,6 +121,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 - [CoinDesk](http://www.coindesk.com/api/) - Bitcoin Price Index
 - [Coinkite](https://coinkite.com/developers) - Coinkite's Bitcoin API provides simple and powerful REST integrations for adding bitcoin functions into your business / application.
 - [CoinMarketCap](https://coinmarketcap.com/api/) - Cryptocurrencies Prices
+- [coinpaprika](https://api.coinpaprika.com) - Cryptocurrencies prices, market capitalization, volume and more.
 - [CryptoCompare](https://www.cryptocompare.com/api) - Cryptocurrencies Comparison
 - [CryptoStandardizer](https://cryptostandardizer.com) - Standardizes crypto coin symbols (e.g. BTC, XBT) across exchanges.
 - [Cryptonator](https://www.cryptonator.com/api/) - Cryptocurrencies Exchange Rates
@@ -197,15 +198,16 @@ This is an attempt to categorise different APIs scoured from the web which make 
 
 ### Entertainment
 
+- [Cat as a Service (CATAAS)](https://cataas.com/#/) - Is a REST API to spread peace and love (or not) thanks to cats.
 - [Comic Vine](http://comicvine.gamespot.com/api/) - An extremely mature, well organized and continuely updated resource of comic information.
 - [Comichron Data](https://github.com/comichron-data/api) - API for comic sales data from comichron.com. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png 'Open Source')
 - [Danbooru](https://danbooru.donmai.us/posts?tags=help%3Aapi) - Get images cartegorized by tags.
+- [DwCheckApi](https://dwcheckapi.azurewebsites.net/swagger/) - A Discworld API featuring data on Books, Characters, and each Series. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
 - [Marvel](https://developer.marvel.com/) - Access over 70 years of comic data with Marvel's official developer API.
 - [Pokéapi](https://pokeapi.co/) - All the Pokémon data you'll ever need, in one place. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png 'Open Source')
 - [Rick and Morty](https://rickandmortyapi.com/) - All the Rick and Morty information, including images. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png 'Open Source')
 - [Studio Ghibli](https://ghibliapi.herokuapp.com/) - Resources from Studio Ghibli films. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png 'Open Source')
 - [Swapi](https://swapi.co/documentation) - Star Wars API with data you didn't even know existed, or that you needed to know.
-- [DwCheckApi](https://dwcheckapi.azurewebsites.net/swagger/) - A Discworld API featuring data on Books, Characters, and each Series. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png 'Open Source')
 
 ### Events
 
@@ -339,11 +341,12 @@ This is an attempt to categorise different APIs scoured from the web which make 
 - [Scribble](https://www.scribblemaps.com/api/) - The Scribble Maps API is a cross browser, mobile ready, HTML5/JavaScript, interactive map builder.
 - [Yahoo Maps](https://developer.yahoo.com/maps/) - Yahoo Maps lets you easily embed rich and interactive maps using your choice of platform.
 - [Yandex](https://tech.yandex.com/maps/) - API for installing Yandex.Maps and the necessary tools for working it on your web app or site.
-- [Daum Maps API](http://apis.map.daum.net/) - Daum Maps provide multiple APIs for Korean map.
 
 ### Math
 
-- [Newton](https://newton.now.sh/) - An API for Arithmetic and Symbolic Math. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png 'Open Source')
+- [Matlab](https://www.programmableweb.com/api/matlab) - The MATLAB RESTful API enables you to evaluate MATLAB functions on remote servers using JSON representation of MATLAB data types.
+- [Newton](https://newton.now.sh/) - An API for Arithmetic and Symbolic Math. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
+
 
 ### Medical
 
@@ -360,7 +363,8 @@ This is an attempt to categorise different APIs scoured from the web which make 
 - [Callook.info](https://callook.info) - Look up information about United States ham radio callsigns.
 - [ChuckNorris.io](https://api.chucknorris.io) - A free JSON API for hand curated Chuch Norris facts. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png 'Open Source')
 - [Domainsdb.info](https://domainsdb.info) - Registered domain names search checks the lists of registered domains for names containing particular words/phrases/numbers or symbols.
-- [FreeDB](http://www.freedb.org/) - Look up CD information using the freed database. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png 'Open Source')
+- [Evil Insult Generator](https://evilinsult.com/api/) - Offers the most evil insults. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
+- [FreeDB](http://www.freedb.org/) - Look up CD information using the freed database. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
 - [Giphy](https://developers.giphy.com/docs/) - Worlds largest library of GIFs.
 - [IP Sidekick](https://ipsidekick.com) - IP Sidekick is an API that returns information about an IP address. You can use it to customize your content based on the visitor's location or display their country.
 - [JSONbin.io](https://jsonbin.io/api-reference) - Free JSON data storage service, ideal for small scale web apps, website, mobile apps.
@@ -372,6 +376,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 - [LiveChat](https://developers.livechatinc.com/) - Online Customer Service software with customizable chat, embeddable widgets, help desk and web analytics tools. APIs include webhooks support, SDKs and open-source libraries to build on. 💸
 - [Marijuana Strain API](http://strains.evanbusse.com/) - Documentation on over 2000 Marijuana strains including races, flavors, and effects.
 - [Pastebin](http://pastebin.com/api) - Quickly share text or code, with support for over 250 languages for syntax highlighting.
+- [Rocketium Video API](https://rocketium.com/api/?utm_source=github&utm_medium=repository&utm_campaign=abhishekbanthia&utm_content=api_solution) - Rocketium Video API allows you to create Buzzfeed-like videos programmatically. 💸
 - [Scraper API](https://www.scraperapi.com) - Scraper API handles proxies, browsers, and CAPTCHAs so developers can easily build scalable web scrapers.
 - [Spreaker](https://developers.spreaker.com/) - Enables developers to read and write data to Spreaker.
 - [StackExchange](https://api.stackexchange.com/) - The StackExchange API provides RESTful services to all the sites on the StackExchange domain.
@@ -414,6 +419,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 - [Rovi](https://developers.rovicorp.com/) - Access to Metadata, search capabilities and recommendations.
 - [Setlist.fm](https://api.setlist.fm/docs/1.0/index.html) - The setlist.fm API has been designed to give you easy access to setlist data in order to build fancy websites and other applications.
 - [TuneFind](http://www.tunefind.com/api) - Allows developers to enhance their services with song, show, and movie data from TuneFind.
+- [Genius](https://docs.genius.com/#/getting-started-h1) - Allows users to find details about Genius artists and songs.
 
 ### Music Identification
 
