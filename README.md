@@ -456,6 +456,7 @@ APIs
 - [VoiceRSS](http://www.voicerss.org/) - An API to convert Text to Speech, supporting 15+ major languages.
 - [Wit AI](https://wit.ai/) - Provides an intent-based NLP API to easily build text and audio based chat bots. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
 - [Word Associations API](https://wordassociations.net/en/api) - Provides service to get associations for a word or phrase. Words are grouped by semantics, meaning, and psychological perception.
+- [Parallel Sentiment Analysys API](https://www.paralleldots.com/sentiment-analysis) - Provides a service to get the sentiemnt of some text.
 
 ### Placeholder Images
 
