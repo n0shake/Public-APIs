@@ -412,7 +412,7 @@ APIs
 - [Rovi](https://developers.rovicorp.com/) - Access to Metadata, search capabilities and recommendations.
 - [Setlist.fm](https://api.setlist.fm/docs/1.0/index.html) - The setlist.fm API has been designed to give you easy access to setlist data in order to build fancy websites and other applications.
 - [TuneFind](http://www.tunefind.com/api) - Allows developers to enhance their services with song, show, and movie data from TuneFind.
-- [Genius](https://docs.genius.com/#/getting-started-h1) - Allows users to find details about Genius artists and songs
+- [Genius](https://docs.genius.com/#/getting-started-h1) - Allows users to find details about Genius artists and songs.
 
 ### Music Identification
 
