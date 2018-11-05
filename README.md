@@ -121,7 +121,7 @@ APIs
 - [CoinDesk](http://www.coindesk.com/api/) - Bitcoin Price Index
 - [Coinkite](https://coinkite.com/developers) - Coinkite's Bitcoin API provides simple and powerful REST integrations for adding bitcoin functions into your business / application.
 - [CoinMarketCap](https://coinmarketcap.com/api/) - Cryptocurrencies Prices
-- [coinpaprika](https://api.coinpaprika.com) - Cryptocurrencies prices, market capitalization, volume and more
+- [coinpaprika](https://api.coinpaprika.com) - Cryptocurrencies prices, market capitalization, volume and more.
 - [CryptoCompare](https://www.cryptocompare.com/api) - Cryptocurrencies Comparison
 - [CryptoStandardizer](https://cryptostandardizer.com) - Standardizes crypto coin symbols (e.g. BTC, XBT) across exchanges.
 - [Cryptonator](https://www.cryptonator.com/api/) - Cryptocurrencies Exchange Rates
