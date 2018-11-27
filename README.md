@@ -383,6 +383,7 @@ APIs
 - [WolframAlpha](http://products.wolframalpha.com/api/) - Integrate top of the line computational knowledge into your applications through the WolframAlpha API. 💸
 - [WorldTimeAPI](http://worldtimeapi.org) - A JSON/plain-text which returns the (approx) current time for a provided timezone or IP. Targetted at limited-compute IoT devices.
 - [Wunderlist](https://developer.wunderlist.com/) - The Wunderlist API provides REST-based storage and synchronization of a user’s lists across multiple platforms and devices.
+- [RandomUserGenerator](https://randomuser.me/) - An API for generating random user data. Like Lorem Ipsum, but for people.![Open Source] (https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
 
 ### Movies
 
