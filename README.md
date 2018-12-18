@@ -119,6 +119,7 @@ APIs
 - [BlockCypher](https://www.blockcypher.com/) - BlockCypher is the infrastructure fabric for blockchain applications
 - [Coinbase](https://developers.coinbase.com/) - Coinbase APIs and developer tools make building bitcoin and blockchain apps much easier.
 - [CoinDesk](http://www.coindesk.com/api/) - Bitcoin Price Index
+- [Coinlore](https://www.coinlore.com/cryptocurrency-data-api) - Cryptocurrency tick data API
 - [Coinkite](https://coinkite.com/developers) - Coinkite's Bitcoin API provides simple and powerful REST integrations for adding bitcoin functions into your business / application.
 - [CoinMarketCap](https://coinmarketcap.com/api/) - Cryptocurrencies Prices
 - [coinpaprika](https://api.coinpaprika.com) - Cryptocurrencies prices, market capitalization, volume and more.
