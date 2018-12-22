@@ -474,6 +474,7 @@ APIs
 - [Foursquare Venue](https://developer.foursquare.com/overview/venues) - Providing a places search that can be searched by  hierarchical list of categories, longitude/latitude etc.
 - [Google Places API](https://developers.google.com/places/documentation/?csw=1) - Providing a places search that can be searched by latitude/longitude, keyword matched against all fields, name of place, type of place restricted by radius.
 - [Nokia](https://developer.here.com/develop/javascript-api) - Providing a JavaScript places search that can be searched by search term, with a detail search for display by JS widget.
+- [Property listings](https://cy30l4lai7.execute-api.eu-west-2.amazonaws.com/api) - Search for properties currently for sale and to rent in the UK.
 - [Yelp](https://www.yelp.com/developers/documentation/v3/) - You can search location using longitude and latitude, neighborhood, address or city and filter listings by “where”, using a list of support categories.
 
 ### Product
