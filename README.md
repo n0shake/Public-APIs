@@ -328,7 +328,6 @@ APIs
 - [Bing Maps](https://www.microsoft.com/maps/choose-your-bing-maps-API.aspx) - Bing Maps platform provides multiple API options for your application.
 - [CartoDB](https://carto.com/developers/#apis) - Allows you to generate maps based on data hosted in your CartoDB account.
 - [Daum Maps API](http://apis.map.daum.net/) - Daum Maps provide multiple APIs for Korean map.
-- [DigitalGlobe](http://dgdev2016.wpengine.com/maps-api/) - DigitalGlobe Maps API delivers the world's best satellite imagery, straight to your app. #Beta
 - [Google Maps API](https://developers.google.com/maps/?hl=en) - Google Maps APIs are available for Android, iOS, web browsers and through HTTP web services. [Clients can be found here.](https://github.com/googlemaps/)
 - [HERE Maps API](https://developer.here.com/) - Wide range of APIs available through JavaScript, iOS, Android, or REST services.
 - [Leaflet.js](http://leafletjs.com/) - An open-source JavaScript library for mobile-friendly interactive maps. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
