@@ -98,9 +98,10 @@ APIs
 - [Vuforia](https://library.vuforia.com/) - Solid SDK with robust development options. 💸
 - [Wikitude](http://www.wikitude.com/download/) - Wikitude’s all-in-one AR solution includes image recognition & tracking, 3D model rendering, video overlay, location based AR. 💸
 
-### BarCode
+### BarCode & QR Codes
 
 - [Google Barcode](https://developers.google.com/vision/barcodes-overview?hl=en) - The Barcode API detects barcodes in real-time, on device, in any orientation. It can also detect multiple barcodes at once.
+- [QR Code API] (https://fungenerators.com/api/qrcode/) - Get QR Code for emails, URL, phone numbers etc or decode an qrcode and get the content behind the image.
 
 ### Big Data and Analytics
 
@@ -485,7 +486,11 @@ APIs
 - [FavQs](https://favqs.com/api) - FavQs allows you to collect, discover, and share your favorite quotes.
 - [Forismatic](http://api.forismatic.com/api/1.0/) - Gives you a random quote per click.
 - [Quotes on Design](https://quotesondesign.com/api-v4-0/) - Gives a random design quote by a famous personality.
-- [They Said So](http://quotes.rest/qod.json?category=inspire) - Gives you a random quote per day.
+- [They Said So](http://quotes.rest/) - Full fledged quotes API with quote of the day, random quote, quote search, private quote collection and quote images.
+
+### Jokes
+
+- [Jokes One](https://api.jokes.one/) - Full features jokes API with joke of the day, random joke, joke search etc.
 
 ### Retail
 
