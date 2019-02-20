@@ -101,6 +101,7 @@ APIs
 ### BarCode
 
 - [Google Barcode](https://developers.google.com/vision/barcodes-overview?hl=en) - The Barcode API detects barcodes in real-time, on device, in any orientation. It can also detect multiple barcodes at once.
+- [EAN-Search](https://www.ean-search.org/ean-database-api.html) - The EAN-Search API allows you to lookup products by EAN, UPC or GTIN barcode. 💸
 
 ### Big Data and Analytics
 
