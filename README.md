@@ -173,6 +173,7 @@ APIs
 - [1Forge.com](https://1forge.com/) - Real-time forex and crypto quotes via JSON and WebSocket.
 - [Fixer.io](http://fixer.io/) - JSON API for foreign exchange rates and currency conversion.  End of day data only.
 - [OpenRates.io](http://www.openrates.io/) - Live exchange rates and currency conversion API.
+- [ratesapi.io](https://ratesapi.io/) - Free foreign currency exchange rates and currency conversion.
 
 ### Data Science
 
