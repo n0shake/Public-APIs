@@ -572,6 +572,7 @@ APIs
 - [Naver URL Shortener](https://developers.naver.com/products/shortenurl) - Access to Naver’s URL shortening API.
 - [Po.st](https://post.zendesk.com/hc/en-us/articles/200328516-Po-st-REST-API) - Shorten URLs, Expand shortened URLs, see statistics etc.
 - [Yourls](https://yourls.org/#API) - Generate or get existing short URLs, with sequential or custom keyword.
+- [ShrtURI](https://shrturi.com/docs) - Access to ShrtURI’s URL shortening API for create short URL’s from long URL’s.
 
 ### Videogames
 
