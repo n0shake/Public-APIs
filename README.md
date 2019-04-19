@@ -531,6 +531,7 @@ APIs
 - [Twitter](https://dev.twitter.com/) - Enables an app to interact with most of Twitter’s functions.
 - [Tumblr](https://www.tumblr.com/docs/en/api/v2) - Create new ways to use Tumblr with access to content, likes, followers, and drafts.
 - [Vimeo](https://developer.vimeo.com/) - Access to Vimeo’s API.
+- [Viber](https://viber.github.io/docs/api/) - With Viber’s APIs, can create unique experiences for users at scale. 
 - [VK](https://vk.com/dev) - Access to VKontakte's API. This has a variety of features such as authorization via VK, embedding VK comments for things like blogs, and taking payments via VK. Additionally, you may use the VK API to control much of the functionality on the website (for example, adjusting shop inventory in your VK community's market section).
 - [Weibo](http://open.weibo.com/wiki/API%E6%96%87%E6%A1%A3/en) - Programmatic access to China’s most popular microblogging site.
 - [Whatsapp Document Interaction](https://www.whatsapp.com/faq/en/iphone/23559013) - If your application creates photos, videos or audio notes and you’d like your users to share these media using WhatsApp. #Limited
