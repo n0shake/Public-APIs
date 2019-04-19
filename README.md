@@ -134,6 +134,7 @@ APIs
 ### Calendar
 
 - [CalendarIndex](https://www.calendarindex.com) - Worldwide Holidays and Working Days API.
+- [Holiday API](https://holidayapi.pl/) - Public holiday API service for several supported countries.
 
 ### Captcha
 
