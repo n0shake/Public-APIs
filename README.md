@@ -125,7 +125,6 @@ APIs
 - [CoinMarketCap](https://coinmarketcap.com/api/) - Cryptocurrencies Prices
 - [coinpaprika](https://api.coinpaprika.com) - Cryptocurrencies prices, market capitalization, volume and more.
 - [CryptoCompare](https://www.cryptocompare.com/api) - Cryptocurrencies Comparison
-- [CryptoStandardizer](https://cryptostandardizer.com) - Standardizes crypto coin symbols (e.g. BTC, XBT) across exchanges.
 - [Cryptonator](https://www.cryptonator.com/api/) - Cryptocurrencies Exchange Rates
 - [Coinigy](https://coinigy.docs.apiary.io) - Interact with Coinigy Accounts and Exchange Accounts Directly
 - [Exchange Rates API](https://blockchain.info/api/exchange_rates_api) - Market Prices and exchanges rates api.
@@ -403,7 +402,6 @@ APIs
 - [Last.fm](http://www.last.fm/api) -  The Last.fm API allows anyone to build their own programs using Last.fm data, whether they're on the web, the desktop or mobile devices.
 - [MuseScore](http://developers.musescore.com/) - REST based API which provides music metadata.
 - [musicApi](https://github.com/LIU9293/musicAPI) - Centralized Node.JS API SDK for Xiami, Netease, and QQ music - The Top 3 music providers in China.
-- [MusicGraph](https://developer.musicgraph.com) - Search through more than 7 billion music facts and connections.
 - [NPR API](http://www.npr.org/api/index) - NPR's API is a content API, which essentially provides a structured way for other computer applications to get NPR stories in a predictable, flexible and powerful way.
 - [QuantOneMusic](http://quantonemusic.com/) - Answers the need for digital music data.
 - [Rhapsody](https://developer.rhapsody.com/) - Access metadata, user’s entire library of music and do much more.
@@ -580,7 +578,6 @@ APIs
 - [Clash Royale](https://github.com/martincarrera/clash-royale-api) - API that provides informations about Clash Royale game.
 - [GiantBomb](http://www.giantbomb.com/api/) - API to query the GiantBomb database for videogames, characters, companies, genres and many more.
 - [IGDB](https://www.igdb.com/api) - Access the International Games Database and get information about videogames, characters, companies, genres and many more. Commercial usage is allowed.
-- [TheGamesDB.net](http://wiki.thegamesdb.net/index.php?title=API_Introduction) - Free API to access information about videogames, platforms, genres and ratings.
 
 ### Weather
 
