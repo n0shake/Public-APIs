@@ -1,4 +1,4 @@
-# Public-APIs [![Twitter: @abgbm](https://img.shields.io/badge/contact-@abgbm-blue.svg?style=flat)](https://twitter.com/abgbm) [![Build Status](https://travis-ci.org/abhishekbanthia/Public-APIs.svg?branch=master)](https://travis-ci.org/abhishekbanthia/Public-APIs) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+# Public-APIs [![Twitter: @abgbm](https://img.shields.io/badge/contact-@abgbm-blue.svg?style=flat)](https://twitter.com/abgbm) [![Build Status](https://travis-ci.org/n0shake/Public-APIs.svg?branch=master)](https://travis-ci.org/abhishekbanthia/Public-APIs) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
 This is an attempt to categorise different APIs scoured from the web which make their resources available for consumption.
 
