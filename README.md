@@ -573,7 +573,6 @@ APIs
 - [Google URL Shortener](https://developers.google.com/url-shortener/v1/) - Service that takes long URLs and squeezes them into fewer characters.
 - [Naver URL Shortener](https://developers.naver.com/products/shortenurl) - Access to Naver’s URL shortening API.
 - [Po.st](https://post.zendesk.com/hc/en-us/articles/200328516-Po-st-REST-API) - Shorten URLs, Expand shortened URLs, see statistics etc.
-- [Rebrandly](https://developers.rebrandly.com/docs) - API provides the easiest way to create and manage your branded short links.
 - [ShrtURI](https://shrturi.com/docs) - URL shortening API for creating short URLs from long URLs.
 - [Yourls](https://yourls.org/#API) - Generate or get existing short URLs, with sequential or custom keyword.
 
