@@ -87,6 +87,7 @@ APIs
 - [Flurry](https://developer.yahoo.com/flurry/docs/api/) - Yahoo’s Flurry provides you with a number of APIs enabling you to export your data.
 - [Google Analytics](https://developers.google.com/analytics/?hl=en) - Google Analytics provides APIs to collect, configure, and report on user-interactions with your online content.
 - [Localytics](http://docs.localytics.com/dev/query-api.html#query-api) - Interface to Localytics analytics platform.
+- [Matomo](https://matomo.org/docs/analytics-api/) - Matomo is an all-in-one premium web analytics platform designed to give you the most conclusive insights. 💸
 - [MixPanel](https://mixpanel.com/help/reference) - Analytics for mobile and web which helps you analyze the actions people take in your application.
 - [Open Web Analytics](https://github.com/padams/Open-Web-Analytics/wiki/Data-Access-API) - Provides a way to request and work with your data outside of the OWA reporting interface.
 - [Ticksel](https://ticksel.com) - Friendly website analytics made for humans. Secure and powerful yet simple to use.
