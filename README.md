@@ -169,11 +169,11 @@ APIs
 
 ### Content
 
+- [Jokes](https://jokes.one/api/joke/) - Full featured Jokes API 💸
 - [Perfect Tense API](https://www.perfecttense.com/developers) - The Perfect Tense API is the only spelling and grammar checking API that uses artificial intelligence to automatically correct all of your text in one call.💸
 - [qKast Channel Content](https://github.com/egfx/qKast) - Access live content collections sourced from any page around the web.
-- [Wikipedia](https://en.wikipedia.org/w/api.php) - Free multilingual Encyclopedia.
-- [Jokes](https://jokes.one/api/joke/) - Full featured Jokes API 💸
 - [Random Facts](https://fungenerators.com/api/facts/) - Random Facts API 💸
+- [Wikipedia](https://en.wikipedia.org/w/api.php) - Free multilingual Encyclopedia.
 
 ### Currency
 
@@ -194,6 +194,7 @@ APIs
 
 ### Dictionary
 
+- [Agarathi](https://agarathi.com/api/dictionary) - Tamil language Dictionary API 💸
 - [Cambridge Dictionaries Online](http://dictionary.cambridge.org/license.html) - Access to Cambridge’s custom-developed API. 💸
 - [DictService](http://services.aonaware.com/DictService/DictService.asmx) - This Web Service allows you to access dictionary definitions from the dict.org service.
 - [Glosbe API](https://glosbe.com/a-api) - Dictionary API and Translation Memory API description.
@@ -203,7 +204,6 @@ APIs
 - [Wordnik](http://developer.wordnik.com/docs.html#!/word) - Dictionary functions.
 - [Words API](https://www.wordsapi.com/) - Use it to find definitions for more than 150,000 words.
 - [Wiktionary API](https://en.wiktionary.org/w/api.php) - Collaborative, free-content multilingual dictionary.
-- [Agarathi](https://agarathi.com/api/dictionary) - Tamil language Dictionary API 💸
 
 ### Entertainment
 
@@ -381,6 +381,7 @@ APIs
 - [LetsValidate](https://github.com/letsvalidate/api) - Uncovers the technologies used on websites and URL to thumbnail.
 - [LinkPreview](https://www.linkpreview.net) - RESTful API that returns JSON formatted summary with title, description and preview image for any requested URL. Free & paid plans.
 - [LiveChat](https://developers.livechatinc.com/) - Online Customer Service software with customizable chat, embeddable widgets, help desk and web analytics tools. APIs include webhooks support, SDKs and open-source libraries to build on. 💸
+- [Lottery Number Generation](https://fungenerators.com/api/lottery/) - Generate lottery numbers. Hundereds of lottery games from various countries are supported. 💸
 - [Marijuana Strain API](http://strains.evanbusse.com/) - Documentation on over 2000 Marijuana strains including races, flavors, and effects.
 - [PDFmyURL](https://pdfmyurl.com/html-to-pdf-api) - RESTful API that converts webpages to PDF quickly and even does entire websites to PDF
 - [Pastebin](http://pastebin.com/api) - Quickly share text or code, with support for over 250 languages for syntax highlighting.
@@ -395,7 +396,6 @@ APIs
 - [WolframAlpha](http://products.wolframalpha.com/api/) - Integrate top of the line computational knowledge into your applications through the WolframAlpha API. 💸
 - [WorldTimeAPI](http://worldtimeapi.org) - A JSON/plain-text which returns the (approx) current time for a provided timezone or IP. Targetted at limited-compute IoT devices.
 - [Wunderlist](https://developer.wunderlist.com/) - The Wunderlist API provides REST-based storage and synchronization of a user’s lists across multiple platforms and devices.
-- [Lottery Number Generation](https://fungenerators.com/api/lottery/) - Generate lottery numbers. Hundereds of lottery games from various countries are supported. 💸
 
 ### Movies
 
@@ -463,13 +463,13 @@ APIs
 - [MeaningCloud](https://www.meaningcloud.com) - Text analysis APIs for topic extraction, sentiment analysis, automatic classification, morphosyntactic analysis, language detection and more. Several languages are supported.
 - [Open Calais](http://www.opencalais.com/opencalais-api/) - Good entity extraction, no sentiment analysis.
 - [Recast.AI](https://recast.ai) - Recast.AI provide an NLP API for text analysis and entity extraction. Recast.AI is the leading platform to build, connect and monitor bots.
+- [Shakespeare Translator API](https://funtranslations.com/api/shakespeare) - Shakespeare English Translation API 💸
 - [SummarizeBot API](https://www.summarizebot.com/summarization_business.html) - AI web data extraction and analysis. Multilingual summarization, keywords and sentiment analysis, language recognition, article extraction, comments identification, multimedia analysis, image and face recognition solutions. 💸
 - [Semantria](https://www.lexalytics.com/) - SAAS API based on Lexalytics engine. #Paid
 - [TextRazor](https://www.textrazor.com/plans) - Helps you extract and understand the Who, What, Why, and How from your supplied text. #FreeToUse
 - [VoiceRSS](http://www.voicerss.org/) - An API to convert Text to Speech, supporting 15+ major languages.
 - [Wit AI](https://wit.ai/) - Provides an intent-based NLP API to easily build text and audio based chat bots. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
 - [Word Associations API](https://wordassociations.net/en/api) - Provides service to get associations for a word or phrase. Words are grouped by semantics, meaning, and psychological perception.
-- [Shakespeare Translator API](https://funtranslations.com/api/shakespeare) - Shakespeare English Translation API 💸
 
 ### Placeholder Images
 
