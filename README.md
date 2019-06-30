@@ -103,7 +103,7 @@ APIs
 
 - [Google Barcode](https://developers.google.com/vision/barcodes-overview?hl=en) - The Barcode API detects barcodes in real-time, on device, in any orientation. It can also detect multiple barcodes at once.
 - [EAN-Search](https://www.ean-search.org/ean-database-api.html) - The EAN-Search API allows you to lookup products by EAN, UPC or GTIN barcode. 💸
-- [QR Code API](https://fungenerators.com/api/qrcode/) - QR Code REST API. Can create QR code images or read existing images and return the contents.
+- [QR Code API](https://fungenerators.com/api/qrcode/) - QR Code REST API. Can create QR code images or read existing images and return the contents. 💸
 
 ### Big Data and Analytics
 
@@ -172,8 +172,8 @@ APIs
 - [Perfect Tense API](https://www.perfecttense.com/developers) - The Perfect Tense API is the only spelling and grammar checking API that uses artificial intelligence to automatically correct all of your text in one call.💸
 - [qKast Channel Content](https://github.com/egfx/qKast) - Access live content collections sourced from any page around the web.
 - [Wikipedia](https://en.wikipedia.org/w/api.php) - Free multilingual Encyclopedia.
-- [Jokes](https://jokes.one/api/joke/) - Full featured Jokes API
-- [Random Facts](https://fungenerators.com/api/facts/) - Random Facts API
+- [Jokes](https://jokes.one/api/joke/) - Full featured Jokes API 💸
+- [Random Facts](https://fungenerators.com/api/facts/) - Random Facts API 💸
 
 ### Currency
 
@@ -203,7 +203,7 @@ APIs
 - [Wordnik](http://developer.wordnik.com/docs.html#!/word) - Dictionary functions.
 - [Words API](https://www.wordsapi.com/) - Use it to find definitions for more than 150,000 words.
 - [Wiktionary API](https://en.wiktionary.org/w/api.php) - Collaborative, free-content multilingual dictionary.
-- [Agarathi](https://agarathi.com/api/dictionary) - Tamil language Dictionary API
+- [Agarathi](https://agarathi.com/api/dictionary) - Tamil language Dictionary API 💸
 
 ### Entertainment
 
@@ -395,7 +395,7 @@ APIs
 - [WolframAlpha](http://products.wolframalpha.com/api/) - Integrate top of the line computational knowledge into your applications through the WolframAlpha API. 💸
 - [WorldTimeAPI](http://worldtimeapi.org) - A JSON/plain-text which returns the (approx) current time for a provided timezone or IP. Targetted at limited-compute IoT devices.
 - [Wunderlist](https://developer.wunderlist.com/) - The Wunderlist API provides REST-based storage and synchronization of a user’s lists across multiple platforms and devices.
-- [Lottery Number Generation](https://fungenerators.com/api/lottery/) - Generate lottery numbers. Hundereds of lottery games from various countries are supported .
+- [Lottery Number Generation](https://fungenerators.com/api/lottery/) - Generate lottery numbers. Hundereds of lottery games from various countries are supported. 💸
 
 ### Movies
 
@@ -469,7 +469,7 @@ APIs
 - [VoiceRSS](http://www.voicerss.org/) - An API to convert Text to Speech, supporting 15+ major languages.
 - [Wit AI](https://wit.ai/) - Provides an intent-based NLP API to easily build text and audio based chat bots. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
 - [Word Associations API](https://wordassociations.net/en/api) - Provides service to get associations for a word or phrase. Words are grouped by semantics, meaning, and psychological perception.
-- [Shakespeare Translator API](https://funtranslations.com/api/shakespeare) - Shakespeare English Translation API
+- [Shakespeare Translator API](https://funtranslations.com/api/shakespeare) - Shakespeare English Translation API 💸
 
 ### Placeholder Images
 
