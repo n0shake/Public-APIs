@@ -212,6 +212,7 @@ APIs
 - [Comichron Data](https://github.com/comichron-data/api) - API for comic sales data from comichron.com. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
 - [Danbooru](https://danbooru.donmai.us/posts?tags=help%3Aapi) - Get images cartegorized by tags.
 - [DwCheckApi](https://dwcheckapi.azurewebsites.net/swagger/) - A Discworld API featuring data on Books, Characters, and each Series. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
+- [Lord of the Rings API](https://the-one-api.herokuapp.com/) - Get data about the books, the movie trilogy, many characters and quotes.
 - [Marvel](https://developer.marvel.com/) - Access over 70 years of comic data with Marvel's official developer API.
 - [Pokéapi](https://pokeapi.co/) - All the Pokémon data you'll ever need, in one place. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
 - [Rick and Morty](https://rickandmortyapi.com/) - All the Rick and Morty information, including images. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
