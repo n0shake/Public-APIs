@@ -16,6 +16,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 - [Bitcoin](#bitcoinbitcoin-wallets)
 - [Calendar](#calendar)
 - [Captcha](#captcha)
+- [Charts](#charts)
 - [Check In](#check-in)
 - [Commerce](#commerce)
 - [Communication](#communication)
@@ -143,6 +144,10 @@ APIs
 - [Anti-Captcha](https://anti-captcha.com/apidoc) - Access to Anti-Captcha’s API.
 - [Naver Captcha](https://developers.naver.com/products/captcha) - Access to Naver’s Captcha API.
 - [Google reCAPTCHA](https://developers.google.com/recaptcha/intro?hl=en) - ReCAPTCHA lets you embed a CAPTCHA in your web pages in order to protect them against spam and other types of automated abuse.
+
+### Charts
+
+- [Image-Charts](https://www.image-charts.com) - 1 URL = 1 Chart: Get a chart image in response to a URL GET or POST request. A drop-in-replacement for the deprecated Google Image Charts.
 
 ### Check-In
 
