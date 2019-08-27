@@ -16,7 +16,6 @@ This is an attempt to categorise different APIs scoured from the web which make 
 - [Bitcoin](#bitcoinbitcoin-wallets)
 - [Calendar](#calendar)
 - [Captcha](#captcha)
-- [Charts](#charts)
 - [Check In](#check-in)
 - [Commerce](#commerce)
 - [Communication](#communication)
@@ -144,10 +143,6 @@ APIs
 - [Anti-Captcha](https://anti-captcha.com/apidoc) - Access to Anti-Captcha’s API.
 - [Naver Captcha](https://developers.naver.com/products/captcha) - Access to Naver’s Captcha API.
 - [Google reCAPTCHA](https://developers.google.com/recaptcha/intro?hl=en) - ReCAPTCHA lets you embed a CAPTCHA in your web pages in order to protect them against spam and other types of automated abuse.
-
-### Charts
-
-- [Image-Charts](https://www.image-charts.com) - 1 URL = 1 Chart: Get a chart image in response to a URL GET or POST request. A drop-in-replacement for the deprecated Google Image Charts.
 
 ### Check-In
 
@@ -379,6 +374,7 @@ APIs
 - [Evil Insult Generator](https://evilinsult.com/api/) - Offers the most evil insults. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
 - [FreeDB](http://www.freedb.org/) - Look up CD information using the freed database. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
 - [Giphy](https://developers.giphy.com/docs/) - Worlds largest library of GIFs.
+- [Image-Charts](https://www.image-charts.com) - 1 URL = 1 Chart: Get a chart image in response to a URL GET or POST request. A drop-in-replacement for the deprecated Google Image Charts.
 - [IP Sidekick](https://ipsidekick.com) - IP Sidekick is an API that returns information about an IP address. You can use it to customize your content based on the visitor's location or display their country.
 - [JSONbin.io](https://jsonbin.io/api-reference) - Free JSON data storage service, ideal for small scale web apps, website, mobile apps.
 - [Judge0 API](https://api.judge0.com/) - Compile and run source code. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
