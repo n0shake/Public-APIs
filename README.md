@@ -174,6 +174,7 @@ APIs
 - [qKast Channel Content](https://github.com/egfx/qKast) - Access live content collections sourced from any page around the web.
 - [Random Facts](https://fungenerators.com/api/facts/) - Random Facts API 💸
 - [Wikipedia](https://en.wikipedia.org/w/api.php) - Free multilingual Encyclopedia.
+- [SLF](https://github.com/slftool/slftool.github.io/blob/master/API.md) - German city, country, river, database. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
 
 ### Currency
 
