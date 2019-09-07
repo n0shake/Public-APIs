@@ -345,7 +345,6 @@ APIs
 - [HERE Maps API](https://developer.here.com/) - Wide range of APIs available through JavaScript, iOS, Android, or REST services.
 - [Leaflet.js](http://leafletjs.com/) - An open-source JavaScript library for mobile-friendly interactive maps. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
 - [Mapbox](https://www.mapbox.com/developers/api/maps/) - Access to MapBox’s API.
-- [Naver Maps API](https://developers.naver.com/products/map) - Naver Maps provide multiple APIs for Korean map.
 - [Open Street Map](http://wiki.openstreetmap.org/wiki/API) - API access to OSM.
 - [Scribble](https://www.scribblemaps.com/api/) - The Scribble Maps API is a cross browser, mobile ready, HTML5/JavaScript, interactive map builder.
 - [Yahoo Maps](https://developer.yahoo.com/maps/) - Yahoo Maps lets you easily embed rich and interactive maps using your choice of platform.
@@ -502,7 +501,6 @@ APIs
 
 - [FavQs](https://favqs.com/api) - FavQs allows you to collect, discover, and share your favorite quotes.
 - [Forismatic](http://api.forismatic.com/api/1.0/) - Gives you a random quote per click.
-- [Quotes on Design](https://quotesondesign.com/api-v4-0/) - Gives a random design quote by a famous personality.
 - [They Said So](http://quotes.rest/qod.json?category=inspire) - Gives you a random quote per day.
 
 ### Retail
