@@ -385,6 +385,7 @@ APIs
 - [LiveChat](https://developers.livechatinc.com/) - Online Customer Service software with customizable chat, embeddable widgets, help desk and web analytics tools. APIs include webhooks support, SDKs and open-source libraries to build on. 💸
 - [Lottery Number Generation](https://fungenerators.com/api/lottery/) - Generate lottery numbers. Hundereds of lottery games from various countries are supported. 💸
 - [Marijuana Strain API](http://strains.evanbusse.com/) - Documentation on over 2000 Marijuana strains including races, flavors, and effects.
+- [PageCDN](https://docs.pagecdn.com/api/public) - Public CDN API for opensource javascript, CSS and fonts libraries.
 - [PDFmyURL](https://pdfmyurl.com/html-to-pdf-api) - RESTful API that converts webpages to PDF quickly and even does entire websites to PDF
 - [Pastebin](http://pastebin.com/api) - Quickly share text or code, with support for over 250 languages for syntax highlighting.
 - [Rocketium Video API](https://rocketium.com/api/?utm_source=github&utm_medium=repository&utm_campaign=abhishekbanthia&utm_content=api_solution) - Rocketium Video API allows you to create Buzzfeed-like videos programmatically. 💸
