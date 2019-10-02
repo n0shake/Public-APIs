@@ -369,7 +369,7 @@ APIs
 - [Apility.io](https://apility.io/apidocs/) - IP addresses, Domains and Emails anti-abuse API blocklist and Geo IP location. 💸
 - [Bhagavad Gita](https://bhagavadgita.io/) - Bhagavad Gita in various languages. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
 - [Callook.info](https://callook.info) - Look up information about United States ham radio callsigns.
-- [ChuckNorris.io](https://api.chucknorris.io) - A free JSON API for hand curated Chuch Norris facts. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
+- [ChuckNorris.io](https://api.chucknorris.io) - A free JSON API for hand curated Chuck Norris facts. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
 - [Don't Kill My App](https://github.com/urbandroid-team/dont-kill-my-app) - Database of ways mobile vendors inhibit background activity of apps. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
 - [Domainsdb.info](https://domainsdb.info) - Registered domain names search checks the lists of registered domains for names containing particular words/phrases/numbers or symbols.
 - [Evil Insult Generator](https://evilinsult.com/api/) - Offers the most evil insults. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
