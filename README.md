@@ -371,7 +371,7 @@ APIs
 - [Spreaker](https://developers.spreaker.com/) - Enables developers to read and write data to Spreaker.
 - [StackExchange](https://api.stackexchange.com/) - The StackExchange API provides RESTful services to all the sites on the StackExchange domain.
 - [RestCountries](https://restcountries.eu) - Get information about countries via a RESTful API.
-- [Typeform](https://developer.typeform.com/) - Typeform's APIs allow you to create and edit Typeform surveys, and retrieve survey responses on demand. 
+- [Typeform](https://developer.typeform.com/) - Typeform's APIs allow you to create and edit Typeform surveys, and retrieve survey responses on demand.
 - [Who Hosts This](https://www.who-hosts-this.com/API) - Detect the hosting provider powering any web site
 - [WolframAlpha](http://products.wolframalpha.com/api/) - Integrate top of the line computational knowledge into your applications through the WolframAlpha API. 💸
 - [WorldTimeAPI](http://worldtimeapi.org) - A JSON/plain-text which returns the (approx) current time for a provided timezone or IP. Targetted at limited-compute IoT devices.
@@ -460,7 +460,7 @@ APIs
 
 - [CityGrid](http://docs.citygridmedia.com/display/citygridv2/Places+API) - Enables developers to create web and mobile applications that find local businesses, organizations, and points of interest by a variety of search criteria.
 - [CountryAPI](https://fabian7593.github.io/CountryAPI/) - Gets all the countries, and obtain the most important information of these.
-- [Factual](http://developer.factual.com/get-started/) - Providing a places search that can be searched by latitude/longitude, and “where” using full text search query string.
+- [Factual](https://developer.factual.com/docs/getting-started) - Providing a places search that can be searched by latitude/longitude, and “where” using full text search query string.
 - [Foursquare Venue](https://developer.foursquare.com/overview/venues) - Providing a places search that can be searched by  hierarchical list of categories, longitude/latitude etc.
 - [Google Places API](https://developers.google.com/places/documentation/?csw=1) - Providing a places search that can be searched by latitude/longitude, keyword matched against all fields, name of place, type of place restricted by radius.
 - [Nokia](https://developer.here.com/develop/javascript-api) - Providing a JavaScript places search that can be searched by search term, with a detail search for display by JS widget.
