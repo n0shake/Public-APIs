@@ -494,7 +494,7 @@ APIs
 - [bng2latlong](https://www.getthedata.com/bng2latlong) - Convert an OSGB36 easting and northing (British National Grid) to WGS84 latitude and longitude.
 - [CityGrid](http://docs.citygridmedia.com/display/citygridv2/Places+API) - Enables developers to create web and mobile applications that find local businesses, organizations, and points of interest by a variety of search criteria.
 - [CountryAPI](https://fabian7593.github.io/CountryAPI/) - Gets all the countries, and obtain the most important information of these.
-- [Factual](http://developer.factual.com/get-started/) - Providing a places search that can be searched by latitude/longitude, and “where” using full text search query string.
+- [Factual](https://developer.factual.com/docs/getting-started) - Providing a places search that can be searched by latitude/longitude, and “where” using full text search query string.
 - [Foursquare Venue](https://developer.foursquare.com/overview/venues) - Providing a places search that can be searched by  hierarchical list of categories, longitude/latitude etc.
 - [Google Places API](https://developers.google.com/places/documentation/?csw=1) - Providing a places search that can be searched by latitude/longitude, keyword matched against all fields, name of place, type of place restricted by radius.
 - [Nokia](https://developer.here.com/develop/javascript-api) - Providing a JavaScript places search that can be searched by search term, with a detail search for display by JS widget.
