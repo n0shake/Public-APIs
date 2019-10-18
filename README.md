@@ -391,6 +391,7 @@ APIs
 - [PDFmyURL](https://pdfmyurl.com/html-to-pdf-api) - RESTful API that converts webpages to PDF quickly and even does entire websites to PDF
 - [Pastebin](http://pastebin.com/api) - Quickly share text or code, with support for over 250 languages for syntax highlighting.
 - [PhantAuth](https://www.phantauth.net/) - Random User Generator + OpenID Connect Provider. Like Lorem Ipsum, but for user accounts and authentication. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
+- [Rig Veda API](https://aninditabasu.github.io/indica/html/rv.html) - All of the poets and gods in the Rig Veda, presented with the mandal and sukta numbers they're mentioned in, the meters the verses are composed in, and the categories the poets and gods belong to.
 - [Rocketium Video API](https://rocketium.com/api/?utm_source=github&utm_medium=repository&utm_campaign=abhishekbanthia&utm_content=api_solution) - Rocketium Video API allows you to create Buzzfeed-like videos programmatically. 💸
 - [Scraper API](https://www.scraperapi.com) - Scraper API handles proxies, browsers, and CAPTCHAs so developers can easily build scalable web scrapers.
 - [Spreaker](https://developers.spreaker.com/) - Enables developers to read and write data to Spreaker.
