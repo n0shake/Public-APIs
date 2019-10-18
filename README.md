@@ -200,7 +200,7 @@ APIs
 - [Cambridge Dictionaries Online](http://dictionary.cambridge.org/license.html) - Access to Cambridge’s custom-developed API. 💸
 - [DictService](http://services.aonaware.com/DictService/DictService.asmx) - This Web Service allows you to access dictionary definitions from the dict.org service.
 - [Glosbe API](https://glosbe.com/a-api) - Dictionary API and Translation Memory API description.
-- [Lingua Robot API](https://www.linguarobot.io/) - Definition of words, pronunciations, synonyms and antonyms, lemmatization, morpheme segmentation. 💸
+- [Lingua Robot API](https://www.linguarobot.io/) - Definition of words, pronunciations, synonyms and antonyms, lemmatization and morpheme segmentation. 💸
 - [Merriam-Webster Dictionary API](http://www.dictionaryapi.com/) - Gives developers access to a big ass resource of dictionary and thesaurus content as well as specialized medical, Spanish, ESL, and student-friendly vocabulary.
 - [Oxford Dictionary API](https://developer.oxforddictionaries.com/) - Access to Oxford Dictionary services with several different subscription options including a free tier. 💸
 - [Pearson Dictionaries API](http://developer.pearson.com/apis/dictionaries) - (*BETA*) Gives access to a very large database of words and phrases with thorough explanations - free usage for up to 4 million calls/month.
