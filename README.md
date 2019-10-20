@@ -187,7 +187,7 @@ APIs
 ### Data Science
 
 - [Data Science Toolkit](https://github.com/petewarden/dstk) - A collection of the best open data sets and open-source tools for data science.
-- [Time Door](https://timedoor.io) - A time series analysis API.
+- [Time Door](https://timedoor.io) - Time Door is an API for statistical insights into time series data. 💸
 
 ### Design
 
