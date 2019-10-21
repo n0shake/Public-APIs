@@ -400,6 +400,7 @@ APIs
 - [RandomUserGenerator](https://randomuser.me/) - An API for generating random user data. Like Lorem Ipsum, but for people.![Open Source] (https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
 - [RestCountries](https://restcountries.eu) - Get information about countries via a RESTful API.
 - [Typeform](https://developer.typeform.com/) - Typeform's APIs allow you to create and edit Typeform surveys, and retrieve survey responses on demand.
+- [Vedic Society API](https://aninditabasu.github.io/indica/html/vs.html) - A description of all of the nouns in vedic literature, including the flora, fauna, geography, food, relationships, and objects (personal nouns not included, though).
 - [Who Hosts This](https://www.who-hosts-this.com/API) - Detect the hosting provider powering any web site
 - [WolframAlpha](http://products.wolframalpha.com/api/) - Integrate top of the line computational knowledge into your applications through the WolframAlpha API. 💸
 - [WorldTimeAPI](http://worldtimeapi.org) - A JSON/plain-text which returns the (approx) current time for a provided timezone or IP. Targetted at limited-compute IoT devices.
