@@ -141,6 +141,7 @@ APIs
 
 ### Captcha
 
+- [ProxyCrawl](https://proxycrawl.com) — Crawl and scrape websites without the need of proxies, infrastructure or browsers. We solve captchas for you and prevent you being blocked while speeding up your development. 💸
 - [Anti-Captcha](https://anti-captcha.com/apidoc) - Access to Anti-Captcha’s API.
 - [Naver Captcha](https://developers.naver.com/products/captcha) - Access to Naver’s Captcha API.
 - [Google reCAPTCHA](https://developers.google.com/recaptcha/intro?hl=en) - ReCAPTCHA lets you embed a CAPTCHA in your web pages in order to protect them against spam and other types of automated abuse.
