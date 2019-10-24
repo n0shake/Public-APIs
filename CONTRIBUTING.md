@@ -13,3 +13,4 @@ Please ensure your pull request adheres to the following guidelines:
 - Try to make your Pull request and title as descriptive as possible.
 - Mark open source APIs with the open source icon
 - Mark all trial/demo based APIs with the 💸 emoticon.
+- Keep the APIs sorted alphabetically.
