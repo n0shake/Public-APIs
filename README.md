@@ -596,6 +596,7 @@ APIs
 - [Po.st](https://post.zendesk.com/hc/en-us/articles/200328516-Po-st-REST-API) - Shorten URLs, Expand shortened URLs, see statistics etc.
 - [ShrtURI](https://shrturi.com/docs) - URL shortening API for creating short URLs from long URLs.
 - [Yourls](https://yourls.org/#API) - Generate or get existing short URLs, with sequential or custom keyword.
+- [Zero Width Shortener](https://docs.zws.im) - URL shortener that shortens URLs using spaces that have zero width, making them invisible to humans.
 
 ### Videogames
 
