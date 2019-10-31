@@ -115,6 +115,7 @@ APIs
 
 ### Bitcoin/Bitcoin Wallets
 
+- [ApiDapp](https://apidapp.com/) - RESTfull interface that allows creation and interaction with Smart Contracts across different blockchains.
 - [Bitcoin](https://bitcoin.org/en/developer-documentation) - Find useful resources, guides and reference material for developers.
 - [Bitcoincharts](https://bitcoincharts.com/about/markets-api/) - You can use this API to include markets data in your websites, mobile apps or desktop applets.
 - [bitpay](https://bitpay.com/developers) - A simple, RESTful API to the most powerful bitcoin infrastructure on the planet.
