@@ -132,6 +132,7 @@ APIs
 - [Coinigy](https://coinigy.docs.apiary.io) - Interact with Coinigy Accounts and Exchange Accounts Directly
 - [Exchange Rates API](https://blockchain.info/api/exchange_rates_api) - Market Prices and exchanges rates api.
 - [ShapeShift.io](https://shapeshift.io/) - Exchange between cryptocurrencies without an account.  Well documented API for easy use.
+- [Technical Analysis API](https://technical-analysis-api.com) - Cryptocurrency prices, technical analysis and sentiment detection
 - [Poloniex](https://poloniex.com/support/api/) - US based digital asset exchange
 
 ### Calendar
