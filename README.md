@@ -129,7 +129,7 @@ APIs
 - [CryptoCompare](https://www.cryptocompare.com/api) - Cryptocurrencies Comparison
 - [Cryptonator](https://www.cryptonator.com/api/) - Cryptocurrencies Exchange Rates
 - [Coinigy](https://coinigy.docs.apiary.io) - Interact with Coinigy Accounts and Exchange Accounts Directly
-- [Exchange Rates API](https://blockchain.info/api/exchange_rates_api) - Market Prices and exchanges rates api.
+- [Exchange Rates API](https://www.blockchain.com/api/exchange_rates_api) - Market Prices and exchanges rates api.
 - [ShapeShift.io](https://shapeshift.io/) - Exchange between cryptocurrencies without an account.  Well documented API for easy use.
 - [Poloniex](https://poloniex.com/support/api/) - US based digital asset exchange
 
