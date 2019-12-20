@@ -200,7 +200,6 @@ APIs
 - [Agarathi](https://agarathi.com/api/dictionary) - Tamil language Dictionary API 💸
 - [Cambridge Dictionaries Online](http://dictionary.cambridge.org/license.html) - Access to Cambridge’s custom-developed API. 💸
 - [Datamuse API](https://www.datamuse.com/api/) - Word-finding query engine that finds words that match a given set of constraints and that are likely in a given context. 💸
-- [DictService](http://services.aonaware.com/DictService/DictService.asmx) - This Web Service allows you to access dictionary definitions from the dict.org service.
 - [Glosbe API](https://glosbe.com/a-api) - Dictionary API and Translation Memory API description.
 - [Lingua Robot API](https://www.linguarobot.io/) - Definition of words, pronunciations, synonyms and antonyms, lemmatization and morpheme segmentation. 💸
 - [Merriam-Webster Dictionary API](http://www.dictionaryapi.com/) - Gives developers access to a big ass resource of dictionary and thesaurus content as well as specialized medical, Spanish, ESL, and student-friendly vocabulary.
