@@ -591,7 +591,7 @@ APIs
 - [Bitly](http://dev.bitly.com/links.html) - Access to Bitly’s API.
 - [Is.gd](https://is.gd/developers.php) - Simple URL shortener. Supports custom short link ending.
 - [Naver URL Shortener](https://developers.naver.com/products/shortenurl) - Access to Naver’s URL shortening API.
-- [Po.st](https://post.zendesk.com/hc/en-us/articles/200328516-Po-st-REST-API) - Shorten URLs, Expand shortened URLs, see statistics etc.
+- [Po.st](https://www.po.st/) - Shorten URLs, Expand shortened URLs, see statistics etc.
 - [ShrtURI](https://shrturi.com/docs) - URL shortening API for creating short URLs from long URLs.
 - [Tiny.cc](https://tiny.cc/api-docs) - Easy-to-use URL shortener. Supports custom short link ending.
 - [V.gd](https://v.gd/developers.php) - Simple URL shortener. Supports custom short link ending.
