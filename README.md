@@ -550,7 +550,7 @@ APIs
 - [Vimeo](https://developer.vimeo.com/) - Access to Vimeo’s API.
 - [Viber](https://developers.viber.com/docs/api/) - With Viber’s APIs, can create unique experiences for users at scale.
 - [VK](https://vk.com/dev) - Access to VKontakte's API. This has a variety of features such as authorization via VK, embedding VK comments for things like blogs, and taking payments via VK. Additionally, you may use the VK API to control much of the functionality on the website (for example, adjusting shop inventory in your VK community's market section).
-- [Weibo](http://open.weibo.com/wiki/API%E6%96%87%E6%A1%A3/en) - Programmatic access to China’s most popular microblogging site.
+- [Weibo](https://open.weibo.com/wiki/API) - Programmatic access to China’s most popular microblogging site.
 - [Whatsapp Document Interaction](https://faq.whatsapp.com/en/iphone/23559013) - If your application creates photos, videos or audio notes and you’d like your users to share these media using WhatsApp. #Limited
 - [Wordpress](https://codex.wordpress.org/WordPress_APIs) - Access to Wordpress’ API.
 - [Untappd](https://untappd.com/api/docs) - Untappd is a mobile web app that allows you to socially share beers that you're enjoying.
