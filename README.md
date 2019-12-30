@@ -124,7 +124,6 @@ APIs
 - [Coinbase](https://developers.coinbase.com/) - Coinbase APIs and developer tools make building bitcoin and blockchain apps much easier.
 - [CoinDesk](http://www.coindesk.com/api/) - Bitcoin Price Index
 - [Coinlore](https://www.coinlore.com/cryptocurrency-data-api) - Cryptocurrency tick data API
-- [Coinkite](https://coinkite.com/developers) - Coinkite's Bitcoin API provides simple and powerful REST integrations for adding bitcoin functions into your business / application.
 - [CoinMarketCap](https://coinmarketcap.com/api/) - Cryptocurrencies Prices
 - [coinpaprika](https://api.coinpaprika.com) - Cryptocurrencies prices, market capitalization, volume and more.
 - [CryptoCompare](https://www.cryptocompare.com/api) - Cryptocurrencies Comparison
@@ -294,7 +293,6 @@ APIs
 ### Image Moderation
 
 - [Clarifai](https://developer.clarifai.com/docs/) - AI API that analyzes images and videos and returns probability scores on the likelihood that the image contains pornography.
-- [NullNude.com](http://www.nullnude.com/) - The adult content detection API. Free for 600 images per month. 💸
 - [WebPurify](https://www.webpurify.com/image-moderation/) - Provides live image moderation by humans. Free for first 100 images. 2¢ per image after. 💸
 
 ### IoT
@@ -467,7 +465,6 @@ APIs
 
 ### Natural Language Processing
 
-- [AlchemyAPI - IBM Company](http://www.alchemyapi.com/api) - Uses NLP and ML algorithms to extract semantic meta-data from content.
 - [DialogFlow](https://dialogflow.com/) - Natural Language Interactions for Bots, Applications, Services, and Devices
 - [Datum Box](http://www.datumbox.com/machine-learning-api/) - Datumbox offers a powerful open-source Machine Learning Framework written in Java. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
 - [Detect Language](https://rapidapi.com/BigLobster/api/language-identification-prediction) - Automatic detection of the language in which the input text is written. 💸
@@ -534,7 +531,6 @@ APIs
 - [Flickr](https://www.flickr.com/services/api/) - Search through user Flickr content, contacts, upload or replace photos.
 - [Foursquare](https://developer.foursquare.com/) - Access to Foursquare database and ability to interact with Foursquare users.
 - [GoodReads](https://www.goodreads.com/api) - Allows developers access to Goodreads data in order to help websites or applications that deal with books.
-- [Google+](https://developers.google.com/+/web/api/rest/) - Enables apps to login to Google+ view connections, groups, posts, and contact information.
 - [Gravatar](https://en.gravatar.com/site/implement/) - Create profiles and avatars using this web service.
 - [Hacker News](https://github.com/HackerNews/API) - Anything that good hackers would find interesting.
 - [Imgur](https://api.imgur.com/) - Imgur's API exposes the entire Imgur infrastructure via a standardized programmatic interface.
@@ -597,7 +593,6 @@ APIs
 - [Bitly](http://dev.bitly.com/links.html) - Access to Bitly’s API.
 - [Is.gd](https://is.gd/developers.php) - Simple URL shortener. Supports custom short link ending.
 - [Naver URL Shortener](https://developers.naver.com/products/shortenurl) - Access to Naver’s URL shortening API.
-- [Po.st](https://post.zendesk.com/hc/en-us/articles/200328516-Po-st-REST-API) - Shorten URLs, Expand shortened URLs, see statistics etc.
 - [ShrtURI](https://shrturi.com/docs) - URL shortening API for creating short URLs from long URLs.
 - [Tiny.cc](https://tiny.cc/api-docs) - Easy-to-use URL shortener. Supports custom short link ending.
 - [V.gd](https://v.gd/developers.php) - Simple URL shortener. Supports custom short link ending.
