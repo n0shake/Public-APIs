@@ -159,6 +159,7 @@ APIs
 - [Moltin](https://www.moltin.com/developers) - Unified APIs for inventory, carts, the checkout process, payments and more, so you can focus on creating seamless customer experiences at any scale.
 - [Stripe](https://stripe.com/docs/api) - Allows both private individuals and businesses to accept payments over the Internet.
 - [Braintree](https://developers.braintreepayments.com) - Specializes in mobile and web payment systems for ecommerce companies.
+- [Data.be](https://data.be/en/content/products/api) - Provide up-to-date business info, financials and mandates
 
 ### Communication
 
