@@ -82,13 +82,12 @@ APIs
 
 - [Amazon Mobile Analytics](https://aws.amazon.com/documentation/mobileanalytics/) - Service for collecting, visualizing, and understanding app usage data at scale.
 - [Clicky](https://clicky.com/help/api) - Allows you to extract your web site's traffic data into several formats, making it easy to integrate, analyze, or store your data within your own application.
-- [Countly](http://resources.count.ly/reference) - Self-hosted or private cloud mobile, web and desktop analytics. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
 - [Fabric](https://get.fabric.io/) - A platform that helps your mobile team build better apps, understand your users, and grow your business.
 - [Flurry](https://developer.yahoo.com/flurry/docs/api/) - Yahoo’s Flurry provides you with a number of APIs enabling you to export your data.
 - [Google Analytics](https://developers.google.com/analytics/?hl=en) - Google Analytics provides APIs to collect, configure, and report on user-interactions with your online content.
 - [Localytics](http://docs.localytics.com/dev/query-api.html#query-api) - Interface to Localytics analytics platform.
 - [Matomo](https://matomo.org/docs/analytics-api/) - Matomo is an all-in-one premium web analytics platform designed to give you the most conclusive insights. 💸
-- [MixPanel](https://mixpanel.com/help/reference) - Analytics for mobile and web which helps you analyze the actions people take in your application.
+- [MixPanel](https://developer.mixpanel.com/docs/implement-mixpanel) - Analytics for mobile and web which helps you analyze the actions people take in your application.
 - [Open Web Analytics](https://github.com/padams/Open-Web-Analytics/wiki/Data-Access-API) - Provides a way to request and work with your data outside of the OWA reporting interface.
 - [Ticksel](https://ticksel.com) - Friendly website analytics made for humans. Secure and powerful yet simple to use.
 - [Woopra](https://www.woopra.com/docs/developer/analytics-api/) - Real-time website analysis tool that targets customer engagement.
@@ -305,7 +304,7 @@ APIs
 - [Temboo SDK](https://temboo.com/download) - This platform acts as a layer on top of third-party APIs, using code snippets to trigger complex processes that run through their cloud platform.
 - [ThingSpeak](https://github.com/iobridge/ThingSpeak) - “Internet of Things” application and API to store and retrieve data from things using HTTP over the Internet or via a Local Area Network.
 - [Xively](https://developer.xively.com/reference) - Uses free and open libraries to let you connect different types of hardware, using a variety of languages to their cloud service.
-- [Zetta](http://www.zettajs.org/) - An open source platform built on Node.js for creating IoT servers that run across geo-distributed computers and the cloud. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
+- [Zetta](https://github.com/zettajs/zetta/wiki) - An open source platform built on Node.js for creating IoT servers that run across geo-distributed computers and the cloud. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
 
 ### Legal
 #### Open Licenses
@@ -453,7 +452,7 @@ APIs
 
 ### Music Stores
 
-- [iTunes Search](https://affiliate.itunes.apple.com/resources/documentation/itunes-store-web-service-search-api/) - The Search API allows you to place search fields in your website to search for content within the iTunes Store, App Store, iBooks Store and Mac App Store.
+- [iTunes Search](https://developer.apple.com/library/archive/documentation/AudioVideo/Conceptual/iTuneSearchAPI/Searching.html#//apple_ref/doc/uid/TP40017632-CH5-SW1) - The Search API allows you to place search fields in your website to search for content within the iTunes Store, App Store, iBooks Store and Mac App Store.
 - [Reverb](https://dev.reverb.com/) - Sell and buy music related merchandise.
 
 ### News Services
@@ -537,7 +536,7 @@ APIs
 - [Instagram](https://www.instagram.com/developer/) - Search photos by location, user, tags, view trending photos, and make custom items.
 - [Kakao](https://developers.kakao.com/features/kakao) - Access to Kakao’s APIs.
 - [LinkedIn](https://developer.linkedin.com/) - Enables apps to connect to user accounts, data, connections,groups, communications, and social streams.
-- [Mastodon](https://github.com/tootsuite/documentation/blob/master/Using-the-API/API.md) - Access to [Mastodon](https://github.com/tootsuite/mastodon)’s APIs, the Open-source twitter competitor. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
+- [Mastodon](https://docs.joinmastodon.org/) - Access to [Mastodon](https://github.com/tootsuite/mastodon)’s APIs, the Open-source twitter competitor. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
 - [Microlink](https://microlink.io) - Turns any link into information. Take screenshots, extract predominant palette colors.
 - [MySocialApp](https://mysocialapp.io) - Seamless Social Networking features, API, SDK for any app.
 - [Pinterest](https://www.pinterest.com/login/?next=http%3A%2F%2Fdevelopers.pinterest.com%2Fapi_docs%2F) - Enables apps to view the most clicked-through or repinned Pins, view related posts, and user profiles.
