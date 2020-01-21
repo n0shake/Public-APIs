@@ -173,6 +173,7 @@ APIs
 - [Jokes](https://jokes.one/api/joke/) - Full featured Jokes API 💸
 - [Perfect Tense API](https://www.perfecttense.com/developers) - The Perfect Tense API is the only spelling and grammar checking API that uses artificial intelligence to automatically correct all of your text in one call.💸
 - [qKast Channel Content](https://github.com/egfx/qKast) - Access live content collections sourced from any page around the web.
+- [Random Data Generator](https://randommer.io/randommer-api) - API Generator for telephones, text, numbers, passwords, names, social security numbers, and cards.💸
 - [Random Facts](https://fungenerators.com/api/facts/) - Random Facts API 💸
 - [SLF](https://github.com/slftool/slftool.github.io/blob/master/API.md) - German city, country, river, database. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
 - [Wikipedia](https://en.wikipedia.org/w/api.php) - Free multilingual Encyclopedia.
@@ -180,6 +181,7 @@ APIs
 ### Currency
 
 - [1Forge.com](https://1forge.com/) - Real-time forex and crypto quotes via JSON and WebSocket.
+- [CurrencyScoop.com](https://currencyscoop.com/) - Real-time and historical currency rates JSON API.
 - [Fixer.io](http://fixer.io/) - JSON API for foreign exchange rates and currency conversion.  End of day data only.
 - [OpenRates.io](http://www.openrates.io/) - Live exchange rates and currency conversion API.
 - [ratesapi.io](https://ratesapi.io/) - Free foreign currency exchange rates and currency conversion.
