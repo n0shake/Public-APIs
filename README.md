@@ -597,6 +597,7 @@ APIs
 - [Naver URL Shortener](https://developers.naver.com/products/shortenurl) - Access to Naver’s URL shortening API.
 - [ShrtURI](https://shrturi.com/docs) - URL shortening API for creating short URLs from long URLs.
 - [Tiny.cc](https://tiny.cc/api-docs) - Easy-to-use URL shortener. Supports custom short link ending.
+- [Tiny.UID](https://tinyuid.com/docs) - API for shortening long URLs.
 - [V.gd](https://v.gd/developers.php) - Simple URL shortener. Supports custom short link ending.
 - [Yourls](https://yourls.org/#API) - Generate or get existing short URLs, with sequential or custom keyword.
 - [Zero Width Shortener](https://docs.zws.im) - URL shortener that shortens URLs using spaces that have zero width, making them invisible to humans.
