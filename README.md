@@ -587,6 +587,7 @@ APIs
 - [Moovit](https://www.developers.moovitapp.com/) - Connect users from your app to the Moovit app with a specific action through deeplinks.
 - [Postmen](https://docs.postmen.com/) - Add shipping capability of FedEx, UPS, DHL, USPS and over 40 carriers worldwide.
 - [Postmates](https://postmates.com/developer/docs) - Build on-demand delivery into your app or website.
+- [Ola](https://developers.olacabs.com/) - Help your users find, book and track Ola rides with ease. Ola is India’s most popular cab booking app with availability of rides in more than 100 cities across India.
 - [Uber](https://developer.uber.com/) - Uber provides API for customizing trip experiences, requesting rides, powering logistics, creating bots and so much more.
 
 ### URL Shorteners
