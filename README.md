@@ -5,6 +5,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 > Items marked with ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") are open-source  
 > Items marked with 💸 are trial based APIs
 
+
 ## Table of Contents
 
 - [Advertising](#advertising)
@@ -40,9 +41,12 @@ This is an attempt to categorise different APIs scoured from the web which make 
 - [Medical](#medical)
 - [Miscellaneous](#miscellaneous)
 - [Movies](#movies)
-- [Music](#music) - [Music Analytics](#music-analytics) - [Music Discovery](#music-discovery) - [Music Identification](#music-identification)
-  - [Music Lyrics](#music-lyrics)
-  - [Music Store](#music-stores)
+- [Music](#music)
+	- [Music Analytics](#music-analytics)
+	- [Music Discovery](#music-discovery)
+	- [Music Identification](#music-identification)
+    - [Music Lyrics](#music-lyrics)
+    - [Music Store](#music-stores)
 - [Natural Language Processing](#natural-language-processing)
 - [News](#news-services)
 - [Placeholder Images](#placeholder-images)
@@ -61,7 +65,9 @@ This is an attempt to categorise different APIs scoured from the web which make 
 - [More Resources](#more-resources)
 - [Contribute](#contributions)
 
-## APIs
+
+APIs
+-------
 
 ### Advertising
 
@@ -123,7 +129,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 - [Cryptonator](https://www.cryptonator.com/api/) - Cryptocurrencies Exchange Rates
 - [Coinigy](https://coinigy.docs.apiary.io) - Interact with Coinigy Accounts and Exchange Accounts Directly
 - [Exchange Rates API](https://blockchain.info/api/exchange_rates_api) - Market Prices and exchanges rates api.
-- [ShapeShift.io](https://shapeshift.io/) - Exchange between cryptocurrencies without an account. Well documented API for easy use.
+- [ShapeShift.io](https://shapeshift.io/) - Exchange between cryptocurrencies without an account.  Well documented API for easy use.
 - [Technical Analysis](https://technical-analysis-api.com) - Cryptocurrency prices, technical analysis and sentiment detection.
 - [Poloniex](https://poloniex.com/support/api/) - US based digital asset exchange
 
@@ -146,7 +152,6 @@ This is an attempt to categorise different APIs scoured from the web which make 
 - [Foursquare Check-In](https://developer.foursquare.com/docs/checkins/add) - Allows you to check in to a place.
 
 ### Commerce
-
 - [envoice](https://www.envoice.in) - Invoicing for online businesses. Simplify your invoicing process and get paid online with a debit or credit card via your payment gateway.
 - [koomalooma](http://business.koomalooma.com) - A Loyalty BPaaS (Business Process as a Service) for mobile and web companies. Merchants issue points for actions their customers/users make, for example a purchase or a referral. koomalooma takes care of all the rest, from signing up users, keeping track of points and delivering rewards in over 80 countries.💸
 - [Marketcloud](https://www.marketcloud.it) - eCommerce APIs for developers. It covers inventory and database, carts and checkout, payments, user authentication, and more. You just bring the frontend.
@@ -177,7 +182,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 
 - [1Forge.com](https://1forge.com/) - Real-time forex and crypto quotes via JSON and WebSocket.
 - [CurrencyScoop.com](https://currencyscoop.com/) - Real-time and historical currency rates JSON API.
-- [Fixer.io](http://fixer.io/) - JSON API for foreign exchange rates and currency conversion. End of day data only.
+- [Fixer.io](http://fixer.io/) - JSON API for foreign exchange rates and currency conversion.  End of day data only.
 - [OpenRates.io](http://www.openrates.io/) - Live exchange rates and currency conversion API.
 - [ratesapi.io](https://ratesapi.io/) - Free foreign currency exchange rates and currency conversion.
 
@@ -201,7 +206,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 - [Lingua Robot API](https://www.linguarobot.io/) - Definition of words, pronunciations, synonyms and antonyms, lemmatization and morpheme segmentation. 💸
 - [Merriam-Webster Dictionary API](http://www.dictionaryapi.com/) - Gives developers access to a big ass resource of dictionary and thesaurus content as well as specialized medical, Spanish, ESL, and student-friendly vocabulary.
 - [Oxford Dictionary API](https://developer.oxforddictionaries.com/) - Access to Oxford Dictionary services with several different subscription options including a free tier. 💸
-- [Pearson Dictionaries API](http://developer.pearson.com/apis/dictionaries) - (_BETA_) Gives access to a very large database of words and phrases with thorough explanations - free usage for up to 4 million calls/month.
+- [Pearson Dictionaries API](http://developer.pearson.com/apis/dictionaries) - (*BETA*) Gives access to a very large database of words and phrases with thorough explanations - free usage for up to 4 million calls/month.
 - [Wordnik](http://developer.wordnik.com/docs.html#!/word) - Dictionary functions.
 - [Words API](https://www.wordsapi.com/) - Use it to find definitions for more than 150,000 words.
 - [Wiktionary API](https://en.wiktionary.org/w/api.php) - Collaborative, free-content multilingual dictionary.
@@ -240,22 +245,21 @@ This is an attempt to categorise different APIs scoured from the web which make 
 - [Verizon Cloud](http://www.verizon.com/cloudstorageapi) - API for accessing stored pictures and other files stored by users of Verizon Cloud app.
 
 ### Finance
-
 - [IEX](https://iextrading.com/developer/) - Free Stocks and Market Data
 - Central Banks
-- [Australia](https://www.rba.gov.au/statistics/tables/) - plenty of kinds of data in CSV format.
-- [Canada](https://www.bankofcanada.ca/rates/) - daily exchange rates and statistical data tables in CSV, XML or JSON formats.
-- [Exchange Rates](https://exchangeratesapi.io/) - Foreign exchange rates API with currency conversion. JSON & CORS. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
-- [Georgia](https://nbg.gov.ge/api.html) - currency exchange rates available via SOAP API.
-- [Ireland](https://data.gov.ie/data/search?publisher=central-bank-of-ireland) - variety of data mainly in [XLS](https://en.wikipedia.org/wiki/Microsoft_Excel#File_formats) format.
-- [Myanmar](http://forex.cbm.gov.mm/api/) - currency exchange rates in JSON format.
-- [Moldova](https://bnm.md/en/content/official-exchange-rates) - currency exchange rates in XML, JSON and XLS formats.
-- [New Zealand](https://www.rbnz.govt.nz/statistics) - variety of data in XLS format.
-- [Nigeria](https://www.cbn.gov.ng/rates/) - not only exchange rates, but also other info in CSV format.
-- [Peru](http://www.bcrp.gob.pe/statistics.html) - variety of data in [XLSX](https://en.wikipedia.org/wiki/Microsoft_Excel#File_formats) format.
-- [Poland](https://api.nbp.pl) - Currency exchange rates and gold prices in the XML and JSON formats.
-- [Switzerland](https://data.snb.ch/en) - rich variety of datan in XLS and CSV formats.
-- [Ukraine](https://bank.gov.ua/control/en/publish/article?art_id=25365630) - exchange rates and bond placements in JSON and XML formats.
+ - [Australia](https://www.rba.gov.au/statistics/tables/) - plenty of kinds of data in CSV format.
+ - [Canada](https://www.bankofcanada.ca/rates/) - daily exchange rates and statistical data tables in CSV, XML or JSON formats.
+ - [Exchange Rates](https://exchangeratesapi.io/) - Foreign exchange rates API with currency conversion. JSON & CORS. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
+ - [Georgia](https://nbg.gov.ge/api.html) - currency exchange rates available via SOAP API.
+ - [Ireland](https://data.gov.ie/data/search?publisher=central-bank-of-ireland) - variety of data mainly in [XLS](https://en.wikipedia.org/wiki/Microsoft_Excel#File_formats) format.
+ - [Myanmar](http://forex.cbm.gov.mm/api/) - currency exchange rates in JSON format.
+ - [Moldova](https://bnm.md/en/content/official-exchange-rates) - currency exchange rates in XML, JSON and XLS formats.
+ - [New Zealand](https://www.rbnz.govt.nz/statistics) - variety of data in XLS format.
+ - [Nigeria](https://www.cbn.gov.ng/rates/) - not only exchange rates, but also other info in CSV format.
+ - [Peru](http://www.bcrp.gob.pe/statistics.html) - variety of data in [XLSX](https://en.wikipedia.org/wiki/Microsoft_Excel#File_formats) format.
+ - [Poland](https://api.nbp.pl) - Currency exchange rates and gold prices in the XML and JSON formats.
+ - [Switzerland](https://data.snb.ch/en) - rich variety of datan in XLS and CSV formats.
+ - [Ukraine](https://bank.gov.ua/control/en/publish/article?art_id=25365630) - exchange rates and bond placements in JSON and XML formats.
 
 ### Fitness
 
@@ -268,18 +272,18 @@ This is an attempt to categorise different APIs scoured from the web which make 
 
 ### Google
 
-- [Gmail API](https://developers.google.com/gmail/api/?hl=en) - The Gmail REST API. _v1_
-- [Google BigQuery API](https://cloud.google.com/bigquery/docs/reference/rest/v2/) - A data platform for customers to create, manage, share and query data. _v2_
-- [Google Books API](https://developers.google.com/books/) - Lets you search for books and manage your Google Books library. _v1_
-- [Google Calendar API](https://developers.google.com/google-apps/calendar/?hl=en) - Lets you manipulate events and other calendar data. _v3_
-- [Google Classroom API](https://developers.google.com/classroom/?hl=en) - The Google Classroom API. _v1_
-- [Google CustomSearch API](https://developers.google.com/custom-search/json-api/v1/overview) - Lets you search over a website or collection of websites. _v1_
-- [Google Drive API](https://developers.google.com/drive/v2/reference/) - The API to interact with Google Drive. _v3_
-- [Google Fitness API](https://developers.google.com/fit/?hl=en) - The Fit API. _v1_
-- [The Google Fonts Developer API.](https://developers.google.com/fonts/?hl=en) - The Google Fonts API helps you add fonts to any web page. _v1_
-- [Google Genomics API](https://cloud.google.com/genomics/reference/rest/) - Provides access to Genomics data. _v1beta2_
-- [Google Identity Toolkit API.](https://developers.google.com/identity/) - Helps third party sites implement federated login. _v1_
-- [Google Monitoring API](https://cloud.google.com/monitoring/api/v3/) - API for accessing Google Cloud and API monitoring data. _v2beta2_
+- [Gmail API](https://developers.google.com/gmail/api/?hl=en) - The Gmail REST API. *v1*
+- [Google BigQuery API](https://cloud.google.com/bigquery/docs/reference/rest/v2/) - A data platform for customers to create, manage, share and query data. *v2*
+- [Google Books API](https://developers.google.com/books/) - Lets you search for books and manage your Google Books library. *v1*
+- [Google Calendar API](https://developers.google.com/google-apps/calendar/?hl=en) - Lets you manipulate events and other calendar data. *v3*
+- [Google Classroom API](https://developers.google.com/classroom/?hl=en) - The Google Classroom API. *v1*
+- [Google CustomSearch API](https://developers.google.com/custom-search/json-api/v1/overview) - Lets you search over a website or collection of websites. *v1*
+- [Google Drive API](https://developers.google.com/drive/v2/reference/) - The API to interact with Google Drive. *v3*
+- [Google Fitness API](https://developers.google.com/fit/?hl=en) - The Fit API. *v1*
+- [The Google Fonts Developer API.](https://developers.google.com/fonts/?hl=en) - The Google Fonts API helps you add fonts to any web page. *v1*
+- [Google Genomics API](https://cloud.google.com/genomics/reference/rest/) - Provides access to Genomics data. *v1beta2*
+- [Google Identity Toolkit API.](https://developers.google.com/identity/) - Helps third party sites implement federated login. *v1*
+- [Google Monitoring API](https://cloud.google.com/monitoring/api/v3/) - API for accessing Google Cloud and API monitoring data. *v2beta2*
 
 ### Identity Verification
 
@@ -297,7 +301,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 - [Lelylan](http://dev.lelylan.com/api) - Open Source Internet of Things Cloud Platform. Microservices Architecture. For Developers. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
 - [Particle](https://docs.particle.io/reference/api/) - API to manage Particle devices (including their own Arduino-compatible ones and the Raspberry Pi) and control them. Free for up to 25 devices and 250k events/month.
 - [PubNub](https://www.pubnub.com/docs) - API to make realtime applications with variety of hardware devices including Arduino, RPi, Kinoma, Atmel, Samsung Smart TV WebOS, and more. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
-- [Philips Hue](https://developers.meethue.com/documentation/getting-started) - Registration (free) and local Hue Bridge (not free) required - Control Hue brand lights made by Philips. API calls are made to the Hue Bridge residing on local network. Includes a web based UI.
+- [Philips Hue](https://developers.meethue.com/documentation/getting-started) - Registration (free) and local Hue Bridge (not free) required - Control Hue brand lights made by Philips.  API calls are made to the Hue Bridge residing on local network.  Includes a web based UI.
 - [SmartThings](http://developer.smartthings.com/) - API for Samsung SmartThings Smart Home Hub products (ZigBee, Z-Wave, IP).
 - [Temboo SDK](https://temboo.com/download) - This platform acts as a layer on top of third-party APIs, using code snippets to trigger complex processes that run through their cloud platform.
 - [ThingSpeak](https://github.com/iobridge/ThingSpeak) - “Internet of Things” application and API to store and retrieve data from things using HTTP over the Internet or via a Local Area Network.
@@ -305,7 +309,6 @@ This is an attempt to categorise different APIs scoured from the web which make 
 - [Zetta](https://github.com/zettajs/zetta/wiki) - An open source platform built on Node.js for creating IoT servers that run across geo-distributed computers and the cloud. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
 
 ### Legal
-
 #### Open Licenses
 
 - [GitHub Licenses API](https://developer.github.com/v3/licenses/)
@@ -356,13 +359,13 @@ This is an attempt to categorise different APIs scoured from the web which make 
 - [Matlab](https://www.programmableweb.com/api/matlab) - The MATLAB RESTful API enables you to evaluate MATLAB functions on remote servers using JSON representation of MATLAB data types.
 - [Newton](https://newton.now.sh/) - An API for Arithmetic and Symbolic Math. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
 
+
 ### Medical
 
-- [Infermedica](https://developer.infermedica.com/docs/introduction) - AI-based engine for patient triage and preliminary medical diagnosis. _v2_
-- [Lexigram](https://docs.lexigram.io/v1/welcome) - NLP that extracts mentions of clinical concepts from text, gives access to clinical ontology. _v1_
+- [Infermedica](https://developer.infermedica.com/docs/introduction) - AI-based engine for patient triage and preliminary medical diagnosis. *v2*
+- [Lexigram](https://docs.lexigram.io/v1/welcome) - NLP that extracts mentions of clinical concepts from text, gives access to clinical ontology. *v1*
 
 ### Miscellaneous
-
 - [Aadhaar Bridge](https://www.aadhaarbridge.com/) - Aadhaar is a 12-digit unique identification number issued by the Indian government to every individual resident of India. API allows you to authenticate and perform ekYC and eSign using Aadhar. 💸
 - [Mozilla Addons](https://addons-server.readthedocs.io/en/latest/topics/api/index.html) - Mozilla's catalogue of addons for Firefox-compatible web browsers. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
 - [ApiFlash](https://apiflash.com/) - Chrome based screenshot API to convert URLs to images.
@@ -417,7 +420,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 - [AI Mastering](https://aimastering.com/api_docs/) - AI Mastering API provides automated audio mastering service. You can upload your audio, master it, and download the mastered audio.
 - [Deezer](http://developers.deezer.com/api) - Deezer API provides a nice set of services to build up web applications allowing the discovery of Deezer's music catalogue.
 - [Discogs](https://www.discogs.com/developers/) - Access database of artists, labels, releases, marketplace and more.
-- [Last.fm](http://www.last.fm/api) - The Last.fm API allows anyone to build their own programs using Last.fm data, whether they're on the web, the desktop or mobile devices.
+- [Last.fm](http://www.last.fm/api) -  The Last.fm API allows anyone to build their own programs using Last.fm data, whether they're on the web, the desktop or mobile devices.
 - [MuseScore](http://developers.musescore.com/) - REST based API which provides music metadata.
 - [musicApi](https://github.com/LIU9293/musicAPI) - Centralized Node.JS API SDK for Xiami, Netease, and QQ music - The Top 3 music providers in China.
 - [NPR API](http://www.npr.org/api/index) - NPR's API is a content API, which essentially provides a structured way for other computer applications to get NPR stories in a predictable, flexible and powerful way.
@@ -486,7 +489,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 - [Placehold](https://placehold.it/) - A quick and simple image placeholder service.
 - [PlaceKitten](https://placekitten.com/) - A quick and simple service for getting pictures of kittens for use as placeholders in your designs or code.
 - [Satyr](http://satyr.io/) - Free powerful API for generating dummy images with unique features like delay, aspect ratio, variable resolution, themes, flags and offline mode.
-- [Unsplash](https://unsplash.com/) - Beautiful placeholders using images from the popular [Unsplash](https://unsplash.com/)
+- [Unsplash](https://unsplash.it/) - Beautiful placeholders using images from the popular [Unsplash](https://unsplash.com/)
 
 ### Places
 
