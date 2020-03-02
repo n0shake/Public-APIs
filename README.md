@@ -575,6 +575,7 @@ APIs
 - [Ergast Formula 1](http://ergast.com/mrd/) - Provides access to current and historical Formula 1 race data from 1950 to today.
 - [Football Prediction](https://boggio-analytics.com/fp-api/) - Predictions for upcoming football matches, odds, results and stats. 💸
 - [TheSportsDB](http://www.thesportsdb.com/) - Various sports events, results, players, teams and high quality artwork.
+- [FIFA women's world cup 2019](https://worldcup.sfg.io/) - FIFA women's world cup 2019 matches and group stage results.
 
 ### Transportation
 
