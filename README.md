@@ -172,6 +172,7 @@ APIs
 
 - [Jokes](https://jokes.one/api/joke/) - Full featured Jokes API 💸
 - [Perfect Tense API](https://www.perfecttense.com/developers) - The Perfect Tense API is the only spelling and grammar checking API that uses artificial intelligence to automatically correct all of your text in one call.💸
+- [PIPL API](https://pipl.ir) - Free and public API that generates random and fake people's data in JSON
 - [qKast Channel Content](https://github.com/egfx/qKast) - Access live content collections sourced from any page around the web.
 - [Random Data Generator](https://randommer.io/randommer-api) - API Generator for telephones, text, numbers, passwords, names, social security numbers, and cards.💸
 - [Random Facts](https://fungenerators.com/api/facts/) - Random Facts API 💸
