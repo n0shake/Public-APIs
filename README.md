@@ -377,6 +377,7 @@ APIs
 - [Domainsdb.info](https://domainsdb.info) - Registered domain names search checks the lists of registered domains for names containing particular words/phrases/numbers or symbols.
 - [Evil Insult Generator](https://evilinsult.com/api/) - Offers the most evil insults. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
 - [FreeDB](http://www.freedb.org/) - Look up CD information using the freed database. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
+- [Game of Thrones Quotes](https://gameofthronesquotes.xyz) - A free API to retrieve some quotes of Game of Thrones! ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
 - [Giphy](https://developers.giphy.com/docs/) - Worlds largest library of GIFs.
 - [Image-Charts](https://www.image-charts.com) - 1 URL = 1 Chart: Get a chart image in response to a URL GET or POST request. A drop-in-replacement for the deprecated Google Image Charts.
 - [IP Sidekick](https://ipsidekick.com) - IP Sidekick is an API that returns information about an IP address. You can use it to customize your content based on the visitor's location or display their country.
