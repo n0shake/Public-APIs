@@ -30,6 +30,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 - [File Storage and Manipulation](#file-storage-and-manipulation)
 - [Finance](#finance)
 - [Fitness](#fitness)
+- [Geocoding](#geocoding)
 - [Google](#google)
 - [Identity Verification](#identity-verification)
 - [Image Moderation](#image-moderation)
@@ -269,6 +270,10 @@ APIs
 - [Strava](https://strava.github.io/api/) - API for accessing and managing data about athletes, activities and segments.
 - [Withings](http://oauth.withings.com/api) - Access to data from Withings activity trackers and body measures.
 - [USDA API](https://ndb.nal.usda.gov/ndb/doc/index) - United States Department of Agriculture Open Source API for gathering nutritional data, and food reports.
+
+### Geocoding
+
+- [Geocodify](https://geocodify.com) - Worldwide geocoding, geoparsing and autocomplete for addresses.
 
 ### Google
 
