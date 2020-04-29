@@ -137,6 +137,7 @@ APIs
 
 - [CalendarIndex](https://www.calendarindex.com) - Worldwide Holidays and Working Days API.
 - [Holiday API](https://holidayapi.pl/) - Public holiday API service for several supported countries.
+- [Holiday Oracle](https://holidayoracle.io/) - Holiday and business day data API for app and blockchain developers. 💸
 
 ### Captcha
 
