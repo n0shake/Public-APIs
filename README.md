@@ -57,6 +57,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 - [Social Media](#social-media)
 - [Source Control](#source-control)
 - [Sport](#sport)
+- [Test Data](#test-data)
 - [Transportation](#transportation)
 - [URL Shorteners](#url-shorteners)
 - [Videogames](#videogames)
@@ -137,6 +138,7 @@ APIs
 
 - [CalendarIndex](https://www.calendarindex.com) - Worldwide Holidays and Working Days API.
 - [Holiday API](https://holidayapi.pl/) - Public holiday API service for several supported countries.
+- [Holiday Oracle](https://holidayoracle.io/) - Holiday and business day data API for app and blockchain developers. 💸
 
 ### Captcha
 
@@ -217,13 +219,11 @@ APIs
 - [Comic Vine](http://comicvine.gamespot.com/api/) - An extremely mature, well organized and continuely updated resource of comic information.
 - [Comichron Data](https://github.com/comichron-data/api) - API for comic sales data from comichron.com. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
 - [Danbooru](https://danbooru.donmai.us/posts?tags=help%3Aapi) - Get images cartegorized by tags.
-- [DwCheckApi](https://dwcheckapi.azurewebsites.net/swagger/) - A Discworld API featuring data on Books, Characters, and each Series. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
 - [Lord of the Rings API](https://the-one-api.herokuapp.com/) - Get data about the books, the movie trilogy, many characters and quotes.
 - [Marvel](https://developer.marvel.com/) - Access over 70 years of comic data with Marvel's official developer API.
 - [Pokéapi](https://pokeapi.co/) - All the Pokémon data you'll ever need, in one place. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
 - [Rick and Morty](https://rickandmortyapi.com/) - All the Rick and Morty information, including images. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
 - [Studio Ghibli](https://ghibliapi.herokuapp.com/) - Resources from Studio Ghibli films. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
-- [Swapi](https://swapi.co/documentation) - Star Wars API with data you didn't even know existed, or that you needed to know.
 
 ### Events
 
@@ -245,6 +245,7 @@ APIs
 - [Verizon Cloud](http://www.verizon.com/cloudstorageapi) - API for accessing stored pictures and other files stored by users of Verizon Cloud app.
 
 ### Finance
+- [Alpha Vantage](https://www.alphavantage.co/) - Y Combinator backed API provider for stock, ETF, mutual fund, forex, and crypto data. There is also a 2000+ star [Python wrapper](https://github.com/RomelTorres/alpha_vantage) for it on GitHub. 
 - [IEX](https://iextrading.com/developer/) - Free Stocks and Market Data
 - Central Banks
  - [Australia](https://www.rba.gov.au/statistics/tables/) - plenty of kinds of data in CSV format.
@@ -322,7 +323,6 @@ APIs
 - [Firebase](https://firebase.google.com/docs/reference/) - Authentication, analytics, cloud messaging, crash reporting, ads and more.
 - [GitHub Authentication](https://developer.github.com/guides/basics-of-authentication/) - Access to GitHub’s Authentication API.
 - [Instagram](https://www.instagram.com/developer/authentication/) - Access to Instagram’s OAuth API.
-- [Kakao Login for Apps](https://developers.kakao.com/features/platform) - Access to Kakao’s Authentication API.
 - [LinkedIn](https://developer.linkedin.com/docs/signin-with-linkedin) - Make it convenient for your users to sign in with their professional identity.
 - [Naver Login for Apps](https://developers.naver.com/products/login/api) - Access to Naver’s Authentication API.
 - [PayPal](https://developer.paypal.com/docs/integration/direct/identity/log-in-with-paypal/) - Enables your customers to sign in to your web site quickly and securely using their PayPal login credentials.
@@ -371,6 +371,7 @@ APIs
 - [ApiFlash](https://apiflash.com/) - Chrome based screenshot API to convert URLs to images.
 - [Apility.io](https://apility.io/apidocs/) - IP addresses, Domains and Emails anti-abuse API blocklist and Geo IP location. 💸
 - [Bhagavad Gita](https://bhagavadgita.io/) - Bhagavad Gita in various languages. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
+- [Breaking Bad Quotes](https://breakingbadquotes.xyz/) - A simple API to retrieve some quotes of Breaking Bad, bitch! ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
 - [Callook.info](https://callook.info) - Look up information about United States ham radio callsigns.
 - [ChuckNorris.io](https://api.chucknorris.io) - A free JSON API for hand curated Chuck Norris facts. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
 - [Don't Kill My App](https://github.com/urbandroid-team/dont-kill-my-app) - Database of ways mobile vendors inhibit background activity of apps. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
@@ -378,6 +379,7 @@ APIs
 - [Evil Insult Generator](https://evilinsult.com/api/) - Offers the most evil insults. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
 - [FreeDB](http://www.freedb.org/) - Look up CD information using the freed database. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
 - [Geocodify](https://geocodify.com) - Worldwide geocoding, geoparsing and autocomplete for addresses. 💸
+- [Game of Thrones Quotes](https://gameofthronesquotes.xyz) - A free API to retrieve some quotes of Game of Thrones! ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
 - [Giphy](https://developers.giphy.com/docs/) - Worlds largest library of GIFs.
 - [Image-Charts](https://www.image-charts.com) - 1 URL = 1 Chart: Get a chart image in response to a URL GET or POST request. A drop-in-replacement for the deprecated Google Image Charts.
 - [IP Sidekick](https://ipsidekick.com) - IP Sidekick is an API that returns information about an IP address. You can use it to customize your content based on the visitor's location or display their country.
@@ -422,7 +424,6 @@ APIs
 - [Deezer](http://developers.deezer.com/api) - Deezer API provides a nice set of services to build up web applications allowing the discovery of Deezer's music catalogue.
 - [Discogs](https://www.discogs.com/developers/) - Access database of artists, labels, releases, marketplace and more.
 - [Last.fm](http://www.last.fm/api) -  The Last.fm API allows anyone to build their own programs using Last.fm data, whether they're on the web, the desktop or mobile devices.
-- [MuseScore](http://developers.musescore.com/) - REST based API which provides music metadata.
 - [musicApi](https://github.com/LIU9293/musicAPI) - Centralized Node.JS API SDK for Xiami, Netease, and QQ music - The Top 3 music providers in China.
 - [NPR API](http://www.npr.org/api/index) - NPR's API is a content API, which essentially provides a structured way for other computer applications to get NPR stories in a predictable, flexible and powerful way.
 - [QuantOneMusic](http://quantonemusic.com/) - Answers the need for digital music data.
@@ -470,7 +471,6 @@ APIs
 
 - [DialogFlow](https://dialogflow.com/) - Natural Language Interactions for Bots, Applications, Services, and Devices
 - [Datum Box](http://www.datumbox.com/machine-learning-api/) - Datumbox offers a powerful open-source Machine Learning Framework written in Java. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
-- [Detect Language](https://rapidapi.com/BigLobster/api/language-identification-prediction) - Automatic detection of the language in which the input text is written. 💸
 - [LUIS AI](https://www.luis.ai/) - Language Understanding Intelligent Service offers a fast and effective way of adding language understanding to applications.
 - [MeaningCloud](https://www.meaningcloud.com) - Text analysis APIs for topic extraction, sentiment analysis, automatic classification, morphosyntactic analysis, language detection and more. Several languages are supported.
 - [Open Calais](http://www.opencalais.com/opencalais-api/) - Good entity extraction, no sentiment analysis.
@@ -538,7 +538,6 @@ APIs
 - [Hacker News](https://github.com/HackerNews/API) - Anything that good hackers would find interesting.
 - [Imgur](https://api.imgur.com/) - Imgur's API exposes the entire Imgur infrastructure via a standardized programmatic interface.
 - [Instagram](https://www.instagram.com/developer/) - Search photos by location, user, tags, view trending photos, and make custom items.
-- [Kakao](https://developers.kakao.com/features/kakao) - Access to Kakao’s APIs.
 - [LinkedIn](https://developer.linkedin.com/) - Enables apps to connect to user accounts, data, connections,groups, communications, and social streams.
 - [Mastodon](https://docs.joinmastodon.org/) - Access to [Mastodon](https://github.com/tootsuite/mastodon)’s APIs, the Open-source twitter competitor. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
 - [Microlink](https://microlink.io) - Turns any link into information. Take screenshots, extract predominant palette colors.
@@ -578,6 +577,10 @@ APIs
 - [Football Prediction](https://boggio-analytics.com/fp-api/) - Predictions for upcoming football matches, odds, results and stats. 💸
 - [TheSportsDB](http://www.thesportsdb.com/) - Various sports events, results, players, teams and high quality artwork.
 
+### Test Data
+
+- [PIPL API](https://pipl.ir) - Free and public API that generates random and fake people's data in JSON
+
 ### Transportation
 
 - [ADS-B Exchange](https://www.adsbexchange.com/data/) - Access real-time and historical data of any and all airborne aircraft.
@@ -586,7 +589,6 @@ APIs
 - [Edmunds](http://developer.edmunds.com/) - A dataset containing all the car makes.
 - [HyperTrack](https://docs.hypertrack.com) - Build applications that track the movement of your business. 💸
 - [Lyft](https://www.lyft.com/developers) - Get real-time ETAs, availability, price estimates, ride status through the Lyft API.
-- [Moovit](https://www.developers.moovitapp.com/) - Connect users from your app to the Moovit app with a specific action through deeplinks.
 - [Postmen](https://docs.postmen.com/) - Add shipping capability of FedEx, UPS, DHL, USPS and over 40 carriers worldwide.
 - [Postmates](https://postmates.com/developer/docs) - Build on-demand delivery into your app or website.
 - [Ola](https://developers.olacabs.com/) - Help your users find, book and track Ola rides with ease. Ola is India’s most popular cab booking app with availability of rides in more than 100 cities across India.
