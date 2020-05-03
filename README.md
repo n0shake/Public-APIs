@@ -245,6 +245,7 @@ APIs
 - [Verizon Cloud](http://www.verizon.com/cloudstorageapi) - API for accessing stored pictures and other files stored by users of Verizon Cloud app.
 
 ### Finance
+- [Alpha Vantage](https://www.alphavantage.co/) - Y Combinator backed API provider for stock, ETF, mutual fund, forex, and crypto data. There is also a 2000+ star [Python wrapper](https://github.com/RomelTorres/alpha_vantage) for it on GitHub. 
 - [IEX](https://iextrading.com/developer/) - Free Stocks and Market Data
 - Central Banks
  - [Australia](https://www.rba.gov.au/statistics/tables/) - plenty of kinds of data in CSV format.
