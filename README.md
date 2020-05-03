@@ -30,7 +30,6 @@ This is an attempt to categorise different APIs scoured from the web which make 
 - [File Storage and Manipulation](#file-storage-and-manipulation)
 - [Finance](#finance)
 - [Fitness](#fitness)
-- [Geocoding](#geocoding)
 - [Google](#google)
 - [Identity Verification](#identity-verification)
 - [Image Moderation](#image-moderation)
@@ -271,10 +270,6 @@ APIs
 - [Withings](http://oauth.withings.com/api) - Access to data from Withings activity trackers and body measures.
 - [USDA API](https://ndb.nal.usda.gov/ndb/doc/index) - United States Department of Agriculture Open Source API for gathering nutritional data, and food reports.
 
-### Geocoding
-
-- [Geocodify](https://geocodify.com) - Worldwide geocoding, geoparsing and autocomplete for addresses.
-
 ### Google
 
 - [Gmail API](https://developers.google.com/gmail/api/?hl=en) - The Gmail REST API. *v1*
@@ -382,6 +377,7 @@ APIs
 - [Domainsdb.info](https://domainsdb.info) - Registered domain names search checks the lists of registered domains for names containing particular words/phrases/numbers or symbols.
 - [Evil Insult Generator](https://evilinsult.com/api/) - Offers the most evil insults. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
 - [FreeDB](http://www.freedb.org/) - Look up CD information using the freed database. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
+- [Geocodify](https://geocodify.com) - Worldwide geocoding, geoparsing and autocomplete for addresses. 💸
 - [Giphy](https://developers.giphy.com/docs/) - Worlds largest library of GIFs.
 - [Image-Charts](https://www.image-charts.com) - 1 URL = 1 Chart: Get a chart image in response to a URL GET or POST request. A drop-in-replacement for the deprecated Google Image Charts.
 - [IP Sidekick](https://ipsidekick.com) - IP Sidekick is an API that returns information about an IP address. You can use it to customize your content based on the visitor's location or display their country.
