@@ -54,6 +54,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 - [Product](#product)
 - [Quotes](#quotes)
 - [Science](#science)
+- [Screenshots](#screenshots)
 - [Social Media](#social-media)
 - [Source Control](#source-control)
 - [Sport](#sport)
@@ -368,7 +369,6 @@ APIs
 ### Miscellaneous
 - [Aadhaar Bridge](https://www.aadhaarbridge.com/) - Aadhaar is a 12-digit unique identification number issued by the Indian government to every individual resident of India. API allows you to authenticate and perform ekYC and eSign using Aadhar. 💸
 - [Mozilla Addons](https://addons-server.readthedocs.io/en/latest/topics/api/index.html) - Mozilla's catalogue of addons for Firefox-compatible web browsers. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
-- [ApiFlash](https://apiflash.com/) - Chrome based screenshot API to convert URLs to images.
 - [Apility.io](https://apility.io/apidocs/) - IP addresses, Domains and Emails anti-abuse API blocklist and Geo IP location. 💸
 - [Bhagavad Gita](https://bhagavadgita.io/) - Bhagavad Gita in various languages. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
 - [Breaking Bad Quotes](https://breakingbadquotes.xyz/) - A simple API to retrieve some quotes of Breaking Bad, bitch! ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
@@ -522,6 +522,11 @@ APIs
 - [NASA](https://api.nasa.gov/index.html) - Get NASA data, including imagery, list of asteroids based on their closest approach date to Earth and much more.
 - [Open Science Framework](https://osf.io/y9jdt/wiki/home/) - A free, open source workflow/project management system for storing, collaborating on, and sharing research across the scholarly life cycle. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
 - [SHARE](http://share-research.readthedocs.io/en/latest/) - A free, open dataset of scholarly research activity across the scholarly lifecycle. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
+
+### Screenshots
+
+- [ApiFlash](https://apiflash.com/) - Chrome based screenshot API to convert URLs to images.
+- [ScreenshotAPI.net](https://screenshotapi.net) - Use one simple API call to generate screenshots of any website.
 
 ### Social Media
 
