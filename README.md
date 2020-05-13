@@ -542,7 +542,7 @@ APIs
 - [GoodReads](https://www.goodreads.com/api) - Allows developers access to Goodreads data in order to help websites or applications that deal with books.
 - [Gravatar](https://en.gravatar.com/site/implement/) - Create profiles and avatars using this web service.
 - [Hacker News](https://github.com/HackerNews/API) - Anything that good hackers would find interesting.
-- [Hacker News grapqhl](https://metamate.io/blog/most-advanced-hackernews-api/) - Convenient HackerNews graphql API
+- [Hacker News GraphQL](https://metamate.io/blog/most-advanced-hackernews-api/) - Convenient HackerNews GraphQL wrapper API.
 - [Imgur](https://api.imgur.com/) - Imgur's API exposes the entire Imgur infrastructure via a standardized programmatic interface.
 - [Instagram](https://www.instagram.com/developer/) - Search photos by location, user, tags, view trending photos, and make custom items.
 - [LinkedIn](https://developer.linkedin.com/) - Enables apps to connect to user accounts, data, connections,groups, communications, and social streams.
