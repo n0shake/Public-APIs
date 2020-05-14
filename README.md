@@ -586,6 +586,7 @@ APIs
 
 ### Test Data
 
+- [Faker API](https://fakerapi.it) - Faker API it's a collection of completely free APIs that helps web developers and web designers generate fake data.
 - [PIPL API](https://pipl.ir) - Free and public API that generates random and fake people's data in JSON
 
 ### Transportation
