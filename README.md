@@ -258,14 +258,14 @@ APIs
  - [Moldova](https://bnm.md/en/content/official-exchange-rates) - currency exchange rates in XML, JSON and XLS formats.
  - [New Zealand](https://www.rbnz.govt.nz/statistics) - variety of data in XLS format.
  - [Nigeria](https://www.cbn.gov.ng/rates/) - not only exchange rates, but also other info in CSV format.
- - [Peru](http://www.bcrp.gob.pe/statistics.html) - variety of data in [XLSX](https://en.wikipedia.org/wiki/Microsoft_Excel#File_formats) format.
+ - [Peru](https://estadisticas.bcrp.gob.pe/estadisticas/series/ayuda/api) - variety of data in [XLSX](https://en.wikipedia.org/wiki/Microsoft_Excel#File_formats) format.
  - [Poland](https://api.nbp.pl) - Currency exchange rates and gold prices in the XML and JSON formats.
  - [Switzerland](https://data.snb.ch/en) - rich variety of datan in XLS and CSV formats.
  - [Ukraine](https://bank.gov.ua/control/en/publish/article?art_id=25365630) - exchange rates and bond placements in JSON and XML formats.
 
 ### Fitness
 
-- [FitBit](https://dev.fitbit.com/docs/) - Web API for accessing data from Fitbit activity trackers, Aria scale, and manually entered logs.
+- [FitBit](https://dev.fitbit.com/build/reference/) - Web API for accessing data from Fitbit activity trackers, Aria scale, and manually entered logs.
 - [HealthGraph](https://runkeeper.com/developer/healthgraph/registration-authorization) - RunKeeper's web-based HealthGraph API presents Health Graph data, and provides information about a user and friends.
 - [Open Food Facts](https://en.wiki.openfoodfacts.org/API): Open Food Facts is a database of food products with ingredients, allergens, nutrition facts and all the tidbits of information we can find on product labels.
 - [Strava](https://strava.github.io/api/) - API for accessing and managing data about athletes, activities and segments.
@@ -508,7 +508,7 @@ APIs
 
 ### Product
 
-- [Product Hunt](https://api.producthunt.com/v1/docs) - The best new products, every day.
+- [Product Hunt](https://api.producthunt.com/v2/docs) - The best new products, every day.
 
 ### Quotes
 
@@ -524,6 +524,7 @@ APIs
 
 - [NASA](https://api.nasa.gov/index.html) - Get NASA data, including imagery, list of asteroids based on their closest approach date to Earth and much more.
 - [Open Science Framework](https://osf.io/y9jdt/wiki/home/) - A free, open source workflow/project management system for storing, collaborating on, and sharing research across the scholarly life cycle. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
+- [Open Access Button](https://openaccessbutton.org/api) - Free, legal research articles delivered instantly or automatically requested from authors
 - [SHARE](http://share-research.readthedocs.io/en/latest/) - A free, open dataset of scholarly research activity across the scholarly lifecycle. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
 
 ### Screenshots
