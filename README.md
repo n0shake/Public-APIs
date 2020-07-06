@@ -535,6 +535,7 @@ APIs
 
 ### Social Media
 
+- [Carro Score](https://docs.score.getcarro.com/) - Social Media Influence Rating, Sort customers by their social media influence power.
 - [Daily Motion](https://developer.dailymotion.com/) - Build applications centered around DailyMotion.
 - [Delicious](https://github.com/domainersuitedev/delicious-api) - Access to Delicious’s API.
 - [DeviantArt](https://www.deviantart.com/developers/) - The largest social networking website for artists and art enthusiasts.
