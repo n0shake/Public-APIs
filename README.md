@@ -412,6 +412,7 @@ APIs
 - [Vedic Society API](https://aninditabasu.github.io/indica/html/vs.html) - A description of all of the nouns in vedic literature, including the flora, fauna, geography, food, relationships, and objects (personal nouns not included, though).
 - [Wallhaven](https://wallhaven.cc/help/api) - A huge wallpaper library.
 - [Who Hosts This](https://www.who-hosts-this.com/API) - Detect the hosting provider powering any web site
+- [Website Text Extraction](https://websitetextextraction.apifex.com/) - Scrape websites and get their content as plaintext.
 - [WolframAlpha](http://products.wolframalpha.com/api/) - Integrate top of the line computational knowledge into your applications through the WolframAlpha API. 💸
 - [WorldTimeAPI](http://worldtimeapi.org) - A JSON/plain-text which returns the (approx) current time for a provided timezone or IP. Targetted at limited-compute IoT devices.
 - [Wunderlist](https://developer.wunderlist.com/) - The Wunderlist API provides REST-based storage and synchronization of a user’s lists across multiple platforms and devices.
