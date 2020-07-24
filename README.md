@@ -527,6 +527,7 @@ APIs
 
 ### Science
 
+- [MPDS](https://mpds.io) - Provides experimental materials science data excerpted from the peer-reviewed publications. 💸
 - [NASA](https://api.nasa.gov/index.html) - Get NASA data, including imagery, list of asteroids based on their closest approach date to Earth and much more.
 - [Open Science Framework](https://osf.io/y9jdt/wiki/home/) - A free, open source workflow/project management system for storing, collaborating on, and sharing research across the scholarly life cycle. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
 - [Open Access Button](https://openaccessbutton.org/api) - Free, legal research articles delivered instantly or automatically requested from authors
