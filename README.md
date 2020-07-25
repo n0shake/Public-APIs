@@ -629,6 +629,7 @@ APIs
 - [Clash Royale](https://github.com/martincarrera/clash-royale-api) - API that provides informations about Clash Royale game.
 - [GiantBomb](http://www.giantbomb.com/api/) - API to query the GiantBomb database for videogames, characters, companies, genres and many more.
 - [IGDB](https://www.igdb.com/api) - Access the International Games Database and get information about videogames, characters, companies, genres and many more. Commercial usage is allowed.
+- [RAWG](https://rawg.io/apidocs) - Open video game database. Find games by platform, genre, company or find game developers, stores, publishers and many more. 
 
 ### Weather
 
