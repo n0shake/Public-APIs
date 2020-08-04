@@ -496,6 +496,7 @@ APIs
 
 - [DummyImage](https://dummyimage.com/) - Particularly nice, when compared to some of its competitors, in that it offers a great deal of flexibility.
 - [Pixabay](https://pixabay.com/api/docs/) - Restful API for searching and retrieving free images and videos.
+- [PlaceGoat](https://placegoat.com/) - Placeholder service for goats. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
 - [Placehold](https://placehold.it/) - A quick and simple image placeholder service.
 - [PlaceKitten](https://placekitten.com/) - A quick and simple service for getting pictures of kittens for use as placeholders in your designs or code.
 - [Satyr](http://satyr.io/) - Free powerful API for generating dummy images with unique features like delay, aspect ratio, variable resolution, themes, flags and offline mode.
