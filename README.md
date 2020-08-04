@@ -274,7 +274,6 @@ APIs
 - [Open Food Facts](https://en.wiki.openfoodfacts.org/API): Open Food Facts is a database of food products with ingredients, allergens, nutrition facts and all the tidbits of information we can find on product labels.
 - [Strava](https://strava.github.io/api/) - API for accessing and managing data about athletes, activities and segments.
 - [Withings](http://oauth.withings.com/api) - Access to data from Withings activity trackers and body measures.
-- [USDA API](https://ndb.nal.usda.gov/ndb/doc/index) - United States Department of Agriculture Open Source API for gathering nutritional data, and food reports.
 
 ### Google
 
@@ -304,7 +303,6 @@ APIs
 
 ### IoT
 
-- [Lelylan](http://dev.lelylan.com/api) - Open Source Internet of Things Cloud Platform. Microservices Architecture. For Developers. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
 - [Particle](https://docs.particle.io/reference/api/) - API to manage Particle devices (including their own Arduino-compatible ones and the Raspberry Pi) and control them. Free for up to 25 devices and 250k events/month.
 - [PubNub](https://www.pubnub.com/docs) - API to make realtime applications with variety of hardware devices including Arduino, RPi, Kinoma, Atmel, Samsung Smart TV WebOS, and more. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
 - [Philips Hue](https://developers.meethue.com/documentation/getting-started) - Registration (free) and local Hue Bridge (not free) required - Control Hue brand lights made by Philips.  API calls are made to the Hue Bridge residing on local network.  Includes a web based UI.
@@ -327,7 +325,7 @@ APIs
 - [Facebook Login for Apps](https://developers.facebook.com/docs/facebook-login) - Secure, fast, convenient way to login in your app/website.
 - [Firebase](https://firebase.google.com/docs/reference/) - Authentication, analytics, cloud messaging, crash reporting, ads and more.
 - [GitHub Authentication](https://developer.github.com/guides/basics-of-authentication/) - Access to GitHub’s Authentication API.
-- [Instagram](https://www.instagram.com/developer/authentication/) - Access to Instagram’s OAuth API.
+- [Instagram](https://developers.facebook.com/docs/instagram-api/overview) - Access to Instagram’s OAuth API.
 - [LinkedIn](https://developer.linkedin.com/docs/signin-with-linkedin) - Make it convenient for your users to sign in with their professional identity.
 - [Naver Login for Apps](https://developers.naver.com/products/login/api) - Access to Naver’s Authentication API.
 - [PayPal](https://developer.paypal.com/docs/integration/direct/identity/log-in-with-paypal/) - Enables your customers to sign in to your web site quickly and securely using their PayPal login credentials.
@@ -481,7 +479,6 @@ APIs
 - [Language Detection](https://languagedetection.apifex.com/) - Detect language(s) from pieces of text.
 - [LUIS AI](https://www.luis.ai/) - Language Understanding Intelligent Service offers a fast and effective way of adding language understanding to applications.
 - [MeaningCloud](https://www.meaningcloud.com) - Text analysis APIs for topic extraction, sentiment analysis, automatic classification, morphosyntactic analysis, language detection and more. Several languages are supported.
-- [Open Calais](http://www.opencalais.com/opencalais-api/) - Good entity extraction, no sentiment analysis.
 - [ParallelDots](https://www.paralleldots.com/text-analysis-apis) - ParallelDots AI APIs are the most comprehensive set of document classification and NLP APIs for software developers that provide state-of-the-art accuracy on most common NLP use-cases such as sentiment analysis and emotion detection.
 - [Recast.AI](https://recast.ai) - Recast.AI provide an NLP API for text analysis and entity extraction. Recast.AI is the leading platform to build, connect and monitor bots.
 - [Shakespeare Translator API](https://funtranslations.com/api/shakespeare) - Shakespeare English Translation API 💸
@@ -635,7 +632,6 @@ APIs
 ### Weather
 
 - [AerisWeather](https://www.aerisweather.com) - Global weather data and imagery APIs, with a free developer subscription tier, boasting detailed documentation for simple to advanced queries, free SDKs and a Map Builder to get you up and running faster.
-- [Forecast](https://darksky.net/dev/docs) - The same API that powers Forecast.io and Dark Sky for iOS.
 - [Open Weather](http://openweathermap.org/api) - Access current weather data for any location on Earth including over 200,000 cities!
 - [Storm Glass Marine Weather API](https://stormglass.io) - Global marine weather data from multiple sources in one single API!
 - [Weatherbit](https://www.weatherbit.io/api) - Access forecasts, current weather, and historical weather data for any point on the Earth!
