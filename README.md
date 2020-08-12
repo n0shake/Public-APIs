@@ -182,6 +182,7 @@ APIs
 - [Random Facts](https://fungenerators.com/api/facts/) - Random Facts API 💸
 - [SLF](https://github.com/slftool/slftool.github.io/blob/master/API.md) - German city, country, river, database. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
 - [Wikipedia](https://en.wikipedia.org/w/api.php) - Free multilingual Encyclopedia.
+- [QuizzR](https://quizzrapi.herokuapp.com/) - API to generate random Trivia Questions at random or sorted by difficulty. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
 
 ### Currency
 
