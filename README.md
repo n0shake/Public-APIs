@@ -381,7 +381,6 @@ APIs
 - [Don't Kill My App](https://github.com/urbandroid-team/dont-kill-my-app) - Database of ways mobile vendors inhibit background activity of apps. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
 - [Domainsdb.info](https://domainsdb.info) - Registered domain names search checks the lists of registered domains for names containing particular words/phrases/numbers or symbols.
 - [Evil Insult Generator](https://evilinsult.com/api/) - Offers the most evil insults. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
-- [FreeDB](http://www.freedb.org/) - Look up CD information using the freed database. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
 - [Game of Thrones Quotes](https://gameofthronesquotes.xyz) - A free API to retrieve some quotes of Game of Thrones! ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
 - [Geocodify](https://geocodify.com) - Worldwide geocoding, geoparsing and autocomplete for addresses. 💸
 - [Giphy](https://developers.giphy.com/docs/) - Worlds largest library of GIFs.
