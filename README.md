@@ -651,6 +651,7 @@ APIs
 
 ### Resources For Design and Discovery of APIs
 
+- [Abstract](https://www.abstractapi.com) - Suite of utility API's (validate emails, create user avatars, calculate VAT, and more) 💸
 - [Apiary](https://apiary.io/) - Collaborative tool to design APIs. 💸
 - [OpenAPI](https://www.openapis.org) - Standard, language-agnostic interface to REST APIs (based on [Swagger](http://swagger.io/)). ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
 - [Swagger](http://swagger.io/) - Tools for designing, building, and documenting RESTful APIs. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
