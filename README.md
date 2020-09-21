@@ -175,6 +175,7 @@ APIs
 
 ### Content
 
+- [Correctme](http://correctme.app) - Check your writing in English, Spanish, German, French, and more than 15 other languages.
 - [Jokes](https://jokes.one/api/joke/) - Full featured Jokes API 💸
 - [Perfect Tense API](https://www.perfecttense.com/developers) - The Perfect Tense API is the only spelling and grammar checking API that uses artificial intelligence to automatically correct all of your text in one call.💸
 - [qKast Channel Content](https://github.com/egfx/qKast) - Access live content collections sourced from any page around the web.
