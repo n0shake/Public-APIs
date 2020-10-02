@@ -472,6 +472,7 @@ APIs
 - [NewsAPI](https://newsapi.org/) - 70+ news sources and their headlines, one API.
 - [NewsCatcherAPI](https://newscatcherapi.com/news-api) - News API to find news articles by any topic, country, language, website or keyword. 💸
 - [The Guardian](http://open-platform.theguardian.com/) - Access a huge range of content from The Guardian.
+- [Gnews](https://news.google.com/) - This Api Provide ShortHand news and extra endpoints with subscription.
 
 ### Natural Language Processing
 
@@ -592,6 +593,7 @@ APIs
 - [FIFA women's world cup 2019](https://worldcup.sfg.io/) - FIFA women's world cup 2019 matches and group stage results.
 - [Football Prediction](https://boggio-analytics.com/fp-api/) - Predictions for upcoming football matches, odds, results and stats. 💸
 - [TheSportsDB](http://www.thesportsdb.com/) - Various sports events, results, players, teams and high quality artwork.
+- [Football-Data](https://www.football-data.org/) - Provides football data and statistics like live scores, fixtures, tables, squads, lineups/subs, etc.
 
 ### Test Data
 
@@ -624,6 +626,7 @@ APIs
 - [V.gd](https://v.gd/developers.php) - Simple URL shortener. Supports custom short link ending.
 - [Yourls](https://yourls.org/#API) - Generate or get existing short URLs, with sequential or custom keyword.
 - [Zero Width Shortener](https://docs.zws.im) - URL shortener that shortens URLs using spaces that have zero width, making them invisible to humans.
+- [Url Shortner](https://rel.ink/) - Provide Secure and reliable short links.
 
 ### Videogames
 
