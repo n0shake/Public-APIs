@@ -167,12 +167,12 @@ APIs
 
 - [Africa's Talking](https://africastalking.com/) - Access African telco services through a HTTP API.💸
 - [iP1sms](https://www.ip1sms.com/en/developer/) - Send and recieve SMS messages worldwide.💸
-- [Twilio](https://www.twilio.com/solutions) - APIs for SMS, Voice, Video and more.💸
 - [MailGun](https://mailgun.com) - Transactional Email API Service For Developers. Free first 10000 emails per month.💸
 - [Nexmo](https://developer.nexmo.com) - Make and receive phone calls, send and receive SMS worldwide. Libraries in Node, Ruby, Java, PHP, .NET & Python.💸
 - [Phone Number Validation](https://phonenumbervalidation.apifex.com/) - Check phone number validity, location and timezones.
 - [Sakari](https://developer.sakari.io) - Send and Receive SMS to over 200+ countries around the world. Send one or one million messages from a single API call.💸
 - [The SMS Works](https://thesmsworks.co.uk/sms-api) - The SMS Works provides a low-cost, reliable SMS API for developers. Pay only for delivered texts, all failed messages are refunded.💸
+- [Twilio](https://www.twilio.com/solutions) - APIs for SMS, Voice, Video and more.💸
 
 ### Content
 
