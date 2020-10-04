@@ -453,6 +453,7 @@ APIs
 ### Music Identification
 
 - [Acoustid](https://acoustid.org/webservice) - Supports searching through their fingerprint database. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
+- [AudD](https://audd.io/) - Recognize music in microphone recordings, audio files and UGC. 
 - [Gracenote](https://developer.gracenote.com/) - Largest source of music and video metadata on the planet.
 
 ### Music Lyrics
