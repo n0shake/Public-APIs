@@ -188,6 +188,7 @@ APIs
 
 - [1Forge.com](https://1forge.com/) - Real-time forex and crypto quotes via JSON and WebSocket.
 - [Coingecko.com](https://www.coingecko.com/en/api) - Free, comprehensive cryptocurrency API.
+- [CurrencyLayer.com](https://currencylayer.com/) - Exchange rates and currency conversion API.
 - [CurrencyScoop.com](https://currencyscoop.com/) - Real-time and historical currency rates JSON API.
 - [ExchangeRatesAPI.io](https://exchangeratesapi.io/) - Foreign exchange rates API with currency conversion. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
 - [Fixer.io](http://fixer.io/) - JSON API for foreign exchange rates and currency conversion.  End of day data only.
