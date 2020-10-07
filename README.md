@@ -191,7 +191,7 @@ APIs
 - [CurrencyScoop.com](https://currencyscoop.com/) - Real-time and historical currency rates JSON API.
 - [ExchangeRatesAPI.io](https://exchangeratesapi.io/) - Foreign exchange rates API with currency conversion. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
 - [Fixer.io](http://fixer.io/) - JSON API for foreign exchange rates and currency conversion.  End of day data only.
-- [Frankfurter.app](http://frankfurter.app/) - Exchange rates and currency data API. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
+- [Frankfurter.app](https://www.frankfurter.app/docs/) - Exchange rates and currency data API. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
 - [OpenRates.io](http://www.openrates.io/) - Live exchange rates and currency conversion API.
 - [ratesapi.io](https://ratesapi.io/) - Free foreign currency exchange rates and currency conversion.
 
