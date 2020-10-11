@@ -225,7 +225,7 @@ APIs
 - [Comic Vine](http://comicvine.gamespot.com/api/) - An extremely mature, well organized and continuely updated resource of comic information.
 - [Comichron Data](https://github.com/comichron-data/api) - API for comic sales data from comichron.com. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
 - [Danbooru](https://danbooru.donmai.us/posts?tags=help%3Aapi) - Get images cartegorized by tags.
-- [Final Space](https://finalspaceapi.com/docs/) - All Final Space information, including images. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
+- [Final Space API](https://finalspaceapi.com/docs/) - A RESTful API that provides information and images about Final Space show. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
 - [Fun Translations API](https://funtranslations.com/api/) - Translate to over 50+ languages from various TV Series and Movies.
 - [Lord of the Rings API](https://the-one-api.herokuapp.com/) - Get data about the books, the movie trilogy, many characters and quotes.
 - [Marvel](https://developer.marvel.com/) - Access over 70 years of comic data with Marvel's official developer API.
