@@ -274,6 +274,7 @@ APIs
  - [Poland](https://api.nbp.pl) - Currency exchange rates and gold prices in the XML and JSON formats.
  - [Switzerland](https://data.snb.ch/en) - rich variety of data in XLS and CSV formats.
  - [Ukraine](https://bank.gov.ua/control/en/publish/article?art_id=25365630) - exchange rates and bond placements in JSON and XML formats.
+- [Portfolio Optimizer](https://portfoliooptimizer.io/) - API for investment portfolio optimization.
 
 ### Fitness
 
