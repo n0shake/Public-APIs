@@ -491,6 +491,7 @@ APIs
 - [ParallelDots](https://www.paralleldots.com/text-analysis-apis) - ParallelDots AI APIs are the most comprehensive set of document classification and NLP APIs for software developers that provide state-of-the-art accuracy on most common NLP use-cases such as sentiment analysis and emotion detection.
 - [Recast.AI](https://recast.ai) - Recast.AI provide an NLP API for text analysis and entity extraction. Recast.AI is the leading platform to build, connect and monitor bots.
 - [Shakespeare Translator API](https://funtranslations.com/api/shakespeare) - Shakespeare English Translation API 💸
+- [SpeechText.AI API](https://speechtext.ai/speech-recognition-api) - Cloud Speech Recognition API. Transform speech to text with high accuracy in multiple languages. Generate summaries with important highlights from audio and video files. 💸
 - [SummarizeBot API](https://www.summarizebot.com/summarization_business.html) - AI web data extraction and analysis. Multilingual summarization, keywords and sentiment analysis, language recognition, article extraction, comments identification, multimedia analysis, image and face recognition solutions. 💸
 - [Semantria](https://www.lexalytics.com/) - SAAS API based on Lexalytics engine. #Paid
 - [TextRazor](https://www.textrazor.com/plans) - Helps you extract and understand the Who, What, Why, and How from your supplied text. #FreeToUse
