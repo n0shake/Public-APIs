@@ -183,6 +183,7 @@ APIs
 - [Random Data Generator](https://randommer.io/randommer-api) - API Generator for telephones, text, numbers, passwords, names, social security numbers, and cards.💸
 - [Random Facts](https://fungenerators.com/api/facts/) - Random Facts API 💸
 - [SLF](https://github.com/slftool/slftool.github.io/blob/master/API.md) - German city, country, river, database. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
+- [Today in History](https://history.muffinlabs.com/) - Daily historical events, births and deaths API. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
 - [Wikipedia](https://en.wikipedia.org/w/api.php) - Free multilingual Encyclopedia.
 
 ### Currency
