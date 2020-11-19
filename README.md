@@ -644,6 +644,7 @@ APIs
 - [GiantBomb](http://www.giantbomb.com/api/) - API to query the GiantBomb database for videogames, characters, companies, genres and many more.
 - [IGDB](https://www.igdb.com/api) - Access the International Games Database and get information about videogames, characters, companies, genres and many more. Commercial usage is allowed.
 - [RAWG](https://rawg.io/apidocs) - Open video game database. Find games by platform, genre, company or find game developers, stores, publishers and many more.
+- [GamerPower](https://www.gamerpower.com/api-read) - Access programmatically the best giveaways in gaming, from free games to beta keys to free in-game loot and more.
 
 ### Weather
 
