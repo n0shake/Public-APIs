@@ -566,7 +566,7 @@ APIs
 - [Hacker News GraphQL](https://metamate.io/blog/most-advanced-hackernews-api/) - Convenient HackerNews GraphQL wrapper API.
 - [Imgur](https://api.imgur.com/) - Imgur's API exposes the entire Imgur infrastructure via a standardized programmatic interface.
 - [Instagram](https://www.instagram.com/developer/) - Search photos by location, user, tags, view trending photos, and make custom items.
-- [LinkedIn](https://developer.linkedin.com/) - Enables apps to connect to user accounts, data, connections,groups, communications, and social streams.
+- [LinkedIn](https://developer.linkedin.com/) - Enables apps to connect to user accounts, data, connections, groups, communications, and social streams.
 - [Mastodon](https://docs.joinmastodon.org/) - Access to [Mastodon](https://github.com/tootsuite/mastodon)’s APIs, the Open-source twitter competitor. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
 - [Microlink](https://microlink.io) - Turns any link into information. Take screenshots, extract predominant palette colors.
 - [MySocialApp](https://mysocialapp.io) - Seamless Social Networking features, API, SDK for any app.
