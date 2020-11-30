@@ -104,6 +104,7 @@ APIs
 
 - [Google Barcode](https://developers.google.com/vision/barcodes-overview?hl=en) - The Barcode API detects barcodes in real-time, on device, in any orientation. It can also detect multiple barcodes at once.
 - [EAN-Search](https://www.ean-search.org/ean-database-api.html) - The EAN-Search API allows you to lookup products by EAN, UPC or GTIN barcode. 💸
+- [Stakdek's QR generator API](https://api.stakdek.de/blog?id=1006) - Returns QR code image. Uses `python qrcode`.
 - [QR Code API](https://fungenerators.com/api/qrcode/) - QR Code REST API. Can create QR code images or read existing images and return the contents. 💸
 
 ### Big Data and Analytics
