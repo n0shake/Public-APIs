@@ -379,7 +379,7 @@ APIs
 
 
 ### Medical
-
+- [COVID-19 Data](https://github.com/M-Media-Group/Covid-19-API) - Get live and historical data regarding Coronavirus cases per country. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
 - [Infermedica](https://developer.infermedica.com/docs/introduction) - AI-based engine for patient triage and preliminary medical diagnosis. *v2*
 - [Lexigram](https://docs.lexigram.io/v1/welcome) - NLP that extracts mentions of clinical concepts from text, gives access to clinical ontology. *v1*
 
