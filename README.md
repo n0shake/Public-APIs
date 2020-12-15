@@ -361,6 +361,7 @@ APIs
 
 - [Amazon Maps API v2](https://developer.amazon.com/maps) - Add interactive 3D maps, graphics, and custom overlays to your Fire Tablet and Fire phone apps.
 - [Bing Maps](https://www.microsoft.com/maps/choose-your-bing-maps-API.aspx) - Bing Maps platform provides multiple API options for your application.
+- [Cartes.io](https://github.com/M-Media-Group/Cartes.io/wiki/API) - Create maps and markers for anything, without authentication. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
 - [CartoDB](https://carto.com/developers/#apis) - Allows you to generate maps based on data hosted in your CartoDB account.
 - [Daum Maps API](http://apis.map.daum.net/) - Daum Maps provide multiple APIs for Korean map.
 - [Google Maps API](https://developers.google.com/maps/?hl=en) - Google Maps APIs are available for Android, iOS, web browsers and through HTTP web services. [Clients can be found here.](https://github.com/googlemaps/)
