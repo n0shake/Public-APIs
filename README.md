@@ -189,6 +189,7 @@ APIs
 
 ### Currency
 
+- [CurrencyFreaks](https://currencyfreaks.com/) — Provides current and historical currency exchange rates. Free DEVELOPER plan available with 1000 requests/month.
 - [1Forge.com](https://1forge.com/) - Real-time forex and crypto quotes via JSON and WebSocket.
 - [Coingecko.com](https://www.coingecko.com/en/api) - Free, comprehensive cryptocurrency API.
 - [CurrencyLayer.com](https://currencylayer.com/documentation) - Exchange rates and currency conversion API.
@@ -400,6 +401,7 @@ APIs
 - [Geocodify](https://geocodify.com) - Worldwide geocoding, geoparsing and autocomplete for addresses. 💸
 - [Giphy](https://developers.giphy.com/docs/) - Worlds largest library of GIFs.
 - [Image-Charts](https://www.image-charts.com) - 1 URL = 1 Chart: Get a chart image in response to a URL GET or POST request. A drop-in-replacement for the deprecated Google Image Charts.
+- [IP Geolocation](https://ipgeolocation.io/) — IP Geolocation API - Forever free plan for developers with 30k requests per month.
 - [IP Sidekick](https://ipsidekick.com) - IP Sidekick is an API that returns information about an IP address. You can use it to customize your content based on the visitor's location or display their country.
 - [JSONbin.io](https://jsonbin.io/api-reference) - Free JSON data storage service, ideal for small scale web apps, website, mobile apps.
 - [Judge0 API](https://api.judge0.com/) - Compile and run source code. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
