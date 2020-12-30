@@ -275,6 +275,7 @@ APIs
  - [Nigeria](https://www.cbn.gov.ng/rates/) - not only exchange rates, but also other info in CSV format.
  - [Peru](https://estadisticas.bcrp.gob.pe/estadisticas/series/ayuda/api) - variety of data in [XLSX](https://en.wikipedia.org/wiki/Microsoft_Excel#File_formats) format.
  - [Poland](https://api.nbp.pl) - Currency exchange rates and gold prices in the XML and JSON formats.
+ - [Russian Federation](https://www.cbr.ru/development/) - history of exchange rates via REST XML and far more macroeconomical info via SOAP.
  - [Switzerland](https://data.snb.ch/en) - rich variety of data in XLS and CSV formats.
  - [Ukraine](https://bank.gov.ua/control/en/publish/article?art_id=25365630) - exchange rates and bond placements in JSON and XML formats.
 - [Portfolio Optimizer](https://portfoliooptimizer.io/) - API for investment portfolio optimization.
