@@ -226,7 +226,7 @@ APIs
 - [Wiktionary API](https://en.wiktionary.org/w/api.php) - Collaborative, free-content multilingual dictionary.
 
 ### Entertainment
-
+- [Breaking Bad & Better Call Saul API](https://breakingbadapi.com/) - Get data about characters, episodes, quotes, and deaths.
 - [Cat as a Service (CATAAS)](https://cataas.com/#/) - Is a REST API to spread peace and love (or not) thanks to cats.
 - [Comic Vine](http://comicvine.gamespot.com/api/) - An extremely mature, well organized and continuely updated resource of comic information.
 - [Comichron Data](https://github.com/comichron-data/api) - API for comic sales data from comichron.com. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
