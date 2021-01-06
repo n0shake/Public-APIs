@@ -560,6 +560,7 @@ APIs
 ### Social Media
 
 - [Daily Motion](https://developer.dailymotion.com/) - Build applications centered around DailyMotion.
+- [Dangerous Discord Database](https://discord.riverside.rocks/docs/index.php) - Access a database of Dangerous Discord Users
 - [Delicious](https://github.com/domainersuitedev/delicious-api) - Access to Delicious’s API.
 - [DeviantArt](https://www.deviantart.com/developers/) - The largest social networking website for artists and art enthusiasts.
 - [EventBrite](https://github.com/eventbrite/eventbrite-sdk-python) - The Eventbrite Python SDK makes it trivial to interact with the Eventbrite API. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
