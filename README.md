@@ -110,7 +110,7 @@ APIs
 ### Big Data and Analytics
 
 - [Google Charts](https://developers.google.com/chart/interactive/docs/) - Free tool with a wide range of capabilities for visualizing data from a website.
-- [Keen IO](https://keen.io/docs/api/) - Keen IO is a powerful, flexible, and scaleable solution that’s literally Big Data, easy-to-implement and at your fingertips.
+- [Keen IO](https://keen.io/docs/api/) - Keen IO is a powerful, flexible, and scalable solution that’s literally Big Data, easy-to-implement and at your fingertips.
 - [Mongo DB](https://github.com/mongodb) - mongoDB is ideal for developers who want precise control over the final results and processes for handling Big Data.
 - [Ryft](http://www.ryft.com/api) - integrate the Ryft ONE’s data analysis capabilities into existing big data environments for faster data analysis and real-time intelligence.
 - [LinkedData.Center](http://linkeddata.center/home/gdaas) - a RDF graph database as a service with W3C SPARQL query and SPARQL update apis. 💸
@@ -167,7 +167,7 @@ APIs
 ### Communication
 
 - [Africa's Talking](https://africastalking.com/) - Access African telco services through a HTTP API.💸
-- [iP1sms](https://www.ip1sms.com/en/developer/) - Send and recieve SMS messages worldwide.💸
+- [iP1sms](https://www.ip1sms.com/en/developer/) - Send and receive SMS messages worldwide.💸
 - [MailGun](https://mailgun.com) - Transactional Email API Service For Developers. Free first 10000 emails per month.💸
 - [Nexmo](https://developer.nexmo.com) - Make and receive phone calls, send and receive SMS worldwide. Libraries in Node, Ruby, Java, PHP, .NET & Python.💸
 - [Phone Number Validation](https://phonenumbervalidation.apifex.com/) - Check phone number validity, location and timezones.
@@ -228,9 +228,9 @@ APIs
 ### Entertainment
 - [Breaking Bad & Better Call Saul API](https://breakingbadapi.com/documentation) - Get data about characters, episodes, quotes, and deaths.
 - [Cat as a Service (CATAAS)](https://cataas.com/#/) - Is a REST API to spread peace and love (or not) thanks to cats.
-- [Comic Vine](http://comicvine.gamespot.com/api/) - An extremely mature, well organized and continuely updated resource of comic information.
+- [Comic Vine](http://comicvine.gamespot.com/api/) - An extremely mature, well organized and continually updated resource of comic information.
 - [Comichron Data](https://github.com/comichron-data/api) - API for comic sales data from comichron.com. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
-- [Danbooru](https://danbooru.donmai.us/posts?tags=help%3Aapi) - Get images cartegorized by tags.
+- [Danbooru](https://danbooru.donmai.us/posts?tags=help%3Aapi) - Get images categorized by tags.
 - [Final Space API](https://finalspaceapi.com/docs/) - A RESTful API that provides information and images about Final Space show. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
 - [Fun Translations API](https://funtranslations.com/api/) - Translate to over 50+ languages from various TV Series and Movies.
 - [Lord of the Rings API](https://the-one-api.herokuapp.com/) - Get data about the books, the movie trilogy, many characters and quotes.
@@ -614,7 +614,7 @@ APIs
 
 ### Test Data
 
-- [Faker API](https://fakerapi.it) - Collection of completely free APIs that helps web developers and web designers wittht generating fake data.
+- [Faker API](https://fakerapi.it) - Collection of completely free APIs that helps web developers and web designers with generating fake data.
 - [PIPL API](https://pipl.ir) - Free and public API that generates random and fake people's data in JSON
 
 ### Transportation
@@ -646,7 +646,7 @@ APIs
 
 ### Videogames
 
-- [Clash Royale](https://github.com/martincarrera/clash-royale-api) - API that provides informations about Clash Royale game.
+- [Clash Royale](https://github.com/martincarrera/clash-royale-api) - API that provides information about Clash Royale game.
 - [FreeToGame](https://www.freetogame.com/api-doc) - Free-to-play games database API.
 - [GamerPower](https://www.gamerpower.com/api-read) - Access programmatically the best giveaways in gaming, from free games to beta keys to free in-game loot and more.
 - [GiantBomb](http://www.giantbomb.com/api/) - API to query the GiantBomb database for videogames, characters, companies, genres and many more.
