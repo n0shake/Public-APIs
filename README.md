@@ -398,6 +398,7 @@ APIs
 - [Don't Kill My App](https://github.com/urbandroid-team/dont-kill-my-app) - Database of ways mobile vendors inhibit background activity of apps. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
 - [Domainsdb.info](https://domainsdb.info) - Registered domain names search checks the lists of registered domains for names containing particular words/phrases/numbers or symbols.
 - [Evil Insult Generator](https://evilinsult.com/api/) - Offers the most evil insults. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
+- [Form2Channel](https://Form2Channel.com/) - Free service to receive html form responses in Google Sheets, Email, Slack, Telegram or Http. No coding necessary.
 - [Game of Thrones Quotes](https://gameofthronesquotes.xyz) - A free API to retrieve some quotes of Game of Thrones! ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
 - [Geocodify](https://geocodify.com) - Worldwide geocoding, geoparsing and autocomplete for addresses. 💸
 - [Giphy](https://developers.giphy.com/docs/) - Worlds largest library of GIFs.
@@ -425,6 +426,7 @@ APIs
 - [RandomUserGenerator](https://randomuser.me/) - An API for generating random user data. Like Lorem Ipsum, but for people. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
 - [RestCountries](https://restcountries.eu) - Get information about countries via a RESTful API.
 - [Typeform](https://developer.typeform.com/) - Typeform's APIs allow you to create and edit Typeform surveys, and retrieve survey responses on demand.
+- [UnixTime](https://unixtime.co.za/) - Free REST API to convert Unixtime to DateTime and vice versa.
 - [Vedic Society API](https://aninditabasu.github.io/indica/html/vs.html) - A description of all of the nouns in vedic literature, including the flora, fauna, geography, food, relationships, and objects (personal nouns not included, though).
 - [Wallhaven](https://wallhaven.cc/help/api) - A huge wallpaper library.
 - [Website Text Extraction](https://websitetextextraction.apifex.com/) - Scrape websites and get their content as plaintext.
