@@ -133,6 +133,7 @@ APIs
 - [Coinigy](https://coinigy.docs.apiary.io) - Interact with Coinigy Accounts and Exchange Accounts Directly
 - [Exchange Rates API](https://blockchain.info/api/exchange_rates_api) - Market Prices and exchanges rates api.
 - [ShapeShift.io](https://shapeshift.io/) - Exchange between cryptocurrencies without an account.  Well documented API for easy use.
+- [Stakdek's BTC API](https://api.stakdek.de/blog?id=1069) - A simple and free Bitcoin Price Index API for EUR, USB and GBP
 - [Technical Analysis](https://technical-analysis-api.com) - Cryptocurrency prices, technical analysis and sentiment detection.
 - [Poloniex](https://poloniex.com/support/api/) - US based digital asset exchange
 
@@ -199,6 +200,7 @@ APIs
 - [Frankfurter.app](https://www.frankfurter.app/docs/) - Exchange rates and currency data API. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
 - [OpenRates.io](http://www.openrates.io/) - Live exchange rates and currency conversion API.
 - [ratesapi.io](https://ratesapi.io/) - Free foreign currency exchange rates and currency conversion.
+- [Stakdek's BTC API](https://api.stakdek.de/blog?id=1069) - A simple and free Bitcoin Price Index API for EUR, USB and GBP
 
 ### Data Science
 
