@@ -414,7 +414,7 @@ APIs
 - [Lottery Number Generation](https://fungenerators.com/api/lottery/) - Generate lottery numbers. Hundereds of lottery games from various countries are supported. 💸
 - [Marijuana Strain API](http://strains.evanbusse.com/) - Documentation on over 2000 Marijuana strains including races, flavors, and effects.
 - [PageCDN](https://pagecdn.com/docs/public-api) - Public CDN API for Open-source JavaScript, CSS and fonts libraries. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
-- [PDFmyURL](https://pdfmyurl.com/html-to-pdf-api) - RESTful API that converts webpages to PDF quickly and even does entire websites to PDF
+- [PDFmyURL](https://pdfmyurl.com/html-to-pdf-api) - RESTful API that converts webpages to PDF quickly and even does entire websites to PDF 💸
 - [PDF from URL](https://api.stakdek.de/blog?id=1070) - API that converts websites from URL to PDF and even does convert HTML Strings to PDF for free
 - [Pastebin](https://pastebin.com/doc_scraping_api) - Quickly share text or code, with support for over 250 languages for syntax highlighting.
 - [PhantAuth](https://www.phantauth.net/) - Random User Generator + OpenID Connect Provider. Like Lorem Ipsum, but for user accounts and authentication. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
