@@ -156,6 +156,7 @@ APIs
 - [Foursquare Check-In](https://developer.foursquare.com/docs/checkins/add) - Allows you to check in to a place.
 
 ### Commerce
+- [Dummy Products](https://dummyproducts-api.herokuapp.com/) - Provides dummy products to aid you in prototyping or developing e-commerce type of websites. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
 - [envoice](https://www.envoice.in) - Invoicing for online businesses. Simplify your invoicing process and get paid online with a debit or credit card via your payment gateway.
 - [koomalooma](http://business.koomalooma.com) - A Loyalty BPaaS (Business Process as a Service) for mobile and web companies. Merchants issue points for actions their customers/users make, for example a purchase or a referral. koomalooma takes care of all the rest, from signing up users, keeping track of points and delivering rewards in over 80 countries.💸
 - [Marketcloud](https://www.marketcloud.it) - eCommerce APIs for developers. It covers inventory and database, carts and checkout, payments, user authentication, and more. You just bring the frontend.
