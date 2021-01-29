@@ -233,7 +233,7 @@ APIs
 - [Danbooru](https://danbooru.donmai.us/posts?tags=help%3Aapi) - Get images categorized by tags.
 - [Final Space API](https://finalspaceapi.com/docs/) - A RESTful API that provides information and images about Final Space show. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
 - [Fun Translations API](https://funtranslations.com/api/) - Translate to over 50+ languages from various TV Series and Movies.
-- [Lord of the Rings API](https://the-one-api.herokuapp.com/) - Get data about the books, the movie trilogy, many characters and quotes.
+- [Lord of the Rings API](https://the-one-api.dev/) - Get data about the books, the movie trilogy, many characters and quotes.
 - [Marvel](https://developer.marvel.com/) - Access over 70 years of comic data with Marvel's official developer API.
 - [My Anime List API](https://jikan.moe/) - Get data about any specific anime or anime genre of your choice. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
 - [Pokéapi](https://pokeapi.co/) - All the Pokémon data you'll ever need, in one place. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
