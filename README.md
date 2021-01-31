@@ -221,7 +221,6 @@ APIs
 - [Lingua Robot API](https://www.linguarobot.io/) - Definition of words, pronunciations, synonyms and antonyms, lemmatization and morpheme segmentation. 💸
 - [Merriam-Webster Dictionary API](http://www.dictionaryapi.com/) - Gives developers access to a big ass resource of dictionary and thesaurus content as well as specialized medical, Spanish, ESL, and student-friendly vocabulary.
 - [Oxford Dictionary API](https://developer.oxforddictionaries.com/) - Access to Oxford Dictionary services with several different subscription options including a free tier. 💸
-- [Pearson Dictionaries API](http://developer.pearson.com/apis/dictionaries) - (*BETA*) Gives access to a very large database of words and phrases with thorough explanations - free usage for up to 4 million calls/month.
 - [Wordnik](http://developer.wordnik.com/docs.html#!/word) - Dictionary functions.
 - [Words API](https://www.wordsapi.com/) - Use it to find definitions for more than 150,000 words.
 - [Wiktionary API](https://en.wiktionary.org/w/api.php) - Collaborative, free-content multilingual dictionary.
@@ -529,7 +528,6 @@ APIs
 - [Foursquare Venue](https://developer.foursquare.com/overview/venues) - Providing a places search that can be searched by  hierarchical list of categories, longitude/latitude etc.
 - [Google Places API](https://developers.google.com/places/documentation/?csw=1) - Providing a places search that can be searched by latitude/longitude, keyword matched against all fields, name of place, type of place restricted by radius.
 - [Nokia](https://developer.here.com/develop/javascript-api) - Providing a JavaScript places search that can be searched by search term, with a detail search for display by JS widget.
-- [Property listings](https://cy30l4lai7.execute-api.eu-west-2.amazonaws.com/api) - Search for properties currently for sale and to rent in the UK.
 - [Yelp](https://www.yelp.com/developers/documentation/v3/) - You can search location using longitude and latitude, neighborhood, address or city and filter listings by “where”, using a list of support categories.
 
 ### Product
@@ -635,7 +633,6 @@ APIs
 
 ### URL Shorteners
 
-- [Anon.click](https://anon.click/api/) - Shorten long URLs and optionally protect them with passwords or captcha. No registration required.
 - [Bitly](http://dev.bitly.com/links.html) - Access to Bitly’s API.
 - [Is.gd](https://is.gd/developers.php) - Simple URL shortener. Supports custom short link ending.
 - [Naver URL Shortener](https://developers.naver.com/products/shortenurl) - Access to Naver’s URL shortening API.
