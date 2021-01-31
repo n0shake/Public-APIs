@@ -650,7 +650,7 @@ APIs
 - [FreeToGame](https://www.freetogame.com/api-doc) - Free-to-play games database API.
 - [GamerPower](https://www.gamerpower.com/api-read) - Access programmatically the best giveaways in gaming, from free games to beta keys to free in-game loot and more.
 - [GiantBomb](http://www.giantbomb.com/api/) - API to query the GiantBomb database for videogames, characters, companies, genres and many more.
-- [Hyrule Compendium](http://www.giantbomb.com/api/) - API serving data on all interactive items in *The Legend of Zelda: Breath of the Wild*. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
+- [Hyrule Compendium](http://github.com/gadhagod/Hyrule-Compendium-API) - API serving data on all interactive items in *The Legend of Zelda: Breath of the Wild*. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
 - [IGDB](https://www.igdb.com/api) - Access the International Games Database and get information about videogames, characters, companies, genres and many more. Commercial usage is allowed.
 - [RAWG](https://rawg.io/apidocs) - Open video game database. Find games by platform, genre, company or find game developers, stores, publishers and many more.
 
