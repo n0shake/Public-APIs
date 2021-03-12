@@ -217,7 +217,6 @@ APIs
 - [Agarathi](https://agarathi.com/api/dictionary) - Tamil language Dictionary API 💸
 - [Cambridge Dictionaries Online](http://dictionary.cambridge.org/license.html) - Access to Cambridge’s custom-developed API. 💸
 - [Datamuse API](https://www.datamuse.com/api/) - Word-finding query engine that finds words that match a given set of constraints and that are likely in a given context. 💸
-- [Glosbe API](https://glosbe.com/a-api) - Dictionary API and Translation Memory API description.
 - [Lingua Robot API](https://www.linguarobot.io/) - Definition of words, pronunciations, synonyms and antonyms, lemmatization and morpheme segmentation. 💸
 - [Merriam-Webster Dictionary API](http://www.dictionaryapi.com/) - Gives developers access to a big ass resource of dictionary and thesaurus content as well as specialized medical, Spanish, ESL, and student-friendly vocabulary.
 - [Oxford Dictionary API](https://developer.oxforddictionaries.com/) - Access to Oxford Dictionary services with several different subscription options including a free tier. 💸
@@ -389,7 +388,6 @@ APIs
 ### Miscellaneous
 - [Aadhaar Bridge](https://www.aadhaarbridge.com/) - Aadhaar is a 12-digit unique identification number issued by the Indian government to every individual resident of India. API allows you to authenticate and perform ekYC and eSign using Aadhar. 💸
 - [Mozilla Addons](https://addons-server.readthedocs.io/en/latest/topics/api/index.html) - Mozilla's catalogue of addons for Firefox-compatible web browsers. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
-- [Apility.io](https://apility.io/apidocs/) - IP addresses, Domains and Emails anti-abuse API blocklist and Geo IP location. 💸
 - [Bhagavad Gita](https://bhagavadgita.io/) - Bhagavad Gita in various languages. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
 - [Breaking Bad Quotes](https://breakingbadquotes.xyz/) - A simple API to retrieve some quotes of Breaking Bad, bitch! ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
 - [Callook.info](https://callook.info) - Look up information about United States ham radio callsigns.
@@ -514,7 +512,6 @@ APIs
 
 - [DummyImage](https://dummyimage.com/) - Particularly nice, when compared to some of its competitors, in that it offers a great deal of flexibility.
 - [Pixabay](https://pixabay.com/api/docs/) - Restful API for searching and retrieving free images and videos.
-- [PlaceGoat](https://placegoat.com/) - Placeholder service for goats. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
 - [Placehold](https://placehold.it/) - A quick and simple image placeholder service.
 - [PlaceKitten](https://placekitten.com/) - A quick and simple service for getting pictures of kittens for use as placeholders in your designs or code.
 - [Satyr](http://satyr.io/) - Free powerful API for generating dummy images with unique features like delay, aspect ratio, variable resolution, themes, flags and offline mode.
@@ -527,7 +524,7 @@ APIs
 - [CountryAPI](https://fabian7593.github.io/CountryAPI/) - Gets all the countries, and obtain the most important information of these.
 - [Factual](https://developer.factual.com/docs/getting-started) - Providing a places search that can be searched by latitude/longitude, and “where” using full text search query string.
 - [Foursquare Venue](https://developer.foursquare.com/overview/venues) - Providing a places search that can be searched by  hierarchical list of categories, longitude/latitude etc.
-- [Google Places API](https://developers.google.com/places/documentation/?csw=1) - Providing a places search that can be searched by latitude/longitude, keyword matched against all fields, name of place, type of place restricted by radius.
+- [Google Places API](https://developers.google.com/maps/documentation/places/web-service/overview) - Providing a places search that can be searched by latitude/longitude, keyword matched against all fields, name of place, type of place restricted by radius.
 - [Nokia](https://developer.here.com/develop/javascript-api) - Providing a JavaScript places search that can be searched by search term, with a detail search for display by JS widget.
 - [Yelp](https://www.yelp.com/developers/documentation/v3/) - You can search location using longitude and latitude, neighborhood, address or city and filter listings by “where”, using a list of support categories.
 
