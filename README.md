@@ -492,6 +492,7 @@ APIs
 
 ### Natural Language Processing
 
+- [Cloudmersive NLP APIs](https://cloudmersive.com/nlp-api) - Wide array of unified NLP APIs including language translation, rephrasing, sentiment analysis, hate speech detection, and more.
 - [DialogFlow](https://dialogflow.com/) - Natural Language Interactions for Bots, Applications, Services, and Devices
 - [Datum Box](http://www.datumbox.com/machine-learning-api/) - Datumbox offers a powerful open-source Machine Learning Framework written in Java. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
 - [Language Detection](https://languagedetection.apifex.com/) - Detect language(s) from pieces of text.
