@@ -537,6 +537,7 @@ APIs
 - [FavQs](https://favqs.com/api) - FavQs allows you to collect, discover, and share your favorite quotes.
 - [Forismatic](http://api.forismatic.com/api/1.0/) - Gives you a random quote per click.
 - [They Said So](http://quotes.rest/qod.json?category=inspire) - Gives you a random quote per day.
+- [Quotable](https://github.com/lukePeavey/quotable) - Fetch quotes based on your query parameters, which includes random quotes by author, ID, tags and more. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
 
 ### Retail
 
