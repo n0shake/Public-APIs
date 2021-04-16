@@ -646,6 +646,7 @@ APIs
 
 ### Videogames
 
+- [Autochess VNG API](https://github.com/didadadida93/autochess-vng-api) - API that provides data about Autochess VNG. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
 - [Clash Royale](https://github.com/martincarrera/clash-royale-api) - API that provides information about Clash Royale game.
 - [FreeToGame](https://www.freetogame.com/api-doc) - Free-to-play games database API.
 - [GamerPower](https://www.gamerpower.com/api-read) - Access programmatically the best giveaways in gaming, from free games to beta keys to free in-game loot and more.
