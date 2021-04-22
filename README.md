@@ -257,6 +257,7 @@ APIs
 - [Dropbox](https://www.dropbox.com/developers) - API for accessing stored files and pictures which is easy to use and free for small amounts of data.
 - [Filestack](https://filestack.com/docs/) - API for image and file manipulation, 250 uploads and 500 uploads per month for free, free CDN, HTML widget.
 - [Microsoft Graph](https://graph.microsoft.io/en-us/docs/api-reference/v1.0/resources/onedrive) - API for accessing stored files and photos for personal and enterprise users with high resolution thumbnails and Microsoft Office APIs.
+- [PDF Blocks](https://www.pdfblocks.com/docs/api/getting-started) - API for working with PDF documents (merge, add password, watermark, and more). Well documented, easy to use. 14-day free trial. 💸
 - [Verizon Cloud](http://www.verizon.com/cloudstorageapi) - API for accessing stored pictures and other files stored by users of Verizon Cloud app.
 
 ### Finance
