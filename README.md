@@ -13,7 +13,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 - [Augmented Reality](#augmented-reality)
 - [Bar Code](#barcode)
 - [Big Data and Analytics](#big-data-and-analytics)
-- [Bitcoin](#bitcoinbitcoin-wallets)
+- [Cryptocurrency](#cryptocurrencycrypto-wallets)
 - [Calendar](#calendar)
 - [Captcha](#captcha)
 - [Check In](#check-in)
@@ -115,7 +115,7 @@ APIs
 - [Ryft](http://www.ryft.com/api) - integrate the Ryft ONE’s data analysis capabilities into existing big data environments for faster data analysis and real-time intelligence.
 - [LinkedData.Center](http://linkeddata.center/home/gdaas) - a RDF graph database as a service with W3C SPARQL query and SPARQL update apis. 💸
 
-### Bitcoin/Bitcoin Wallets
+### Cryptocurrency/Crypto Wallets
 
 - [Bitcoin](https://bitcoin.org/en/developer-documentation) - Find useful resources, guides and reference material for developers.
 - [Bitcoincharts](https://bitcoincharts.com/about/markets-api/) - You can use this API to include markets data in your websites, mobile apps or desktop applets.
