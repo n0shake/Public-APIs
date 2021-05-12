@@ -662,6 +662,7 @@ APIs
 - [Open Weather](http://openweathermap.org/api) - Access current weather data for any location on Earth including over 200,000 cities!
 - [Storm Glass Marine Weather API](https://stormglass.io) - Global marine weather data from multiple sources in one single API!
 - [TheRainery](https://therainery.com/documentation/) - Access raw weather forecasts from the most trusted Meteorological Institutes. 💸
+- [Weather-API](https://github.com/robertoduessmann/weather-api) - A free RESTful API to check the weather.
 - [Weatherbit](https://www.weatherbit.io/api) - Access forecasts, current weather, and historical weather data for any point on the Earth!
 - [Weather Source](http://weathersource.com/weather-api) - Powerful Weather API built for systems that demand speed, reliability and heavy load.
 - [Wunderground API](https://www.wunderground.com/weather/api/) - Reliable data, accurate forecast, & global coverage in 80 languages.
