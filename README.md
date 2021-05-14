@@ -657,7 +657,7 @@ APIs
 - [RAWG](https://rawg.io/apidocs) - Open video game database. Find games by platform, genre, company or find game developers, stores, publishers and many more.
 
 ### Weather
-
+- [AccuWeather](https://developer.accuweather.com/) - AccuWeather provides hourly and minute by minute forecasts with Superior accuracy. AccuWeather provides the world’s most sophisticated weather intelligence. 💸
 - [AerisWeather](https://www.aerisweather.com) - Global weather data and imagery APIs, with a free developer subscription tier, boasting detailed documentation for simple to advanced queries, free SDKs and a Map Builder to get you up and running faster.
 - [Open Weather](http://openweathermap.org/api) - Access current weather data for any location on Earth including over 200,000 cities!
 - [Storm Glass Marine Weather API](https://stormglass.io) - Global marine weather data from multiple sources in one single API!
