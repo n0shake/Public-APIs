@@ -83,7 +83,7 @@ APIs
 ### Analytics
 
 - [Amazon Mobile Analytics](https://aws.amazon.com/documentation/mobileanalytics/) - Service for collecting, visualizing, and understanding app usage data at scale.
-- [Callcounter](https://callcounter.eu/pages/api) - Analytics for API providers. Send request metadata to the API and view user friendly charts to analyse usage.
+- [Callcounter](https://callcounter.eu/pages/api) - Analytics for API providers. Send request metadata to the API and view user friendly charts to analyse usage. 💸
 - [Clicky](https://clicky.com/help/api) - Allows you to extract your web site's traffic data into several formats, making it easy to integrate, analyze, or store your data within your own application.
 - [Fabric](https://get.fabric.io/) - A platform that helps your mobile team build better apps, understand your users, and grow your business.
 - [Flurry](https://developer.yahoo.com/flurry/docs/api/) - Yahoo’s Flurry provides you with a number of APIs enabling you to export your data.
