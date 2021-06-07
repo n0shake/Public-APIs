@@ -254,7 +254,7 @@ APIs
 
 ### File Storage and Manipulation
 
-- [Amazon S3](https://aws.amazon.com/de/documentation/s3/) - API that provides access to stored files and can be added easily to any service - and it's free for twelve months.
+- [Amazon S3](https://aws.amazon.com/de/documentation/s3/) - API that provides access to stored files and can be added easily to any service - and it's free for twelve months. 💸
 - [Cloudinary](http://cloudinary.com/documentation) - API for image and video storage and manipulation - free for up to 75,000 images and 7,500 manipulations per month, good documentation, it can also manipulate GIFs and PDFs.
 - [DigitalOcean Spaces](https://www.digitalocean.com/products/spaces) - API that provides easy access to store and receive files as simple object storage with easy to understand pricing. 2 Month Free Trial 💸
 - [Dropbox](https://www.dropbox.com/developers) - API for accessing stored files and pictures which is easy to use and free for small amounts of data.
