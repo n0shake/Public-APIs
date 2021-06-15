@@ -136,6 +136,7 @@ APIs
 - [ShapeShift.io](https://shapeshift.io/) - Exchange between cryptocurrencies without an account.  Well documented API for easy use.
 - [Technical Analysis](https://technical-analysis-api.com) - Cryptocurrency prices, technical analysis and sentiment detection.
 - [Poloniex](https://poloniex.com/support/api/) - US based digital asset exchange
+- [Coingecko](https://coingecko.com/en/api) - Free and Public Cryptocurrency API which you can use without an API key.
 
 ### Calendar
 
