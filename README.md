@@ -126,6 +126,7 @@ APIs
 - [BlockFacts.io](https://blockfacts.io/) - Compliance-first digital asset data with REST and WebSocket API support. Real-time cryptocurrency data from multiple exchanges via a single unified API. SDKs for integration, rich historic tick data.
 - [Coinbase](https://developers.coinbase.com/) - Coinbase APIs and developer tools make building bitcoin and blockchain apps much easier.
 - [CoinDesk](http://www.coindesk.com/api/) - Bitcoin Price Index
+- [Coingecko](https://coingecko.com/en/api) - Free and Public Cryptocurrency API which you can use without an API key.
 - [Coinlore](https://www.coinlore.com/cryptocurrency-data-api) - Cryptocurrency tick data API
 - [CoinMarketCap](https://coinmarketcap.com/api/) - Cryptocurrencies Prices
 - [coinpaprika](https://api.coinpaprika.com) - Cryptocurrencies prices, market capitalization, volume and more.
@@ -136,7 +137,6 @@ APIs
 - [ShapeShift.io](https://shapeshift.io/) - Exchange between cryptocurrencies without an account.  Well documented API for easy use.
 - [Technical Analysis](https://technical-analysis-api.com) - Cryptocurrency prices, technical analysis and sentiment detection.
 - [Poloniex](https://poloniex.com/support/api/) - US based digital asset exchange
-- [Coingecko](https://coingecko.com/en/api) - Free and Public Cryptocurrency API which you can use without an API key.
 
 ### Calendar
 
