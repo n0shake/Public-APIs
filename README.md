@@ -147,7 +147,6 @@ APIs
 ### Captcha
 
 - [Anti-Captcha](https://anti-captcha.com/apidoc) - Access to Anti-Captcha’s API.
-- [Naver Captcha](https://developers.naver.com/products/captcha) - Access to Naver’s Captcha API.
 - [ProxyCrawl](https://proxycrawl.com) — Crawl and scrape websites without the need of proxies, infrastructure or browsers. We solve captchas for you and prevent you being blocked while speeding up your development. 💸
 - [Google reCAPTCHA](https://developers.google.com/recaptcha/intro?hl=en) - ReCAPTCHA lets you embed a CAPTCHA in your web pages in order to protect them against spam and other types of automated abuse.
 
@@ -335,7 +334,6 @@ APIs
 
 - [GitHub Licenses API](https://developer.github.com/v3/licenses/)
 - [ToSDR terms of service API](https://tosdr.org/api.html)
-- [TLDRLegal Licenses API](https://tldrlegal.com/api/license)
 
 ### Login Authentication
 
@@ -345,7 +343,6 @@ APIs
 - [GitHub Authentication](https://developer.github.com/guides/basics-of-authentication/) - Access to GitHub’s Authentication API.
 - [Instagram](https://developers.facebook.com/docs/instagram-api/overview) - Access to Instagram’s OAuth API.
 - [LinkedIn](https://developer.linkedin.com/docs/signin-with-linkedin) - Make it convenient for your users to sign in with their professional identity.
-- [Naver Login for Apps](https://developers.naver.com/products/login/api) - Access to Naver’s Authentication API.
 - [PayPal](https://developer.paypal.com/docs/integration/direct/identity/log-in-with-paypal/) - Enables your customers to sign in to your web site quickly and securely using their PayPal login credentials.
 - [Salesforce](https://developer.salesforce.com/docs/atlas.en-us.api_rest.meta/api_rest/intro_understanding_authentication.htm) - Salesforce uses the OAuth protocol to allow users of applications to securely access data without having to reveal username and password credentials.
 - [Twitter Sign-in](https://dev.twitter.com/web/sign-in) - Works on websites, iOS, mobile and desktop applications.
@@ -413,7 +410,6 @@ APIs
 - [LinkPreview](https://www.linkpreview.net) - RESTful API that returns JSON formatted summary with title, description and preview image for any requested URL. Free & paid plans.
 - [LiveChat](https://developers.livechatinc.com/) - Online Customer Service software with customizable chat, embeddable widgets, help desk and web analytics tools. APIs include webhooks support, SDKs and open-source libraries to build on. 💸
 - [Lottery Number Generation](https://fungenerators.com/api/lottery/) - Generate lottery numbers. Hundereds of lottery games from various countries are supported. 💸
-- [Marijuana Strain API](http://strains.evanbusse.com/) - Documentation on over 2000 Marijuana strains including races, flavors, and effects.
 - [PageCDN](https://pagecdn.com/docs/public-api) - Public CDN API for Open-source JavaScript, CSS and fonts libraries. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
 - [PDFmyURL](https://pdfmyurl.com/html-to-pdf-api) - RESTful API that converts webpages to PDF quickly and even does entire websites to PDF 💸
 - [PDF from URL](https://api.stakdek.de/blog?id=1070) - API that converts websites from URL to PDF and even does convert HTML Strings to PDF for free
@@ -640,8 +636,6 @@ APIs
 
 - [Bitly](http://dev.bitly.com/links.html) - Access to Bitly’s API.
 - [Is.gd](https://is.gd/developers.php) - Simple URL shortener. Supports custom short link ending.
-- [Naver URL Shortener](https://developers.naver.com/products/shortenurl) - Access to Naver’s URL shortening API.
-- [Shrtlnk.dev](https://shrtlnk.dev/developer) - Simple and efficient short link creation. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
 - [ShrtURI](https://shrturi.com/docs) - URL shortening API for creating short URLs from long URLs.
 - [Tiny.cc](https://tiny.cc/api-docs) - Easy-to-use URL shortener. Supports custom short link ending.
 - [Tiny.UID](https://tinyuid.com/docs) - API for shortening long URLs.
@@ -665,7 +659,6 @@ APIs
 - [AerisWeather](https://www.aerisweather.com) - Global weather data and imagery APIs, with a free developer subscription tier, boasting detailed documentation for simple to advanced queries, free SDKs and a Map Builder to get you up and running faster.
 - [Open Weather](http://openweathermap.org/api) - Access current weather data for any location on Earth including over 200,000 cities!
 - [Storm Glass Marine Weather API](https://stormglass.io) - Global marine weather data from multiple sources in one single API!
-- [TheRainery](https://therainery.com/documentation/) - Access raw weather forecasts from the most trusted Meteorological Institutes. 💸
 - [Weather-API](https://github.com/robertoduessmann/weather-api) - A free RESTful API to check the weather.
 - [Weatherbit](https://www.weatherbit.io/api) - Access forecasts, current weather, and historical weather data for any point on the Earth!
 - [Weather Source](http://weathersource.com/weather-api) - Powerful Weather API built for systems that demand speed, reliability and heavy load.
