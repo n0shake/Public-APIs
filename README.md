@@ -213,6 +213,7 @@ APIs
 - [Dribbble](http://developer.dribbble.com/) - Dribbble is a community of designers answering that question each day.
 - [Behance](https://www.behance.net/dev/api/endpoints/) - Behance is the leading online platform to showcase & discover creative work.
 - [Pexels](https://www.pexels.com/api/) - Pexels provides high quality and completely free stock photos licensed under the Creative Commons Zero (CC0) license.
+- [PHP-Noise](https://php-noise.com/) - Noise background image generator api with various parameters. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
 
 ### Dictionary
 
