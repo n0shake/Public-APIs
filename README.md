@@ -405,6 +405,7 @@ APIs
 - [Geocodify](https://geocodify.com) - Worldwide geocoding, geoparsing and autocomplete for addresses. 💸
 - [Giphy](https://developers.giphy.com/docs/) - Worlds largest library of GIFs.
 - [Httpbin](https://httpbin.org/) - A Simple HTTP Request & Response Service. ![Open Source](https://raw.githubusercontent.com/n0shake/Public-APIs/master/opensource.png "Open Source")
+- [Httpbin Cloudflare](https://cloudflare-quic.com/b/) - A Simple HTTP Request & Response Service with HTTP/3 Support by Cloudflare. ![Open Source](https://raw.githubusercontent.com/n0shake/Public-APIs/master/opensource.png "Open Source")
 - [Icanhazepoch](https://icanhazepoch.com) - Get Epoch time. ![Open Source](https://raw.githubusercontent.com/n0shake/Public-APIs/master/opensource.png "Open Source")
 - [Icanhazip](https://major.io/icanhazip-com-faq/) - IP Address API. ![Open Source](https://raw.githubusercontent.com/n0shake/Public-APIs/master/opensource.png "Open Source")
 - [Image-Charts](https://www.image-charts.com) - 1 URL = 1 Chart: Get a chart image in response to a URL GET or POST request. A drop-in-replacement for the deprecated Google Image Charts.
