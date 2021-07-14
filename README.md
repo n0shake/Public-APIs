@@ -133,6 +133,7 @@ APIs
 - [CryptoCompare](https://www.cryptocompare.com/api) - Cryptocurrencies Comparison
 - [Cryptonator](https://www.cryptonator.com/api/) - Cryptocurrencies Exchange Rates
 - [Coinigy](https://coinigy.docs.apiary.io) - Interact with Coinigy Accounts and Exchange Accounts Directly
+- [Covalent](https://www.covalenthq.com/docs/api/) - Multi-blockchain data aggregator at one unified API.
 - [Exchange Rates API](https://blockchain.info/api/exchange_rates_api) - Market Prices and exchanges rates api.
 - [ShapeShift.io](https://shapeshift.io/) - Exchange between cryptocurrencies without an account.  Well documented API for easy use.
 - [Technical Analysis](https://technical-analysis-api.com) - Cryptocurrency prices, technical analysis and sentiment detection.
