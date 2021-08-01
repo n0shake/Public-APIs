@@ -143,7 +143,6 @@ APIs
 
 - [CalendarIndex](https://www.calendarindex.com) - Worldwide Holidays and Working Days API.
 - [Holiday API](https://holidayapi.pl/) - Public holiday API service for several supported countries.
-- [Holiday Oracle](https://holidayoracle.io/) - Holiday and business day data API for app and blockchain developers. 💸
 
 ### Captcha
 
@@ -273,7 +272,6 @@ APIs
  - [Australia](https://www.rba.gov.au/statistics/tables/) - plenty of kinds of data in CSV format.
  - [Canada](https://www.bankofcanada.ca/rates/) - daily exchange rates and statistical data tables in CSV, XML or JSON formats.
  - [Exchange Rates](https://exchangeratesapi.io/) - Foreign exchange rates API with currency conversion. JSON & CORS. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
- - [Georgia](https://nbg.gov.ge/api.html) - currency exchange rates available via SOAP API.
  - [Ireland](https://data.gov.ie/data/search?publisher=central-bank-of-ireland) - variety of data mainly in [XLS](https://en.wikipedia.org/wiki/Microsoft_Excel#File_formats) format.
  - [Myanmar](http://forex.cbm.gov.mm/api/) - currency exchange rates in JSON format.
  - [Moldova](https://bnm.md/en/content/official-exchange-rates) - currency exchange rates in XML, JSON and XLS formats.

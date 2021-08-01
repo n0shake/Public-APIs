@@ -1,51 +1,16 @@
 [
   {
-    "loc": 150,
-    "status": 404,
-    "link": "https://developers.naver.com/products/captcha",
-    "redirect": "",
-    "error": ""
-  },
-  {
-    "loc": 263,
-    "status": 400,
-    "link": "https://www.pdfblocks.com/docs/api/getting-started",
-    "redirect": "",
-    "error": ""
-  },
-  {
-    "loc": 338,
+    "loc": 146,
     "status": -1,
-    "link": "https://tldrlegal.com/api/license",
+    "link": "https://holidayoracle.io/",
     "redirect": "",
-    "error": "Net::ReadTimeout"
+    "error": "Failed to open TCP connection to holidayoracle.io:443 (Connection refused - connect(2) for \"holidayoracle.io\" port 443)"
   },
   {
-    "loc": 416,
+    "loc": 276,
     "status": 404,
-    "link": "http://strains.evanbusse.com/",
+    "link": "https://nbg.gov.ge/api.html",
     "redirect": "",
     "error": ""
-  },
-  {
-    "loc": 643,
-    "status": 404,
-    "link": "https://developers.naver.com/products/shortenurl",
-    "redirect": "",
-    "error": ""
-  },
-  {
-    "loc": 644,
-    "status": 520,
-    "link": "https://shrtlnk.dev/developer",
-    "redirect": "",
-    "error": ""
-  },
-  {
-    "loc": 668,
-    "status": -1,
-    "link": "https://therainery.com/documentation/",
-    "redirect": "",
-    "error": "Failed to open TCP connection to therainery.com:443 (getaddrinfo: nodename nor servname provided, or not known)"
   }
 ]
