@@ -132,6 +132,7 @@ APIs
 - [coinpaprika](https://api.coinpaprika.com) - Cryptocurrencies prices, market capitalization, volume and more.
 - [CryptoCompare](https://www.cryptocompare.com/api) - Cryptocurrencies Comparison
 - [Cryptonator](https://www.cryptonator.com/api/) - Cryptocurrencies Exchange Rates
+- [CryptoTradingAPI](https://www.cryptotradingapi.io/) - Real-Time Crypto Prices & Technical Analysis JSON API. 31 Technical Indicators From Binance, CoinBase and Kraken.
 - [Coinigy](https://coinigy.docs.apiary.io) - Interact with Coinigy Accounts and Exchange Accounts Directly
 - [Covalent](https://www.covalenthq.com/docs/api/) - Multi-blockchain data aggregator at one unified API.
 - [Exchange Rates API](https://blockchain.info/api/exchange_rates_api) - Market Prices and exchanges rates api.
