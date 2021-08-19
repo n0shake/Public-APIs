@@ -344,6 +344,7 @@ APIs
 - [GitHub Authentication](https://developer.github.com/guides/basics-of-authentication/) - Access to GitHub’s Authentication API.
 - [Instagram](https://developers.facebook.com/docs/instagram-api/overview) - Access to Instagram’s OAuth API.
 - [LinkedIn](https://developer.linkedin.com/docs/signin-with-linkedin) - Make it convenient for your users to sign in with their professional identity.
+- [LoginRadius](https://www.loginradius.com/) - The developer-friendly Identity Platform provides a comprehensive set of APIs to enable authentication, identity verification, single sign-on, user management, and account protection capabilities such as multi-factor authentication on any web or mobile application.
 - [PayPal](https://developer.paypal.com/docs/integration/direct/identity/log-in-with-paypal/) - Enables your customers to sign in to your web site quickly and securely using their PayPal login credentials.
 - [Salesforce](https://developer.salesforce.com/docs/atlas.en-us.api_rest.meta/api_rest/intro_understanding_authentication.htm) - Salesforce uses the OAuth protocol to allow users of applications to securely access data without having to reveal username and password credentials.
 - [Twitter Sign-in](https://dev.twitter.com/web/sign-in) - Works on websites, iOS, mobile and desktop applications.
