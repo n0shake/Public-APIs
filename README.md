@@ -220,13 +220,13 @@ This is an attempt to categorise different APIs scoured from the web which make 
 - [Agarathi](https://agarathi.com/api/dictionary) - Tamil language Dictionary API 💸
 - [Cambridge Dictionaries Online](http://dictionary.cambridge.org/license.html) - Access to Cambridge’s custom-developed API. 💸
 - [Datamuse API](https://www.datamuse.com/api/) - Word-finding query engine that finds words that match a given set of constraints and that are likely in a given context. 💸
+- [Free Dictionary API](https://dictionaryapi.dev/) - Get word definitions for free.
 - [Lingua Robot API](https://www.linguarobot.io/) - Definition of words, pronunciations, synonyms and antonyms, lemmatization and morpheme segmentation. 💸
 - [Merriam-Webster Dictionary API](http://www.dictionaryapi.com/) - Gives developers access to a big ass resource of dictionary and thesaurus content as well as specialized medical, Spanish, ESL, and student-friendly vocabulary.
 - [Oxford Dictionary API](https://developer.oxforddictionaries.com/) - Access to Oxford Dictionary services with several different subscription options including a free tier. 💸
 - [Wordnik](http://developer.wordnik.com/docs.html#!/word) - Dictionary functions.
 - [Words API](https://www.wordsapi.com/) - Use it to find definitions for more than 150,000 words.
 - [Wiktionary API](https://en.wiktionary.org/w/api.php) - Collaborative, free-content multilingual dictionary.
-- [Free Dictionary API](https://dictionaryapi.dev/) - Get word definitions for free.
 
 ### Entertainment
 
