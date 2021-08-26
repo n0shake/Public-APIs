@@ -5,7 +5,6 @@ This is an attempt to categorise different APIs scoured from the web which make 
 > Items marked with ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") are open-source
 > Items marked with 💸 are trial based APIs
 
-
 ## Table of Contents
 
 - [Advertising](#advertising)
@@ -42,9 +41,9 @@ This is an attempt to categorise different APIs scoured from the web which make 
 - [Miscellaneous](#miscellaneous)
 - [Movies](#movies)
 - [Music](#music)
-	- [Music Analytics](#music-analytics)
-	- [Music Discovery](#music-discovery)
-	- [Music Identification](#music-identification)
+  - [Music Analytics](#music-analytics)
+  - [Music Discovery](#music-discovery)
+  - [Music Identification](#music-identification)
     - [Music Lyrics](#music-lyrics)
     - [Music Store](#music-stores)
 - [Natural Language Processing](#natural-language-processing)
@@ -67,9 +66,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 - [More Resources](#more-resources)
 - [Contribute](#contributions)
 
-
-APIs
--------
+## APIs
 
 ### Advertising
 
@@ -136,7 +133,7 @@ APIs
 - [Coinigy](https://coinigy.docs.apiary.io) - Interact with Coinigy Accounts and Exchange Accounts Directly
 - [Covalent](https://www.covalenthq.com/docs/api/) - Multi-blockchain data aggregator at one unified API.
 - [Exchange Rates API](https://blockchain.info/api/exchange_rates_api) - Market Prices and exchanges rates api.
-- [ShapeShift.io](https://shapeshift.io/) - Exchange between cryptocurrencies without an account.  Well documented API for easy use.
+- [ShapeShift.io](https://shapeshift.io/) - Exchange between cryptocurrencies without an account. Well documented API for easy use.
 - [Technical Analysis](https://technical-analysis-api.com) - Cryptocurrency prices, technical analysis and sentiment detection.
 - [Poloniex](https://poloniex.com/support/api/) - US based digital asset exchange
 
@@ -158,6 +155,7 @@ APIs
 - [Foursquare Check-In](https://developer.foursquare.com/docs/checkins/add) - Allows you to check in to a place.
 
 ### Commerce
+
 - [Commerce Layer](https://docs.commercelayer.io/api/) - Commerce Layer is a headless commerce platform that lets you add global ecommerce capabilities to any website, mobile app, chatbot, or IoT device, with ease. using the language, CMS, and tools you already master and love.
 - [Dummy Products](https://dummyproducts-api.herokuapp.com/) - Provides dummy products to aid you in prototyping or developing e-commerce type of websites. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
 - [envoice](https://www.envoice.in) - Invoicing for online businesses. Simplify your invoicing process and get paid online with a debit or credit card via your payment gateway.
@@ -200,7 +198,7 @@ APIs
 - [CurrencyScoop.com](https://currencyscoop.com/) - Real-time and historical currency rates JSON API.
 - [ExchangeRate-API.com](https://www.exchangerate-api.com/docs/overview) - Currency conversion API.
 - [ExchangeRatesAPI.io](https://exchangeratesapi.io/) - Foreign exchange rates API with currency conversion. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
-- [Fixer.io](http://fixer.io/) - JSON API for foreign exchange rates and currency conversion.  End of day data only.
+- [Fixer.io](http://fixer.io/) - JSON API for foreign exchange rates and currency conversion. End of day data only.
 - [Frankfurter.app](https://www.frankfurter.app/docs/) - Exchange rates and currency data API. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
 - [OpenRates.io](http://www.openrates.io/) - Live exchange rates and currency conversion API.
 - [ratesapi.io](https://ratesapi.io/) - Free foreign currency exchange rates and currency conversion.
@@ -228,8 +226,10 @@ APIs
 - [Wordnik](http://developer.wordnik.com/docs.html#!/word) - Dictionary functions.
 - [Words API](https://www.wordsapi.com/) - Use it to find definitions for more than 150,000 words.
 - [Wiktionary API](https://en.wiktionary.org/w/api.php) - Collaborative, free-content multilingual dictionary.
+- [Free Dictionary API](https://dictionaryapi.dev/) - Get word definitions for free.
 
 ### Entertainment
+
 - [Breaking Bad & Better Call Saul API](https://breakingbadapi.com/documentation) - Get data about characters, episodes, quotes, and deaths.
 - [Cat as a Service (CATAAS)](https://cataas.com/#/) - Is a REST API to spread peace and love (or not) thanks to cats.
 - [Comic Vine](http://comicvine.gamespot.com/api/) - An extremely mature, well organized and continually updated resource of comic information.
@@ -266,23 +266,24 @@ APIs
 - [Verizon Cloud](http://www.verizon.com/cloudstorageapi) - API for accessing stored pictures and other files stored by users of Verizon Cloud app.
 
 ### Finance
+
 - [Alpha Vantage](https://www.alphavantage.co/) - Y Combinator backed API provider for stock, ETF, mutual fund, forex, and crypto data. There is also a 2000+ star [Python wrapper](https://github.com/RomelTorres/alpha_vantage) for it on GitHub.
 - [IEX](https://iextrading.com/developer/) - Free Stocks and Market Data
 - [Twelve Data](https://twelvedata.com/docs/) - Stock market data (real-time & historical)
 - Central Banks
- - [Australia](https://www.rba.gov.au/statistics/tables/) - plenty of kinds of data in CSV format.
- - [Canada](https://www.bankofcanada.ca/rates/) - daily exchange rates and statistical data tables in CSV, XML or JSON formats.
- - [Exchange Rates](https://exchangeratesapi.io/) - Foreign exchange rates API with currency conversion. JSON & CORS. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
- - [Ireland](https://data.gov.ie/data/search?publisher=central-bank-of-ireland) - variety of data mainly in [XLS](https://en.wikipedia.org/wiki/Microsoft_Excel#File_formats) format.
- - [Myanmar](http://forex.cbm.gov.mm/api/) - currency exchange rates in JSON format.
- - [Moldova](https://bnm.md/en/content/official-exchange-rates) - currency exchange rates in XML, JSON and XLS formats.
- - [New Zealand](https://www.rbnz.govt.nz/statistics) - variety of data in XLS format.
- - [Nigeria](https://www.cbn.gov.ng/rates/) - not only exchange rates, but also other info in CSV format.
- - [Peru](https://estadisticas.bcrp.gob.pe/estadisticas/series/ayuda/api) - variety of data in [XLSX](https://en.wikipedia.org/wiki/Microsoft_Excel#File_formats) format.
- - [Poland](https://api.nbp.pl) - Currency exchange rates and gold prices in the XML and JSON formats.
- - [Russian Federation](https://www.cbr.ru/development/) - history of exchange rates via REST XML and far more macroeconomical info via SOAP.
- - [Switzerland](https://data.snb.ch/en) - rich variety of data in XLS and CSV formats.
- - [Ukraine](https://bank.gov.ua/control/en/publish/article?art_id=25365630) - exchange rates and bond placements in JSON and XML formats.
+- [Australia](https://www.rba.gov.au/statistics/tables/) - plenty of kinds of data in CSV format.
+- [Canada](https://www.bankofcanada.ca/rates/) - daily exchange rates and statistical data tables in CSV, XML or JSON formats.
+- [Exchange Rates](https://exchangeratesapi.io/) - Foreign exchange rates API with currency conversion. JSON & CORS. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
+- [Ireland](https://data.gov.ie/data/search?publisher=central-bank-of-ireland) - variety of data mainly in [XLS](https://en.wikipedia.org/wiki/Microsoft_Excel#File_formats) format.
+- [Myanmar](http://forex.cbm.gov.mm/api/) - currency exchange rates in JSON format.
+- [Moldova](https://bnm.md/en/content/official-exchange-rates) - currency exchange rates in XML, JSON and XLS formats.
+- [New Zealand](https://www.rbnz.govt.nz/statistics) - variety of data in XLS format.
+- [Nigeria](https://www.cbn.gov.ng/rates/) - not only exchange rates, but also other info in CSV format.
+- [Peru](https://estadisticas.bcrp.gob.pe/estadisticas/series/ayuda/api) - variety of data in [XLSX](https://en.wikipedia.org/wiki/Microsoft_Excel#File_formats) format.
+- [Poland](https://api.nbp.pl) - Currency exchange rates and gold prices in the XML and JSON formats.
+- [Russian Federation](https://www.cbr.ru/development/) - history of exchange rates via REST XML and far more macroeconomical info via SOAP.
+- [Switzerland](https://data.snb.ch/en) - rich variety of data in XLS and CSV formats.
+- [Ukraine](https://bank.gov.ua/control/en/publish/article?art_id=25365630) - exchange rates and bond placements in JSON and XML formats.
 - [Portfolio Optimizer](https://portfoliooptimizer.io/) - API for investment portfolio optimization.
 
 ### Fitness
@@ -295,18 +296,18 @@ APIs
 
 ### Google
 
-- [Gmail API](https://developers.google.com/gmail/api/?hl=en) - The Gmail REST API. *v1*
-- [Google BigQuery API](https://cloud.google.com/bigquery/docs/reference/rest/v2/) - A data platform for customers to create, manage, share and query data. *v2*
-- [Google Books API](https://developers.google.com/books/) - Lets you search for books and manage your Google Books library. *v1*
-- [Google Calendar API](https://developers.google.com/google-apps/calendar/?hl=en) - Lets you manipulate events and other calendar data. *v3*
-- [Google Classroom API](https://developers.google.com/classroom/?hl=en) - The Google Classroom API. *v1*
-- [Google CustomSearch API](https://developers.google.com/custom-search/json-api/v1/overview) - Lets you search over a website or collection of websites. *v1*
-- [Google Drive API](https://developers.google.com/drive/v2/reference/) - The API to interact with Google Drive. *v3*
-- [Google Fitness API](https://developers.google.com/fit/?hl=en) - The Fit API. *v1*
-- [The Google Fonts Developer API.](https://developers.google.com/fonts/?hl=en) - The Google Fonts API helps you add fonts to any web page. *v1*
-- [Google Genomics API](https://cloud.google.com/genomics/reference/rest/) - Provides access to Genomics data. *v1beta2*
-- [Google Identity Toolkit API.](https://developers.google.com/identity/) - Helps third party sites implement federated login. *v1*
-- [Google Monitoring API](https://cloud.google.com/monitoring/api/v3/) - API for accessing Google Cloud and API monitoring data. *v2beta2*
+- [Gmail API](https://developers.google.com/gmail/api/?hl=en) - The Gmail REST API. _v1_
+- [Google BigQuery API](https://cloud.google.com/bigquery/docs/reference/rest/v2/) - A data platform for customers to create, manage, share and query data. _v2_
+- [Google Books API](https://developers.google.com/books/) - Lets you search for books and manage your Google Books library. _v1_
+- [Google Calendar API](https://developers.google.com/google-apps/calendar/?hl=en) - Lets you manipulate events and other calendar data. _v3_
+- [Google Classroom API](https://developers.google.com/classroom/?hl=en) - The Google Classroom API. _v1_
+- [Google CustomSearch API](https://developers.google.com/custom-search/json-api/v1/overview) - Lets you search over a website or collection of websites. _v1_
+- [Google Drive API](https://developers.google.com/drive/v2/reference/) - The API to interact with Google Drive. _v3_
+- [Google Fitness API](https://developers.google.com/fit/?hl=en) - The Fit API. _v1_
+- [The Google Fonts Developer API.](https://developers.google.com/fonts/?hl=en) - The Google Fonts API helps you add fonts to any web page. _v1_
+- [Google Genomics API](https://cloud.google.com/genomics/reference/rest/) - Provides access to Genomics data. _v1beta2_
+- [Google Identity Toolkit API.](https://developers.google.com/identity/) - Helps third party sites implement federated login. _v1_
+- [Google Monitoring API](https://cloud.google.com/monitoring/api/v3/) - API for accessing Google Cloud and API monitoring data. _v2beta2_
 
 ### Identity Verification
 
@@ -324,7 +325,7 @@ APIs
 - [Ably](https://www.ably.com/documentation) - API for making cross-protocol realtime communication between devices easy.
 - [Particle](https://docs.particle.io/reference/api/) - API to manage Particle devices (including their own Arduino-compatible ones and the Raspberry Pi) and control them. Free for up to 25 devices and 250k events/month.
 - [PubNub](https://www.pubnub.com/docs) - API to make realtime applications with variety of hardware devices including Arduino, RPi, Kinoma, Atmel, Samsung Smart TV WebOS, and more. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
-- [Philips Hue](https://developers.meethue.com/documentation/getting-started) - Registration (free) and local Hue Bridge (not free) required - Control Hue brand lights made by Philips.  API calls are made to the Hue Bridge residing on local network.  Includes a web based UI.
+- [Philips Hue](https://developers.meethue.com/documentation/getting-started) - Registration (free) and local Hue Bridge (not free) required - Control Hue brand lights made by Philips. API calls are made to the Hue Bridge residing on local network. Includes a web based UI.
 - [SmartThings](http://developer.smartthings.com/) - API for Samsung SmartThings Smart Home Hub products (ZigBee, Z-Wave, IP).
 - [Temboo SDK](https://temboo.com/download) - This platform acts as a layer on top of third-party APIs, using code snippets to trigger complex processes that run through their cloud platform.
 - [ThingSpeak](https://github.com/iobridge/ThingSpeak) - “Internet of Things” application and API to store and retrieve data from things using HTTP over the Internet or via a Local Area Network.
@@ -332,6 +333,7 @@ APIs
 - [Zetta](https://github.com/zettajs/zetta/wiki) - An open source platform built on Node.js for creating IoT servers that run across geo-distributed computers and the cloud. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
 
 ### Legal
+
 #### Open Licenses
 
 - [GitHub Licenses API](https://developer.github.com/v3/licenses/)
@@ -382,13 +384,14 @@ APIs
 - [Matlab](https://www.programmableweb.com/api/matlab) - The MATLAB RESTful API enables you to evaluate MATLAB functions on remote servers using JSON representation of MATLAB data types.
 - [Newton](https://newton.now.sh/) - An API for Arithmetic and Symbolic Math. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
 
-
 ### Medical
+
 - [COVID-19 Data](https://github.com/M-Media-Group/Covid-19-API) - Get live and historical data regarding Coronavirus cases per country. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
-- [Infermedica](https://developer.infermedica.com/docs/introduction) - AI-based engine for patient triage and preliminary medical diagnosis. *v2*
-- [Lexigram](https://docs.lexigram.io/v1/welcome) - NLP that extracts mentions of clinical concepts from text, gives access to clinical ontology. *v1*
+- [Infermedica](https://developer.infermedica.com/docs/introduction) - AI-based engine for patient triage and preliminary medical diagnosis. _v2_
+- [Lexigram](https://docs.lexigram.io/v1/welcome) - NLP that extracts mentions of clinical concepts from text, gives access to clinical ontology. _v1_
 
 ### Miscellaneous
+
 - [Aadhaar Bridge](https://www.aadhaarbridge.com/) - Aadhaar is a 12-digit unique identification number issued by the Indian government to every individual resident of India. API allows you to authenticate and perform ekYC and eSign using Aadhar. 💸
 - [Mozilla Addons](https://addons-server.readthedocs.io/en/latest/topics/api/index.html) - Mozilla's catalogue of addons for Firefox-compatible web browsers. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
 - [Bhagavad Gita](https://bhagavadgita.io/) - Bhagavad Gita in various languages. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
@@ -422,7 +425,7 @@ APIs
 - [PDF from URL](https://api.stakdek.de/blog?id=1070) - API that converts websites from URL to PDF and even does convert HTML Strings to PDF for free
 - [Pastebin](https://pastebin.com/doc_scraping_api) - Quickly share text or code, with support for over 250 languages for syntax highlighting.
 - [PhantAuth](https://www.phantauth.net/) - Random User Generator + OpenID Connect Provider. Like Lorem Ipsum, but for user accounts and authentication. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
-- [QuickChart](https://quickchart.io) - Generate Chart.js image charts for email, dashboards, etc. Provides a replacement API for the old Google Image Charts service.  ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
+- [QuickChart](https://quickchart.io) - Generate Chart.js image charts for email, dashboards, etc. Provides a replacement API for the old Google Image Charts service. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
 - [Quran API](https://alquran.cloud/api) - A RESTful Quran API to retrieve an Ayah, Surah, Juz or the enitre Holy Quran. ![Open Source](https://raw.githubusercontent.com/n0shake/Public-APIs/master/opensource.png "Open Source")
 - [Quran-api](https://github.com/fawazahmed0/quran-api#readme) - Free Quran API Service with 90+ different languages and 400+ translations. ![Open Source](https://raw.githubusercontent.com/n0shake/Public-APIs/master/opensource.png "Open Source")
 - [Rig Veda API](https://aninditabasu.github.io/indica/html/rv.html) - All of the poets and gods in the Rig Veda, presented with the mandal and sukta numbers they're mentioned in, the meters the verses are composed in, and the categories the poets and gods belong to.
@@ -433,7 +436,7 @@ APIs
 - [RandomUserGenerator](https://randomuser.me/) - An API for generating random user data. Like Lorem Ipsum, but for people. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
 - [RestCountries](https://restcountries.eu) - Get information about countries via a RESTful API.
 - [Typeform](https://developer.typeform.com/) - Typeform's APIs allow you to create and edit Typeform surveys, and retrieve survey responses on demand.
-- [Unixtime](https://unixtime.co.za/) - Free RESTservice to convert unixtime to datetime and vice versa. 
+- [Unixtime](https://unixtime.co.za/) - Free RESTservice to convert unixtime to datetime and vice versa.
 - [Vedic Society API](https://aninditabasu.github.io/indica/html/vs.html) - A description of all of the nouns in vedic literature, including the flora, fauna, geography, food, relationships, and objects (personal nouns not included, though).
 - [Wallhaven](https://wallhaven.cc/help/api) - A huge wallpaper library.
 - [Website Text Extraction](https://websitetextextraction.apifex.com/) - Scrape websites and get their content as plaintext.
@@ -453,7 +456,7 @@ APIs
 - [AI Mastering](https://aimastering.com/api_docs/) - AI Mastering API provides automated audio mastering service. You can upload your audio, master it, and download the mastered audio.
 - [Deezer](http://developers.deezer.com/api) - Deezer API provides a nice set of services to build up web applications allowing the discovery of Deezer's music catalogue.
 - [Discogs](https://www.discogs.com/developers/) - Access database of artists, labels, releases, marketplace and more.
-- [Last.fm](http://www.last.fm/api) -  The Last.fm API allows anyone to build their own programs using Last.fm data, whether they're on the web, the desktop or mobile devices.
+- [Last.fm](http://www.last.fm/api) - The Last.fm API allows anyone to build their own programs using Last.fm data, whether they're on the web, the desktop or mobile devices.
 - [musicApi](https://github.com/LIU9293/musicAPI) - Centralized Node.JS API SDK for Xiami, Netease, and QQ music - The Top 3 music providers in China.
 - [NPR API](https://dev.npr.org/) - NPR's API is a content API, which essentially provides a structured way for other computer applications to get NPR stories in a predictable, flexible and powerful way.
 - [QuantOneMusic](http://quantonemusic.com/) - Answers the need for digital music data.
@@ -477,7 +480,7 @@ APIs
 ### Music Identification
 
 - [Acoustid](https://acoustid.org/webservice) - Supports searching through their fingerprint database. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
-- [AudD](https://docs.audd.io/) - Recognize music in microphone recordings, audio files and UGC. 
+- [AudD](https://docs.audd.io/) - Recognize music in microphone recordings, audio files and UGC.
 - [Gracenote](https://developer.gracenote.com/) - Largest source of music and video metadata on the planet.
 
 ### Music Lyrics
@@ -658,11 +661,12 @@ APIs
 - [FreeToGame](https://www.freetogame.com/api-doc) - Free-to-play games database API.
 - [GamerPower](https://www.gamerpower.com/api-read) - Access programmatically the best giveaways in gaming, from free games to beta keys to free in-game loot and more.
 - [GiantBomb](http://www.giantbomb.com/api/) - API to query the GiantBomb database for videogames, characters, companies, genres and many more.
-- [Hyrule Compendium](http://github.com/gadhagod/Hyrule-Compendium-API) - API serving data on all interactive items in *The Legend of Zelda: Breath of the Wild*. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
+- [Hyrule Compendium](http://github.com/gadhagod/Hyrule-Compendium-API) - API serving data on all interactive items in _The Legend of Zelda: Breath of the Wild_. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
 - [IGDB](https://www.igdb.com/api) - Access the International Games Database and get information about videogames, characters, companies, genres and many more. Commercial usage is allowed.
 - [RAWG](https://rawg.io/apidocs) - Open video game database. Find games by platform, genre, company or find game developers, stores, publishers and many more.
 
 ### Weather
+
 - [AccuWeather](https://developer.accuweather.com/) - AccuWeather provides hourly and minute by minute forecasts with Superior accuracy. AccuWeather provides the world’s most sophisticated weather intelligence. 💸
 - [AerisWeather](https://www.aerisweather.com) - Global weather data and imagery APIs, with a free developer subscription tier, boasting detailed documentation for simple to advanced queries, free SDKs and a Map Builder to get you up and running faster.
 - [Open Weather](http://openweathermap.org/api) - Access current weather data for any location on Earth including over 200,000 cities!
