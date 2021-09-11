@@ -676,7 +676,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 - [Weather-API](https://github.com/robertoduessmann/weather-api) - A free RESTful API to check the weather.
 - [Weatherbit](https://www.weatherbit.io/api) - Access forecasts, current weather, and historical weather data for any point on the Earth!
 - [Weather Source](http://weathersource.com/weather-api) - Powerful Weather API built for systems that demand speed, reliability and heavy load.
-- [Weatherstack](https://weatherstack.com/) - Real-Time & Historical World Weather Data API.
+- [Weatherstack](https://weatherstack.com/documentation) - Real-Time & Historical World Weather Data API.
 - [Wunderground API](https://www.wunderground.com/weather/api/) - Reliable data, accurate forecast, & global coverage in 80 languages.
 - [Yahoo Weather API](https://developer.yahoo.com/weather/) - Get up-to-date information for any location, including 5-day forecast, wind, atmosphere, astronomy conditions, and more.
 
