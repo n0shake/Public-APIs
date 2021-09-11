@@ -497,7 +497,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 ### News Services
 
 - [Faroo](http://www.faroo.com/hp/api/api.html) - Alternative to Google Web Search API / Google News Search API, allows you to search news within dates, fetch trending news, topics and terms.
-- [Mediastack](https://mediastack.com/) - Scalable JSON API delivering worldwide news, headlines and blog articles in real-time.
+- [Mediastack](https://mediastack.com/documentation) - Scalable JSON API delivering worldwide news, headlines and blog articles in real-time.
 - [New York Times](http://developer.nytimes.com/) - Article search, best sellers, campaign finance, community, most popular, real estate, movie reviews, NY state legislature, Times newswire, tags, people
 - [NewsAPI](https://newsapi.org/) - 70+ news sources and their headlines, one API.
 - [NewsCatcherAPI](https://newscatcherapi.com/news-api) - News API to find news articles by any topic, country, language, website or keyword. 💸
