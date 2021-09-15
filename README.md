@@ -297,7 +297,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 ### File Storage and Manipulation
 | API | Description | Open/Trial |
 | --- | ----------- | ---- |
-| [**Amazon S3**](https://aws.amazon.com/de/documentation/s3/) | API that provides access to stored files and can be added easily to any service | and it's free for twelve months. | 💸 |
+| [**Amazon S3**](https://aws.amazon.com/de/documentation/s3/) | API that provides access to stored files and can be added easily to any service - and it's free for twelve months. | 💸 |
 | [**Cloudinary**](http://cloudinary.com/documentation) | API for image and video storage and manipulation - free for up to 75,000 images and 7,500 manipulations per month, good documentation, it can also manipulate GIFs and PDFs. | **N/A** |
 | [**DigitalOcean Spaces**](https://www.digitalocean.com/products/spaces) | API that provides easy access to store and receive files as simple object storage with easy to understand pricing. 2 Month Free Trial | 💸 |
 | [**Dropbox**](https://www.dropbox.com/developers) | API for accessing stored files and pictures which is easy to use and free for small amounts of data. | **N/A** |
@@ -600,8 +600,8 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**Shakespeare Translator API**](https://funtranslations.com/api/shakespeare) | Shakespeare English Translation API. | 💸 |
 | [**SpeechText.AI API**](https://speechtext.ai/speech-recognition-api) | Cloud Speech Recognition API. Transform speech to text with high accuracy in multiple languages. Generate summaries with important highlights from audio and video files. | 💸 |
 | [**SummarizeBot API**](https://www.summarizebot.com/summarization_business.html) | AI web data extraction and analysis. Multilingual summarization, keywords and sentiment analysis, language recognition, article extraction, comments identification, multimedia analysis, image and face recognition solutions. | 💸 |
-| [**Semantria**](https://www.lexalytics.com/) | SAAS API based on Lexalytics engine. | **#Paid** |
-| [**TextRazor**](https://www.textrazor.com/plans) | Helps you extract and understand the Who, What, Why, and How from your supplied text. | **#FreeToUse** |
+| [**Semantria**](https://www.lexalytics.com/) | SAAS API based on Lexalytics engine. | **N/A** |
+| [**TextRazor**](https://www.textrazor.com/plans) | Helps you extract and understand the Who, What, Why, and How from your supplied text. | **N/A** |
 | [**VoiceRSS**](http://www.voicerss.org/) | An API to convert Text to Speech, supporting 15+ major languages. | **N/A** |
 | [**Wit AI**](https://wit.ai/) | Provides an intent-based NLP API to easily build text and audio based chat bots. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
 | [**Word Associations API**](https://wordassociations.net/en/api) | Provides service to get associations for a word or phrase. Words are grouped by semantics, meaning, and psychological perception. | **N/A** |
@@ -693,7 +693,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**Pinterest**](https://www.pinterest.com/login/?next=http%3A%2F%2Fdevelopers.pinterest.com%2Fapi_docs%2F) | Enables apps to view the most clicked-through or repinned Pins, view related posts, and user profiles. | **N/A** |
 | [**Reddit**](https://github.com/reddit/reddit/wiki/API) | API to build clients, crawlers, scrapers, and browser extensions. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
 | [**Saidit**](https://github.com/IThinkImOKAY/rsaw) | Open source API wrapper made for the Reddit alternative Saidit.net. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
-| [**Snapchat**](https://github.com/mgp25/SC-API) | PHP library of Snapchat’s private API. | **#Private** |
+| [**Snapchat**](https://github.com/mgp25/SC-API) | PHP library of Snapchat’s private API. | **N/A** |
 | [**Telegram**](https://core.telegram.org/) | The Telegram API allows you to build your own customized Telegram clients. | **N/A** |
 | [**Trash Nothing**](https://trashnothing.com/developer) | Build apps on top of one of the largest freecycling and reuse communities with millions of people giving away thousands of free items every day. | **N/A** |
 | [**Twitch**](https://dev.twitch.tv/docs) | The Twitch API enables you to develop your own applications using the rich feature set that Twitch provides. | **N/A** |
