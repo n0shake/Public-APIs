@@ -666,6 +666,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | API | Description | Open/Trial |
 | --- | ----------- | ---- |
 | [**ApiFlash**](https://apiflash.com/) | Chrome based screenshot API to convert URLs to images. | **N/A** |
+| [**SavePage.io**](https://docs.savepage.io) | A free, RESTful API used to screenshot any desktop or mobile website with the real Chrome browser. | 💸 |
 | [**ScreenshotAPI.net**](https://screenshotapi.net) | Use one simple API call to generate screenshots of any website. | **N/A** |
 
 [⬆ Back to Table of Contents](#table-of-contents)
