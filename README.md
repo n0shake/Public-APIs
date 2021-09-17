@@ -268,6 +268,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 ### Finance
 
 - [Alpha Vantage](https://www.alphavantage.co/) - Y Combinator backed API provider for stock, ETF, mutual fund, forex, and crypto data. There is also a 2000+ star [Python wrapper](https://github.com/RomelTorres/alpha_vantage) for it on GitHub.
+- [Hotstoks](https://hotstoks.com?utm_source=n0shake-public-apis) - Stock market data powered by SQL.
 - [IEX](https://iextrading.com/developer/) - Free Stocks and Market Data
 - [Twelve Data](https://twelvedata.com/docs/) - Stock market data (real-time & historical)
 - Central Banks
