@@ -200,6 +200,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**Telnyx**](https://developers.telnyx.com/) | Build Voice, SMS, Fax, Networking and Cellular IoT applications on a private, purpose-built global communications network. | 💸 |
 | [**The SMS Works**](https://thesmsworks.co.uk/sms-api) | The SMS Works provides a low-cost, reliable SMS API for developers. Pay only for delivered texts, all failed messages are refunded. | 💸 |
 | [**Twilio**](https://www.twilio.com/solutions) | APIs for SMS, Voice, Video and more. | 💸 |
+| [**Send SMS And OTP Receiving**](https://jotp.me/) | Send SMS Via API And OTP Receiving Service	. | **N/A** |
 
 [⬆ Back to Table of Contents](#table-of-contents)
 ### Content
