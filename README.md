@@ -416,7 +416,6 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**AYLIEN**](http://aylien.com/) | AYLIEN Text Analysis API is a package of Natural Language Processing, Information Retrieval and Machine Learning tools for extracting meaning and insight from textual and visual content with ease. | **N/A** |
 | [**Big ML**](http://bigml.com/api/) | BigML is user-friendly and developer-friendly Machine learning API that mainly concentrates on decision trees. | **N/A** |
 | [**Cloud Machine Learning Engine**](https://cloud.google.com/ml-engine/docs/) | Cloud-based machine learning and pattern matching tool. | **N/A** |
-| [**IBM Watson**](https://developer.ibm.com/watson/) | Simplifies the process of preparing data and makes it easier to run predictive analysis. | **N/A** |
 | [**Microsoft Azure Machine Learning API**](https://azure.microsoft.com/en-us/services/cognitive-services/) | Helps data scientists publish in minutes which once used to take days after they had developed a feasible model. | **N/A** |
 | [**ObjectCut**](https://objectcut.com) | Automatic background removal service powered by AI. From an input image given its public-accessible URL or being the image itself, ObjectCut returns the same image but without background. | **N/A** |
 | [**Unplugg**](http://unplu.gg/test_api.html) | Automated Forecasting API for timeseries data which can be used to forecast energy consumption, temperature, or any other timeseries data which has some seasonality effect. | **N/A** |
