@@ -469,7 +469,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**Don't Kill My App**](https://github.com/urbandroid-team/dont-kill-my-app) | Database of ways mobile vendors inhibit background activity of apps. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
 | [**Domainsdb.info**](https://domainsdb.info) | Registered domain names search checks the lists of registered domains for names containing particular words/phrases/numbers or symbols. | **N/A** |
 | [**Evil Insult Generator**](https://evilinsult.com/api/) | Offers the most evil insults. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
-| [**Flowdash**](https://docs.flowdash.com/docs/api-introduction) | Flowdash's APIs allow you to create, edit, delete, and read your workflow data on demand. Test out the free version by uploading files, reading comments, managing users, creating tasks and more. | **N/A** |
+| [**Flowdash**](https://docs.flowdash.com/docs/api-introduction) | Create, edit, delete, and read your workflow data on demand. | **N/A** |
 | [**Game of Thrones Quotes**](https://gameofthronesquotes.xyz) | A free API to retrieve some quotes of Game of Thrones! | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
 | [**Geocodify**](https://geocodify.com) | Worldwide geocoding, geoparsing and autocomplete for addresses. | 💸 |
 | [**Giphy**](https://developers.giphy.com/docs/) | Worlds largest library of GIFs. | **N/A** |
