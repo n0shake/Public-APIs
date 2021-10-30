@@ -311,6 +311,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | API | Description | Open/Trial |
 | --- | ----------- | ---- |
 | [**Alpha Vantage**](https://www.alphavantage.co/) | Y Combinator backed API provider for stock, ETF, mutual fund, forex, and crypto data. There is also a 2000+ star [Python wrapper](https://github.com/RomelTorres/alpha_vantage) for it on GitHub. | **N/A** |
+| [**Hotstoks**](https://docs.hotstoks.com/) | Stock market data powered by SQL. | **N/A** |
 | [**IEX**](https://iextrading.com/developer/) | Free Stocks and Market Data. | **N/A** |
 | [**Twelve Data**](https://twelvedata.com/docs/) | Stock market data (real-time & historical). | **N/A** |
 | [**Australia**](https://www.rba.gov.au/statistics/tables/) | Plenty of kinds of data in [CSV](https://en.wikipedia.org/wiki/Comma-separated_values) format. | **N/A** |
@@ -468,6 +469,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**Don't Kill My App**](https://github.com/urbandroid-team/dont-kill-my-app) | Database of ways mobile vendors inhibit background activity of apps. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
 | [**Domainsdb.info**](https://domainsdb.info) | Registered domain names search checks the lists of registered domains for names containing particular words/phrases/numbers or symbols. | **N/A** |
 | [**Evil Insult Generator**](https://evilinsult.com/api/) | Offers the most evil insults. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
+| [**Flowdash**](https://docs.flowdash.com/docs/api-introduction) | Create, edit, delete, and read your workflow data on demand. | **N/A** |
 | [**Game of Thrones Quotes**](https://gameofthronesquotes.xyz) | A free API to retrieve some quotes of Game of Thrones! | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
 | [**Geocodify**](https://geocodify.com) | Worldwide geocoding, geoparsing and autocomplete for addresses. | 💸 |
 | [**Giphy**](https://developers.giphy.com/docs/) | Worlds largest library of GIFs. | **N/A** |
@@ -665,6 +667,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | API | Description | Open/Trial |
 | --- | ----------- | ---- |
 | [**ApiFlash**](https://apiflash.com/) | Chrome based screenshot API to convert URLs to images. | **N/A** |
+| [**SavePage.io**](https://docs.savepage.io) | A free, RESTful API used to screenshot any desktop or mobile website with the real Chrome browser. | 💸 |
 | [**ScreenshotAPI.net**](https://screenshotapi.net) | Use one simple API call to generate screenshots of any website. | **N/A** |
 
 [⬆ Back to Table of Contents](#table-of-contents)
