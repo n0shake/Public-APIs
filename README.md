@@ -479,6 +479,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**Icanhazepoch**](https://icanhazepoch.com) | Get Epoch time. | ![Open Source](https://raw.githubusercontent.com/n0shake/Public-APIs/master/opensource.png "Open Source") |
 | [**Icanhazip**](https://major.io/icanhazip-com-faq/) | IP Address API. | ![Open Source](https://raw.githubusercontent.com/n0shake/Public-APIs/master/opensource.png "Open Source") |
 | [**Image-Charts**](https://www.image-charts.com) | 1 URL = 1 Chart: Get a chart image in response to a URL GET or POST request. A drop-in-replacement for the deprecated Google Image Charts. | **N/A** |
+| [**IP Fast**](https://ip-fast.com) | Find out your IP Address and related detailed information using the free, fastest and simple lookup tool. | **N/A** |
 | [**IP Sidekick**](https://ipsidekick.com) | IP Sidekick is an API that returns information about an IP address. You can use it to customize your content based on the visitor's location or display their country. | **N/A** |
 | [**JSONbin.io**](https://jsonbin.io/api-reference) | Free [JSON](https://en.wikipedia.org/wiki/JSON) data storage service, ideal for small scale web apps, website, mobile apps. | **N/A** |
 | [**Judge0 API**](https://api.judge0.com/) | Compile and run source code. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
