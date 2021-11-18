@@ -446,6 +446,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | --- | ----------- | ---- |
 | [**Matlab**](https://www.programmableweb.com/api/matlab) | The MATLAB RESTful API enables you to evaluate MATLAB functions on remote servers using [JSON](https://en.wikipedia.org/wiki/JSON) representation of MATLAB data types. | **N/A** |
 | [**Newton**](https://newton.now.sh/) | An API for Arithmetic and Symbolic Math. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
+| [**Quadratic Solver**](https://devresourc.es/tools-and-utilities/public-apis/quadratic-solver) | A Quadratic Solver API | **N/A** |
 
 [⬆ Back to Table of Contents](#table-of-contents)
 ### Medical
