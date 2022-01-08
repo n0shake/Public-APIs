@@ -489,6 +489,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**LinkPreview**](https://www.linkpreview.net) | RESTful API that returns [JSON](https://en.wikipedia.org/wiki/JSON) formatted summary with title, description and preview image for any requested URL. Free & paid plans. | **N/A** |
 | [**LiveChat**](https://developers.livechatinc.com/) | Online Customer Service software with customizable chat, embeddable widgets, help desk and web analytics tools. APIs include webhooks support, SDKs and open-source libraries to build on. | 💸 |
 | [**Lottery Number Generation**](https://fungenerators.com/api/lottery/) | Generate lottery numbers. Hundereds of lottery games from various countries are supported. | 💸 |
+| [**NetworkCalc**](https://networkcalc.com/api/docs) | REST APIs that provide network calculator tools, such as subnet calculations, binary number conversion, and certificate lookup. | **N/A** |
 | [**PageCDN**](https://pagecdn.com/docs/public-api) | Public CDN API for Open-source JavaScript, CSS and fonts libraries. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
 | [**PDFmyURL**](https://pdfmyurl.com/html-to-pdf-api) | RESTful API that converts webpages to PDF quickly and even does entire websites to PDF. | 💸 |
 | [**PDF from URL**](https://api.stakdek.de/blog?id=1070) | API that converts websites from URL to PDF and even does convert HTML Strings to PDF for free. | **N/A** |
