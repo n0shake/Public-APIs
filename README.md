@@ -77,6 +77,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**Facebook Marketing API**](https://developers.facebook.com/docs/marketing-apis) | Manage ads and campaigns using the Facebook API. | **N/A** | 
 | [**Google AdSense**](https://developers.google.com/adsense/?hl=en) | Free, flexible way to earn money from your websites, mobile sites, and site search results. | **N/A** |
 | [**Google AdWords API**](https://developers.google.com/adwords/api/docs/guides/start) | Manage Google AdWords campaigns programmatically. | **N/A** |
+| [**Kevel Ad APIs**](https://dev.kevel.co) | Build your own ad server with Kevel's ad APIs.| **N/A** |
 | [**Microsoft Advertising Platform - Bing Ads API**](https://msdn.microsoft.com/en-us/library/bing-ads-api.aspx) | Provides programmatic access to various advertising technologies. | **N/A** |
 | [**Yahoo Gemini API**](https://developer.yahoo.com/gemini/) | Allows advertisers to manage complex Gemini accounts and campaigns more efficiently. | **N/A** |
 
