@@ -143,7 +143,6 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**coinpaprika**](https://api.coinpaprika.com) | Cryptocurrencies prices, market capitalization, volume and more. | **N/A** |
 | [**CryptoCompare**](https://www.cryptocompare.com/api) | Cryptocurrencies Comparison. | **N/A** |
 | [**Cryptonator**](https://www.cryptonator.com/api/) | Cryptocurrencies Exchange Rates. | **N/A** |
-| [**CryptoTradingAPI**](https://www.cryptotradingapi.io/) | Real-Time Crypto Prices & Technical Analysis [JSON](https://en.wikipedia.org/wiki/JSON) API. 31 Technical Indicators From Binance, CoinBase and Kraken. | **N/A** |
 | [**Coinigy**](https://coinigy.docs.apiary.io) | Interact with Coinigy Accounts and Exchange Accounts Directly. | **N/A** |
 | [**Covalent**](https://www.covalenthq.com/docs/api/) | Multi-blockchain data aggregator at one unified API. | **N/A** |
 | [**Exchange Rates API**](https://blockchain.info/api/exchange_rates_api) | Market Prices and exchanges rates api. | **N/A** |
@@ -172,7 +171,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | --- | ----------- | ---- |
 | [**Facebook Check-In**](https://developers.facebook.com/docs/graph-api/reference/v2.3/checkin) | A check-in made to a location-based Page. | **N/A** |
 | [**Google Places**](https://developers.google.com/places/?hl=en) | Access to Google Places’ API. | **N/A** |
-| [**Foursquare Check-In**](https://developer.foursquare.com/docs/checkins/add) | Allows you to check in to a place. | **N/A** |
+| [**Foursquare Check-In**](https://developer.foursquare.com/reference/v2-checkins-add) | Allows you to check in to a place. | **N/A** |
 
 [⬆ Back to Table of Contents](#table-of-contents)
 ### Commerce
@@ -182,7 +181,6 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**Dummy Products**](https://dummyproducts-api.herokuapp.com/) | Provides dummy products to aid you in prototyping or developing e-commerce type of websites. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
 | [**envoice**](https://www.envoice.in) | Invoicing for online businesses. Simplify your invoicing process and get paid online with a debit or credit card via your payment gateway. | **N/A** |
 | [**koomalooma**](http://business.koomalooma.com) | A Loyalty BPaaS (Business Process as a Service) for mobile and web companies. Merchants issue points for actions their customers/users make, for example a purchase or a referral. koomalooma takes care of all the rest, from signing up users, keeping track of points and delivering rewards in over 80 countries. | 💸 |
-| [**Marketcloud**](https://www.marketcloud.it) | eCommerce APIs for developers. It covers inventory and database, carts and checkout, payments, user authentication, and more. You just bring the frontend. | **N/A** |
 | [**MLScrape**](https://www.mlscrape.com) | Scrape product data from any e-commerce website, free tier with quota that resets monthly. | 💸 |
 | [**Moltin**](https://www.moltin.com/developers) | Unified APIs for inventory, carts, the checkout process, payments and more, so you can focus on creating seamless customer experiences at any scale. | **N/A** |
 | [**Stripe**](https://stripe.com/docs/api) | Allows both private individuals and businesses to accept payments over the Internet. | **N/A** |
@@ -455,7 +453,6 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | --- | ----------- | ---- |
 | [**COVID-19 Data**](https://github.com/M-Media-Group/Covid-19-API) | Get live and historical data regarding Coronavirus cases per country. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
 | [**Infermedica**](https://developer.infermedica.com/docs/introduction) | AI-based engine for patient triage and preliminary medical diagnosis. _v2_ | **N/A** |
-| [**Lexigram**](https://docs.lexigram.io/v1/welcome) | NLP that extracts mentions of clinical concepts from text, gives access to clinical ontology. _v1_ | **N/A** |
 
 [⬆ Back to Table of Contents](#table-of-contents)
 ### Miscellaneous
@@ -725,7 +722,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**GitLab**](https://docs.gitlab.com/ce/api/README.html) | Access to GitLab's API. | **N/A** |
 | [**Mercurial**](https://www.mercurial-scm.org/wiki/MercurialApi) | Access to Mercurial’s API. | **N/A** |
 | [**SVN**](https://subversion.apache.org/docs/api/1.8/) | Collection of modular libraries written in the C programming language. | **N/A** |
-| [**Team Foundation Server**](https://www.visualstudio.com/en-us/docs/integrate/get-started/overview) | TFS APIs are based on REST, OAuth, Json and service hooks. | **N/A** |
+| [**Team Foundation Server**](https://docs.microsoft.com/en-us/azure/devops/integrate/?view=azure-devops) | TFS APIs are based on REST, OAuth, Json and service hooks. | **N/A** |
 
 [⬆ Back to Table of Contents](#table-of-contents)
 ### Sport
@@ -741,7 +738,6 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | API | Description | Open/Trial |
 | --- | ----------- | ---- |
 | [**Faker API**](https://fakerapi.it) | Collection of completely free APIs that helps web developers and web designers with generating fake data. | **N/A** |
-| [**PIPL API**](https://pipl.ir) | Free and public API that generates random and fake people's data in [JSON](https://en.wikipedia.org/wiki/JSON). | **N/A** |
 
 [⬆ Back to Table of Contents](#table-of-contents)
 ### Transportation
@@ -754,7 +750,6 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**HyperTrack**](https://docs.hypertrack.com) | Build applications that track the movement of your business. | 💸 |
 | [**Lyft**](https://www.lyft.com/developers) | Get real-time ETAs, availability, price estimates, ride status through the Lyft API. | **N/A** |
 | [**Postmen**](https://docs.postmen.com/) | Add shipping capability of FedEx, UPS, DHL, USPS and over 40 carriers worldwide. | **N/A** |
-| [**Postmates**](https://postmates.com/developer/docs) | Build on-demand delivery into your app or website. | **N/A** |
 | [**Ola**](https://developers.olacabs.com/) | Help your users find, book and track Ola rides with ease. Ola is India’s most popular cab booking app with availability of rides in more than 100 cities across India. | **N/A** |
 | [**Uber**](https://developer.uber.com/) | Uber provides API for customizing trip experiences, requesting rides, powering logistics, creating bots and so much more. | **N/A** |
 
@@ -770,7 +765,6 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**Tiny.UID**](https://tinyuid.com/docs) | API for shortening long URLs. | **N/A** |
 | [**V.gd**](https://v.gd/developers.php) | Simple URL shortener. Supports custom short link ending. | **N/A** |
 | [**Yourls**](https://yourls.org/#API) | Generate or get existing short URLs, with sequential or custom keyword. | **N/A** |
-| [**Zero Width Shortener**](https://docs.zws.im) | URL shortener that shortens URLs using spaces that have zero width, making them invisible to humans. | **N/A** |
 
 [⬆ Back to Table of Contents](#table-of-contents)
 ### Videogames
@@ -800,7 +794,6 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**Weather Source**](http://weathersource.com/weather-api) | Powerful Weather API built for systems that demand speed, reliability and heavy load. | **N/A** |
 | [**Weatherstack**](https://weatherstack.com/documentation) | Real-Time & Historical World Weather Data API. | **N/A** |
 | [**Wunderground API**](https://www.wunderground.com/weather/api/) | Reliable data, accurate forecast, & global coverage in 80 languages. | **N/A** |
-| [**Yahoo Weather API**](https://developer.yahoo.com/weather/) | Get up-to-date information for any location, including 5-day forecast, wind, atmosphere, astronomy conditions, and more. | **N/A** |
 
 [⬆ Back to Table of Contents](#table-of-contents)
 ### Credits
