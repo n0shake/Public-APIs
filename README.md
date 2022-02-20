@@ -585,6 +585,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**New York Times**](http://developer.nytimes.com/) | Article search, best sellers, campaign finance, community, most popular, real estate, movie reviews, NY state legislature, Times newswire, tags, and people. | **N/A** |
 | [**NewsAPI**](https://newsapi.org/) | 70+ news sources and their headlines, one API. | **N/A** |
 | [**NewsCatcherAPI**](https://newscatcherapi.com/news-api) | News API to find news articles by any topic, country, language, website or keyword. | 💸 |
+| [**RSS API**](https://rssapi.net) | API to parse and subscribe to RSS Feeds to get webhooks when new items are published. | 💸 |
 | [**The Guardian**](http://open-platform.theguardian.com/) | Access a huge range of content from The Guardian. | **N/A** |
 
 [⬆ Back to Table of Contents](#table-of-contents)
