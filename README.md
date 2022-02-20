@@ -762,6 +762,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**Bitly**](http://dev.bitly.com/links.html) | Access to Bitly’s API. | **N/A** |
 | [**GoTiny**](https://github.com/robvanbakel/gotiny-api) | Lightweight and easy to implement URL shortener. Supports custom links and offers JavaScript SDK. | **N/A** |
 | [**Is.gd**](https://is.gd/developers.php) | Simple URL shortener. Supports custom short link ending. | **N/A** |
+| [**Shrtcode**](https://shrtco.de/docs) | Free and unlimited URL shortening API without authentication. | **N/A** |
 | [**ShrtURI**](https://shrturi.com/docs) | URL shortening API for creating short URLs from long URLs. | **N/A** |
 | [**Tiny.cc**](https://tiny.cc/api-docs) | Easy-to-use URL shortener. Supports custom short link ending. | **N/A** |
 | [**Tiny.UID**](https://tinyuid.com/docs) | API for shortening long URLs. | **N/A** |
