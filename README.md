@@ -1,4 +1,4 @@
-# Public-APIs [![Twitter: @abgbm](https://img.shields.io/badge/contact-@n0shake-blue.svg?style=flat)](https://twitter.com/n0shake) [![Build Status](https://travis-ci.org/n0shake/Public-APIs.svg?branch=master)](https://travis-ci.org/n0shake/Public-APIs) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+# Public-APIs [![Twitter: @abgbm](https://img.shields.io/badge/contact-@n0shake-blue.svg?style=flat)](https://twitter.com/n0shake) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
 This is an attempt to categorise different APIs scoured from the web which make their resources available for consumption.
 
@@ -194,7 +194,6 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**iP1sms**](https://www.ip1sms.com/en/developer/) | Send and receive SMS messages worldwide. | 💸 |
 | [**MailGun**](https://mailgun.com) | Transactional Email API Service For Developers. Free first 10000 emails per month. | 💸 |
 | [**Nexmo**](https://developer.nexmo.com) | Make and receive phone calls, send and receive SMS worldwide. Libraries in Node, Ruby, Java, PHP, .NET & Python. | 💸 |
-| [**Phone Number Validation**](https://phonenumbervalidation.apifex.com/) | Check phone number validity, location and timezones. | **N/A** |
 | [**Sakari**](https://developer.sakari.io) | Send and Receive SMS to over 200+ countries around the world. Send one or one million messages from a single API call. | 💸 |
 | [**Telnyx**](https://developers.telnyx.com/) | Build Voice, SMS, Fax, Networking and Cellular IoT applications on a private, purpose-built global communications network. | 💸 |
 | [**The SMS Works**](https://thesmsworks.co.uk/sms-api) | The SMS Works provides a low-cost, reliable SMS API for developers. Pay only for delivered texts, all failed messages are refunded. | 💸 |
@@ -478,7 +477,6 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**Icanhazepoch**](https://icanhazepoch.com) | Get Epoch time. | ![Open Source](https://raw.githubusercontent.com/n0shake/Public-APIs/master/opensource.png "Open Source") |
 | [**Icanhazip**](https://major.io/icanhazip-com-faq/) | IP Address API. | ![Open Source](https://raw.githubusercontent.com/n0shake/Public-APIs/master/opensource.png "Open Source") |
 | [**Image-Charts**](https://www.image-charts.com) | 1 URL = 1 Chart: Get a chart image in response to a URL GET or POST request. A drop-in-replacement for the deprecated Google Image Charts. | **N/A** |
-| [**IP Sidekick**](https://ipsidekick.com) | IP Sidekick is an API that returns information about an IP address. You can use it to customize your content based on the visitor's location or display their country. | **N/A** |
 | [**JSONbin.io**](https://jsonbin.io/api-reference) | Free [JSON](https://en.wikipedia.org/wiki/JSON) data storage service, ideal for small scale web apps, website, mobile apps. | **N/A** |
 | [**Judge0 API**](https://api.judge0.com/) | Compile and run source code. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
 | [**Labs64 NetLicensing**](https://netlicensing.io/wiki/restful-api) ([API Test Center](https://netlicensing.io/NetLicensing-API/)) | Innovative License Management Solution. | **N/A** |
@@ -507,7 +505,6 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**Unixtime**](https://unixtime.co.za/) | Free RESTservice to convert unixtime to datetime and vice versa. | **N/A** |
 | [**Vedic Society API**](https://aninditabasu.github.io/indica/html/vs.html) | A description of all of the nouns in vedic literature, including the flora, fauna, geography, food, relationships, and objects (personal nouns not included, though). | **N/A** |
 | [**Wallhaven**](https://wallhaven.cc/help/api) | A huge wallpaper library. | **N/A** |
-| [**Website Text Extraction**](https://websitetextextraction.apifex.com/) | Scrape websites and get their content as plaintext. | **N/A** |
 | [**Who Hosts This**](https://www.who-hosts-this.com/API) | Detect the hosting provider powering any web site. | **N/A** |
 | [**WolframAlpha**](http://products.wolframalpha.com/api/) | Integrate top of the line computational knowledge into your applications through the WolframAlpha API. | 💸 |
 | [**WorldTimeAPI**](http://worldtimeapi.org) | A JSON/plain-text which returns the (approx) current time for a provided timezone or IP. Targetted at limited-compute IoT devices. | **N/A** |
@@ -594,7 +591,6 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**Cloudmersive NLP APIs**](https://cloudmersive.com/nlp-api) | Wide array of unified NLP APIs including language translation, rephrasing, sentiment analysis, hate speech detection, and more. | **N/A** |
 | [**DialogFlow**](https://dialogflow.com/) | Natural Language Interactions for Bots, Applications, Services, and Devices. | **N/A** |
 | [**Datum Box**](http://www.datumbox.com/machine-learning-api/) | Datumbox offers a powerful open-source Machine Learning Framework written in Java. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
-| [**Language Detection**](https://languagedetection.apifex.com/) | Detect language(s) from pieces of text. | **N/A** |
 | [**LUIS AI**](https://www.luis.ai/) | Language Understanding Intelligent Service offers a fast and effective way of adding language understanding to applications. | **N/A** |
 | [**MeaningCloud**](https://www.meaningcloud.com) | Text analysis APIs for topic extraction, sentiment analysis, automatic classification, morphosyntactic analysis, language detection and more. Several languages are supported. | **N/A** |
 | [**ParallelDots**](https://www.paralleldots.com/text-analysis-apis) | ParallelDots AI APIs are the most comprehensive set of document classification and NLP APIs for software developers that provide state-of-the-art accuracy on most common NLP use-cases such as sentiment analysis and emotion detection. | **N/A** |
@@ -614,7 +610,6 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | --- | ----------- | ---- |
 | [**DummyImage**](https://dummyimage.com/) | Particularly nice, when compared to some of its competitors, in that it offers a great deal of flexibility. | **N/A** |
 | [**Pixabay**](https://pixabay.com/api/docs/) | Restful API for searching and retrieving free images and videos. | **N/A** |
-| [**Placehold**](https://placehold.it/) | A quick and simple image placeholder service. | **N/A** |
 | [**PlaceKitten**](https://placekitten.com/) | A quick and simple service for getting pictures of kittens for use as placeholders in your designs or code. | **N/A** |
 | [**Satyr**](http://satyr.io/) | Free powerful API for generating dummy images with unique features like delay, aspect ratio, variable resolution, themes, flags and offline mode. | **N/A** |
 | [**Lorem Picsum**](https://picsum.photos/) | Beautiful placeholders using images from the popular [Unsplash.](https://unsplash.com/) | **N/A** |
