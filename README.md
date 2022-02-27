@@ -129,7 +129,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 ### Cryptocurrency/Crypto Wallets
 | API | Description | Open/Trial |
 | --- | ----------- | ---- |
-| [**Bitcoin**](https://bitcoin.org/en/developer-documentation) | Find useful resources, guides and reference material for developers. | **N/A** |
+| [**Bitcoin**](https://developer.bitcoin.org/) | Find useful resources, guides and reference material for developers. | **N/A** |
 | [**Bitcoincharts**](https://bitcoincharts.com/about/markets-api/) | You can use this API to include markets data in your websites, mobile apps or desktop applets. | **N/A** |
 | [**bitpay**](https://bitpay.com/developers) | A simple, RESTful API to the most powerful bitcoin infrastructure on the planet. | **N/A** |
 | [**Block**](https://block.io/) | The most versatile and secure wallet for all your coins. | **N/A** |
@@ -241,6 +241,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | --- | ----------- | ---- |
 | [**Dribbble**](http://developer.dribbble.com/) | Dribbble is a community of designers answering that question each day. | **N/A** |
 | [**Behance**](https://www.behance.net/dev/api/endpoints/) | Behance is the leading online platform to showcase & discover creative work. | **N/A** |
+| [**Icon Horse**](https://icon.horse/usage) | Get the favicon logo for any web address, customizable and complete with a fallback if it fails. | **N/A** |
 | [**Pexels**](https://www.pexels.com/api/) | Pexels provides high quality and completely free stock photos licensed under the Creative Commons Zero (CC0) license. | **N/A** |
 | [**PHP-Noise**](https://php-noise.com/) | Noise background image generator api with various parameters. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
 
@@ -582,6 +583,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**New York Times**](http://developer.nytimes.com/) | Article search, best sellers, campaign finance, community, most popular, real estate, movie reviews, NY state legislature, Times newswire, tags, and people. | **N/A** |
 | [**NewsAPI**](https://newsapi.org/) | 70+ news sources and their headlines, one API. | **N/A** |
 | [**NewsCatcherAPI**](https://newscatcherapi.com/news-api) | News API to find news articles by any topic, country, language, website or keyword. | 💸 |
+| [**RSS API**](https://docs.rssapi.net) | API to parse and subscribe to RSS Feeds to get webhooks when new items are published. | 💸 |
 | [**The Guardian**](http://open-platform.theguardian.com/) | Access a huge range of content from The Guardian. | **N/A** |
 
 [⬆ Back to Table of Contents](#table-of-contents)
@@ -755,6 +757,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**Bitly**](http://dev.bitly.com/links.html) | Access to Bitly’s API. | **N/A** |
 | [**GoTiny**](https://github.com/robvanbakel/gotiny-api) | Lightweight and easy to implement URL shortener. Supports custom links and offers JavaScript SDK. | **N/A** |
 | [**Is.gd**](https://is.gd/developers.php) | Simple URL shortener. Supports custom short link ending. | **N/A** |
+| [**Shrtcode**](https://shrtco.de/docs) | Free and unlimited URL shortening API without authentication. | **N/A** |
 | [**ShrtURI**](https://shrturi.com/docs) | URL shortening API for creating short URLs from long URLs. | **N/A** |
 | [**Tiny.cc**](https://tiny.cc/api-docs) | Easy-to-use URL shortener. Supports custom short link ending. | **N/A** |
 | [**Tiny.UID**](https://tinyuid.com/docs) | API for shortening long URLs. | **N/A** |
