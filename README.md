@@ -770,6 +770,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | API | Description | Open/Trial |
 | --- | ----------- | ---- |
 | [**Autochess VNG API**](https://github.com/didadadida93/autochess-vng-api) | API that provides data about Autochess VNG. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
+| [**CSGO API**](https://bymykel.me/CSGO-API/) | An unofficial JSON API for Counter-Strike: Global Offensive. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
 | [**Clash Royale**](https://github.com/martincarrera/clash-royale-api) | API that provides information about Clash Royale game. | **N/A** |
 | [**FreeToGame**](https://www.freetogame.com/api-doc) | Free-to-play games database API. | **N/A** |
 | [**GamerPower**](https://www.gamerpower.com/api-read) | Access programmatically the best giveaways in gaming, from free games to beta keys to free in-game loot and more.| **N/A** |
