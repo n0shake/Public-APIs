@@ -462,6 +462,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | --- | ----------- | ---- |
 | [**Aadhaar Bridge**](https://www.aadhaarbridge.com/) | Aadhaar is a 12-digit unique identification number issued by the Indian government to every individual resident of India. API allows you to authenticate and perform ekYC and eSign using Aadhar. | 💸 |
 | [**Mozilla Addons**](https://addons-server.readthedocs.io/en/latest/topics/api/index.html) | Mozilla's catalogue of addons for Firefox-compatible web browsers. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
+| [**Bored API**](https://www.boredapi.com/) | Generates tasks to do when bored | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
 | [**Bhagavad Gita**](https://bhagavadgita.io/) | Bhagavad Gita in various languages. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
 | [**Breaking Bad Quotes**](https://breakingbadquotes.xyz/) | A simple API to retrieve some quotes of Breaking Bad, bitch! | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
 | [**Bruzu**](https://docs.bruzu.com) |  Dynamically generate Images with a URL string. This service allows you to create dynamic images using nothing more than a URL string.| 💸 |
