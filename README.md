@@ -276,11 +276,11 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**Marvel**](https://developer.marvel.com/) | Access over 70 years of comic data with Marvel's official developer API. | **N/A** |
 | [**My Anime List API**](https://jikan.moe/) | Get data about any specific anime or anime genre of your choice. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
 | [**Owen Wilson Wow API**](https://owen-wilson-wow-api.herokuapp.com/) | JSON API for actor Owen Wilson's "wow" exclamations in movies. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
-| [**Pokéapi**](https://pokeapi.co/) | All the Pokémon data you'll ever need, in one place. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
-| [**Rick and Morty**](https://rickandmortyapi.com/) | All the Rick and Morty information, including images. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
-| [**Star Wars API (SWAPI)**](https://www.swapi.tech/) | All things Star Wars, based on Wookpedia and other sources. Reboot of original swapi.co, guaranteed to be maintained. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
-| [**Studio Ghibli**](https://ghibliapi.herokuapp.com/) | Resources from Studio Ghibli films. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
-| [**TCGdex**](https://www.tcgdex.dev/) | A Multilanguage Pokémon TCG Database with Cards Pictures and most of the informations contained on the cards. ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
+| [**Pokéapi**](https://pokeapi.co/) | All the Pokémon data you'll ever need, in one place. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
+| [**Rick and Morty**](https://rickandmortyapi.com/) | All the Rick and Morty information, including images. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
+| [**Star Wars API (SWAPI)**](https://www.swapi.tech/) | All things Star Wars, based on Wookpedia and other sources. Reboot of original swapi.co, guaranteed to be maintained. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
+| [**Studio Ghibli**](https://ghibliapi.herokuapp.com/) | Resources from Studio Ghibli films. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
+| [**TCGdex**](https://www.tcgdex.dev/) | A Multilanguage Pokémon TCG Database with Cards Pictures and most of the informations contained on the cards. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
 
 [⬆ Back to Table of Contents](#table-of-contents)
 ### Events
