@@ -513,6 +513,8 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**Who Hosts This**](https://www.who-hosts-this.com/API) | Detect the hosting provider powering any web site. | **N/A** |
 | [**WolframAlpha**](http://products.wolframalpha.com/api/) | Integrate top of the line computational knowledge into your applications through the WolframAlpha API. | 💸 |
 | [**WorldTimeAPI**](http://worldtimeapi.org) | A JSON/plain-text which returns the (approx) current time for a provided timezone or IP. Targetted at limited-compute IoT devices. | **N/A** |
+|  [**Codewars API**](https://dev.codewars.com/#content-type) | Free API for coding challenge website allowing lookup/search for users to find information such as rank and leaderboard | **N/A** |
+
 
 [⬆ Back to Table of Contents](#table-of-contents)
 ### Movies
