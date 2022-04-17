@@ -469,6 +469,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**Callook.info**](https://callook.info) | Look up information about United States ham radio callsigns. | **N/A** |
 | [**ChuckNorris.io**](https://api.chucknorris.io) | A free [JSON](https://en.wikipedia.org/wiki/JSON) API for hand curated Chuck Norris facts. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
 | [**Cloudflare Trace**](https://www.cloudflare.com/cdn-cgi/trace) | Get IP Address, Timestamp, User Agent, Country Code, IATA, HTTP Version, TLS/SSL Version & More. | **N/A** |
+| [**Codewars API**](https://dev.codewars.com/#introduction) | Coding challenge website API that allows access usernames, leaderboards, and real time statistics for coding problems. | **N/A** |
 | [**Dataflow Kit**](https://dataflowkit.com/doc-api) | Web Scraper API to extract information from web sites, scrape SERPs, convert web pages to PDF, and capture screenshots. | 💸 |
 | [**Don't Kill My App**](https://github.com/urbandroid-team/dont-kill-my-app) | Database of ways mobile vendors inhibit background activity of apps. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
 | [**Domainsdb.info**](https://domainsdb.info) | Registered domain names search checks the lists of registered domains for names containing particular words/phrases/numbers or symbols. | **N/A** |
