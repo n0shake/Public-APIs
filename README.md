@@ -680,6 +680,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 ### Social Media
 | API | Description | Open/Trial |
 | --- | ----------- | ---- |
+| [**Ayrshare**](https://docs.ayrshare.com) | Social media APIs for scheduling, analytics, comments, and more. | 💸 |
 | [**Daily Motion**](https://developer.dailymotion.com/) | Build applications centered around DailyMotion. | **N/A** |
 | [**Dangerous Discord Database**](https://discord.riverside.rocks/docs/index.php) | Access a database of Dangerous Discord Users. | **N/A** |
 | [**Delicious**](https://github.com/domainersuitedev/delicious-api) | Access to Delicious’s API. | **N/A** |
