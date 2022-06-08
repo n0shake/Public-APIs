@@ -830,6 +830,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 - [**More Awesome APIs**](https://github.com/Kikobeats/awesome-api)
 - [**Programmable Web**](https://www.programmableweb.com/apis/directory)
 - [**Postman API Tools**](https://www.getpostman.com/docs/postman/postman_api/intro_api)
+- [**OSINT Framework for data gathering**](https://osintframework.com)
 
 [⬆ Back to Table of Contents](#table-of-contents)
 ### Contributions
