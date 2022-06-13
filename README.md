@@ -185,6 +185,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**Moltin**](https://www.moltin.com/developers) | Unified APIs for inventory, carts, the checkout process, payments and more, so you can focus on creating seamless customer experiences at any scale. | **N/A** |
 | [**Stripe**](https://stripe.com/docs/api) | Allows both private individuals and businesses to accept payments over the Internet. | **N/A** |
 | [**Braintree**](https://developers.braintreepayments.com) | Specializes in mobile and web payment systems for ecommerce companies. | **N/A** |
+| [**Yellow Pages API**](https://github.com/Hrushi11/Yellow-Pages-End-API) | 	Get data for all categories of businesses in any city of US. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png) |
 
 [⬆ Back to Table of Contents](#table-of-contents)
 ### Communication
