@@ -790,6 +790,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**GiantBomb**](http://www.giantbomb.com/api/) | API to query the GiantBomb database for videogames, characters, companies, genres and many more. | **N/A** |
 | [**Hyrule Compendium**](http://github.com/gadhagod/Hyrule-Compendium-API) | API serving data on all interactive items in _The Legend of Zelda: Breath of the Wild_. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
 | [**IGDB**](https://www.igdb.com/api) | Access the International Games Database and get information about videogames, characters, companies, genres and many more. Commercial usage is allowed. | **N/A** |
+| [**League of Legends**](https://developer.riotgames.com/) | League of Legends Game Information | **N/A** |
 | [**MMO Games**](https://www.mmobomb.com/api) | MMO Games database, news and giveaways. | **N/A** |
 | [**RAWG**](https://rawg.io/apidocs) | Open video game database. Find games by platform, genre, company or find game developers, stores, publishers and many more. | **N/A** |
 
