@@ -184,6 +184,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**MLScrape**](https://www.mlscrape.com) | Scrape product data from any e-commerce website, free tier with quota that resets monthly. | 💸 |
 | [**Moltin**](https://www.moltin.com/developers) | Unified APIs for inventory, carts, the checkout process, payments and more, so you can focus on creating seamless customer experiences at any scale. | **N/A** |
 | [**Stripe**](https://stripe.com/docs/api) | Allows both private individuals and businesses to accept payments over the Internet. | **N/A** |
+| [**Repetiti**](https://developers.repetiti.com) | Repetiti 3d Printer Management Service, access and control 3d Printers easily. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png) |
 | [**Braintree**](https://developers.braintreepayments.com) | Specializes in mobile and web payment systems for ecommerce companies. | **N/A** |
 | [**Yellow Pages API**](https://github.com/Hrushi11/Yellow-Pages-End-API) | 	Get data for all categories of businesses in any city of US. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png) |
 
