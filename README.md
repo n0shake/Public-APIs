@@ -415,7 +415,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**LinkedIn**](https://developer.linkedin.com/docs/signin-with-linkedin) | Make it convenient for your users to sign in with their professional identity. | **N/A** |
 | [**PayPal**](https://developer.paypal.com/docs/integration/direct/identity/log-in-with-paypal/) | Enables your customers to sign in to your web site quickly and securely using their PayPal login credentials. | **N/A** |
 | [**Salesforce**](https://developer.salesforce.com/docs/atlas.en-us.api_rest.meta/api_rest/intro_understanding_authentication.htm) | Salesforce uses the OAuth protocol to allow users of applications to securely access data without having to reveal username and password credentials. | **N/A** |
-| [**Twitter Sign-in**](https://dev.twitter.com/web/sign-in) | Works on websites, iOS, mobile and desktop applications. | **N/A** |
+| [**Twitter Sign-in**]([https://developer.twitter.com/web/sign-in](https://developer.twitter.com/en/docs/authentication/guides/log-in-with-twitter)) | Works on websites, iOS, mobile and desktop applications. | **N/A** |
 | [**WorkOS**](https://workos.com/docs) | Support Single Sign-On for common Enterprise Identity Providers (Okta, Azure, OneLogin). | **N/A** |
 
 [⬆ Back to Table of Contents](#table-of-contents)
@@ -710,7 +710,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**Telegram**](https://core.telegram.org/) | The Telegram API allows you to build your own customized Telegram clients. | **N/A** |
 | [**Trash Nothing**](https://trashnothing.com/developer) | Build apps on top of one of the largest freecycling and reuse communities with millions of people giving away thousands of free items every day. | **N/A** |
 | [**Twitch**](https://dev.twitch.tv/docs) | The Twitch API enables you to develop your own applications using the rich feature set that Twitch provides. | **N/A** |
-| [**Twitter**](https://dev.twitter.com/) | Enables an app to interact with most of Twitter’s functions. | **N/A** |
+| [**Twitter**](https://developer.twitter.com/) | Enables an app to interact with many of Twitter’s functions. | **N/A** |
 | [**Tumblr**](https://www.tumblr.com/docs/en/api/v2) | Create new ways to use Tumblr with access to content, likes, followers, and drafts. | **N/A** |
 | [**Vimeo**](https://developer.vimeo.com/) | Access to Vimeo’s API. | **N/A** | 
 | [**Viber**](https://developers.viber.com/docs/api/) | With Viber’s APIs, can create unique experiences for users at scale. | **N/A** |
