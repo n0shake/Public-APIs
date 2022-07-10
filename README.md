@@ -274,6 +274,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**Comic Vine**](http://comicvine.gamespot.com/api/) | An extremely mature, well organized and continually updated resource of comic information. | **N/A** |
 | [**Comichron Data**](https://github.com/comichron-data/api) | API for comic sales data from comichron.com. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
 | [**Danbooru**](https://danbooru.donmai.us/posts?tags=help%3Aapi) | Get images categorized by tags. | **N/A** |
+| [**Dune**](https://github.com/ywalia01/dune-api) | A simple API which provides you with book, character, movie and quotes JSON data. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
 | [**Final Space API**](https://finalspaceapi.com/docs/) | A RESTful API that provides information and images about Final Space show. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
 | [**Fun Translations API**](https://funtranslations.com/api/) | Translate to over 50+ languages from various TV Series and Movies. | **N/A** |
 | [**Jandapress API**](https://github.com/sinkaroid/jandapress) | A doujinshi API with gather in mind. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
