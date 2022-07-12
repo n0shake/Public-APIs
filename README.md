@@ -205,6 +205,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 ### Content
 | API | Description | Open/Trial |
 | --- | ----------- | ---- |
+| [**Bible**](https://bible-api.com/) | JSON API for public domain and open bible translations. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") | 
 | [**Jokes**](https://jokes.one/api/joke/) | Full featured Jokes API  | 💸 |
 | [**Perfect Tense API**](https://www.perfecttense.com/developers) | The Perfect Tense API is the only spelling and grammar checking API that uses artificial intelligence to automatically correct all of your text in one call. | 💸 |
 | [**qKast Channel Content**](https://github.com/egfx/qKast) | Access live content collections sourced from any page around the web. | **N/A** |
