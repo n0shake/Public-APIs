@@ -22,6 +22,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 - [Currency](#currency)
 - [Data Science](#data-science)
 - [Design](#design)
+- [Development](#development)
 - [Dictionary](#dictionary)
 - [Entertainment](#entertainment)
 - [Events](#events)
@@ -248,6 +249,12 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**Icon Horse**](https://icon.horse/usage) | Get the favicon logo for any web address, customizable and complete with a fallback if it fails. | **N/A** |
 | [**Pexels**](https://www.pexels.com/api/) | Pexels provides high quality and completely free stock photos licensed under the Creative Commons Zero (CC0) license. | **N/A** |
 | [**PHP-Noise**](https://php-noise.com/) | Noise background image generator api with various parameters. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
+
+[⬆ Back to Table of Contents](#table-of-contents)
+### Development
+| API | Description | Open/Trial |
+| --- | ----------- | ---- |
+| [**Shadify**](https://github.com/cheatsnake/shadify) | Service for generating data and executing logic to create various games and puzzles. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
 
 [⬆ Back to Table of Contents](#table-of-contents)
 ### Dictionary
