@@ -508,6 +508,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**Quran-api**](https://github.com/fawazahmed0/quran-api#readme) | Free Quran API Service with 90+ different languages and 400+ translations. | ![Open Source](https://raw.githubusercontent.com/n0shake/Public-APIs/master/opensource.png "Open Source") |
 | [**Rocketium Video API**](https://rocketium.com/api/?utm_source=github&utm_medium=repository&utm_campaign=abhishekbanthia&utm_content=api_solution) | Rocketium Video API allows you to create Buzzfeed-like videos programmatically. | 💸 |
 | [**Scraper API**](https://www.scraperapi.com) | Scraper API handles proxies, browsers, and CAPTCHAs so developers can easily build scalable web scrapers. | **N/A** |
+| [**Shadify**](https://github.com/cheatsnake/shadify) | Service for generating data and executing logic to create various games and puzzles. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
 | [**Spreaker**](https://developers.spreaker.com/) | Enables developers to read and write data to Spreaker. | **N/A** |
 | [**StackExchange**](https://api.stackexchange.com/) | The StackExchange API provides RESTful services to all the sites on the StackExchange domain. | **N/A** |
 | [**RandomUserGenerator**](https://randomuser.me/) | An API for generating random user data. Like Lorem Ipsum, but for people. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
