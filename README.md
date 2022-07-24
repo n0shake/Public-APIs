@@ -20,7 +20,6 @@ This is an attempt to categorise different APIs scoured from the web which make 
 - [Communication](#communication)
 - [Content](#content)
 - [Currency](#currency)
-- [Data Science](#data-science)
 - [Design](#design)
 - [Dictionary](#dictionary)
 - [Entertainment](#entertainment)
@@ -181,7 +180,6 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**Dummy Products**](https://dummyproducts-api.herokuapp.com/) | Provides dummy products to aid you in prototyping or developing e-commerce type of websites. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
 | [**envoice**](https://www.envoice.in) | Invoicing for online businesses. Simplify your invoicing process and get paid online with a debit or credit card via your payment gateway. | **N/A** |
 | [**koomalooma**](http://business.koomalooma.com) | A Loyalty BPaaS (Business Process as a Service) for mobile and web companies. Merchants issue points for actions their customers/users make, for example a purchase or a referral. koomalooma takes care of all the rest, from signing up users, keeping track of points and delivering rewards in over 80 countries. | 💸 |
-| [**MLScrape**](https://www.mlscrape.com) | Scrape product data from any e-commerce website, free tier with quota that resets monthly. | 💸 |
 | [**Moltin**](https://www.moltin.com/developers) | Unified APIs for inventory, carts, the checkout process, payments and more, so you can focus on creating seamless customer experiences at any scale. | **N/A** |
 | [**Stripe**](https://stripe.com/docs/api) | Allows both private individuals and businesses to accept payments over the Internet. | **N/A** |
 | [**Repetiti**](https://developers.repetiti.com) | Repetiti 3d Printer Management Service, access and control 3d Printers easily. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png) |
@@ -232,12 +230,6 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**OpenRates.io**](http://www.openrates.io/) | Live exchange rates and currency conversion API. | **N/A** | 
 | [**ratesapi.io**](https://ratesapi.io/) | Free foreign currency exchange rates and currency conversion. | **N/A** | 
 
-[⬆ Back to Table of Contents](#table-of-contents)
-### Data Science
-| API | Description | Open/Trial |
-| --- | ----------- | ---- |
-| [**Data Science Toolkit**](https://github.com/petewarden/dstk) | A collection of the best open data sets and open-source tools for data science. | **N/A** |
-| [**Time Door**](https://timedoor.io) | Time Door is an API for statistical insights into time series data. | 💸 |
 
 [⬆ Back to Table of Contents](#table-of-contents)
 ### Design
@@ -484,6 +476,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**Cloudlayer.io**](https://cloudlayer.io) | Document Generation Service that allows you to generate PDFs and Images from websites, HTML, or Templates. | 💸 |
 | [**Codewars API**](https://dev.codewars.com/#introduction) | Coding challenge website API that allows access usernames, leaderboards, and real time statistics for coding problems. | **N/A** |
 | [**Dataflow Kit**](https://dataflowkit.com/doc-api) | Web Scraper API to extract information from web sites, scrape SERPs, convert web pages to PDF, and capture screenshots. | 💸 |
+| [**Data Science Toolkit**](https://github.com/petewarden/dstk) | A collection of the best open data sets and open-source tools for data science. | **N/A** |
 | [**Don't Kill My App**](https://github.com/urbandroid-team/dont-kill-my-app) | Database of ways mobile vendors inhibit background activity of apps. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
 | [**Domainsdb.info**](https://domainsdb.info) | Registered domain names search checks the lists of registered domains for names containing particular words/phrases/numbers or symbols. | **N/A** |
 | [**Evil Insult Generator**](https://evilinsult.com/api/) | Offers the most evil insults. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
@@ -517,7 +510,6 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**Scraper API**](https://www.scraperapi.com) | Scraper API handles proxies, browsers, and CAPTCHAs so developers can easily build scalable web scrapers. | **N/A** |
 | [**Spreaker**](https://developers.spreaker.com/) | Enables developers to read and write data to Spreaker. | **N/A** |
 | [**StackExchange**](https://api.stackexchange.com/) | The StackExchange API provides RESTful services to all the sites on the StackExchange domain. | **N/A** |
-| [**Sunnah Fasting API**](https://api.puasa-sunnah.granitebps.com/swagger/index.html) | List of sunnah fasting schedule. Start from year 2022. | ![Open Source](https://raw.githubusercontent.com/n0shake/Public-APIs/master/opensource.png "Open Source") |
 | [**RandomUserGenerator**](https://randomuser.me/) | An API for generating random user data. Like Lorem Ipsum, but for people. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
 | [**RestCountries**](https://restcountries.eu) | Get information about countries via a RESTful API. | **N/A** |
 | [**Typeform**](https://developer.typeform.com/) | Typeform's APIs allow you to create and edit Typeform surveys, and retrieve survey responses on demand. | **N/A** |
