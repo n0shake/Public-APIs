@@ -510,6 +510,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**Rocketium Video API**](https://rocketium.com/api/?utm_source=github&utm_medium=repository&utm_campaign=abhishekbanthia&utm_content=api_solution) | Rocketium Video API allows you to create Buzzfeed-like videos programmatically. | 💸 |
 | [**Scraper API**](https://www.scraperapi.com) | Scraper API handles proxies, browsers, and CAPTCHAs so developers can easily build scalable web scrapers. | **N/A** |
 | [**Shadify**](https://github.com/cheatsnake/shadify) | Service for generating data and executing logic to create various games and puzzles. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
+| [**Shotstack Video Editing API**](https://shotstack.io/?utm_source=github&utm_medium=public_api_repository) | Shotstack Video Editing API allows you to build video automation workflows or video-first applications with capability to edit and generate thousands of customized videos. | 💸 |
 | [**Spreaker**](https://developers.spreaker.com/) | Enables developers to read and write data to Spreaker. | **N/A** |
 | [**StackExchange**](https://api.stackexchange.com/) | The StackExchange API provides RESTful services to all the sites on the StackExchange domain. | **N/A** |
 | [**RandomGermanWords**](https://zufallsworte.herokuapp.com/redoc) | An API for generating random german words. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
