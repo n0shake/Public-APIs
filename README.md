@@ -109,6 +109,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 ### BarCode
 | API | Description | Open/Trial |
 | --- | ----------- | ---- |
+| [**Dynamic QR Code**](https://rapidapi.com/updeploy-tools/api/qr-code-dynamic-and-static1/details) | Generate dynamic and static QR Codes. | 💸 |
 | [**Google Barcode**](https://developers.google.com/vision/barcodes-overview?hl=en) | The Barcode API detects barcodes in real-time, on device, in any orientation. It can also detect multiple barcodes at once. | **N/A** |
 | [**EAN-Search**](https://www.ean-search.org/ean-database-api.html) | The EAN-Search API allows you to lookup products by EAN, UPC or GTIN barcode. | 💸 |
 | [**QR Code API**](https://fungenerators.com/api/qrcode/) | QR Code REST API. Can create QR code images or read existing images and return the contents. | `💸` |
