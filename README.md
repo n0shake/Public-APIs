@@ -542,7 +542,6 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**Last.fm**](http://www.last.fm/api) | The Last.fm API allows anyone to build their own programs using Last.fm data, whether they're on the web, the desktop or mobile devices. | **N/A** |
 | [**musicApi**](https://github.com/LIU9293/musicAPI) | Centralized Node.JS API SDK for the top 3 music providers in China, Xiami, Netease, and QQ music. | **N/A** |
 | [**NPR API**](https://dev.npr.org/) | NPR's API is a content API, which essentially provides a structured way for other computer applications to get NPR stories in a  predictable, flexible and powerful way. | **N/A** |
-| [**QuantOneMusic**](http://quantonemusic.com/) | Answers the need for digital music data. | **N/A** |
 | [**Rhapsody**](https://developer.rhapsody.com/) | Access metadata, user’s entire library of music and do much more. | **N/A** |
 | [**SearchLy**](https://github.com/AlbertSuarez/searchly) | Song similarity search API based on lyrics. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
 | [**SoundCloud**](https://developers.soundcloud.com) | Using the SoundCloud API, you can build applications that take sound on the web to the next level. | **N/A** |
@@ -559,7 +558,6 @@ This is an attempt to categorise different APIs scoured from the web which make 
 ### Music Discovery
 | API | Description | Open/Trial |
 | --- | ----------- | ---- |
-| [**Rovi**](https://developers.rovicorp.com/) | Access to Metadata, search capabilities and recommendations. | **N/A** |
 | [**Setlist.fm**](https://api.setlist.fm/docs/1.0/index.html) | The setlist.fm API has been designed to give you easy access to setlist data in order to build fancy websites and other applications. | **N/A** |
 | [**TuneFind**](http://www.tunefind.com/api) | Allows developers to enhance their services with song, show, and movie data from TuneFind. | **N/A** |
 | [**Genius**](https://docs.genius.com/#/getting-started-h1) | Allows users to find details about Genius artists and songs. | **N/A** |
