@@ -657,6 +657,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**Hindi Quotes**](https://hindi-quotes.vercel.app/) | Get random Hindi quotes of different categories.| ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
 | [**Quotable**](https://github.com/lukePeavey/quotable) | Fetch quotes based on your query parameters, which includes random quotes by author, ID, tags and more. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
 | [**They Said So**](http://quotes.rest/qod.json?category=inspire) | Gives you a random quote per day. | **N/A** |
+| [**Breaking Bad**](https://breakingbadquotes.xyz) | Gives quotes from "Breaking Bad". | **N/A** |
 
 [⬆ Back to Table of Contents](#table-of-contents)
 ### Retail
