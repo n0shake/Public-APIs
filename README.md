@@ -712,6 +712,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**Saidit**](https://github.com/IThinkImOKAY/rsaw) | Open source API wrapper made for the Reddit alternative Saidit.net. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
 | [**Snapchat**](https://github.com/mgp25/SC-API) | PHP library of Snapchat’s private API. | **N/A** |
 | [**Telegram**](https://core.telegram.org/) | The Telegram API allows you to build your own customized Telegram clients. | **N/A** |
+| [**TikTok**](https://developers.tiktok.com/) | TikTok Display API allows you to display TikTok creator's videos and their profile information and many more features | **N/A** |
 | [**Trash Nothing**](https://trashnothing.com/developer) | Build apps on top of one of the largest freecycling and reuse communities with millions of people giving away thousands of free items every day. | **N/A** |
 | [**Twitch**](https://dev.twitch.tv/docs) | The Twitch API enables you to develop your own applications using the rich feature set that Twitch provides. | **N/A** |
 | [**Twitter**](https://developer.twitter.com/) | Enables an app to interact with many of Twitter’s functions. | **N/A** |
