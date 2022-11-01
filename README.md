@@ -146,9 +146,11 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**Coinigy**](https://coinigy.docs.apiary.io) | Interact with Coinigy Accounts and Exchange Accounts Directly. | **N/A** |
 | [**Covalent**](https://www.covalenthq.com/docs/api/) | Multi-blockchain data aggregator at one unified API. | **N/A** |
 | [**Exchange Rates API**](https://blockchain.info/api/exchange_rates_api) | Market Prices and exchanges rates api. | **N/A** |
+| [**PENDAX**](https://github.com/CompendiumFi/PENDAX-SDK) | Javascript SDK for Trading, Data, and Websockets for FTX, FTXUS, OKX, Bybit, & More. | **N/A** |
+| [**Poloniex**](https://poloniex.com/support/api/) | US based digital asset exchange. | **N/A** |
 | [**ShapeShift.io**](https://shapeshift.io/) | Exchange between cryptocurrencies without an account. Well documented API for easy use. | **N/A** |
 | [**Technical Analysis**](https://technical-analysis-api.com) | Cryptocurrency prices, technical analysis and sentiment detection. | **N/A** |
-| [**Poloniex**](https://poloniex.com/support/api/) | US based digital asset exchange. | **N/A** |
+
 
 [⬆ Back to Table of Contents](#table-of-contents)
 ### Calendar
