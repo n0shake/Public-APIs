@@ -266,7 +266,6 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | API | Description | Open/Trial |
 | --- | ----------- | ---- |
 | [**Anilist**](https://anilist.gitbook.io/anilist-apiv2-docs/) | Free Graphql api for thousands of animes, mangas, characters and staff | **N/A** |
-| [**Animechan**](https://animechan.vercel.app/guide) | Free restful API providing anime quotes. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")|
 | [**Better Call Saul API**](https://better-call-saul-api.onrender.com/) | Your favorite lawyer's API. Get data for characters, episodes and much more. | **N/A** |
 | [**Bob's Burgers API**](https://www.bobsburgersapi.com/documentation) | Get data for hundreds of characters, episodes, running gags, and images from the show. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
 | [**Breaking Bad & Better Call Saul API**](https://breakingbadapi.com/documentation) | Get data about characters, episodes, quotes, and deaths. | **N/A** |
@@ -711,7 +710,6 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**LinkedIn**](https://developer.linkedin.com/) | Enables apps to connect to user accounts, data, connections, groups, communications, and social streams. | **N/A** |
 | [**Mastodon**](https://docs.joinmastodon.org/) | Access to [Mastodon](https://github.com/tootsuite/mastodon)’s APIs, the Open-source twitter competitor. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
 | [**Microlink**](https://microlink.io) | Turns any link into information. Take screenshots, extract predominant palette colors. | **N/A** |
-| [**MySocialApp**](https://mysocialapp.io) | Seamless Social Networking features, API, SDK for any app. | **N/A** |
 | [**Pinterest**](https://www.pinterest.com/login/?next=http%3A%2F%2Fdevelopers.pinterest.com%2Fapi_docs%2F) | Enables apps to view the most clicked-through or repinned Pins, view related posts, and user profiles. | **N/A** |
 | [**Reddit**](https://github.com/reddit/reddit/wiki/API) | API to build clients, crawlers, scrapers, and browser extensions. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
 | [**Saidit**](https://github.com/IThinkImOKAY/rsaw) | Open source API wrapper made for the Reddit alternative Saidit.net. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
