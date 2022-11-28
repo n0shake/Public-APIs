@@ -266,7 +266,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | API | Description | Open/Trial |
 | --- | ----------- | ---- |
 | [**Anilist**](https://anilist.gitbook.io/anilist-apiv2-docs/) | Free Graphql api for thousands of animes, mangas, characters and staff | **N/A** |
-| [**Better Call Saul API**](https://better-call-saul-api.onrender.com/) | Your favorite lawyer's API. Get data for characters, episodes and much more. | **N/A** |
+| [**Better Call Saul API**](https://bettercallsaul-api.onrender.com) | Your favorite lawyer's API. Get data for characters, episodes and much more. | **N/A** |
 | [**Bob's Burgers API**](https://www.bobsburgersapi.com/documentation) | Get data for hundreds of characters, episodes, running gags, and images from the show. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
 | [**Breaking Bad & Better Call Saul API**](https://breakingbadapi.com/documentation) | Get data about characters, episodes, quotes, and deaths. | **N/A** |
 | [**Capybara API**](https://docs.capybara-api.xyz/) | API for capybara images and facts. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
@@ -289,7 +289,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**Star Wars API (SWAPI)**](https://www.swapi.tech/) | All things Star Wars, based on Wookpedia and other sources. Reboot of original swapi.co, guaranteed to be maintained. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
 | [**Studio Ghibli**](https://ghibliapi.herokuapp.com/) | Resources from Studio Ghibli films. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
 | [**TCGdex**](https://www.tcgdex.dev/) | A Multilanguage Pokémon TCG Database with Cards Pictures and most of the informations contained on the cards. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
-| [**The Walking Dead API**](https://the-walking-dead-api.onrender.com/) | Free to use RESTful API based upon The Walking Dead Series. | **N/A** |
+| [**The Walking Dead API**](https://thewalkingdead-api.onrender.com/) | Free to use RESTful API based upon The Walking Dead Series. | **N/A** |
 
 [⬆ Back to Table of Contents](#table-of-contents)
 ### Events
