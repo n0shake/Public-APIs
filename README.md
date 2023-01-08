@@ -809,7 +809,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | --- | ----------- | ---- |
 | [**AccuWeather**](https://developer.accuweather.com/) | AccuWeather provides hourly and minute by minute forecasts with Superior accuracy. AccuWeather provides the world’s most sophisticated weather intelligence. | 💸 |
 | [**AerisWeather**](https://www.aerisweather.com) | Global weather data and imagery APIs, with a free developer subscription tier, boasting detailed documentation for simple to advanced queries, free SDKs and a Map Builder to get you up and running faster. | **N/A** |
-| [**BlueSky API**](https://www.blueskyapi.io) | Global weather data, both live forecasts and forecast history, free tier available. | **N/A** |
+| [**BlueSky API**](https://blueskyapi.io/docs/api) | Global weather data, both live forecasts and forecast history, free tier available. | **N/A** |
 | [**Open-Meteo**](https://open-meteo.com/en/docs) | Global weather forecast API. Free for non-commercial use. **No API key required**. [CORS](https://en.wikipedia.org/wiki/Cross-origin_resource_sharing) supported. | **N/A** |
 | [**Open Weather**](http://openweathermap.org/api) | Access current weather data for any location on Earth including over 200,000 cities! | **N/A** |
 | [**Storm Glass Marine Weather API**](https://stormglass.io) | Global marine weather data from multiple sources in one single API! | **N/A** |
