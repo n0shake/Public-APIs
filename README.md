@@ -155,10 +155,11 @@ This is an attempt to categorise different APIs scoured from the web which make 
 
 [⬆ Back to Table of Contents](#table-of-contents)
 ### Calendar
-| API | Description | Open/Trial |
-| --- | ----------- | ---- |
-| [**CalendarIndex**](https://www.calendarindex.com) | Worldwide Holidays and Working Days API. | **N/A** |
-| [**Holiday API**](https://holidayapi.pl/) | Public holiday API service for several supported countries. | **N/A** |
+| API                                                | Description                                                 | Open/Trial |
+|----------------------------------------------------|-------------------------------------------------------------| ---- |
+| [**CalendarIndex**](https://www.calendarindex.com) | Worldwide Holidays and Working Days API.                    | **N/A** |
+| [**DigiDates API**](https://digidates.de/en/)      | Rest API for date and time calculations.                    | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png) |
+| [**Holiday API**](https://holidayapi.pl/)          | Public holiday API service for several supported countries. | **N/A** |
 
 [⬆ Back to Table of Contents](#table-of-contents)
 ### Captcha
