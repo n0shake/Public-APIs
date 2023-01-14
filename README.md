@@ -658,7 +658,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 ### Quotes
 | API | Description | Open/Trial |
 | --- | ----------- | ---- |
-| [**Breaking Bad**](https://breakingbadquotes.xyz) | Gives quotes from "Breaking Bad". | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source")
+| [**Breaking Bad**](https://breakingbadquotes.xyz) | Gives quotes from "Breaking Bad". | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
 | [**FavQs**](https://favqs.com/api) | FavQs allows you to collect, discover, and share your favorite quotes. | **N/A** |
 | [**Forismatic**](http://api.forismatic.com/api/1.0/) | Gives you a random quote per click. | **N/A** |
 | [**Hindi Quotes**](https://hindi-quotes.vercel.app/) | Get random Hindi quotes of different categories.| ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
