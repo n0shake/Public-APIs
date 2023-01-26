@@ -752,7 +752,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**Ergast Formula 1**](http://ergast.com/mrd/) | Provides access to current and historical Formula 1 race data from 1950 to today. | **N/A** |
 | [**FIFA women's world cup 2019**](https://worldcup.sfg.io/) | FIFA women's world cup 2019 matches and group stage results. | **N/A** |
 | [**Football Prediction**](https://boggio-analytics.com/fp-api/) | Predictions for upcoming football matches, odds, results and stats. | 💸 |
-| [**Sports Data API Providers**](https://sportsapi.com/) | Reviews, coverage and prices from sports data providers. | **N/A** |
+| [**Sports Data API Providers**](https://sportsapi.com/api-directory/) | Reviews, coverage and prices from sports data providers. | **N/A** |
 | [**TheSportsDB**](http://www.thesportsdb.com/) | Various sports events, results, players, teams and high quality artwork. | **N/A** |
 
 [⬆ Back to Table of Contents](#table-of-contents)
