@@ -87,7 +87,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | --- | ----------- | ---- |
 | [**Amazon Mobile Analytics**](https://aws.amazon.com/documentation/mobileanalytics/) | Service for collecting, visualizing, and understanding app usage data at scale. | **N/A** |
 | [**Callcounter**](https://callcounter.eu/pages/api) | Analytics for API providers. Send request metadata to the API and view user friendly charts to analyse usage. | 💸 |
-| [**Clicky**](https://clicky.com/help/api) | Allows you to extract your web site's traffic data into several formats, making it easy to integrate, analyze, or store your data within your own application.| **N/A** |
+| [**Clicky**](https://clicky.com/help/api) | Allows you to extract your website's traffic data into several formats, making it easy to integrate, analyze, or store your data within your own application.| **N/A** |
 | [**Fabric**](https://get.fabric.io/) | A platform that helps your mobile team build better apps, understand your users, and grow your business. | **N/A** |
 | [**Flurry**](https://developer.yahoo.com/flurry/docs/api/) | Yahoo’s Flurry provides you with a number of APIs enabling you to export your data. | **N/A** |
 | [**Google Analytics**](https://developers.google.com/analytics/?hl=en) | Google Analytics provides APIs to collect, configure, and report on user-interactions with your online content. | **N/A** |
@@ -189,7 +189,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**Stripe**](https://stripe.com/docs/api) | Allows both private individuals and businesses to accept payments over the Internet. | **N/A** |
 | [**Repetiti**](https://developers.repetiti.com) | Repetiti 3d Printer Management Service, access and control 3d Printers easily. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png) |
 | [**Braintree**](https://developers.braintreepayments.com) | Specializes in mobile and web payment systems for ecommerce companies. | **N/A** |
-| [**Yellow Pages API**](https://github.com/Hrushi11/Yellow-Pages-End-API) | 	Get data for all categories of businesses in any city of US. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png) |
+| [**Yellow Pages API**](https://github.com/Hrushi11/Yellow-Pages-End-API) | 	Get data for all categories of businesses in any city of the US. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png) |
 
 [⬆ Back to Table of Contents](#table-of-contents)
 ### Communication
@@ -276,7 +276,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**Comichron Data**](https://github.com/comichron-data/api) | API for comic sales data from comichron.com. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
 | [**Danbooru**](https://danbooru.donmai.us/posts?tags=help%3Aapi) | Get images categorized by tags. | **N/A** |
 | [**Dune**](https://github.com/ywalia01/dune-api) | A simple API which provides you with book, character, movie and quotes JSON data. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
-| [**Final Space API**](https://finalspaceapi.com/docs/) | A RESTful API that provides information and images about Final Space show. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
+| [**Final Space API**](https://finalspaceapi.com/docs/) | A RESTful API that provides information and images about the Final Space show. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
 | [**Fun Translations API**](https://funtranslations.com/api/) | Translate to over 50+ languages from various TV Series and Movies. | **N/A** |
 | [**Jandapress API**](https://github.com/sinkaroid/jandapress) | A doujinshi API with gather in mind. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
 | [**Lord of the Rings API**](https://the-one-api.dev/documentation) | Get data about the books, the movie trilogy, many characters and quotes. | **N/A** |
@@ -290,7 +290,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**Star Trek API (STAPI)**](https://stapi.co/api-documentation) | STAPI, a Star Trek API. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
 | [**Star Wars API (SWAPI)**](https://www.swapi.tech/) | All things Star Wars, based on Wookpedia and other sources. Reboot of original swapi.co, guaranteed to be maintained. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
 | [**Studio Ghibli**](https://ghibliapi.herokuapp.com/) | Resources from Studio Ghibli films. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
-| [**TCGdex**](https://www.tcgdex.dev/) | A Multilanguage Pokémon TCG Database with Cards Pictures and most of the informations contained on the cards. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
+| [**TCGdex**](https://www.tcgdex.dev/) | A Multilanguage Pokémon TCG Database with Cards Pictures and most of the information contained on the cards. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
 | [**The Walking Dead API**](https://thewalkingdead-api.onrender.com/) | Free to use RESTful API based upon The Walking Dead Series. | **N/A** |
 
 [⬆ Back to Table of Contents](#table-of-contents)
@@ -377,16 +377,16 @@ This is an attempt to categorise different APIs scoured from the web which make 
 ### Identity Verification
 | API | Description | Open/Trial |
 | --- | ----------- | ---- |
-| [**BlockScore**](https://docs.blockscore.com/) | A real-time API for verifying an identity by name, address, date of birth, and social security number. | **Unknowm** |
+| [**BlockScore**](https://docs.blockscore.com/) | A real-time API for verifying an identity by name, address, date of birth, and social security number. | **Unknown** |
 | [**Cognito**](https://cognitohq.com/docs) | A powerful API for verifying and retrieving identity information. Can take a customer's cellphone number and return name, address history, full SSN, and date of birth. | **N/A** |
-| [**Whitepages Pro**](https://pro.whitepages.com/) | Global Identity Verification API. Get a clearer picture of your customer. Instantly know if a name, address, phone number, email, and IP all belong to the same person. Every country in the world supported. | 💸 |
+| [**Whitepages Pro**](https://pro.whitepages.com/) | Global Identity Verification API. Get a clearer picture of your customer. Instantly know if a name, address, phone number, email, and IP all belong to the same person. Every country in the world is supported. | 💸 |
 
 [⬆ Back to Table of Contents](#table-of-contents)
 ### Image Moderation
 | API | Description | Open/Trial |
 | --- | ----------- | ---- |
 | [**Clarifai**](https://developer.clarifai.com/docs/) | AI API that analyzes images and videos and returns probability scores on the likelihood that the image contains pornography. | **N/A** |
-| [**WebPurify**](https://www.webpurify.com/image-moderation/) | Provides live image moderation by humans. Free for first 100 images. 2¢ per image after. | 💸 |
+| [**WebPurify**](https://www.webpurify.com/image-moderation/) | Provides live image moderation by humans. Free for the first 100 images. 2¢ per image after. | 💸 |
 
 [⬆ Back to Table of Contents](#table-of-contents)
 ### IoT
@@ -394,8 +394,8 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | --- | ----------- | ---- |
 | [**Ably**](https://www.ably.com/documentation) | API for making cross-protocol realtime communication between devices easy. | **N/A** |
 | [**Particle**](https://docs.particle.io/reference/api/) | API to manage Particle devices (including their own Arduino-compatible ones and the Raspberry Pi) and control them. Free for up to 25 devices and 250k events/month. | **N/A** |
-| [**PubNub**](https://www.pubnub.com/docs) | API to make realtime applications with variety of hardware devices including Arduino, RPi, Kinoma, Atmel, Samsung Smart TV WebOS, and more. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
-| [**Philips Hue**](https://developers.meethue.com/documentation/getting-started) | Registration (free) and local Hue Bridge (not free) required - Control Hue brand lights made by Philips. API calls are made to the Hue Bridge residing on local network. Includes a web based UI. | **N/A** |
+| [**PubNub**](https://www.pubnub.com/docs) | API to make realtime applications with a variety of hardware devices including Arduino, RPi, Kinoma, Atmel, Samsung Smart TV WebOS, and more. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
+| [**Philips Hue**](https://developers.meethue.com/documentation/getting-started) | Registration (free) and local Hue Bridge (not free) required - Control Hue brand lights made by Philips. API calls are made to the Hue Bridge residing on the local network. Includes a web based UI. | **N/A** |
 | [**SmartThings**](http://developer.smartthings.com/) | API for Samsung SmartThings Smart Home Hub products (ZigBee, Z-Wave, IP). | **N/A** |
 | [**Temboo SDK**](https://temboo.com/download) | This platform acts as a layer on top of third-party APIs, using code snippets to trigger complex processes that run through their cloud platform. | **N/A** |
 | [**ThingSpeak**](https://github.com/iobridge/ThingSpeak) | “Internet of Things” application and API to store and retrieve data from things using HTTP over the Internet or via a Local Area Network. | **N/A** |
@@ -415,13 +415,13 @@ This is an attempt to categorise different APIs scoured from the web which make 
 ### Login Authentication
 | API | Description | Open/Trial |
 | --- | ----------- | ---- |
-| [**Auth0**](https://auth0.com) | Authenticate and authorize apps and APIs with any identity provider running on any stack any device or cloud. Free for 700 active users. | **N/A** |
+| [**Auth0**](https://auth0.com) | Authenticate and authorize apps and APIs with any identity provider running on any stack, any device or cloud. Free for 700 active users. | **N/A** |
 | [**Facebook Login for Apps**](https://developers.facebook.com/docs/facebook-login) | Secure, fast, convenient way to login in your app/website. | **N/A** |
 | [**Firebase**](https://firebase.google.com/docs/reference/) | Authentication, analytics, cloud messaging, crash reporting, ads and more. | **N/A** |
 | [**GitHub Authentication**](https://developer.github.com/guides/basics-of-authentication/) | Access to GitHub’s Authentication API. | **N/A** |
 | [**Instagram**](https://developers.facebook.com/docs/instagram-api/overview) | Access to Instagram’s OAuth API. | **N/A** |
 | [**LinkedIn**](https://developer.linkedin.com/docs/signin-with-linkedin) | Make it convenient for your users to sign in with their professional identity. | **N/A** |
-| [**PayPal**](https://developer.paypal.com/docs/integration/direct/identity/log-in-with-paypal/) | Enables your customers to sign in to your web site quickly and securely using their PayPal login credentials. | **N/A** |
+| [**PayPal**](https://developer.paypal.com/docs/integration/direct/identity/log-in-with-paypal/) | Enables your customers to sign in to your website quickly and securely using their PayPal login credentials. | **N/A** |
 | [**Salesforce**](https://developer.salesforce.com/docs/atlas.en-us.api_rest.meta/api_rest/intro_understanding_authentication.htm) | Salesforce uses the OAuth protocol to allow users of applications to securely access data without having to reveal username and password credentials. | **N/A** |
 | [**Twitter Sign-in**]([https://developer.twitter.com/web/sign-in](https://developer.twitter.com/en/docs/authentication/guides/log-in-with-twitter)) | Works on websites, iOS, mobile and desktop applications. | **N/A** |
 | [**WorkOS**](https://workos.com/docs) | Support Single Sign-On for common Enterprise Identity Providers (Okta, Azure, OneLogin). | **N/A** |
@@ -432,7 +432,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | --- | ----------- | ---- |
 | [**Amazon ML API**](http://docs.aws.amazon.com/machine-learning/latest/APIReference/Welcome.html) | Amazon Machine Learning API simplifies the process of making predictions that require lots of expertise around model building, data cleansing and statistical analysis. | **N/A** |
 | [**AYLIEN**](http://aylien.com/) | AYLIEN Text Analysis API is a package of Natural Language Processing, Information Retrieval and Machine Learning tools for extracting meaning and insight from textual and visual content with ease. | **N/A** |
-| [**Big ML**](http://bigml.com/api/) | BigML is user-friendly and developer-friendly Machine learning API that mainly concentrates on decision trees. | **N/A** |
+| [**Big ML**](http://bigml.com/api/) | BigML is a user-friendly and developer-friendly Machine learning API that mainly concentrates on decision trees. | **N/A** |
 | [**Cloud Machine Learning Engine**](https://cloud.google.com/ml-engine/docs/) | Cloud-based machine learning and pattern matching tool. | **N/A** |
 | [**Microsoft Azure Machine Learning API**](https://azure.microsoft.com/en-us/services/cognitive-services/) | Helps data scientists publish in minutes which once used to take days after they had developed a feasible model. | **N/A** |
 | [**ObjectCut**](https://objectcut.com) | Automatic background removal service powered by AI. From an input image given its public-accessible URL or being the image itself, ObjectCut returns the same image but without background. | **N/A** |
@@ -446,7 +446,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**Bing Maps**](https://www.microsoft.com/maps/choose-your-bing-maps-API.aspx) | Bing Maps platform provides multiple API options for your application. | **N/A** |
 | [**Cartes.io**](https://github.com/M-Media-Group/Cartes.io/wiki/API) | Create maps and markers for anything, without authentication. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
 | [**CartoDB**](https://carto.com/developers/#apis) | Allows you to generate maps based on data hosted in your CartoDB account. | **N/A** |
-| [**Daum Maps API**](http://apis.map.daum.net/) | Daum Maps provide multiple APIs for Korean map. | **N/A** |
+| [**Daum Maps API**](http://apis.map.daum.net/) | Daum Maps provides multiple APIs for the Korean map. | **N/A** |
 | [**Google Maps API**](https://developers.google.com/maps/?hl=en) | Google Maps APIs are available for Android, iOS, web browsers and through HTTP web services. [Clients can be found here.](https://github.com/googlemaps/) | **N/A** |
 | [**HERE Maps API**](https://developer.here.com/) | Wide range of APIs available through JavaScript, iOS, Android, or REST services. | **N/A** |
 | [**Leaflet.js**](http://leafletjs.com/) | An open-source JavaScript library for mobile-friendly interactive maps. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") | 
@@ -485,7 +485,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**Cloudlayer.io**](https://cloudlayer.io) | Document Generation Service that allows you to generate PDFs and Images from websites, HTML, or Templates. | 💸 |
 | [**Codewars API**](https://dev.codewars.com/#introduction) | Coding challenge website API that allows access usernames, leaderboards, and real time statistics for coding problems. | **N/A** |
 | [**Congress.gov API**](https://api.congress.gov) | The beta Congress.gov Application Programming Interface (API) provides a method for Congress and the public to view, retrieve, and re-use machine-readable data from collections available on Congress.gov. | **N/A** |
-| [**Dataflow Kit**](https://dataflowkit.com/doc-api) | Web Scraper API to extract information from web sites, scrape SERPs, convert web pages to PDF, and capture screenshots. | 💸 |
+| [**Dataflow Kit**](https://dataflowkit.com/doc-api) | Web Scraper API to extract information from websites, scrape SERPs, convert web pages to PDF, and capture screenshots. | 💸 |
 | [**Data Science Toolkit**](https://github.com/petewarden/dstk) | A collection of the best open data sets and open-source tools for data science. | **N/A** |
 | [**Don't Kill My App**](https://github.com/urbandroid-team/dont-kill-my-app) | Database of ways mobile vendors inhibit background activity of apps. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
 | [**Domainsdb.info**](https://domainsdb.info) | Registered domain names search checks the lists of registered domains for names containing particular words/phrases/numbers or symbols. | **N/A** |
@@ -506,10 +506,10 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**LetsValidate**](https://github.com/letsvalidate/api) | Uncovers the technologies used on websites and URL to thumbnail. | **N/A** |
 | [**LinkPreview**](https://www.linkpreview.net) | RESTful API that returns [JSON](https://en.wikipedia.org/wiki/JSON) formatted summary with title, description and preview image for any requested URL. Free & paid plans. | **N/A** |
 | [**LiveChat**](https://developers.livechatinc.com/) | Online Customer Service software with customizable chat, embeddable widgets, help desk and web analytics tools. APIs include webhooks support, SDKs and open-source libraries to build on. | 💸 |
-| [**Lottery Number Generation**](https://fungenerators.com/api/lottery/) | Generate lottery numbers. Hundereds of lottery games from various countries are supported. | 💸 |
+| [**Lottery Number Generation**](https://fungenerators.com/api/lottery/) | Generate lottery numbers. Hundreds of lottery games from various countries are supported. | 💸 |
 | [**NetworkCalc**](https://networkcalc.com/api/docs) | REST APIs that provide network calculator tools, such as subnet calculations, binary number conversion, and certificate lookup. | **N/A** |
 | [**PageCDN**](https://pagecdn.com/docs/public-api) | Public CDN API for Open-source JavaScript, CSS and fonts libraries. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
-| [**PDFmyURL**](https://pdfmyurl.com/html-to-pdf-api) | RESTful API that converts webpages to PDF quickly and even does entire websites to PDF. | 💸 |
+| [**PDFmyURL**](https://pdfmyurl.com/html-to-pdf-api) | RESTful API that converts web pages to PDF quickly and even does entire websites to PDF. | 💸 |
 | [**PDF from URL**](https://api.stakdek.de/blog?id=1070) | API that converts websites from URL to PDF and even does convert HTML Strings to PDF for free. | **N/A** |
 | [**Pastebin**](https://pastebin.com/doc_scraping_api) | Quickly share text or code, with support for over 250 languages for syntax highlighting. | **N/A** |
 | [**PhantAuth**](https://www.phantauth.net/) | Random User Generator + OpenID Connect Provider. Like Lorem Ipsum, but for user accounts and authentication. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
@@ -527,9 +527,9 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**Typeform**](https://developer.typeform.com/) | Typeform's APIs allow you to create and edit Typeform surveys, and retrieve survey responses on demand. | **N/A** |
 | [**Unixtime**](https://unixtime.co.za/) | Free RESTservice to convert unixtime to datetime and vice versa. | **N/A** |
 | [**Wallhaven**](https://wallhaven.cc/help/api) | A huge wallpaper library. | **N/A** |
-| [**Who Hosts This**](https://www.who-hosts-this.com/API) | Detect the hosting provider powering any web site. | **N/A** |
+| [**Who Hosts This**](https://www.who-hosts-this.com/API) | Detect the hosting provider powering any website. | **N/A** |
 | [**WolframAlpha**](http://products.wolframalpha.com/api/) | Integrate top of the line computational knowledge into your applications through the WolframAlpha API. | 💸 |
-| [**WorldTimeAPI**](http://worldtimeapi.org) | A JSON/plain-text which returns the (approx) current time for a provided timezone or IP. Targetted at limited-compute IoT devices. | **N/A** |
+| [**WorldTimeAPI**](http://worldtimeapi.org) | A JSON/plain-text which returns the (approx) current time for a provided time zone or IP. Targeted at limited-compute IoT devices. | **N/A** |
 
 [⬆ Back to Table of Contents](#table-of-contents)
 ### Movies
@@ -537,7 +537,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | --- | ----------- | ---- |
 | [**OMDB**](https://www.omdbapi.com/) | OMDb provides a subscription based web service to obtain information and metadata about movies. | 💸 |
 | [**TMDb**](https://www.themoviedb.org/documentation/api) | TMDb provides powerful searches as well as powerful movie discovery. | **N/A** |
-| [**Trakt**](https://trakt.docs.apiary.io/) | Trakt collect lots of information about what tv shows and movies everyone is watching. | **N/A** |
+| [**Trakt**](https://trakt.docs.apiary.io/) | Trakt collects lots of information about what TV shows and movies everyone is watching. | **N/A** |
 | [**TVmaze**](https://www.tvmaze.com/api) | TV Show and web series database. Episode guide, cast, crew and character information. Recaps, reviews, episode trailers, celebrity photos and more. | **N/A** |
 
 [⬆ Back to Table of Contents](#table-of-contents)
@@ -615,7 +615,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**LUIS AI**](https://www.luis.ai/) | Language Understanding Intelligent Service offers a fast and effective way of adding language understanding to applications. | **N/A** |
 | [**MeaningCloud**](https://www.meaningcloud.com) | Text analysis APIs for topic extraction, sentiment analysis, automatic classification, morphosyntactic analysis, language detection and more. Several languages are supported. | **N/A** |
 | [**ParallelDots**](https://www.paralleldots.com/text-analysis-apis) | ParallelDots AI APIs are the most comprehensive set of document classification and NLP APIs for software developers that provide state-of-the-art accuracy on most common NLP use-cases such as sentiment analysis and emotion detection. | **N/A** |
-| [**Recast.AI**](https://recast.ai) | Recast.AI provide an NLP API for text analysis and entity extraction. Recast.AI is the leading platform to build, connect and monitor bots. | **N/A** |
+| [**Recast.AI**](https://recast.ai) | Recast.AI provides an NLP API for text analysis and entity extraction. Recast.AI is the leading platform to build, connect and monitor bots. | **N/A** |
 | [**Shakespeare Translator API**](https://funtranslations.com/api/shakespeare) | Shakespeare English Translation API. | 💸 |
 | [**SpeechText.AI API**](https://speechtext.ai/speech-recognition-api) | Cloud Speech Recognition API. Transform speech to text with high accuracy in multiple languages. Generate summaries with important highlights from audio and video files. | 💸 |
 | [**SummarizeBot API**](https://www.summarizebot.com/summarization_business.html) | AI web data extraction and analysis. Multilingual summarization, keywords and sentiment analysis, language recognition, article extraction, comments identification, multimedia analysis, image and face recognition solutions. | 💸 |
@@ -642,7 +642,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | --- | ----------- | ---- |
 | [**bng2latlong**](https://www.getthedata.com/bng2latlong) | Convert an OSGB36 easting and northing (British National Grid) to WGS84 latitude and longitude. | **N/A** |
 | [**CityGrid**](http://docs.citygridmedia.com/display/citygridv2/Places+API) | Enables developers to create web and mobile applications that find local businesses, organizations, and points of interest by a variety of search criteria. | **N/A** |
-| [**CountryAPI**](https://fabian7593.github.io/CountryAPI/) | Gets all the countries, and obtain the most important information of these. | **N/A** |
+| [**CountryAPI**](https://fabian7593.github.io/CountryAPI/) | Get all the countries, and obtain the most important information of these. | **N/A** |
 | [**Factual**](https://developer.factual.com/docs/getting-started) | Providing a places search that can be searched by latitude/longitude, and “where” using full text search query string. | **N/A** |
 | [**Foursquare Venue**](https://developer.foursquare.com/overview/venues) | Providing a places search that can be searched by  hierarchical list of categories, longitude/latitude etc. | **N/A** |
 | [**Google Places API**](https://developers.google.com/maps/documentation/places/web-service/overview) | Providing a places search that can be searched by latitude/longitude, keyword matched against all fields, name of place, type of place restricted by radius. | **N/A** |
@@ -724,7 +724,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**Twitter**](https://developer.twitter.com/) | Enables an app to interact with many of Twitter’s functions. | **N/A** |
 | [**Tumblr**](https://www.tumblr.com/docs/en/api/v2) | Create new ways to use Tumblr with access to content, likes, followers, and drafts. | **N/A** |
 | [**Vimeo**](https://developer.vimeo.com/) | Access to Vimeo’s API. | **N/A** | 
-| [**Viber**](https://developers.viber.com/docs/api/) | With Viber’s APIs, can create unique experiences for users at scale. | **N/A** |
+| [**Viber**](https://developers.viber.com/docs/api/) | With Viber’s APIs, you can create unique experiences for users at scale. | **N/A** |
 | [**VK**](https://vk.com/dev) | Access to VKontakte's API. This has a variety of features such as authorization via VK, embedding VK comments for things like blogs, and taking payments via VK. Additionally, you may use the VK API to control much of the functionality on the website (for example, adjusting shop inventory in your VK community's market section). | **N/A** |
 | [**Weibo**](http://open.weibo.com/wiki/API%E6%96%87%E6%A1%A3/en) | Programmatic access to China’s most popular microblogging site. | **N/A** |
 | [**Whatsapp Document Interaction**](https://faq.whatsapp.com/en/iphone/23559013) | If your application creates photos, videos or audio notes and you’d like your users to share these media using WhatsApp. #Limited | **N/A** |
@@ -738,7 +738,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | API | Description | Open/Trial |
 | --- | ----------- | ---- |
 | [**Bitbucket**](https://developer.atlassian.com/bitbucket/api/2/reference/) | Access to Bitbucket's API. | **N/A** |
-| [**GitHub**](https://developer.github.com/v3/) | Build real-world GitHub applications right from authentication, to manipulating results, to combining results with other service. | **N/A** |
+| [**GitHub**](https://developer.github.com/v3/) | Build real-world GitHub applications right from authentication, to manipulating results, to combining results with other services. | **N/A** |
 | [**GitHub Gists**](https://developer.github.com/v3/gists/) | Access to GitHub’s Gists API. | **N/A** |
 | [**GitLab**](https://docs.gitlab.com/ce/api/README.html) | Access to GitLab's API. | **N/A** |
 | [**Mercurial**](https://www.mercurial-scm.org/wiki/MercurialApi) | Access to Mercurial’s API. | **N/A** |
@@ -787,7 +787,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**Tiny.cc**](https://tiny.cc/api-docs) | Easy-to-use URL shortener. Supports custom short link ending. | **N/A** |
 | [**Tiny.UID**](https://tinyuid.com/docs) | API for shortening long URLs. | **N/A** |
 | [**V.gd**](https://v.gd/developers.php) | Simple URL shortener. Supports custom short link ending. | **N/A** |
-| [**Yourls**](https://yourls.org/#API) | Generate or get existing short URLs, with sequential or custom keyword. | **N/A** |
+| [**Yourls**](https://yourls.org/#API) | Generate or get existing short URLs, with sequential or custom keywords. | **N/A** |
 
 [⬆ Back to Table of Contents](#table-of-contents)
 ### Videogames
@@ -796,7 +796,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**Autochess VNG API**](https://github.com/didadadida93/autochess-vng-api) | API that provides data about Autochess VNG. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
 | [**CSGO API**](https://bymykel.github.io/CSGO-API/) | An unofficial JSON API for Counter-Strike: Global Offensive. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
 | [**Clash Of Clans**](https://developer.clashofclans.com/) | An API for Clash of Clans to fetch all information about players, clans, wars, etc. | **N/A** |
-| [**Clash Royale**](https://github.com/martincarrera/clash-royale-api) | API that provides information about Clash Royale game. | **N/A** |
+| [**Clash Royale**](https://github.com/martincarrera/clash-royale-api) | API that provides information about the Clash Royale game. | **N/A** |
 | [**FreeToGame**](https://www.freetogame.com/api-doc) | Free-to-play games database API. | **N/A** |
 | [**GamerPower**](https://www.gamerpower.com/api-read) | Access programmatically the best giveaways in gaming, from free games to beta keys to free in-game loot and more.| **N/A** |
 | [**GiantBomb**](http://www.giantbomb.com/api/) | API to query the GiantBomb database for videogames, characters, companies, genres and many more. | **N/A** |
