@@ -522,7 +522,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**Shotstack Video Editing API**](https://shotstack.io/docs/guide/getting-started/core-concepts/?utm_source=github&utm_medium=api_repository) | Allows you to build scalable video automation workflows and video-first applications with capability to edit and generate thousands of customized videos. | 💸 |
 | [**Spreaker**](https://developers.spreaker.com/) | Enables developers to read and write data to Spreaker. | **N/A** |
 | [**StackExchange**](https://api.stackexchange.com/) | The StackExchange API provides RESTful services to all the sites on the StackExchange domain. | **N/A** |
-| [**Svix**](https://www.docs.svix.com) | Webhooks as a Service | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") 💸 |
+| [**Svix**](https://www.docs.svix.com) | Webhooks as a service for building secure, reliable, and scalable webhook service. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") 💸 |
 | [**RandomGermanWords**](https://zufallsworte.herokuapp.com/redoc) | An API for generating random german words. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
 | [**RestCountries**](https://restcountries.eu) | Get information about countries via a RESTful API. | **N/A** |
 | [**Typeform**](https://developer.typeform.com/) | Typeform's APIs allow you to create and edit Typeform surveys, and retrieve survey responses on demand. | **N/A** |
