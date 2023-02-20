@@ -503,6 +503,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**Judge0 API**](https://api.judge0.com/) | Compile and run source code. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
 | [**Labs64 NetLicensing**](https://netlicensing.io/wiki/restful-api) ([API Test Center](https://netlicensing.io/NetLicensing-API/)) | Innovative License Management Solution. | **N/A** |
 | [**LaunchLibrary**](https://launchlibrary.net/docs/1.3/api.html) | Aggregated info about space launches. | **N/A** |
+| [**LeetCode API**](https://leetcode.com/graphql) | LeetCode's official GraphQL API that allows retrieval of data related to any LeetCode account, contests, announcements, question of today and more. | **N/A** |
 | [**LetsValidate**](https://github.com/letsvalidate/api) | Uncovers the technologies used on websites and URL to thumbnail. | **N/A** |
 | [**LinkPreview**](https://www.linkpreview.net) | RESTful API that returns [JSON](https://en.wikipedia.org/wiki/JSON) formatted summary with title, description and preview image for any requested URL. Free & paid plans. | **N/A** |
 | [**LiveChat**](https://developers.livechatinc.com/) | Online Customer Service software with customizable chat, embeddable widgets, help desk and web analytics tools. APIs include webhooks support, SDKs and open-source libraries to build on. | 💸 |
