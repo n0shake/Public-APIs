@@ -1,6 +1,6 @@
 # Public-APIs [![Twitter: @abgbm](https://img.shields.io/badge/contact-@n0shake-blue.svg?style=flat)](https://twitter.com/n0shake) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
-This is an attempt to categorise different APIs scoured from the web which make their resources available for consumption.
+This is an attempt to categorise different APIs scoured from the web, which makes their resources available for consumption.
 
 > Items marked with ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") are open-source
 >
@@ -166,7 +166,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | API | Description | Open/Trial |
 | --- | ----------- | ---- |
 | [**Anti-Captcha**](https://anti-captcha.com/apidoc) | Access to Anti-Captcha’s API. | **N/A** |
-| [**ProxyCrawl**](https://proxycrawl.com) | Crawl and scrape websites without the need of proxies, infrastructure or browsers. We solve captchas for you and prevent you being blocked while speeding up your development. | 💸 |
+| [**ProxyCrawl**](https://proxycrawl.com) | Crawl and scrape websites without the need for proxies, infrastructure or browsers. We solve captchas for you and prevent you being blocked while speeding up your development. | 💸 |
 | [**Google reCAPTCHA**](https://developers.google.com/recaptcha/intro?hl=en) | ReCAPTCHA lets you embed a CAPTCHA in your web pages in order to protect them against spam and other types of automated abuse. | **N/A** |
 
 [⬆ Back to Table of Contents](#table-of-contents)
@@ -181,7 +181,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 ### Commerce
 | API | Description | Open/Trial |
 | --- | ----------- | ---- |
-| [**Commerce Layer**](https://docs.commercelayer.io/api/) | Commerce Layer is a headless commerce platform that lets you add global ecommerce capabilities to any website, mobile app, chatbot, or IoT device, with ease. using the language, CMS, and tools you already master and love. | **N/A** |
+| [**Commerce Layer**](https://docs.commercelayer.io/api/) | Commerce Layer is a headless commerce platform that lets you add global ecommerce capabilities to any website, mobile app, chatbot, or IoT device, with ease. Using the language, CMS, and tools you already master and love. | **N/A** |
 | [**Dummy Products**](https://dummyproducts-api.herokuapp.com/) | Provides dummy products to aid you in prototyping or developing e-commerce type of websites. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
 | [**envoice**](https://www.envoice.in) | Invoicing for online businesses. Simplify your invoicing process and get paid online with a debit or credit card via your payment gateway. | **N/A** |
 | [**koomalooma**](http://business.koomalooma.com) | A Loyalty BPaaS (Business Process as a Service) for mobile and web companies. Merchants issue points for actions their customers/users make, for example a purchase or a referral. koomalooma takes care of all the rest, from signing up users, keeping track of points and delivering rewards in over 80 countries. | 💸 |
@@ -212,7 +212,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**Bible**](https://bible-api.com/) | JSON API for public domain and open bible translations. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") | 
 | [**Fruits API**](https://github.com/Franqsanz/fruits-api) | API GraphQL with information on fruit trees of the world. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") | 
 | [**Jokes**](https://jokes.one/api/joke/) | Full featured Jokes API  | 💸 |
-| [**Perfect Tense API**](https://www.perfecttense.com/developers) | The Perfect Tense API is the only spelling and grammar checking API that uses artificial intelligence to automatically correct all of your text in one call. | 💸 |
+| [**Perfect Tense API**](https://www.perfecttense.com/developers) | The Perfect Tense API is the only spelling and grammar checking API that uses artificial intelligence to correct all of your text automatically in one call. | 💸 |
 | [**qKast Channel Content**](https://github.com/egfx/qKast) | Access live content collections sourced from any page around the web. | **N/A** |
 | [**Random Data Generator**](https://randommer.io/randommer-api) | API Generator for telephones, text, numbers, passwords, names, social security numbers, and cards. | 💸 |
 | [**Random Facts**](https://fungenerators.com/api/facts/) | Random Facts API  | 💸 |
@@ -311,7 +311,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | API | Description | Open/Trial |
 | --- | ----------- | ---- |
 | [**Amazon S3**](https://aws.amazon.com/de/documentation/s3/) | API that provides access to stored files and can be added easily to any service - and it's free for twelve months. | 💸 |
-| [**Cloudinary**](http://cloudinary.com/documentation) | API for image and video storage and manipulation - free for up to 75,000 images and 7,500 manipulations per month, good documentation, it can also manipulate GIFs and PDFs. | **N/A** |
+| [**Cloudinary**](http://cloudinary.com/documentation) | API for image and video storage and manipulation - free for up to 75,000 images and 7,500 manipulations per month, good documentation. It can also manipulate GIFs and PDFs. | **N/A** |
 | [**DigitalOcean Spaces**](https://www.digitalocean.com/products/spaces) | API that provides easy access to store and receive files as simple object storage with easy to understand pricing. 2 Month Free Trial | 💸 |
 | [**Dropbox**](https://www.dropbox.com/developers) | API for accessing stored files and pictures which is easy to use and free for small amounts of data. | **N/A** |
 | [**Filestack**](https://filestack.com/docs/) | API for image and file manipulation, 250 uploads and 500 uploads per month for free, free CDN, HTML widget. | **N/A** |
@@ -392,9 +392,9 @@ This is an attempt to categorise different APIs scoured from the web which make 
 ### IoT
 | API | Description | Open/Trial |
 | --- | ----------- | ---- |
-| [**Ably**](https://www.ably.com/documentation) | API for making cross-protocol realtime communication between devices easy. | **N/A** |
+| [**Ably**](https://www.ably.com/documentation) | API for making cross-protocol real time communication between devices easy. | **N/A** |
 | [**Particle**](https://docs.particle.io/reference/api/) | API to manage Particle devices (including their own Arduino-compatible ones and the Raspberry Pi) and control them. Free for up to 25 devices and 250k events/month. | **N/A** |
-| [**PubNub**](https://www.pubnub.com/docs) | API to make realtime applications with a variety of hardware devices including Arduino, RPi, Kinoma, Atmel, Samsung Smart TV WebOS, and more. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
+| [**PubNub**](https://www.pubnub.com/docs) | API to make real time applications with a variety of hardware devices including Arduino, RPi, Kinoma, Atmel, Samsung Smart TV WebOS, and more. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
 | [**Philips Hue**](https://developers.meethue.com/documentation/getting-started) | Registration (free) and local Hue Bridge (not free) required - Control Hue brand lights made by Philips. API calls are made to the Hue Bridge residing on the local network. Includes a web based UI. | **N/A** |
 | [**SmartThings**](http://developer.smartthings.com/) | API for Samsung SmartThings Smart Home Hub products (ZigBee, Z-Wave, IP). | **N/A** |
 | [**Temboo SDK**](https://temboo.com/download) | This platform acts as a layer on top of third-party APIs, using code snippets to trigger complex processes that run through their cloud platform. | **N/A** |
@@ -545,8 +545,8 @@ This is an attempt to categorise different APIs scoured from the web which make 
 ### Music
 | API | Description | Open/Trial |
 | --- | ----------- | ---- |
-| [**AI Mastering**](https://aimastering.com/api_docs/) | AI Mastering API provides automated audio mastering service. You can upload your audio, master it, and download the mastered audio. | **N/A** |
-| [**Deezer**](http://developers.deezer.com/api) | Deezer API provides a nice set of services to build up web applications allowing the discovery of Deezer's music catalogue. | **N/A** |
+| [**AI Mastering**](https://aimastering.com/api_docs/) | AI Mastering API provides an automated audio mastering service. You can upload your audio, master it, and download the mastered audio. | **N/A** |
+| [**Deezer**](http://developers.deezer.com/api) | Deezer API provides a nice set of services to build up web applications, allowing the discovery of Deezer's music catalogue. | **N/A** |
 | [**Discogs**](https://www.discogs.com/developers/) | Access database of artists, labels, releases, marketplace and more. | **N/A** |
 | [**Last.fm**](http://www.last.fm/api) | The Last.fm API allows anyone to build their own programs using Last.fm data, whether they're on the web, the desktop or mobile devices. | **N/A** |
 | [**musicApi**](https://github.com/LIU9293/musicAPI) | Centralized Node.JS API SDK for the top 3 music providers in China, Xiami, Netease, and QQ music. | **N/A** |
@@ -727,7 +727,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**Tumblr**](https://www.tumblr.com/docs/en/api/v2) | Create new ways to use Tumblr with access to content, likes, followers, and drafts. | **N/A** |
 | [**Vimeo**](https://developer.vimeo.com/) | Access to Vimeo’s API. | **N/A** | 
 | [**Viber**](https://developers.viber.com/docs/api/) | With Viber’s APIs, you can create unique experiences for users at scale. | **N/A** |
-| [**VK**](https://vk.com/dev) | Access to VKontakte's API. This has a variety of features such as authorization via VK, embedding VK comments for things like blogs, and taking payments via VK. Additionally, you may use the VK API to control much of the functionality on the website (for example, adjusting shop inventory in your VK community's market section). | **N/A** |
+| [**VK**](https://vk.com/dev) | Access to VKontakte's API. This has a variety of features, such as authorization via VK, embedding VK comments for things like blogs, and taking payments via VK. Additionally, you may use the VK API to control much of the functionality on the website (for example, adjusting shop inventory in your VK community's market section). | **N/A** |
 | [**Weibo**](http://open.weibo.com/wiki/API%E6%96%87%E6%A1%A3/en) | Programmatic access to China’s most popular microblogging site. | **N/A** |
 | [**Whatsapp Document Interaction**](https://faq.whatsapp.com/en/iphone/23559013) | If your application creates photos, videos or audio notes and you’d like your users to share these media using WhatsApp. #Limited | **N/A** |
 | [**Wordpress**](https://codex.wordpress.org/WordPress_APIs) | Access to Wordpress’ API. | **N/A** |
@@ -804,7 +804,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**GamerPower**](https://www.gamerpower.com/api-read) | Access programmatically the best giveaways in gaming, from free games to beta keys to free in-game loot and more.| **N/A** |
 | [**GiantBomb**](http://www.giantbomb.com/api/) | API to query the GiantBomb database for videogames, characters, companies, genres and many more. | **N/A** |
 | [**Hyrule Compendium**](http://github.com/gadhagod/Hyrule-Compendium-API) | API serving data on all interactive items in _The Legend of Zelda: Breath of the Wild_. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
-| [**IGDB**](https://www.igdb.com/api) | Access the International Games Database and get information about videogames, characters, companies, genres and many more. Commercial usage is allowed. | **N/A** |
+| [**IGDB**](https://www.igdb.com/api) | Access the International Games Database and get information about video games, characters, companies, genres and many more. Commercial usage is allowed. | **N/A** |
 | [**MMO Games**](https://www.mmobomb.com/api) | MMO Games database, news and giveaways. | **N/A** |
 | [**RAWG**](https://rawg.io/apidocs) | Open video game database. Find games by platform, genre, company or find game developers, stores, publishers and many more. | **N/A** |
 | [**Riot Games**](https://developer.riotgames.com/) | Riot Games game information API | **N/A** |
