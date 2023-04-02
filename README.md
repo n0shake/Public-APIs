@@ -1,6 +1,6 @@
 # Public-APIs [![Twitter: @abgbm](https://img.shields.io/badge/contact-@n0shake-blue.svg?style=flat)](https://twitter.com/n0shake) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
-This is an attempt to categorise different APIs scoured from the web, which makes their resources available for consumption.
+This is an attempt to categorise different APIs scoured from the web which make their resources available for consumption.
 
 > Items marked with ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") are open-source
 >
