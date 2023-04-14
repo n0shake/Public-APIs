@@ -86,9 +86,8 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | API | Description | Open/Trial |
 | --- | ----------- | ---- |
 | [**Amazon Mobile Analytics**](https://aws.amazon.com/documentation/mobileanalytics/) | Service for collecting, visualizing, and understanding app usage data at scale. | **N/A** |
-| [**Callcounter**](https://callcounter.eu/pages/api) | Analytics for API providers. Send request metadata to the API and view user friendly charts to analyse usage. | 💸 |
 | [**Clicky**](https://clicky.com/help/api) | Allows you to extract your website's traffic data into several formats, making it easy to integrate, analyze, or store your data within your own application.| **N/A** |
-| [**Fabric**](https://get.fabric.io/) | A platform that helps your mobile team build better apps, understand your users, and grow your business. | **N/A** |
+| [**Fabric**](https://firebase.google.com/) | A platform that helps your mobile team build better apps, understand your users, and grow your business. | **N/A** |
 | [**Flurry**](https://developer.yahoo.com/flurry/docs/api/) | Yahoo’s Flurry provides you with a number of APIs enabling you to export your data. | **N/A** |
 | [**Google Analytics**](https://developers.google.com/analytics/?hl=en) | Google Analytics provides APIs to collect, configure, and report on user-interactions with your online content. | **N/A** |
 | [**Localytics**](http://docs.localytics.com/dev/query-api.html#query-api) | Interface to Localytics analytics platform. | **N/A** |
@@ -182,8 +181,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | API | Description | Open/Trial |
 | --- | ----------- | ---- |
 | [**Commerce Layer**](https://docs.commercelayer.io/api/) | Commerce Layer is a headless commerce platform that lets you add global ecommerce capabilities to any website, mobile app, chatbot, or IoT device, with ease. Using the language, CMS, and tools you already master and love. | **N/A** |
-| [**Dummy Products**](https://dummyproducts-api.herokuapp.com/) | Provides dummy products to aid you in prototyping or developing e-commerce type of websites. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
-| [**envoice**](https://www.envoice.in) | Invoicing for online businesses. Simplify your invoicing process and get paid online with a debit or credit card via your payment gateway. | **N/A** |
+| [**envoice**](https://www.envoice.in/reference/api/docs) | Invoicing for online businesses. Simplify your invoicing process and get paid online with a debit or credit card via your payment gateway. | **N/A** |
 | [**koomalooma**](http://business.koomalooma.com) | A Loyalty BPaaS (Business Process as a Service) for mobile and web companies. Merchants issue points for actions their customers/users make, for example a purchase or a referral. koomalooma takes care of all the rest, from signing up users, keeping track of points and delivering rewards in over 80 countries. | 💸 |
 | [**Moltin**](https://www.moltin.com/developers) | Unified APIs for inventory, carts, the checkout process, payments and more, so you can focus on creating seamless customer experiences at any scale. | **N/A** |
 | [**Stripe**](https://stripe.com/docs/api) | Allows both private individuals and businesses to accept payments over the Internet. | **N/A** |
@@ -270,7 +268,6 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**Better Call Saul API**](https://bettercallsaul-api.onrender.com) | Your favorite lawyer's API. Get data for characters, episodes and much more. | **N/A** |
 | [**Bob's Burgers API**](https://www.bobsburgersapi.com/documentation) | Get data for hundreds of characters, episodes, running gags, and images from the show. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
 | [**Breaking Bad & Better Call Saul API**](https://breakingbadapi.com/documentation) | Get data about characters, episodes, quotes, and deaths. | **N/A** |
-| [**Capybara API**](https://docs.capybara-api.xyz/) | API for capybara images and facts. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
 | [**Cat as a Service (CATAAS)**](https://cataas.com/#/) | Is a REST API to spread peace and love (or not) thanks to cats. | **N/A** |
 | [**Comic Vine**](http://comicvine.gamespot.com/api/) | An extremely mature, well organized and continually updated resource of comic information. | **N/A** |
 | [**Comichron Data**](https://github.com/comichron-data/api) | API for comic sales data from comichron.com. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
@@ -327,7 +324,6 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | --- | ----------- | ---- |
 | [**Alpha Vantage**](https://www.alphavantage.co/) | Y Combinator backed API provider for stock, ETF, mutual fund, forex, and crypto data. There is also a 2000+ star [Python wrapper](https://github.com/RomelTorres/alpha_vantage) for it on GitHub. | **N/A** |
 | [**Atom Finance**](https://docs.atom.finance/) | Atom Finance provides access to market, earnings and news data. | 💸 |
-| [**Hotstoks**](https://docs.hotstoks.com/) | Stock market data powered by SQL. | **N/A** |
 | [**IEX**](https://iextrading.com/developer/) | Free Stocks and Market Data. | **N/A** |
 | [**Twelve Data**](https://twelvedata.com/docs/) | Stock market data (real-time & historical). | **N/A** |
 | [**Australia**](https://www.rba.gov.au/statistics/tables/) | Plenty of kinds of data in [CSV](https://en.wikipedia.org/wiki/Comma-separated_values) format. | **N/A** |
@@ -386,7 +382,6 @@ This is an attempt to categorise different APIs scoured from the web which make 
 ### Image Moderation
 | API | Description | Open/Trial |
 | --- | ----------- | ---- |
-| [**Clarifai**](https://developer.clarifai.com/docs/) | AI API that analyzes images and videos and returns probability scores on the likelihood that the image contains pornography. | **N/A** |
 | [**WebPurify**](https://www.webpurify.com/image-moderation/) | Provides live image moderation by humans. Free for the first 100 images. 2¢ per image after. | 💸 |
 
 [⬆ Back to Table of Contents](#table-of-contents)
@@ -509,7 +504,6 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**LiveChat**](https://developers.livechatinc.com/) | Online Customer Service software with customizable chat, embeddable widgets, help desk and web analytics tools. APIs include webhooks support, SDKs and open-source libraries to build on. | 💸 |
 | [**Lottery Number Generation**](https://fungenerators.com/api/lottery/) | Generate lottery numbers. Hundreds of lottery games from various countries are supported. | 💸 |
 | [**NetworkCalc**](https://networkcalc.com/api/docs) | REST APIs that provide network calculator tools, such as subnet calculations, binary number conversion, and certificate lookup. | **N/A** |
-| [**PageCDN**](https://pagecdn.com/docs/public-api) | Public CDN API for Open-source JavaScript, CSS and fonts libraries. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
 | [**PDFmyURL**](https://pdfmyurl.com/html-to-pdf-api) | RESTful API that converts web pages to PDF quickly and even does entire websites to PDF. | 💸 |
 | [**PDF from URL**](https://api.stakdek.de/blog?id=1070) | API that converts websites from URL to PDF and even does convert HTML Strings to PDF for free. | **N/A** |
 | [**Pastebin**](https://pastebin.com/doc_scraping_api) | Quickly share text or code, with support for over 250 languages for syntax highlighting. | **N/A** |
@@ -523,7 +517,6 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**Shotstack Video Editing API**](https://shotstack.io/docs/guide/getting-started/core-concepts/?utm_source=github&utm_medium=api_repository) | Allows you to build scalable video automation workflows and video-first applications with capability to edit and generate thousands of customized videos. | 💸 |
 | [**Spreaker**](https://developers.spreaker.com/) | Enables developers to read and write data to Spreaker. | **N/A** |
 | [**StackExchange**](https://api.stackexchange.com/) | The StackExchange API provides RESTful services to all the sites on the StackExchange domain. | **N/A** |
-| [**Svix**](https://www.docs.svix.com) | Webhooks as a service for building secure, reliable, and scalable webhook service. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") 💸 |
 | [**RandomGermanWords**](https://zufallsworte.herokuapp.com/redoc) | An API for generating random german words. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
 | [**RestCountries**](https://restcountries.eu) | Get information about countries via a RESTful API. | **N/A** |
 | [**Typeform**](https://developer.typeform.com/) | Typeform's APIs allow you to create and edit Typeform surveys, and retrieve survey responses on demand. | **N/A** |
@@ -531,7 +524,6 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**Wallhaven**](https://wallhaven.cc/help/api) | A huge wallpaper library. | **N/A** |
 | [**Who Hosts This**](https://www.who-hosts-this.com/API) | Detect the hosting provider powering any website. | **N/A** |
 | [**WolframAlpha**](http://products.wolframalpha.com/api/) | Integrate top of the line computational knowledge into your applications through the WolframAlpha API. | 💸 |
-| [**WorldTimeAPI**](http://worldtimeapi.org) | A JSON/plain-text which returns the (approx) current time for a provided time zone or IP. Targeted at limited-compute IoT devices. | **N/A** |
 
 [⬆ Back to Table of Contents](#table-of-contents)
 ### Movies
@@ -618,7 +610,6 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**MeaningCloud**](https://www.meaningcloud.com) | Text analysis APIs for topic extraction, sentiment analysis, automatic classification, morphosyntactic analysis, language detection and more. Several languages are supported. | **N/A** |
 | [**OpenAI API**](https://platform.openai.com/docs/introduction) | OpenAI's API provides access to GPT-3, which performs a wide variety of natural language tasks, and Codex, which translates natural language to code. The API is designed to allow users to try it on virtually any task in the English language. | 💸 |
 | [**ParallelDots**](https://www.paralleldots.com/text-analysis-apis) | ParallelDots AI APIs are the most comprehensive set of document classification and NLP APIs for software developers that provide state-of-the-art accuracy on most common NLP use-cases such as sentiment analysis and emotion detection. | **N/A** |
-| [**Recast.AI**](https://recast.ai) | Recast.AI provides an NLP API for text analysis and entity extraction. Recast.AI is the leading platform to build, connect and monitor bots. | **N/A** |
 | [**Shakespeare Translator API**](https://funtranslations.com/api/shakespeare) | Shakespeare English Translation API. | 💸 |
 | [**SpeechText.AI API**](https://speechtext.ai/speech-recognition-api) | Cloud Speech Recognition API. Transform speech to text with high accuracy in multiple languages. Generate summaries with important highlights from audio and video files. | 💸 |
 | [**SummarizeBot API**](https://www.summarizebot.com/summarization_business.html) | AI web data extraction and analysis. Multilingual summarization, keywords and sentiment analysis, language recognition, article extraction, comments identification, multimedia analysis, image and face recognition solutions. | 💸 |
