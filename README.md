@@ -317,7 +317,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**Smash**](https://api.fromsmash.com/) | Smash API & SDK to upload large files on websites, mobile apps, SaaS solutions and custom workflows. | 💸 |
 | [**Vector Express**](https://github.com/smidyo/vectorexpress-api) | API for converting, processing and analyzing vector files.| **N/A** |
 | [**Verizon Cloud**](http://www.verizon.com/cloudstorageapi) | API for accessing stored pictures and other files stored by users of Verizon Cloud app. | **N/A** |
-| [**Vertopal**](http://www.vertopal.com/en/developer/api/introduction) | The Vertopal API lets you convert files to a variety of formats. | 💸 |
+| [**Vertopal**](https://www.vertopal.com/en/developer/api/introduction) | The Vertopal API lets you convert files to a variety of formats. | 💸 |
 
 [⬆ Back to Table of Contents](#table-of-contents)
 ### Finance
