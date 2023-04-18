@@ -277,6 +277,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**Fun Translations API**](https://funtranslations.com/api/) | Translate to over 50+ languages from various TV Series and Movies. | **N/A** |
 | [**Jandapress API**](https://github.com/sinkaroid/jandapress) | A doujinshi API with gather in mind. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
 | [**Lord of the Rings API**](https://the-one-api.dev/documentation) | Get data about the books, the movie trilogy, many characters and quotes. | **N/A** |
+| [**Lustpress API**](https://github.com/sinkaroid/lustpress) | Porn videos API that gather from popular adult sites. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
 | [**Marvel**](https://developer.marvel.com/) | Access over 70 years of comic data with Marvel's official developer API. | **N/A** |
 | [**My Anime List API**](https://jikan.moe/) | Get data about any specific anime or anime genre of your choice. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
 | [**Nick Cannon Baby API**](https://nick-cannon-baby-api.onrender.com/) | JSON API for entertainer Nick Cannon's many children and baby mamas. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
