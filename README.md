@@ -269,6 +269,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**Better Call Saul API**](https://bettercallsaul-api.onrender.com) | Your favorite lawyer's API. Get data for characters, episodes and much more. | **N/A** |
 | [**Bob's Burgers API**](https://www.bobsburgersapi.com/documentation) | Get data for hundreds of characters, episodes, running gags, and images from the show. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
 | [**Breaking Bad & Better Call Saul API**](https://breakingbadapi.com/documentation) | Get data about characters, episodes, quotes, and deaths. | **N/A** |
+| [**Buffy the Vampire Slayer and Angel API**](https://github.com/Thatskat/btvs-angel-api) | Get episode, cast and crew data from Buffy the Vampire Slayer and Angel | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
 | [**Cat as a Service (CATAAS)**](https://cataas.com/#/) | Is a REST API to spread peace and love (or not) thanks to cats. | **N/A** |
 | [**Comic Vine**](http://comicvine.gamespot.com/api/) | An extremely mature, well organized and continually updated resource of comic information. | **N/A** |
 | [**Comichron Data**](https://github.com/comichron-data/api) | API for comic sales data from comichron.com. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
