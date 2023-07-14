@@ -632,7 +632,6 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**DummyImage**](https://dummyimage.com/) | Particularly nice, when compared to some of its competitors, in that it offers a great deal of flexibility. | **N/A** |
 | [**Pixabay**](https://pixabay.com/api/docs/) | Restful API for searching and retrieving free images and videos. | **N/A** |
 | [**PlaceKitten**](https://placekitten.com/) | A quick and simple service for getting pictures of kittens for use as placeholders in your designs or code. | **N/A** |
-| [**Satyr**](http://satyr.io/) | Free powerful API for generating dummy images with unique features like delay, aspect ratio, variable resolution, themes, flags and offline mode. | **N/A** |
 | [**SingleColorImage**](https://singlecolorimage.com/api.html) | Free API for generating single color images with dimensions up to 5000x5000. | **N/A** |
 | [**Lorem Picsum**](https://picsum.photos/) | Beautiful placeholders using images from the popular [Unsplash.](https://unsplash.com/) | **N/A** |
 
