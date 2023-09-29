@@ -683,6 +683,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**Open Science Framework**](https://osf.io/y9jdt/wiki/home/) | A free, open source workflow/project management system for storing, collaborating on, and sharing research across the scholarly life cycle. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
 | [**Open Access Button**](https://openaccessbutton.org/api) | Free, legal research articles delivered instantly or automatically requested from authors. | **N/A** |
 | [**SHARE**](http://share-research.readthedocs.io/en/latest/) | A free, open dataset of scholarly research activity across the scholarly lifecycle. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
+| [**Periodic Table**](https://github.com/neelpatel05/periodic-table-api) | Easy-to-use and free, It allows you to access information about the elements of the periodic table. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
 
 [⬆ Back to Table of Contents](#table-of-contents)
 ### Screenshots
