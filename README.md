@@ -629,7 +629,6 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**Wit AI**](https://wit.ai/) | Provides an intent-based NLP API to easily build text and audio based chat bots. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
 | [**Word Associations API**](https://wordassociations.net/en/api) | Provides service to get associations for a word or phrase. Words are grouped by semantics, meaning, and psychological perception. | **N/A** |
 
-
 [⬆ Back to Table of Contents](#table-of-contents)
 ### Placeholder Images
 | API | Description | Open/Trial |
