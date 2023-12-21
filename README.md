@@ -481,6 +481,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**Art Institute of Chicago API**](https://api.artic.edu/docs/) | Allows developers to explore and integrate the Art Institute of Chicago's public data into their projects. | **N/A** |
 | [**Bored API**](https://www.boredapi.com/documentation) | Generates tasks to do when bored. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
 | [**Bhagavad Gita**](https://bhagavadgita.io/) | Bhagavad Gita in various languages. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
+| [**BrowserCat**](https://www.browsercat.com) | Headless browser API for automation, scraping, AI agent web access, image/pdf generation, and more. | **N/A** |
 | [**Bruzu**](https://docs.bruzu.com) |  Dynamically generate Images with a URL string. This service allows you to create dynamic images using nothing more than a URL string.| 💸 |
 | [**Callook.info**](https://callook.info) | Look up information about United States ham radio callsigns. | **N/A** |
 | [**ChuckNorris.io**](https://api.chucknorris.io) | A free [JSON](https://en.wikipedia.org/wiki/JSON) API for hand curated Chuck Norris facts. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
