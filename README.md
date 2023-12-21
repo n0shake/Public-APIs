@@ -56,6 +56,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 - [Quotes](#quotes)
 - [Science](#science)
 - [Screenshots](#screenshots)
+- [Security](#security)
 - [Social Media](#social-media)
 - [Source Control](#source-control)
 - [Sport](#sport)
@@ -693,6 +694,12 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**ApiFlash**](https://apiflash.com/) | Chrome based screenshot API to convert URLs to images. | **N/A** |
 | [**SavePage.io**](https://docs.savepage.io) | A free, RESTful API used to screenshot any desktop or mobile website with the real Chrome browser. | 💸 |
 | [**ScreenshotAPI.net**](https://screenshotapi.net) | Use one simple API call to generate screenshots of any website. | **N/A** |
+
+[⬆ Back to Table of Contents](#table-of-contents)
+### Security
+| API | Description | Open/Trial |
+| --- | ----------- | ---- |
+| [Whoisfreaks](https://whoisfreaks.com/) | Domain and DNS related information that will equip organizaion with comprehensive threat intelligence and attack surface analysis capabilities for enhanced security | 💸 |
 
 [⬆ Back to Table of Contents](#table-of-contents)
 ### Social Media
