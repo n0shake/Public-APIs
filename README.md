@@ -528,6 +528,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**RandomGermanWords**](https://zufallsworte.herokuapp.com/redoc) | An API for generating random german words. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
 | [**RestCountries**](https://restcountries.eu) | Get information about countries via a RESTful API. | **N/A** |
 | [**Typeform**](https://developer.typeform.com/) | Typeform's APIs allow you to create and edit Typeform surveys, and retrieve survey responses on demand. | **N/A** |
+| [**Techmap**](https://rapidapi.com/techmap-io-techmap-io-default/api/daily-international-job-postings) | Techmap's Jobs API for International Job postings allow you to analyze Job Ads or backfill Job Boards for any country. | 💸 |
 | [**Unixtime**](https://unixtime.co.za/) | Free RESTservice to convert unixtime to datetime and vice versa. | **N/A** |
 | [**Wallhaven**](https://wallhaven.cc/help/api) | A huge wallpaper library. | **N/A** |
 | [**Who Hosts This**](https://www.who-hosts-this.com/API) | Detect the hosting provider powering any website. | **N/A** |
