@@ -230,13 +230,13 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**Currency-api**](https://github.com/fawazahmed0/currency-api#readme) | Free Currency Exchange Rates API with 150+ Currencies & No Rate Limits. | ![Open Source](https://raw.githubusercontent.com/n0shake/Public-APIs/master/opensource.png "Open Source") |
 | [**CurrencyLayer.com**](https://currencylayer.com/documentation) | Exchange rates and currency conversion API. | **N/A** | 
 | [**CurrencyScoop.com**](https://currencyscoop.com/) | Real-time and historical currency rates [JSON](https://en.wikipedia.org/wiki/JSON) API. | **N/A** | 
+| [**Ecb.europa.eu**](https://www.ecb.europa.eu/stats/eurofxref/eurofxref-daily.xml) | Free currency exchange rates from european central bank(personal use). | **N/A** | 
 | [**ExchangeRate-API.com**](https://www.exchangerate-api.com/docs/overview) | Currency conversion API. | **N/A** | 
 | [**ExchangeRatesAPI.io**](https://exchangeratesapi.io/) | Foreign exchange rates API with currency conversion. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
 | [**Fixer.io**](http://fixer.io/) | [JSON](https://en.wikipedia.org/wiki/JSON) API for foreign exchange rates and currency conversion. End of day data only. | **N/A** | 
 | [**Frankfurter.app**](https://www.frankfurter.app/docs/) | Exchange rates and currency data API. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
 | [**OpenRates.io**](http://www.openrates.io/) | Live exchange rates and currency conversion API. | **N/A** | 
 | [**ratesapi.io**](https://ratesapi.io/) | Free foreign currency exchange rates and currency conversion. | **N/A** | 
-| [**ecb.europa.eu**](https://www.ecb.europa.eu/stats/eurofxref/eurofxref-daily.xml) | Free currency exchange rates from european central bank.(personal use) | **N/A** | 
 
 
 [⬆ Back to Table of Contents](#table-of-contents)
