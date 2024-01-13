@@ -237,6 +237,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**Frankfurter.app**](https://www.frankfurter.app/docs/) | Exchange rates and currency data API. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
 | [**OpenRates.io**](http://www.openrates.io/) | Live exchange rates and currency conversion API. | **N/A** | 
 | [**ratesapi.io**](https://ratesapi.io/) | Free foreign currency exchange rates and currency conversion. | **N/A** | 
+| [**ecb.europa.eu**](https://www.ecb.europa.eu/stats/eurofxref/eurofxref-daily.xml) | Free currency exchange rates from european central bank.(personal use) | **N/A** | 
 
 
 [⬆ Back to Table of Contents](#table-of-contents)
