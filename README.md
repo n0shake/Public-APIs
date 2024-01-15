@@ -476,6 +476,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 ### Miscellaneous
 | API | Description | Open/Trial |
 | --- | ----------- | ---- |
+ | [**WhoisFreaks**](https://whoisfreaks.com/documentation/api/whois-api.html) | Access domain information, including current WHOIS and historical WHOIS data, as well as reverse WHOIS searches using keywords, email addresses, phone numbers, or company names. |  💸 |
 | [**Aadhaar Bridge**](https://www.aadhaarbridge.com/) | Aadhaar is a 12-digit unique identification number issued by the Indian government to every individual resident of India. API allows you to authenticate and perform ekYC and eSign using Aadhar. | 💸 |
 | [**Mozilla Addons**](https://addons-server.readthedocs.io/en/latest/topics/api/index.html) | Mozilla's catalogue of addons for Firefox-compatible web browsers. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
 | [**Art Institute of Chicago API**](https://api.artic.edu/docs/) | Allows developers to explore and integrate the Art Institute of Chicago's public data into their projects. | **N/A** |
