@@ -294,6 +294,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**Star Trek API (STAPI)**](https://stapi.co/api-documentation) | STAPI, a Star Trek API. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
 | [**Star Wars API (SWAPI)**](https://www.swapi.tech/) | All things Star Wars, based on Wookpedia and other sources. Reboot of original swapi.co, guaranteed to be maintained. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
 | [**Studio Ghibli**](https://ghibliapi.vercel.app/) | Resources from Studio Ghibli films. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
+| [**StockX API**](https://stockx.vlour.me/) | Unofficial API listing 150k+ sneakers and fashion products with daily-updated prices. | **N/A** |
 | [**TCGdex**](https://www.tcgdex.dev/) | A Multilanguage Pokémon TCG Database with Cards Pictures and most of the information contained on the cards. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
 | [**The Walking Dead API**](https://thewalkingdead-api.onrender.com/) | Free to use RESTful API based upon The Walking Dead Series. | **N/A** |
 
