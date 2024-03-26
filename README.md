@@ -116,6 +116,8 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**QR Code API**](https://fungenerators.com/api/qrcode/) | QR Code REST API. Can create QR code images or read existing images and return the contents. | `💸` |
 | [**QR Code Generator API**](https://docs.openqr.io/) | Static and Dynamic QR code generator API | `💸` |
 | [**Stakdek's QR Generator API**](https://api.stakdek.de/blog?id=1006) | Returns QR code image. Uses `python qrcode`. | **N/A** |
+| [**Generate Personalized QR Code**](https://apyhub.com/utility/generate-qr-code) | Dynamically generate QR codes | `💸` |
+| [**Generate BAR Code**](https://apyhub.com/utility/bar-graph) | Generate a bar graph for the provided JSON data | `💸` |
 
 [⬆ Back to Table of Contents](#table-of-contents)
 ### Big Data and Analytics
@@ -162,6 +164,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**DigiDates API**](https://digidates.de/en/)      | Rest API for date and time calculations.                    | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png) |
 | [**Holiday API**](https://holidayapi.pl/)          | Public holiday API service for several supported countries. | **N/A** |
 | [**OpenHolidays API**](https://www.openholidaysapi.org/) | Public and school holidays for European countries via an open REST API. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
+| [**Generate iCal Invite**](https://apyhub.com/utility/generator-ical) | Generate iCal calendar events that can be used across calendar applications and platforms. | `💸` |
 
 [⬆ Back to Table of Contents](#table-of-contents)
 ### Captcha
@@ -221,6 +224,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**SLF**](https://github.com/slftool/slftool.github.io/blob/master/API.md) | German city, country, river, database. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
 | [**Today in History**](https://history.muffinlabs.com/) | Daily historical events, births and deaths API.  | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") | 
 | [**Wikipedia**](https://en.wikipedia.org/w/api.php) | Free multilingual Encyclopedia. | **N/A** | 
+| [**Readability Score**](https://apyhub.com/utility/generator-ical) | Calculates the readability score of text, providing insights into their ease of comprehension. | `💸` |
 
 [⬆ Back to Table of Contents](#table-of-contents)
 ### Currency
@@ -238,6 +242,8 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**Frankfurter.app**](https://www.frankfurter.app/docs/) | Exchange rates and currency data API. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
 | [**OpenRates.io**](http://www.openrates.io/) | Live exchange rates and currency conversion API. | **N/A** | 
 | [**ratesapi.io**](https://ratesapi.io/) | Free foreign currency exchange rates and currency conversion. | **N/A** | 
+| [**ApyHub's Convert Currency to Multiple Currencies API**](https://apyhub.com/utility/currency-conversion-multiple) | Convert currencies from a source currency to multiple target currencies. | `💸` |
+| [**ApyHub's Convert Currency API**](https://apyhub.com/utility/currency-conversion) | Convert currencies from a source currency to a target currency. | `💸` |
 
 
 [⬆ Back to Table of Contents](#table-of-contents)
@@ -326,6 +332,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**Vector Express**](https://github.com/smidyo/vectorexpress-api) | API for converting, processing and analyzing vector files.| **N/A** |
 | [**Verizon Cloud**](http://www.verizon.com/cloudstorageapi) | API for accessing stored pictures and other files stored by users of Verizon Cloud app. | **N/A** |
 | [**Vertopal**](https://www.vertopal.com/en/developer/api/introduction) | The Vertopal API lets you convert files to a variety of formats. | 💸 |
+| [**ApyHub File Manipulation APIs**](https://apyhub.com/catalog/file-manipulation) | Resize, crop, or add filters to your images, enhancing their appearance and compatibility. | `💸` |
 
 [⬆ Back to Table of Contents](#table-of-contents)
 ### Finance
@@ -442,6 +449,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**Microsoft Azure Machine Learning API**](https://azure.microsoft.com/en-us/services/cognitive-services/) | Helps data scientists publish in minutes which once used to take days after they had developed a feasible model. | **N/A** |
 | [**ObjectCut**](https://objectcut.com) | Automatic background removal service powered by AI. From an input image given its public-accessible URL or being the image itself, ObjectCut returns the same image but without background. | **N/A** |
 | [**Unplugg**](http://unplu.gg/test_api.html) | Automated Forecasting API for timeseries data which can be used to forecast energy consumption, temperature, or any other timeseries data which has some seasonality effect. | **N/A** |
+| [**ApyHub's AI APIs**](https://apyhub.com/catalog/file-manipulation) |  Perform decision-making, predictive analytics, natural language understanding, and more to drive your business forward. | `💸` |
 
 [⬆ Back to Table of Contents](#table-of-contents)
 ### Maps
