@@ -761,6 +761,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**FIFA women's world cup 2019**](https://worldcup.sfg.io/) | FIFA women's world cup 2019 matches and group stage results. | **N/A** |
 | [**Football Prediction**](https://boggio-analytics.com/fp-api/) | Predictions for upcoming football matches, odds, results and stats. | 💸 |
 | [**LIVE-SCORE API**](https://live-score-api.com/documentation/reference/) | Football API for live-scores, fixtures, group standings, history data and match events. | 💸 |
+| [**NBA GraphQL**](https://nbaapi.com/graphql/) | Current and historical NBA Stats | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
 | [**OpenF1**](https://openf1.org/) | Provides real-time and historical Formula 1 data (lap timings, car telemetry, radio communications, ...). | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
 | [**OpenLigaDB API**](https://www.openligadb.de/) | Provides sports data, especially football (soccer) league information. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
 | [**Sports Data API Providers**](https://sportsapi.com/api-directory/) | Reviews, coverage and prices from sports data providers. | **N/A** |
