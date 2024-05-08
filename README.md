@@ -23,6 +23,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 - [Currency](#currency)
 - [Design](#design)
 - [Dictionary](#dictionary)
+- [Email](#email)
 - [Entertainment](#entertainment)
 - [Events](#events)
 - [Face Recognition](#face-recognition)
@@ -264,6 +265,12 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**Wordnik**](http://developer.wordnik.com/docs.html#!/word) | Dictionary functions. | **N/A** |
 | [**Words API**](https://www.wordsapi.com/) | Use it to find definitions for more than 150,000 words. | **N/A** | 
 | [**Wiktionary API**](https://en.wiktionary.org/w/api.php) | Collaborative, free-content multilingual dictionary. | **N/A** |
+
+[⬆ Back to Table of Contents](#table-of-contents)
+### Email
+| API | Description | Open/Trial |
+| --- | ----------- | ---- |
+| [**Valid Email**](https://validemail.io) | Verify email addresses for spam and delivery. | 💸 |
 
 [⬆ Back to Table of Contents](#table-of-contents)
 ### Entertainment
