@@ -535,6 +535,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**Typeform**](https://developer.typeform.com/) | Typeform's APIs allow you to create and edit Typeform surveys, and retrieve survey responses on demand. | **N/A** |
 | [**Unixtime**](https://unixtime.co.za/) | Free RESTservice to convert unixtime to datetime and vice versa. | **N/A** |
 | [**Wallhaven**](https://wallhaven.cc/help/api) | A huge wallpaper library. | **N/A** |
+| [**WebCrawler API**](https://webcrawlerapi.com/) | Easily extract content from websites. | **N/A** |
 | [**Who Hosts This**](https://www.who-hosts-this.com/API) | Detect the hosting provider powering any website. | **N/A** |
 | [**WolframAlpha**](http://products.wolframalpha.com/api/) | Integrate top of the line computational knowledge into your applications through the WolframAlpha API. | 💸 |
 
