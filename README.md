@@ -724,6 +724,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**Pinterest**](https://www.pinterest.com/login/?next=http%3A%2F%2Fdevelopers.pinterest.com%2Fapi_docs%2F) | Enables apps to view the most clicked-through or repinned Pins, view related posts, and user profiles. | **N/A** |
 | [**Reddit**](https://github.com/reddit/reddit/wiki/API) | API to build clients, crawlers, scrapers, and browser extensions. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
 | [**Saidit**](https://github.com/IThinkImOKAY/rsaw) | Open source API wrapper made for the Reddit alternative Saidit.net. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
+| [**SocialData API**](https://socialdata.tools/) | Unofficial Twitter API alternative that allows scraping tweets, user profiles, lists and Twitter spaces without using Twitter's API. | 💸 |
 | [**Snapchat**](https://github.com/mgp25/SC-API) | PHP library of Snapchat’s private API. | **N/A** |
 | [**Telegram**](https://core.telegram.org/) | The Telegram API allows you to build your own customized Telegram clients. | **N/A** |
 | [**TikTok**](https://developers.tiktok.com/) | TikTok Display API allows you to display TikTok creator's videos and their profile information and many more features. | **N/A** |
