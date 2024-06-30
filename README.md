@@ -43,7 +43,6 @@ This is an attempt to categorise different APIs scoured from the web which make 
 - [Miscellaneous](#miscellaneous)
 - [Movies](#movies)
 - [Music](#music)
-  - [Music Analytics](#music-analytics)
   - [Music Discovery](#music-discovery)
   - [Music Identification](#music-identification)
     - [Music Lyrics](#music-lyrics)
@@ -90,7 +89,6 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**Companies taking action**](https://ditchcarbon.com/free-sbti-api-access/)| API access to the "companies taking action" list from SBTI.|**N/A**|
 | [**DitchCarbon API**](https://docs.ditchcarbon.com/) | DitchCarbon provides API access to their dataset of company and product carbon emissions disclosures, also includes reccommended actions for each company to decarbonise.| 💸 |
 | [**Fabric**](https://firebase.google.com/) | A platform that helps your mobile team build better apps, understand your users, and grow your business. | **N/A** |
-| [**Flurry**](https://developer.yahoo.com/flurry/docs/api/) | Yahoo’s Flurry provides you with a number of APIs enabling you to export your data. | **N/A** |
 | [**Google Analytics**](https://developers.google.com/analytics/?hl=en) | Google Analytics provides APIs to collect, configure, and report on user-interactions with your online content. | **N/A** |
 | [**Localytics**](http://docs.localytics.com/dev/query-api.html#query-api) | Interface to Localytics analytics platform. | **N/A** |
 | [**Matomo**](https://matomo.org/docs/analytics-api/) | Matomo is an all-in-one premium web analytics platform designed to give you the most conclusive insights. | 💸 |
@@ -125,7 +123,6 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**Google Charts**](https://developers.google.com/chart/interactive/docs/) | Free tool with a wide range of capabilities for visualizing data from a website. | **N/A** |
 | [**Keen IO**](https://keen.io/docs/api/) | Keen IO is a powerful, flexible, and scalable solution that’s literally Big Data, easy-to-implement and at your fingertips. | **N/A** |
 | [**Mongo DB**](https://github.com/mongodb) | mongoDB is ideal for developers who want precise control over the final results and processes for handling Big Data. | **N/A** |
-| [**Ryft**](http://www.ryft.com/api) | integrate the Ryft ONE’s data analysis capabilities into existing big data environments for faster data analysis and real-time intelligence. | **N/A** |
 | [**LinkedData.Center**](http://linkeddata.center/home/gdaas) | a RDF graph database as a service with W3C SPARQL query and SPARQL update apis. | 💸 |
 
 [⬆ Back to Table of Contents](#table-of-contents)
@@ -246,7 +243,6 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | API | Description | Open/Trial |
 | --- | ----------- | ---- |
 | [**Dribbble**](http://developer.dribbble.com/) | Dribbble is a community of designers answering that question each day. | **N/A** |
-| [**Behance**](https://www.behance.net/dev/api/endpoints/) | Behance is the leading online platform to showcase & discover creative work. | **N/A** |
 | [**Icon Horse**](https://icon.horse/usage) | Get the favicon logo for any web address, customizable and complete with a fallback if it fails. | **N/A** |
 | [**Pexels**](https://www.pexels.com/api/) | Pexels provides high quality and completely free stock photos licensed under the Creative Commons Zero (CC0) license. | **N/A** |
 | [**PHP-Noise**](https://php-noise.com/) | Noise background image generator api with various parameters. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
@@ -271,7 +267,6 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | API | Description | Open/Trial |
 | --- | ----------- | ---- |
 | [**Anilist**](https://anilist.gitbook.io/anilist-apiv2-docs/) | Free Graphql api for thousands of animes, mangas, characters and staff | **N/A** |
-| [**Better Call Saul API**](https://bettercallsaul-api.onrender.com) | Your favorite lawyer's API. Get data for characters, episodes and much more. | **N/A** |
 | [**Bob's Burgers API**](https://www.bobsburgersapi.com/documentation) | Get data for hundreds of characters, episodes, running gags, and images from the show. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
 | [**Breaking Bad & Better Call Saul API**](https://breakingbadapi.com/documentation) | Get data about characters, episodes, quotes, and deaths. | **N/A** |
 | [**Buffy the Vampire Slayer and Angel API**](https://github.com/Thatskat/btvs-angel-api) | Get episode, cast and crew data from Buffy the Vampire Slayer and Angel | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
@@ -297,7 +292,6 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**Studio Ghibli**](https://ghibliapi.vercel.app/) | Resources from Studio Ghibli films. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
 | [**StockX API**](https://stockx.vlour.me/) | Unofficial API listing 150k+ sneakers and fashion products with daily-updated prices. | **N/A** |
 | [**TCGdex**](https://www.tcgdex.dev/) | A Multilanguage Pokémon TCG Database with Cards Pictures and most of the information contained on the cards. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
-| [**The Walking Dead API**](https://thewalkingdead-api.onrender.com/) | Free to use RESTful API based upon The Walking Dead Series. | **N/A** |
 
 [⬆ Back to Table of Contents](#table-of-contents)
 ### Events
@@ -346,7 +340,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**Moldova**](https://bnm.md/en/content/official-exchange-rates) | Currency exchange rates in [XML](https://en.wikipedia.org/wiki/XML), [JSON](https://en.wikipedia.org/wiki/JSON) and [XLS](https://en.wikipedia.org/wiki/Microsoft_Excel#File_formats) formats. | **N/A** |
 | [**New Zealand**](https://www.rbnz.govt.nz/statistics) | Variety of data in [XLS](https://en.wikipedia.org/wiki/Microsoft_Excel#File_formats) format. | **N/A** |
 | [**Nigeria**](https://www.cbn.gov.ng/rates/) | Exchange rates and other info in [CSV](https://en.wikipedia.org/wiki/Comma-separated_values) format | **N/A** |
-| [**Parqet Logo API**](https://developers.parqet.com/docs/assets/logos) | Free Company Logo API for 400k+ stocks, ETF, mutual funds, crypto and more in [SVG]([https://en.wikipedia.org/wiki/Microsoft_Excel#File_formats](https://de.wikipedia.org/wiki/Scalable_Vector_Graphics)), [PNG](https://de.wikipedia.org/wiki/Portable_Network_Graphics) and [JPG](https://de.wikipedia.org/wiki/JPEG) format. | **N/A** |
+| [**Parqet Logo API**](https://developers.parqet.com/docs/assets/logos) | Free Company Logo API for 400k+ stocks, ETF, mutual funds, crypto and more in [SVG](https://en.wikipedia.org/wiki/Microsoft_Excel#File_formats), [PNG](https://de.wikipedia.org/wiki/Portable_Network_Graphics) and [JPG](https://de.wikipedia.org/wiki/JPEG) format. | **N/A** |
 | [**Peru**](https://estadisticas.bcrp.gob.pe/estadisticas/series/ayuda/api) | Variety of data in [XLSX](https://en.wikipedia.org/wiki/Microsoft_Excel#File_formats) format. | **N/A** |
 | [**Poland**](https://api.nbp.pl) | Currency exchange rates and gold prices in the [XML](https://en.wikipedia.org/wiki/XML) and [JSON](https://en.wikipedia.org/wiki/JSON) formats. | **N/A** |
 | [**Russian Federation**](https://www.cbr.ru/development/) | History of exchange rates via REST [XML](https://en.wikipedia.org/wiki/XML) and far more macroeconomical info via SOAP. | **N/A** |
@@ -469,7 +463,6 @@ This is an attempt to categorise different APIs scoured from the web which make 
 ### Math
 | API | Description | Open/Trial |
 | --- | ----------- | ---- |
-| [**Matlab**](https://www.programmableweb.com/api/matlab) | The MATLAB RESTful API enables you to evaluate MATLAB functions on remote servers using [JSON](https://en.wikipedia.org/wiki/JSON) representation of MATLAB data types. | **N/A** |
 | [**Newton**](https://newton.now.sh/) | An API for Arithmetic and Symbolic Math. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
 
 [⬆ Back to Table of Contents](#table-of-contents)
@@ -535,10 +528,8 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**Spreaker**](https://developers.spreaker.com/) | Enables developers to read and write data to Spreaker. | **N/A** |
 | [**SSL-Checker**](https://ssl-checker.io/) | Python script with free API that collects SSL/TLS information from hosts with JSON/CSV export. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
 | [**StackExchange**](https://api.stackexchange.com/) | The StackExchange API provides RESTful services to all the sites on the StackExchange domain. | **N/A** |
-| [**RandomGermanWords**](https://zufallsworte.herokuapp.com/redoc) | An API for generating random german words. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
 | [**RestCountries**](https://restcountries.eu) | Get information about countries via a RESTful API. | **N/A** |
 | [**Typeform**](https://developer.typeform.com/) | Typeform's APIs allow you to create and edit Typeform surveys, and retrieve survey responses on demand. | **N/A** |
-| [**Unixtime**](https://unixtime.co.za/) | Free RESTservice to convert unixtime to datetime and vice versa. | **N/A** |
 | [**Wallhaven**](https://wallhaven.cc/help/api) | A huge wallpaper library. | **N/A** |
 | [**Who Hosts This**](https://www.who-hosts-this.com/API) | Detect the hosting provider powering any website. | **N/A** |
 | [**WolframAlpha**](http://products.wolframalpha.com/api/) | Integrate top of the line computational knowledge into your applications through the WolframAlpha API. | 💸 |
@@ -568,11 +559,6 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**Spotify**](https://beta.developer.spotify.com/documentation/web-api) | Spotify’s Web API lets your applications fetch data from the Spotify music catalog, manage users' playlists and saved music, get recommendations, control Spotify Connect, and more. | **N/A** |
 | [**TheAudioDB**](http://www.theaudiodb.com) | Free [JSON](https://en.wikipedia.org/wiki/JSON) API for music data, artwork, charting, ratings and hashes. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
 
-[⬆ Back to Table of Contents](#table-of-contents)
-### Music Analytics
-| API | Description | Open/Trial |
-| --- | ----------- | ---- |
-| [**Next Big Sound**](https://api3.nextbigsound.com/) | API offers a very simple interface to access data from NBS. Ruby wrapper available. | **N/A** |
 
 [⬆ Back to Table of Contents](#table-of-contents)
 ### Music Discovery
@@ -645,7 +631,6 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | --- | ----------- | ---- |
 | [**DummyImage**](https://dummyimage.com/) | Particularly nice, when compared to some of its competitors, in that it offers a great deal of flexibility. | **N/A** |
 | [**Pixabay**](https://pixabay.com/api/docs/) | Restful API for searching and retrieving free images and videos. | **N/A** |
-| [**PlaceKitten**](https://placekitten.com/) | A quick and simple service for getting pictures of kittens for use as placeholders in your designs or code. | **N/A** |
 | [**SingleColorImage**](https://singlecolorimage.com/api.html) | Free API for generating single color images with dimensions up to 5000x5000. | **N/A** |
 | [**Lorem Picsum**](https://picsum.photos/) | Beautiful placeholders using images from the popular [Unsplash.](https://unsplash.com/) | **N/A** |
 
@@ -654,13 +639,12 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | API | Description | Open/Trial |
 | --- | ----------- | ---- |
 | [**bng2latlong**](https://www.getthedata.com/bng2latlong) | Convert an OSGB36 easting and northing (British National Grid) to WGS84 latitude and longitude. | **N/A** |
-| [**CityGrid**](http://docs.citygridmedia.com/display/citygridv2/Places+API) | Enables developers to create web and mobile applications that find local businesses, organizations, and points of interest by a variety of search criteria. | **N/A** |
 | [**CountryAPI**](https://fabian7593.github.io/CountryAPI/) | Get all the countries, and obtain the most important information of these. | **N/A** |
 | [**Factual**](https://developer.factual.com/docs/getting-started) | Providing a places search that can be searched by latitude/longitude, and “where” using full text search query string. | **N/A** |
 | [**Foursquare Venue**](https://developer.foursquare.com/overview/venues) | Providing a places search that can be searched by  hierarchical list of categories, longitude/latitude etc. | **N/A** |
 | [**Google Places API**](https://developers.google.com/maps/documentation/places/web-service/overview) | Providing a places search that can be searched by latitude/longitude, keyword matched against all fields, name of place, type of place restricted by radius. | **N/A** |
 | [**Nokia**](https://developer.here.com/develop/javascript-api) | Providing a JavaScript places search that can be searched by search term, with a detail search for display by JS widget. | **N/A** |
-| [**Yelp**](https://www.yelp.com/developers/documentation/v3/) | You can search location using longitude and latitude, neighborhood, address or city and filter listings by “where”, using a list of support categories. | **N/A** |
+| [**Yelp**](https://docs.developer.yelp.com/docs/getting-started) | You can search location using longitude and latitude, neighborhood, address or city and filter listings by “where”, using a list of support categories. | **N/A** |
 
 [⬆ Back to Table of Contents](#table-of-contents)
 ### Product
@@ -711,7 +695,6 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | --- | ----------- | ---- |
 | [**Ayrshare**](https://docs.ayrshare.com) | Social media APIs for scheduling, analytics, comments, and more. | 💸 |
 | [**Daily Motion**](https://developer.dailymotion.com/) | Build applications centered around DailyMotion. | **N/A** |
-| [**Dangerous Discord Database**](https://discord.riverside.rocks/docs/index.php) | Access a database of Dangerous Discord Users. | **N/A** |
 | [**Delicious**](https://github.com/domainersuitedev/delicious-api) | Access to Delicious’s API. | **N/A** |
 | [**DeviantArt**](https://www.deviantart.com/developers/) | The largest social networking website for artists and art enthusiasts. | **N/A** |
 | [**EventBrite**](https://github.com/eventbrite/eventbrite-sdk-python) | The Eventbrite Python SDK makes it trivial to interact with the Eventbrite API. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
@@ -801,7 +784,6 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**Bitly**](http://dev.bitly.com/links.html) | Access to Bitly’s API. | **N/A** |
 | [**GoTiny**](https://github.com/robvanbakel/gotiny-api) | Lightweight and easy to implement URL shortener. Supports custom links and offers JavaScript SDK. | **N/A** |
 | [**Is.gd**](https://is.gd/developers.php) | Simple URL shortener. Supports custom short link ending. | **N/A** |
-| [**Shrtcode**](https://shrtco.de/docs) | Free and unlimited URL shortening API without authentication. | **N/A** |
 | [**ShrtURI**](https://shrturi.com/docs) | URL shortening API for creating short URLs from long URLs. | **N/A** |
 | [**Tiny.cc**](https://tiny.cc/api-docs) | Easy-to-use URL shortener. Supports custom short link ending. | **N/A** |
 | [**Tiny.UID**](https://tinyuid.com/docs) | API for shortening long URLs. | **N/A** |
@@ -863,7 +845,6 @@ This is an attempt to categorise different APIs scoured from the web which make 
 
 - [**APIs.guru**](https://apis.guru/)
 - [**More Awesome APIs**](https://github.com/Kikobeats/awesome-api)
-- [**Programmable Web**](https://www.programmableweb.com/apis/directory)
 - [**Postman API Tools**](https://www.getpostman.com/docs/postman/postman_api/intro_api)
 - [**OSINT Framework for data gathering**](https://osintframework.com)
 
