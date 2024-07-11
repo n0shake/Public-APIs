@@ -644,6 +644,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**Foursquare Venue**](https://developer.foursquare.com/overview/venues) | Providing a places search that can be searched by  hierarchical list of categories, longitude/latitude etc. | **N/A** |
 | [**Google Places API**](https://developers.google.com/maps/documentation/places/web-service/overview) | Providing a places search that can be searched by latitude/longitude, keyword matched against all fields, name of place, type of place restricted by radius. | **N/A** |
 | [**Nokia**](https://developer.here.com/develop/javascript-api) | Providing a JavaScript places search that can be searched by search term, with a detail search for display by JS widget. | **N/A** |
+| [**World Wonders API**](https://github.com/Rolv-Apneseth/world-wonders-api) | Provides information about famous wonders from around the world. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
 | [**Yelp**](https://docs.developer.yelp.com/docs/getting-started) | You can search location using longitude and latitude, neighborhood, address or city and filter listings by “where”, using a list of support categories. | **N/A** |
 
 [⬆ Back to Table of Contents](#table-of-contents)
