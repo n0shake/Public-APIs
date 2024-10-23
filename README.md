@@ -87,7 +87,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**Amazon Mobile Analytics**](https://aws.amazon.com/documentation/mobileanalytics/) | Service for collecting, visualizing, and understanding app usage data at scale. | **N/A** |
 | [**Clicky**](https://clicky.com/help/api) | Allows you to extract your website's traffic data into several formats, making it easy to integrate, analyze, or store your data within your own application.| **N/A** |
 | [**Companies taking action**](https://ditchcarbon.com/free-sbti-api-access/)| API access to the "companies taking action" list from SBTI.|**N/A**|
-| [**DitchCarbon API**](https://docs.ditchcarbon.com/) | DitchCarbon provides API access to their dataset of company and product carbon emissions disclosures, also includes reccommended actions for each company to decarbonise.| 💸 |
+| [**DitchCarbon API**](https://docs.ditchcarbon.com/) | DitchCarbon provides API access to their dataset of company and product carbon emissions disclosures, also includes recommended actions for each company to decarbonise.| 💸 |
 | [**Fabric**](https://firebase.google.com/) | A platform that helps your mobile team build better apps, understand your users, and grow your business. | **N/A** |
 | [**Google Analytics**](https://developers.google.com/analytics/?hl=en) | Google Analytics provides APIs to collect, configure, and report on user-interactions with your online content. | **N/A** |
 | [**Localytics**](http://docs.localytics.com/dev/query-api.html#query-api) | Interface to Localytics analytics platform. | **N/A** |
