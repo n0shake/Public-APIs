@@ -808,6 +808,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**MMO Games**](https://www.mmobomb.com/api) | MMO Games database, news and giveaways. | **N/A** |
 | [**RAWG**](https://rawg.io/apidocs) | Open video game database. Find games by platform, genre, company or find game developers, stores, publishers and many more. | **N/A** |
 | [**Riot Games**](https://developer.riotgames.com/) | Riot Games game information API | **N/A** |
+| [**Wargaming**](https://developers.wargaming.net/documentation/guide/getting-started/) | World of Tanks (PC/Console), World of Warships, World of Warplanes API for player statistics, map information, matchmaking etc.  | **N/A** |
 
 [⬆ Back to Table of Contents](#table-of-contents)
 ### Weather
