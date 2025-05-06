@@ -596,6 +596,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | API | Description | Open/Trial |
 | --- | ----------- | ---- |
 | [**Faroo**](http://www.faroo.com/hp/api/api.html) | Alternative to Google Web Search API / Google News Search API, allows you to search news within dates, fetch trending news, topics and terms. | **N/A** |
+| [**Finlight**](http://docs.finlight.me) | Finlight.me offers a real-time financial and geopolitical news API with full-text content, sentiment analysis, and WebSocket support for fast, structured data delivery. | **💸** |
 | [**Mediastack**](https://mediastack.com/documentation) | Scalable [JSON](https://en.wikipedia.org/wiki/JSON) API delivering worldwide news, headlines and blog articles in real-time. | **N/A** |
 | [**New York Times**](http://developer.nytimes.com/) | Article search, best sellers, campaign finance, community, most popular, real estate, movie reviews, NY state legislature, Times newswire, tags, and people. | **N/A** |
 | [**NewsAPI**](https://newsapi.org/) | 70+ news sources and their headlines, one API. | **N/A** |
