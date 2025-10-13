@@ -279,6 +279,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**Fun Translations API**](https://funtranslations.com/api/) | Translate to over 50+ languages from various TV Series and Movies. | **N/A** |
 | [**Jandapress API**](https://github.com/sinkaroid/jandapress) | A doujinshi API with gather in mind. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
 | [**Lord of the Rings API**](https://the-one-api.dev/documentation) | Get data about the books, the movie trilogy, many characters and quotes. | **N/A** |
+| [**LotteryData.io API**](https://lotterydata.io/docs) | Powerball, MegaMillions, and more results (live + historical) games | 💸 |
 | [**Lustpress API**](https://github.com/sinkaroid/lustpress) | Porn videos API that gather from popular adult sites. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
 | [**Marvel**](https://developer.marvel.com/) | Access over 70 years of comic data with Marvel's official developer API. | **N/A** |
 | [**My Anime List API**](https://jikan.moe/) | Get data about any specific anime or anime genre of your choice. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
@@ -511,7 +512,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**LetsValidate**](https://github.com/letsvalidate/api) | Uncovers the technologies used on websites and URL to thumbnail. | **N/A** |
 | [**LinkPreview**](https://www.linkpreview.net) | RESTful API that returns [JSON](https://en.wikipedia.org/wiki/JSON) formatted summary with title, description and preview image for any requested URL. Free & paid plans. | **N/A** |
 | [**LiveChat**](https://developers.livechatinc.com/) | Online Customer Service software with customizable chat, embeddable widgets, help desk and web analytics tools. APIs include webhooks support, SDKs and open-source libraries to build on. | 💸 |
-| [**Lottery Number Generation**](https://fungenerators.com/api/lottery/) | Generate lottery numbers. Hundreds of lottery games from various countries are supported. | 💸 |
+| [** Number Generation**](https://fungenerators.com/api/lottery/) | Generate lottery numbers. Hundreds of lottery games from various countries are supported. | 💸 |
 | [**NetworkCalc**](https://networkcalc.com/api/docs) | REST APIs that provide network calculator tools, such as subnet calculations, binary number conversion, and certificate lookup. | **N/A** |
 | [**PDFmyURL**](https://pdfmyurl.com/html-to-pdf-api) | RESTful API that converts web pages to PDF quickly and even does entire websites to PDF. | 💸 |
 | [**PDF from URL**](https://api.stakdek.de/blog?id=1070) | API that converts websites from URL to PDF and even does convert HTML Strings to PDF for free. | **N/A** |
