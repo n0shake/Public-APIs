@@ -109,6 +109,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 ### BarCode
 | API | Description | Open/Trial |
 | --- | ----------- | ---- |
+| [**BMO QR Code Generator**](https://qr.bmobot.ai) | Generate QR codes as PNG, SVG, or base64 with custom colors and sizes. Free, no auth required. | **N/A** |
 | [**Dynamic QR Code**](https://rapidapi.com/updeploy-tools/api/qr-code-dynamic-and-static1/details) | Generate dynamic and static QR Codes. | 💸 |
 | [**Google Barcode**](https://developers.google.com/vision/barcodes-overview?hl=en) | The Barcode API detects barcodes in real-time, on device, in any orientation. It can also detect multiple barcodes at once. | **N/A** |
 | [**EAN-Search**](https://www.ean-search.org/ean-database-api.html) | The EAN-Search API allows you to lookup products by EAN, UPC or GTIN barcode. | 💸 |
@@ -209,8 +210,9 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | API | Description | Open/Trial |
 | --- | ----------- | ---- |
 | [**Bible**](https://github.com/wldeh/bible-api) | Lightning-fast Bible API, featuring support for over 200+ translations and counting. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") | 
-| [**Bible**](https://bible-api.com/) | JSON API for public domain and open bible translations. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") | 
-| [**Fruits API**](https://github.com/Franqsanz/fruits-api) | API GraphQL with information on fruit trees of the world. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") | 
+| [**Bible**](https://bible-api.com/) | JSON API for public domain and open bible translations. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
+| [**BMO Lorem Ipsum**](https://lorem.bmobot.ai) | Generate lorem ipsum placeholder text in paragraphs, sentences, or words. Free, no auth required. | **N/A** |
+| [**Fruits API**](https://github.com/Franqsanz/fruits-api) | API GraphQL with information on fruit trees of the world. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
 | [**Jokes**](https://jokes.one/api/joke/) | Full featured Jokes API  | 💸 |
 | [**Perfect Tense API**](https://www.perfecttense.com/developers) | The Perfect Tense API is the only spelling and grammar checking API that uses artificial intelligence to correct all of your text automatically in one call. | 💸 |
 | [**qKast Channel Content**](https://github.com/egfx/qKast) | Access live content collections sourced from any page around the web. | **N/A** |
@@ -242,6 +244,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 ### Design
 | API | Description | Open/Trial |
 | --- | ----------- | ---- |
+| [**BMO Color Tools**](https://color.bmobot.ai) | Convert colors between formats, generate palettes, calculate contrast ratios, and blend colors. Free, no auth required. | **N/A** |
 | [**Dribbble**](http://developer.dribbble.com/) | Dribbble is a community of designers answering that question each day. | **N/A** |
 | [**Icon Horse**](https://icon.horse/usage) | Get the favicon logo for any web address, customizable and complete with a fallback if it fails. | **N/A** |
 | [**Pexels**](https://www.pexels.com/api/) | Pexels provides high quality and completely free stock photos licensed under the Creative Commons Zero (CC0) license. | **N/A** |
@@ -481,6 +484,8 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**Art Institute of Chicago API**](https://api.artic.edu/docs/) | Allows developers to explore and integrate the Art Institute of Chicago's public data into their projects. | **N/A** |
 | [**Bored API**](https://www.boredapi.com/documentation) | Generates tasks to do when bored. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
 | [**Bhagavad Gita**](https://bhagavadgita.io/) | Bhagavad Gita in various languages. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
+| [**BMO Cron Parser**](https://cron.bmobot.ai) | Parse cron expressions into human-readable descriptions and calculate next run times. Free, no auth required. | **N/A** |
+| [**BMO JSON Tools**](https://json.bmobot.ai) | Validate, format, diff, query, and transform JSON data via a REST API. Free, no auth required. | **N/A** |
 | [**BrowserCat**](https://www.browsercat.com/docs) | Headless browser API for automation, scraping, AI agent web access, image/pdf generation, and more. | **N/A** |
 | [**Bruzu**](https://docs.bruzu.com) |  Dynamically generate Images with a URL string. This service allows you to create dynamic images using nothing more than a URL string.| 💸 |
 | [**Callook.info**](https://callook.info) | Look up information about United States ham radio callsigns. | **N/A** |
@@ -629,6 +634,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 ### Placeholder Images
 | API | Description | Open/Trial |
 | --- | ----------- | ---- |
+| [**BMO Placeholder Image**](https://img.bmobot.ai) | Generate placeholder images with custom dimensions, colors, and text. Free, no auth required. | **N/A** |
 | [**DummyImage**](https://dummyimage.com/) | Particularly nice, when compared to some of its competitors, in that it offers a great deal of flexibility. | **N/A** |
 | [**Pixabay**](https://pixabay.com/api/docs/) | Restful API for searching and retrieving free images and videos. | **N/A** |
 | [**SingleColorImage**](https://singlecolorimage.com/api.html) | Free API for generating single color images with dimensions up to 5000x5000. | **N/A** |
@@ -763,6 +769,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 ### Test Data
 | API | Description | Open/Trial |
 | --- | ----------- | ---- |
+| [**BMO Fake Data Generator**](https://faker.bmobot.ai) | Generate realistic fake data for testing including names, addresses, companies, and payment info. Free, no auth required. | **N/A** |
 | [**Faker API**](https://fakerapi.it) | Collection of completely free APIs that helps web developers and web designers with generating fake data. | **N/A** |
 
 [⬆ Back to Table of Contents](#table-of-contents)
