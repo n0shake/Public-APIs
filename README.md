@@ -598,6 +598,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**Faroo**](http://www.faroo.com/hp/api/api.html) | Alternative to Google Web Search API / Google News Search API, allows you to search news within dates, fetch trending news, topics and terms. | **N/A** |
 | [**Mediastack**](https://mediastack.com/documentation) | Scalable [JSON](https://en.wikipedia.org/wiki/JSON) API delivering worldwide news, headlines and blog articles in real-time. | **N/A** |
 | [**New York Times**](http://developer.nytimes.com/) | Article search, best sellers, campaign finance, community, most popular, real estate, movie reviews, NY state legislature, Times newswire, tags, and people. | **N/A** |
+| [**newsmcp**](https://newsmcp.io) | Real-time world news events clustered from hundreds of sources, classified by 12 topics and 30+ regions. Free REST API and MCP server. | **N/A** |
 | [**NewsAPI**](https://newsapi.org/) | 70+ news sources and their headlines, one API. | **N/A** |
 | [**NewsCatcherAPI**](https://newscatcherapi.com/news-api) | News API to find news articles by any topic, country, language, website or keyword. | 💸 |
 | [**RSS API**](https://docs.rssapi.net) | API to parse and subscribe to RSS Feeds to get webhooks when new items are published. | 💸 |
