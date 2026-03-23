@@ -511,6 +511,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**LetsValidate**](https://github.com/letsvalidate/api) | Uncovers the technologies used on websites and URL to thumbnail. | **N/A** |
 | [**LinkPreview**](https://www.linkpreview.net) | RESTful API that returns [JSON](https://en.wikipedia.org/wiki/JSON) formatted summary with title, description and preview image for any requested URL. Free & paid plans. | **N/A** |
 | [**LiveChat**](https://developers.livechatinc.com/) | Online Customer Service software with customizable chat, embeddable widgets, help desk and web analytics tools. APIs include webhooks support, SDKs and open-source libraries to build on. | 💸 |
+| [**MobileAPI**](https://mobileapi.dev/docs/) | REST API for smartphone, tablet, and wearable device specifications, images, and pricing data. | **N/A** |
 | [**Lottery Number Generation**](https://fungenerators.com/api/lottery/) | Generate lottery numbers. Hundreds of lottery games from various countries are supported. | 💸 |
 | [**NetworkCalc**](https://networkcalc.com/api/docs) | REST APIs that provide network calculator tools, such as subnet calculations, binary number conversion, and certificate lookup. | **N/A** |
 | [**PDFmyURL**](https://pdfmyurl.com/html-to-pdf-api) | RESTful API that converts web pages to PDF quickly and even does entire websites to PDF. | 💸 |
