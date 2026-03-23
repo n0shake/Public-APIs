@@ -452,7 +452,8 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**Daum Maps API**](http://apis.map.daum.net/) | Daum Maps provides multiple APIs for the Korean map. | **N/A** |
 | [**Google Maps API**](https://developers.google.com/maps/?hl=en) | Google Maps APIs are available for Android, iOS, web browsers and through HTTP web services. [Clients can be found here.](https://github.com/googlemaps/) | **N/A** |
 | [**HERE Maps API**](https://developer.here.com/) | Wide range of APIs available through JavaScript, iOS, Android, or REST services. | **N/A** |
-| [**Leaflet.js**](http://leafletjs.com/) | An open-source JavaScript library for mobile-friendly interactive maps. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") | 
+| [**Leaflet.js**](http://leafletjs.com/) | An open-source JavaScript library for mobile-friendly interactive maps. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
+| [**MapAtlas**](https://mapatlas.eu/) | EU-hosted mapping platform with geocoding, routing, map tiles, directions, and route optimization APIs. | **N/A** |
 | [**Mapbox**](https://www.mapbox.com/developers/api/maps/) | Access to MapBox’s API. | **N/A** |
 | [**Open Street Map**](http://wiki.openstreetmap.org/wiki/API) | API access to OSM. | **N/A** |
 | [**Scribble**](https://www.scribblemaps.com/api/) | The Scribble Maps API is a cross browser, mobile ready, HTML5/JavaScript, interactive map builder. | **N/A** |
