@@ -686,6 +686,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 ### Screenshots
 | API | Description | Open/Trial |
 | --- | ----------- | ---- |
+| [**API Snap**](https://api-snap.com) | Free utility API platform — QR codes, screenshots, PDFs, image resize, hashing, and more tools. Free tier: 100 calls/month. | 💸 |
 | [**ApiFlash**](https://apiflash.com/) | Chrome based screenshot API to convert URLs to images. | **N/A** |
 | [**SavePage.io**](https://docs.savepage.io) | A free, RESTful API used to screenshot any desktop or mobile website with the real Chrome browser. | 💸 |
 | [**ScreenshotAPI.net**](https://screenshotapi.net) | Use one simple API call to generate screenshots of any website. | **N/A** |
