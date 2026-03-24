@@ -142,6 +142,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**CoinMarketCap**](https://coinmarketcap.com/api/) | Cryptocurrencies Prices. | **N/A** |
 | [**coinpaprika**](https://api.coinpaprika.com) | Cryptocurrencies prices, market capitalization, volume and more. | **N/A** |
 | [**CryptoCompare**](https://www.cryptocompare.com/api) | Cryptocurrencies Comparison. | **N/A** |
+| [**CryptoLabel**](https://cryptolabel.io) | Identify known addresses on major networks with a free API. | **Free** |
 | [**Cryptonator**](https://www.cryptonator.com/api/) | Cryptocurrencies Exchange Rates. | **N/A** |
 | [**Coinigy**](https://coinigy.docs.apiary.io) | Interact with Coinigy Accounts and Exchange Accounts Directly. | **N/A** |
 | [**Covalent**](https://www.covalenthq.com/docs/api/) | Multi-blockchain data aggregator at one unified API. | **N/A** |
