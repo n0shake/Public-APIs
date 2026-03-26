@@ -141,6 +141,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**Coinlore**](https://www.coinlore.com/cryptocurrency-data-api) | Cryptocurrency tick data API. | **N/A** | 
 | [**CoinMarketCap**](https://coinmarketcap.com/api/) | Cryptocurrencies Prices. | **N/A** |
 | [**coinpaprika**](https://api.coinpaprika.com) | Cryptocurrencies prices, market capitalization, volume and more. | **N/A** |
+| [**DexPaprika**](https://api.dexpaprika.com) | Free DEX data across 34 blockchains. Pools, tokens, trades, OHLCV, real-time streaming. No API key needed. | **N/A** |
 | [**CryptoCompare**](https://www.cryptocompare.com/api) | Cryptocurrencies Comparison. | **N/A** |
 | [**Cryptonator**](https://www.cryptonator.com/api/) | Cryptocurrencies Exchange Rates. | **N/A** |
 | [**Coinigy**](https://coinigy.docs.apiary.io) | Interact with Coinigy Accounts and Exchange Accounts Directly. | **N/A** |
