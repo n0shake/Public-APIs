@@ -686,6 +686,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 ### Screenshots
 | API | Description | Open/Trial |
 | --- | ----------- | ---- |
+| [**16761.tech**](https://api.16761.tech/docs) | 7 developer APIs: screenshot, PDF, QR code, metadata, URL shortener, email verification, text extraction. Free 100 req/day. | **Yes** |
 | [**ApiFlash**](https://apiflash.com/) | Chrome based screenshot API to convert URLs to images. | **N/A** |
 | [**SavePage.io**](https://docs.savepage.io) | A free, RESTful API used to screenshot any desktop or mobile website with the real Chrome browser. | 💸 |
 | [**ScreenshotAPI.net**](https://screenshotapi.net) | Use one simple API call to generate screenshots of any website. | **N/A** |
