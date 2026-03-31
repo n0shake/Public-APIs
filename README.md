@@ -347,6 +347,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**Switzerland**](https://data.snb.ch/en) | Rich variety of data in [XLS](https://en.wikipedia.org/wiki/Microsoft_Excel#File_formats) and [CSV](https://en.wikipedia.org/wiki/Comma-separated_values) formats. | **N/A** |
 | [**Ukraine**](https://bank.gov.ua/control/en/publish/article?art_id=25365630) | Exchange rates and bond placements in [JSON](https://en.wikipedia.org/wiki/JSON) and [XML](https://en.wikipedia.org/wiki/XML) formats. | **N/A** |
 | [**Portfolio Optimizer**](https://portfoliooptimizer.io/) | API for investment portfolio optimization. | **N/A** |
+| [**PredScope**](https://predscope.com/api/markets.json) | Free prediction market odds, volumes, and resolved outcomes from Polymarket. | **N/A** |
 
 [⬆ Back to Table of Contents](#table-of-contents)
 ### Fitness
