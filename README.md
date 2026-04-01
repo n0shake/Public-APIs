@@ -501,7 +501,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**Httpbin**](https://httpbin.org/) | A Simple HTTP Request & Response Service. | ![Open Source](https://raw.githubusercontent.com/n0shake/Public-APIs/master/opensource.png "Open Source") |
 | [**Httpbin Cloudflare**](https://cloudflare-quic.com/b/) | A Simple HTTP Request & Response Service with HTTP/3 Support by Cloudflare. | ![Open Source](https://raw.githubusercontent.com/n0shake/Public-APIs/master/opensource.png "Open Source") |
 | [**Icanhazepoch**](https://icanhazepoch.com) | Get Epoch time. | ![Open Source](https://raw.githubusercontent.com/n0shake/Public-APIs/master/opensource.png "Open Source") |
-| [**ToolPipe**](https://toolpipe.dev) | Free developer utility APIs. 70+ endpoints for QR codes, JSON formatting, text analysis, PDF processing, UUID generation, and more. No auth required for free tier. | **N/A** |
+| [**ToolPipe**](https://assessing-scoop-authorities-sheet.trycloudflare.com) | 112+ free developer utility APIs and MCP server for JSON, PDF, QR, hash, UUID, DNS, regex, JWT, IP lookup, and more. | **N/A** |
 | [**Icanhazip**](https://major.io/icanhazip-com-faq/) | IP Address API. | ![Open Source](https://raw.githubusercontent.com/n0shake/Public-APIs/master/opensource.png "Open Source") |
 | [**Image-Charts**](https://www.image-charts.com) | 1 URL = 1 Chart: Get a chart image in response to a URL GET or POST request. A drop-in-replacement for the deprecated Google Image Charts. | **N/A** |
 | [**Jobicy**](https://jobicy.com/jobs-rss-feed) | The latest remote job listings from a diverse range of industries and companies. | ![Open Source](https://raw.githubusercontent.com/n0shake/Public-APIs/master/opensource.png "Open Source") |
