@@ -528,6 +528,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**Spreaker**](https://developers.spreaker.com/) | Enables developers to read and write data to Spreaker. | **N/A** |
 | [**SSL-Checker**](https://ssl-checker.io/) | Python script with free API that collects SSL/TLS information from hosts with JSON/CSV export. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
 | [**StackExchange**](https://api.stackexchange.com/) | The StackExchange API provides RESTful services to all the sites on the StackExchange domain. | **N/A** |
+| [**ToolPipe**](https://toolpipe.dev) | 120+ developer utility APIs including JSON formatting, QR codes, hashing, UUID generation, DNS lookup, WHOIS, code review, SEO analysis, and more. | 💸 |
 | [**RestCountries**](https://restcountries.eu) | Get information about countries via a RESTful API. | **N/A** |
 | [**Typeform**](https://developer.typeform.com/) | Typeform's APIs allow you to create and edit Typeform surveys, and retrieve survey responses on demand. | **N/A** |
 | [**Wallhaven**](https://wallhaven.cc/help/api) | A huge wallpaper library. | **N/A** |
