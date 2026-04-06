@@ -6,6 +6,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 >
 > Items marked with 💸 are trial based APIs
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for public API orchestration, automated endpoint management, and multi-agent coordination. MIT licensed.
 ## Table of Contents
 
 - [Advertising](#advertising)
