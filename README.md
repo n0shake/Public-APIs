@@ -489,6 +489,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**Cloudlayer.io**](https://cloudlayer.io) | Document Generation Service that allows you to generate PDFs and Images from websites, HTML, or Templates. | 💸 |
 | [**Codewars API**](https://dev.codewars.com/#introduction) | Coding challenge website API that allows access usernames, leaderboards, and real time statistics for coding problems. | **N/A** |
 | [**Congress.gov API**](https://api.congress.gov) | The beta Congress.gov Application Programming Interface (API) provides a method for Congress and the public to view, retrieve, and re-use machine-readable data from collections available on Congress.gov. | **N/A** |
+| [**CyberBriefing**](https://cyberbriefing.info/docs) | Free REST API with 20 years of historical cybersecurity threat intelligence — CVEs, IOCs, threat actor profiles, and security article feeds. | **N/A** |
 | [**Dataflow Kit**](https://dataflowkit.com/doc-api) | Web Scraper API to extract information from websites, scrape SERPs, convert web pages to PDF, and capture screenshots. | 💸 |
 | [**Data Science Toolkit**](https://github.com/petewarden/dstk) | A collection of the best open data sets and open-source tools for data science. | **N/A** |
 | [**Don't Kill My App**](https://github.com/urbandroid-team/dont-kill-my-app) | Database of ways mobile vendors inhibit background activity of apps. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
