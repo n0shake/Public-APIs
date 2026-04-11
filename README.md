@@ -234,6 +234,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**ExchangeRatesAPI.io**](https://exchangeratesapi.io/) | Foreign exchange rates API with currency conversion. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
 | [**Fixer.io**](http://fixer.io/) | [JSON](https://en.wikipedia.org/wiki/JSON) API for foreign exchange rates and currency conversion. End of day data only. | **N/A** | 
 | [**Frankfurter.app**](https://www.frankfurter.app/docs/) | Exchange rates and currency data API. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
+| [**UniRateAPI**](https://unirateapi.com) | Free currency API with 593 currencies, 57 years historical forex data (1967-present), crypto and precious metals. | ![Free](https://img.shields.io/badge/-FREE-green) |
 | [**OpenRates.io**](http://www.openrates.io/) | Live exchange rates and currency conversion API. | **N/A** | 
 | [**ratesapi.io**](https://ratesapi.io/) | Free foreign currency exchange rates and currency conversion. | **N/A** | 
 
