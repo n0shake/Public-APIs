@@ -211,6 +211,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**Bible**](https://github.com/wldeh/bible-api) | Lightning-fast Bible API, featuring support for over 200+ translations and counting. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") | 
 | [**Bible**](https://bible-api.com/) | JSON API for public domain and open bible translations. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") | 
 | [**Fruits API**](https://github.com/Franqsanz/fruits-api) | API GraphQL with information on fruit trees of the world. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") | 
+| [**Haunt**](https://hauntapi.com) | AI-powered web extraction API that extracts structured data from any URL using natural language prompts. Free tier (100 req/mo) available. | **N/A** |
 | [**Jokes**](https://jokes.one/api/joke/) | Full featured Jokes API  | 💸 |
 | [**Perfect Tense API**](https://www.perfecttense.com/developers) | The Perfect Tense API is the only spelling and grammar checking API that uses artificial intelligence to correct all of your text automatically in one call. | 💸 |
 | [**qKast Channel Content**](https://github.com/egfx/qKast) | Access live content collections sourced from any page around the web. | **N/A** |
