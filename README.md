@@ -407,6 +407,10 @@ This is an attempt to categorise different APIs scoured from the web which make 
 [⬆ Back to Table of Contents](#table-of-contents)
 ### Legal
 
+| API | Description | Open/Trial |
+| --- | ----------- | ---- |
+| [**US Business Data API**](https://autoscrape-api-seven.vercel.app) | Secretary of State business registrations (17 states), building permits (47 cities), SAM.gov federal contracts, SEC EDGAR filings. REST API with MCP support. | **N/A** |
+
 #### Open Licenses
 | API | Description | Open/Trial |
 | --- | ----------- | ---- |
