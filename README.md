@@ -437,6 +437,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**Big ML**](http://bigml.com/api/) | BigML is a user-friendly and developer-friendly Machine learning API that mainly concentrates on decision trees. | **N/A** |
 | [**Cloud Machine Learning Engine**](https://cloud.google.com/ml-engine/docs/) | Cloud-based machine learning and pattern matching tool. | **N/A** |
 | [**Microsoft Azure Machine Learning API**](https://azure.microsoft.com/en-us/services/cognitive-services/) | Helps data scientists publish in minutes which once used to take days after they had developed a feasible model. | **N/A** |
+| [**Not Human Search**](https://nothumansearch.ai/openapi.yaml) | Free REST API for discovering AI-ready websites. 1,750+ indexed sites scored on AI accessibility with search and lookup endpoints. | **N/A** |
 | [**ObjectCut**](https://objectcut.com) | Automatic background removal service powered by AI. From an input image given its public-accessible URL or being the image itself, ObjectCut returns the same image but without background. | **N/A** |
 | [**OVHcloud AI Endpoints**](https://endpoints.ai.cloud.ovh.net/) | Simplify GenAI & ML integration with secure, ready-to-use APIs. | **N/A** |
 | [**Unplugg**](http://unplu.gg/test_api.html) | Automated Forecasting API for timeseries data which can be used to forecast energy consumption, temperature, or any other timeseries data which has some seasonality effect. | **N/A** |
@@ -477,6 +478,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | API | Description | Open/Trial |
 | --- | ----------- | ---- |
 | [**Aadhaar Bridge**](https://www.aadhaarbridge.com/) | Aadhaar is a 12-digit unique identification number issued by the Indian government to every individual resident of India. API allows you to authenticate and perform ekYC and eSign using Aadhar. | 💸 |
+| [**AI Dev Jobs**](https://aidevboard.com/openapi.yaml) | Free REST API for AI/ML job listings with 6,000+ positions from 289+ companies. Search by role, company, location, and more. | **N/A** |
 | [**Mozilla Addons**](https://addons-server.readthedocs.io/en/latest/topics/api/index.html) | Mozilla's catalogue of addons for Firefox-compatible web browsers. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
 | [**Art Institute of Chicago API**](https://api.artic.edu/docs/) | Allows developers to explore and integrate the Art Institute of Chicago's public data into their projects. | **N/A** |
 | [**Bored API**](https://www.boredapi.com/documentation) | Generates tasks to do when bored. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
