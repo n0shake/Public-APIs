@@ -113,6 +113,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**Google Barcode**](https://developers.google.com/vision/barcodes-overview?hl=en) | The Barcode API detects barcodes in real-time, on device, in any orientation. It can also detect multiple barcodes at once. | **N/A** |
 | [**EAN-Search**](https://www.ean-search.org/ean-database-api.html) | The EAN-Search API allows you to lookup products by EAN, UPC or GTIN barcode. | 💸 |
 | [**QR Code API**](https://fungenerators.com/api/qrcode/) | QR Code REST API. Can create QR code images or read existing images and return the contents. | `💸` |
+| [**ShopSavvy**](https://shopsavvy.com/data) | Lookup products by UPC/EAN/ISBN barcode with real-time pricing from tens of thousands of retailers. | 💸 |
 | [**QR Code Generator API**](https://docs.openqr.io/) | Static and Dynamic QR code generator API | `💸` |
 | [**Stakdek's QR Generator API**](https://api.stakdek.de/blog?id=1006) | Returns QR code image. Uses `python qrcode`. | **N/A** |
 
@@ -671,6 +672,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | API | Description | Open/Trial |
 | --- | ----------- | ---- |
 | [**Amazon Product Advertising API**](http://docs.aws.amazon.com/AWSECommerceService/latest/DG/Welcome.html) | Get access to the data used by Amazon including items for sale, customer reviews, seller reviews, item search, product promotions, and more. | **N/A** |
+| [**ShopSavvy**](https://shopsavvy.com/data) | Product data API with barcode/UPC/EAN/ASIN lookups, real-time pricing and price history across tens of thousands of retailers. | 💸 |
 
 [⬆ Back to Table of Contents](#table-of-contents)
 ### Science
