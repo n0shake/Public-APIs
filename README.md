@@ -502,6 +502,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**Httpbin Cloudflare**](https://cloudflare-quic.com/b/) | A Simple HTTP Request & Response Service with HTTP/3 Support by Cloudflare. | ![Open Source](https://raw.githubusercontent.com/n0shake/Public-APIs/master/opensource.png "Open Source") |
 | [**Icanhazepoch**](https://icanhazepoch.com) | Get Epoch time. | ![Open Source](https://raw.githubusercontent.com/n0shake/Public-APIs/master/opensource.png "Open Source") |
 | [**Icanhazip**](https://major.io/icanhazip-com-faq/) | IP Address API. | ![Open Source](https://raw.githubusercontent.com/n0shake/Public-APIs/master/opensource.png "Open Source") |
+| [**ip2geo.dev**](https://ip2geo.dev/docs) | Programmatically convert IP addresses into geolocation data. | 💸 |
 | [**Image-Charts**](https://www.image-charts.com) | 1 URL = 1 Chart: Get a chart image in response to a URL GET or POST request. A drop-in-replacement for the deprecated Google Image Charts. | **N/A** |
 | [**Jobicy**](https://jobicy.com/jobs-rss-feed) | The latest remote job listings from a diverse range of industries and companies. | ![Open Source](https://raw.githubusercontent.com/n0shake/Public-APIs/master/opensource.png "Open Source") |
 | [**JSONbin.io**](https://jsonbin.io/api-reference) | Free [JSON](https://en.wikipedia.org/wiki/JSON) data storage service, ideal for small scale web apps, website, mobile apps. | **N/A** |
