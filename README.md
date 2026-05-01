@@ -455,6 +455,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**Leaflet.js**](http://leafletjs.com/) | An open-source JavaScript library for mobile-friendly interactive maps. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") | 
 | [**Mapbox**](https://www.mapbox.com/developers/api/maps/) | Access to MapBox’s API. | **N/A** |
 | [**Open Street Map**](http://wiki.openstreetmap.org/wiki/API) | API access to OSM. | **N/A** |
+| [**PostalCodes.info**](https://postalcodes.info/api) | Postal code lookup, search and country export API for global postal data. | **N/A** |
 | [**Scribble**](https://www.scribblemaps.com/api/) | The Scribble Maps API is a cross browser, mobile ready, HTML5/JavaScript, interactive map builder. | **N/A** |
 | [**Yahoo Maps**](https://developer.yahoo.com/maps/) | Yahoo Maps lets you easily embed rich and interactive maps using your choice of platform. | **N/A** |
 | [**Yandex**](https://tech.yandex.com/maps/) | API for installing Yandex.Maps and the necessary tools for working it on your web app or site. | **N/A** |
