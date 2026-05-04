@@ -842,6 +842,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**Apiary**](https://apiary.io/) | Collaborative tool to design APIs. | 💸 |
 | [**OpenAPI**](https://www.openapis.org) | Standard, language-agnostic interface to REST APIs (based on [Swagger](http://swagger.io/)). | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
 | [**Swagger**](http://swagger.io/) | Tools for designing, building, and documenting RESTful APIs. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
+| [**Zuplo**](http://zuplo.com/) | API Management platform for API Design, Deployment, Documentation and Distribution. Free plan available. | 💸 |
 
 [⬆ Back to Table of Contents](#table-of-contents)
 ### More Resources
