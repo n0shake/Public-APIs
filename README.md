@@ -114,6 +114,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**EAN-Search**](https://www.ean-search.org/ean-database-api.html) | The EAN-Search API allows you to lookup products by EAN, UPC or GTIN barcode. | 💸 |
 | [**QR Code API**](https://fungenerators.com/api/qrcode/) | QR Code REST API. Can create QR code images or read existing images and return the contents. | `💸` |
 | [**QR Code Generator API**](https://docs.openqr.io/) | Static and Dynamic QR code generator API | `💸` |
+| [**QRMint**](https://qrmint.dev/) | Free styled QR code generator API with custom colors, logos, frames, and batch generation. No API key required. | **N/A** |
 | [**Stakdek's QR Generator API**](https://api.stakdek.de/blog?id=1006) | Returns QR code image. Uses `python qrcode`. | **N/A** |
 
 [⬆ Back to Table of Contents](#table-of-contents)
@@ -495,6 +496,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**Domainsdb.info**](https://domainsdb.info) | Registered domain names search checks the lists of registered domains for names containing particular words/phrases/numbers or symbols. | **N/A** |
 | [**Evil Insult Generator**](https://evilinsult.com/api/) | Offers the most evil insults. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
 | [**Flowdash**](https://docs.flowdash.com/docs/api-introduction) | Create, edit, delete, and read your workflow data on demand. | **N/A** |
+| [**FreeKit**](https://freekit.dev/) | Free developer toolkit portal with 8 APIs for QR codes, URL shortening, metadata extraction, screenshots, PDF conversion, and more. No API key required. | **N/A** |
 | [**Game of Thrones Quotes**](https://gameofthronesquotes.xyz) | A free API to retrieve some quotes of Game of Thrones! | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
 | [**Geocodify**](https://geocodify.com) | Worldwide geocoding, geoparsing and autocomplete for addresses. | 💸 |
 | [**Giphy**](https://developers.giphy.com/docs/) | Worlds largest library of GIFs. | **N/A** |
@@ -509,12 +511,15 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**Labs64 NetLicensing**](https://netlicensing.io/wiki/restful-api) ([API Test Center](https://netlicensing.io/NetLicensing-API/)) | Innovative License Management Solution. | **N/A** |
 | [**LaunchLibrary**](https://launchlibrary.net/docs/1.3/api.html) | Aggregated info about space launches. | **N/A** |
 | [**LetsValidate**](https://github.com/letsvalidate/api) | Uncovers the technologies used on websites and URL to thumbnail. | **N/A** |
+| [**LinkMeta**](https://linkmeta.dev/) | Free URL metadata extraction API for Open Graph, Twitter Cards, and favicons. No API key required. | **N/A** |
 | [**LinkPreview**](https://www.linkpreview.net) | RESTful API that returns [JSON](https://en.wikipedia.org/wiki/JSON) formatted summary with title, description and preview image for any requested URL. Free & paid plans. | **N/A** |
 | [**LiveChat**](https://developers.livechatinc.com/) | Online Customer Service software with customizable chat, embeddable widgets, help desk and web analytics tools. APIs include webhooks support, SDKs and open-source libraries to build on. | 💸 |
 | [**Lottery Number Generation**](https://fungenerators.com/api/lottery/) | Generate lottery numbers. Hundreds of lottery games from various countries are supported. | 💸 |
 | [**NetworkCalc**](https://networkcalc.com/api/docs) | REST APIs that provide network calculator tools, such as subnet calculations, binary number conversion, and certificate lookup. | **N/A** |
+| [**OGForge**](https://ogforge.dev/) | Free Open Graph image generator API. No API key required. | **N/A** |
 | [**PDFmyURL**](https://pdfmyurl.com/html-to-pdf-api) | RESTful API that converts web pages to PDF quickly and even does entire websites to PDF. | 💸 |
 | [**PDF from URL**](https://api.stakdek.de/blog?id=1070) | API that converts websites from URL to PDF and even does convert HTML Strings to PDF for free. | **N/A** |
+| [**PDFSpark**](https://pdfspark.dev/) | Free HTML/URL to PDF conversion API. No API key required. | **N/A** |
 | [**Pastebin**](https://pastebin.com/doc_scraping_api) | Quickly share text or code, with support for over 250 languages for syntax highlighting. | **N/A** |
 | [**PhantAuth**](https://www.phantauth.net/) | Random User Generator + OpenID Connect Provider. Like Lorem Ipsum, but for user accounts and authentication. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
 | [**QuickChart**](https://quickchart.io) | Generate Chart.js image charts for email, dashboards, etc. Provides a replacement API for the old Google Image Charts service. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
@@ -688,6 +693,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | --- | ----------- | ---- |
 | [**ApiFlash**](https://apiflash.com/) | Chrome based screenshot API to convert URLs to images. | **N/A** |
 | [**SavePage.io**](https://docs.savepage.io) | A free, RESTful API used to screenshot any desktop or mobile website with the real Chrome browser. | 💸 |
+| [**PageShot**](https://pageshot.site/) | Free webpage screenshot API that renders any URL as PNG. No API key required. | **N/A** |
 | [**ScreenshotAPI.net**](https://screenshotapi.net) | Use one simple API call to generate screenshots of any website. | **N/A** |
 
 [⬆ Back to Table of Contents](#table-of-contents)
@@ -787,6 +793,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**Bitly**](http://dev.bitly.com/links.html) | Access to Bitly’s API. | **N/A** |
 | [**GoTiny**](https://github.com/robvanbakel/gotiny-api) | Lightweight and easy to implement URL shortener. Supports custom links and offers JavaScript SDK. | **N/A** |
 | [**Is.gd**](https://is.gd/developers.php) | Simple URL shortener. Supports custom short link ending. | **N/A** |
+| [**LinkShrink**](https://linkshrink.dev/) | Free privacy-first URL shortener API with analytics, UTM tracking, and QR code generation. No API key required. | **N/A** |
 | [**ShrtURI**](https://shrturi.com/docs) | URL shortening API for creating short URLs from long URLs. | **N/A** |
 | [**Tiny.cc**](https://tiny.cc/api-docs) | Easy-to-use URL shortener. Supports custom short link ending. | **N/A** |
 | [**Tiny.UID**](https://tinyuid.com/docs) | API for shortening long URLs. | **N/A** |
