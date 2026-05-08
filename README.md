@@ -281,6 +281,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**Lord of the Rings API**](https://the-one-api.dev/documentation) | Get data about the books, the movie trilogy, many characters and quotes. | **N/A** |
 | [**Lustpress API**](https://github.com/sinkaroid/lustpress) | Porn videos API that gather from popular adult sites. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
 | [**Marvel**](https://developer.marvel.com/) | Access over 70 years of comic data with Marvel's official developer API. | **N/A** |
+| [**Memesio**](https://memesio.com/developers/api) | Meme creation API with templates, editable captions, and hosted share links. | **N/A** |
 | [**My Anime List API**](https://jikan.moe/) | Get data about any specific anime or anime genre of your choice. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
 | [**Nick Cannon Baby API**](https://nick-cannon-baby-api.onrender.com/) | JSON API for entertainer Nick Cannon's many children and baby mamas. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
 | [**Owen Wilson Wow API**](https://owen-wilson-wow-api.onrender.com/) | JSON API for actor Owen Wilson's "wow" exclamations in movies. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
