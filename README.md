@@ -471,7 +471,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | --- | ----------- | ---- |
 | [**COVID-19 Data**](https://github.com/M-Media-Group/Covid-19-API) | Get live and historical data regarding Coronavirus cases per country. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
 | [**Infermedica**](https://developer.infermedica.com/docs/introduction) | AI-based engine for patient triage and preliminary medical diagnosis. _v2_ | **N/A** |
-| [**NotaSalud**](https://notasalud.com/api-cie-10) | Spanish CIE-10 code search and reference API. | **N/A** |
+| [**NotaSalud**](https://notasalud.com/buscar/cie-10?q=diabetes&limit=3) | Spanish CIE-10 code search and reference API. | **N/A** |
 
 [⬆ Back to Table of Contents](#table-of-contents)
 ### Miscellaneous
