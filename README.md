@@ -383,6 +383,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**BlockScore**](https://docs.blockscore.com/) | A real-time API for verifying an identity by name, address, date of birth, and social security number. | **Unknown** |
 | [**Cognito**](https://cognitohq.com/docs) | A powerful API for verifying and retrieving identity information. Can take a customer's cellphone number and return name, address history, full SSN, and date of birth. | **N/A** |
 | [**Whitepages Pro**](https://pro.whitepages.com/) | Global Identity Verification API. Get a clearer picture of your customer. Instantly know if a name, address, phone number, email, and IP all belong to the same person. Every country in the world is supported. | 💸 |
+| [**Kiprio Email Validation**](https://kiprio.com/email-validation-api) | Validate email addresses with MX record lookup, disposable domain detection, and typo suggestions. Free tier available. | 💸 |
 
 [⬆ Back to Table of Contents](#table-of-contents)
 ### Image Moderation
@@ -438,6 +439,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**Cloud Machine Learning Engine**](https://cloud.google.com/ml-engine/docs/) | Cloud-based machine learning and pattern matching tool. | **N/A** |
 | [**Microsoft Azure Machine Learning API**](https://azure.microsoft.com/en-us/services/cognitive-services/) | Helps data scientists publish in minutes which once used to take days after they had developed a feasible model. | **N/A** |
 | [**ObjectCut**](https://objectcut.com) | Automatic background removal service powered by AI. From an input image given its public-accessible URL or being the image itself, ObjectCut returns the same image but without background. | **N/A** |
+| [**Kiprio AI Detector**](https://kiprio.com/ai-detect-api) | Detect AI-generated text with per-sentence confidence scoring. Free tier available. | 💸 |
 | [**OVHcloud AI Endpoints**](https://endpoints.ai.cloud.ovh.net/) | Simplify GenAI & ML integration with secure, ready-to-use APIs. | **N/A** |
 | [**Unplugg**](http://unplu.gg/test_api.html) | Automated Forecasting API for timeseries data which can be used to forecast energy consumption, temperature, or any other timeseries data which has some seasonality effect. | **N/A** |
 
@@ -689,6 +691,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**ApiFlash**](https://apiflash.com/) | Chrome based screenshot API to convert URLs to images. | **N/A** |
 | [**SavePage.io**](https://docs.savepage.io) | A free, RESTful API used to screenshot any desktop or mobile website with the real Chrome browser. | 💸 |
 | [**ScreenshotAPI.net**](https://screenshotapi.net) | Use one simple API call to generate screenshots of any website. | **N/A** |
+| [**Kiprio Screenshot**](https://kiprio.com/screenshot-api) | Full-page and viewport website screenshots with mobile/desktop emulation and custom viewports. Free tier available. | 💸 |
 
 [⬆ Back to Table of Contents](#table-of-contents)
 ### Social Media
