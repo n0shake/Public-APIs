@@ -797,6 +797,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 ### Videogames
 | API | Description | Open/Trial |
 | --- | ----------- | ---- |
+| [**Astroworld**](https://api.astroworldmc.com) | Free public Minecraft data API for mobs, biomes, items, enchantments, structures, commands, versions, achievements, and trades. CORS enabled, no auth. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
 | [**Autochess VNG API**](https://github.com/didadadida93/autochess-vng-api) | API that provides data about Autochess VNG. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
 | [**CSGO API**](https://bymykel.github.io/CSGO-API/) | An unofficial JSON API for Counter-Strike: Global Offensive. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
 | [**Clash Of Clans**](https://developer.clashofclans.com/) | An API for Clash of Clans to fetch all information about players, clans, wars, etc. | **N/A** |
