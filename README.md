@@ -149,6 +149,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**PENDAX**](https://github.com/CompendiumFi/PENDAX-SDK) | Javascript SDK for Trading, Data, and Websockets for FTX, FTXUS, OKX, Bybit, & More. | **N/A** |
 | [**Poloniex**](https://poloniex.com/support/api/) | US based digital asset exchange. | **N/A** |
 | [**ShapeShift.io**](https://shapeshift.io/) | Exchange between cryptocurrencies without an account. Well documented API for easy use. | **N/A** |
+| [**Sharpe**](https://www.sharpe.ai/docs/free-api) | Crypto market data for funding rates, futures, options, arbitrage, narratives, and news. | **N/A** |
 | [**Technical Analysis**](https://technical-analysis-api.com) | Cryptocurrency prices, technical analysis and sentiment detection. | **N/A** |
 
 
