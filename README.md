@@ -651,6 +651,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 ### Product
 | API | Description | Open/Trial |
 | --- | ----------- | ---- |
+| [**Amazon Scraper API**](https://docs.amazonscraperapi.com) | REST API for Amazon product, search and batch ASIN data across 20 marketplaces with residential proxies. | 💸 |
 | [**Product Hunt**](https://api.producthunt.com/v2/docs) | The best new products, every day. | **N/A** |
 
 [⬆ Back to Table of Contents](#table-of-contents)
