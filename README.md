@@ -758,6 +758,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**Roanuz Cricket API**](https://www.cricketapi.com/v5/docs/) | Provides cricket-related data, including scores and player information. | 💸 |
 | [**Sports Data API Providers**](https://sportsapi.com/api-directory/) | Reviews, coverage and prices from sports data providers. | **N/A** |
 | [**TheSportsDB**](http://www.thesportsdb.com/) | Various sports events, results, players, teams and high quality artwork. | **N/A** |
+| [**TourneyRadar**](https://tourneyradar-api.vercel.app) | Free REST API for upcoming chess tournaments scraped from 140+ national federations worldwide. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
 
 [⬆ Back to Table of Contents](#table-of-contents)
 ### Test Data
