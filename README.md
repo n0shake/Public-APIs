@@ -225,6 +225,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | API | Description | Open/Trial |
 | --- | ----------- | ---- |
 | [**1Forge.com**](https://1forge.com/) | Real-time forex and crypto quotes via [JSON](https://en.wikipedia.org/wiki/JSON) and WebSocket. | **N/A** | 
+| [**ApogeoAPI**](https://apogeoapi.com/exchange-rates-api) | Live exchange rates for 161 currencies (refreshed every 4h), bundled with country reference data and IP geolocation in one API key. | **N/A** |
 | [**Coingecko.com**](https://www.coingecko.com/en/api) | Free, comprehensive cryptocurrency API. | **N/A** | 
 | [**Currency-api**](https://github.com/fawazahmed0/currency-api#readme) | Free Currency Exchange Rates API with 150+ Currencies & No Rate Limits. | ![Open Source](https://raw.githubusercontent.com/n0shake/Public-APIs/master/opensource.png "Open Source") |
 | [**CurrencyLayer.com**](https://currencylayer.com/documentation) | Exchange rates and currency conversion API. | **N/A** | 
@@ -639,6 +640,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | API | Description | Open/Trial |
 | --- | ----------- | ---- |
 | [**bng2latlong**](https://www.getthedata.com/bng2latlong) | Convert an OSGB36 easting and northing (British National Grid) to WGS84 latitude and longitude. | **N/A** |
+| [**ApogeoAPI**](https://apogeoapi.com/ip-geolocation-api) | IP geolocation with country, city, timezone detection, plus 250 countries and 150k cities database accessible via one API key. | **N/A** |
 | [**CountryAPI**](https://fabian7593.github.io/CountryAPI/) | Get all the countries, and obtain the most important information of these. | **N/A** |
 | [**Factual**](https://developer.factual.com/docs/getting-started) | Providing a places search that can be searched by latitude/longitude, and “where” using full text search query string. | **N/A** |
 | [**Foursquare Venue**](https://developer.foursquare.com/overview/venues) | Providing a places search that can be searched by  hierarchical list of categories, longitude/latitude etc. | **N/A** |
