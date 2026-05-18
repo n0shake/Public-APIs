@@ -469,6 +469,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 ### Medical
 | API | Description | Open/Trial |
 | --- | ----------- | ---- |
+| [**Clinical Trials Directory**](https://trials.starfile.org/api) | Every clinical trial registered with ClinicalTrials.gov, indexed by condition and sponsor. | **N/A** |
 | [**COVID-19 Data**](https://github.com/M-Media-Group/Covid-19-API) | Get live and historical data regarding Coronavirus cases per country. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
 | [**Infermedica**](https://developer.infermedica.com/docs/introduction) | AI-based engine for patient triage and preliminary medical diagnosis. _v2_ | **N/A** |
 
