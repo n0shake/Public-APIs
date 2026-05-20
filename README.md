@@ -720,6 +720,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**Trash Nothing**](https://trashnothing.com/developer) | Build apps on top of one of the largest freecycling and reuse communities with millions of people giving away thousands of free items every day. | **N/A** |
 | [**Twitch**](https://dev.twitch.tv/docs) | The Twitch API enables you to develop your own applications using the rich feature set that Twitch provides. | **N/A** |
 | [**Twitter**](https://developer.twitter.com/) | Enables an app to interact with many of Twitter’s functions. | **N/A** |
+| [**TwitterAPI.io**](https://twitterapi.io) | Real-time Twitter/X data API for tweets, user profiles, followers, advanced search, and the live tweet stream. | 💸 |
 | [**Tumblr**](https://www.tumblr.com/docs/en/api/v2) | Create new ways to use Tumblr with access to content, likes, followers, and drafts. | **N/A** |
 | [**Vimeo**](https://developer.vimeo.com/) | Access to Vimeo’s API. | **N/A** | 
 | [**Viber**](https://developers.viber.com/docs/api/) | With Viber’s APIs, you can create unique experiences for users at scale. | **N/A** |
