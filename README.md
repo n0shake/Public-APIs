@@ -334,6 +334,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**Australia**](https://www.rba.gov.au/statistics/tables/) | Plenty of kinds of data in [CSV](https://en.wikipedia.org/wiki/Comma-separated_values) format. | **N/A** |
 | [**Canada**](https://www.bankofcanada.ca/rates/) | Daily exchange rates and statistical data tables in [CSV](https://en.wikipedia.org/wiki/Comma-separated_values), [XML](https://en.wikipedia.org/wiki/XML) or [JSON](https://en.wikipedia.org/wiki/JSON) formats. | **N/A** |
 | [**Exchange Rates**](https://exchangeratesapi.io/) | Foreign exchange rates API with currency conversion. [JSON](https://en.wikipedia.org/wiki/JSON) & [CORS](https://en.wikipedia.org/wiki/Cross-origin_resource_sharing). | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
+| [**FinancialData.Net**](https://financialdata.net/documentation) | Stock market data, financial statements, sustainability data, and more. | 💸 |
 | [**IBANAPI**](https://ibanapi.com/get-api) | Validate IBAN number & get bank account from it. | 💸 |
 | [**Ireland**](https://data.gov.ie/data/search?publisher=central-bank-of-ireland) | Variety of data mainly in [XLS](https://en.wikipedia.org/wiki/Microsoft_Excel#File_formats) format. | **N/A** |
 | [**Myanmar**](http://forex.cbm.gov.mm/api/) | Currency exchange rates in [JSON](https://en.wikipedia.org/wiki/JSON) format. | **N/A** |
