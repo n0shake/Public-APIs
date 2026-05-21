@@ -607,6 +607,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 ### Natural Language Processing
 | API | Description | Open/Trial |
 | --- | ----------- | ---- |
+| [**OBEDIENCE AI Text API**](https://theoxicew-obedience-text-api.hf.space) | Free AI-powered API: summarize, sentiment analysis, keyword extraction, translation, and text cleaning using Llama 3.3 70B. No auth required. | **Free** |
 | [**Cloudmersive NLP APIs**](https://cloudmersive.com/nlp-api) | Wide array of unified NLP APIs including language translation, rephrasing, sentiment analysis, hate speech detection, and more. | **N/A** |
 | [**Cohere**](https://docs.cohere.com/reference/about) | Offers text summarization, entity extraction, text generation, and semantic search. | **N/A** |
 | [**DialogFlow**](https://dialogflow.com/) | Natural Language Interactions for Bots, Applications, Services, and Devices. | **N/A** |
