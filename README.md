@@ -425,6 +425,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**LinkedIn**](https://developer.linkedin.com/docs/signin-with-linkedin) | Make it convenient for your users to sign in with their professional identity. | **N/A** |
 | [**PayPal**](https://developer.paypal.com/docs/integration/direct/identity/log-in-with-paypal/) | Enables your customers to sign in to your website quickly and securely using their PayPal login credentials. | **N/A** |
 | [**Salesforce**](https://developer.salesforce.com/docs/atlas.en-us.api_rest.meta/api_rest/intro_understanding_authentication.htm) | Salesforce uses the OAuth protocol to allow users of applications to securely access data without having to reveal username and password credentials. | **N/A** |
+| [**SSOJet**](https://ssojet.com/) | Support Single Sign-On, OIDC, and SCIM integration for modern B2B SaaS and AI applications. | **N/A** |
 | [**Twitter Sign-in**]([https://developer.twitter.com/web/sign-in](https://developer.twitter.com/en/docs/authentication/guides/log-in-with-twitter)) | Works on websites, iOS, mobile and desktop applications. | **N/A** |
 | [**WorkOS**](https://workos.com/docs) | Support Single Sign-On for common Enterprise Identity Providers (Okta, Azure, OneLogin). | **N/A** |
 
