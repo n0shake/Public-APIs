@@ -777,6 +777,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**HyperTrack**](https://docs.hypertrack.com) | Build applications that track the movement of your business. | 💸 |
 | [**Lyft**](https://www.lyft.com/developers) | Get real-time ETAs, availability, price estimates, ride status through the Lyft API. | **N/A** |
 | [**Postmen**](https://docs.postmen.com/) | Add shipping capability of FedEx, UPS, DHL, USPS and over 40 carriers worldwide. | **N/A** |
+| [**Phantom Tide Restricted-Airspace Feed**](https://github.com/tg12/phantomtide?tab=readme-ov-file#public-restricted-airspace-feed) | Replay-derived restricted-airspace crossing feed for aircraft observed in public airspace data. | **N/A** |
 | [**Ola**](https://developers.olacabs.com/) | Help your users find, book and track Ola rides with ease. Ola is India’s most popular cab booking app with availability of rides in more than 100 cities across India. | **N/A** |
 | [**Uber**](https://developer.uber.com/) | Uber provides API for customizing trip experiences, requesting rides, powering logistics, creating bots and so much more. | **N/A** |
 
