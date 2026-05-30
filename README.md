@@ -354,6 +354,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | --- | ----------- | ---- |
 | [**FitBit**](https://dev.fitbit.com/build/reference/) | Web API for accessing data from Fitbit activity trackers, Aria scale, and manually entered logs. | **N/A** |
 | [**HealthGraph**](https://runkeeper.com/developer/healthgraph/registration-authorization) | RunKeeper's web-based HealthGraph API presents Health Graph data, and provides information about a user and friends. | **N/A** |
+| [**Longevity World Cup**](https://longevityworldcup.com/llms-full.txt) | Public biological-age competition data and biomarker rankings. | **N/A** |
 | [**Open Food Facts**](https://en.wiki.openfoodfacts.org/API) | Open Food Facts is a database of food products with ingredients, allergens, nutrition facts and all the tidbits of information we can find on product labels. | **N/A** |
 | [**Strava**](https://strava.github.io/api/) | API for accessing and managing data about athletes, activities and segments. | **N/A** |
 | [**VeganCheck**](https://jokenetwork.de/vegancheck-api) | API that provides a couple of information about a food or non-food product based on its EAN/UPC code. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
