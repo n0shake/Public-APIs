@@ -702,6 +702,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**Facebook**](https://developers.facebook.com/) | For ads, games, payments, login, sharing stats, and user data. | **N/A** |
 | [**Flickr**](https://www.flickr.com/services/api/) | Search through user Flickr content, contacts, upload or replace photos. | **N/A** |
 | [**Foursquare**](https://developer.foursquare.com/) | Access to Foursquare database and ability to interact with Foursquare users. | **N/A** |
+| [**GetXAPI**](https://www.getxapi.com) | Twitter/X data API for read endpoints (search, profiles, follower graph, mentions, lists, communities, trends) and write endpoints (post tweets, like, retweet, follow, DM, articles). Public OpenAPI 3.1 spec at docs.getxapi.com/openapi.json. | **N/A** |
 | [**GoodReads**](https://www.goodreads.com/api) | Allows developers access to Goodreads data in order to help websites or applications that deal with books. | **N/A** |
 | [**Gravatar**](https://en.gravatar.com/site/implement/) | Create profiles and avatars using this web service. | **N/A** |
 | [**Hacker News**](https://github.com/HackerNews/API) | Anything that good hackers would find interesting. | **N/A** |
