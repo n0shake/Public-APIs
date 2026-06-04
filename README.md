@@ -210,6 +210,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | --- | ----------- | ---- |
 | [**Bible**](https://github.com/wldeh/bible-api) | Lightning-fast Bible API, featuring support for over 200+ translations and counting. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") | 
 | [**Bible**](https://bible-api.com/) | JSON API for public domain and open bible translations. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") | 
+| [**Bible**](https://holy-bible-api.com/docs) | API serving The Holy Bible via text in 100+ languages/800+ versions and via audio in 40+ languages. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") | 
 | [**Fruits API**](https://github.com/Franqsanz/fruits-api) | API GraphQL with information on fruit trees of the world. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") | 
 | [**Jokes**](https://jokes.one/api/joke/) | Full featured Jokes API  | 💸 |
 | [**Perfect Tense API**](https://www.perfecttense.com/developers) | The Perfect Tense API is the only spelling and grammar checking API that uses artificial intelligence to correct all of your text automatically in one call. | 💸 |
