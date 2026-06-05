@@ -94,6 +94,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**Matomo**](https://matomo.org/docs/analytics-api/) | Matomo is an all-in-one premium web analytics platform designed to give you the most conclusive insights. | 💸 |
 | [**MixPanel**](https://developer.mixpanel.com/docs/implement-mixpanel) | Analytics for mobile and web which helps you analyze the actions people take in your application. | **N/A** |
 | [**Open Web Analytics**](https://github.com/padams/Open-Web-Analytics/wiki/Data-Access-API) | Provides a way to request and work with your data outside of the OWA reporting interface. | **N/A** |
+| [**SEO Score API**](https://seoscoreapi.com/docs) | Comprehensive SEO audit for any URL with scoring and 28 checks. | **N/A** |
 | [**Ticksel**](https://ticksel.com) | Friendly website analytics made for humans. Secure and powerful yet simple to use. | **N/A** | 
 | [**Woopra**](https://www.woopra.com/docs/developer/analytics-api/) | Real-time website analysis tool that targets customer engagement. | **N/A** |
 | [**Zoho Reports API**](https://zohoreportsapi.wiki.zoho.com/) | Build powerful reporting and analytical capabilities into your application. | **N/A** |
