@@ -758,6 +758,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**Roanuz Cricket API**](https://www.cricketapi.com/v5/docs/) | Provides cricket-related data, including scores and player information. | 💸 |
 | [**Sports Data API Providers**](https://sportsapi.com/api-directory/) | Reviews, coverage and prices from sports data providers. | **N/A** |
 | [**TheSportsDB**](http://www.thesportsdb.com/) | Various sports events, results, players, teams and high quality artwork. | **N/A** |
+| [**World Cup 2026 Tour**](https://ay-worldcup2026.zeabur.app/developers) | Free World Cup 2026 fixtures API with local kickoff time conversion and share links. | **N/A** |
 
 [⬆ Back to Table of Contents](#table-of-contents)
 ### Test Data
