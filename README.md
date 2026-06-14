@@ -146,6 +146,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**Coinigy**](https://coinigy.docs.apiary.io) | Interact with Coinigy Accounts and Exchange Accounts Directly. | **N/A** |
 | [**Covalent**](https://www.covalenthq.com/docs/api/) | Multi-blockchain data aggregator at one unified API. | **N/A** |
 | [**Exchange Rates API**](https://blockchain.info/api/exchange_rates_api) | Market Prices and exchanges rates api. | **N/A** |
+| [**Frostbyte**](https://frostbyte-landing.vercel.app) | Real-time prices for 500+ cryptocurrencies. No API key required. | **N/A** |
 | [**PENDAX**](https://github.com/CompendiumFi/PENDAX-SDK) | Javascript SDK for Trading, Data, and Websockets for FTX, FTXUS, OKX, Bybit, & More. | **N/A** |
 | [**Poloniex**](https://poloniex.com/support/api/) | US based digital asset exchange. | **N/A** |
 | [**ShapeShift.io**](https://shapeshift.io/) | Exchange between cryptocurrencies without an account. Well documented API for easy use. | **N/A** |
@@ -687,6 +688,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | API | Description | Open/Trial |
 | --- | ----------- | ---- |
 | [**ApiFlash**](https://apiflash.com/) | Chrome based screenshot API to convert URLs to images. | **N/A** |
+| [**Frostbyte**](https://frostbyte-landing.vercel.app) | Capture full-page website screenshots via REST API. | **N/A** |
 | [**SavePage.io**](https://docs.savepage.io) | A free, RESTful API used to screenshot any desktop or mobile website with the real Chrome browser. | 💸 |
 | [**ScreenshotAPI.net**](https://screenshotapi.net) | Use one simple API call to generate screenshots of any website. | **N/A** |
 
