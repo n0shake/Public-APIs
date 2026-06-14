@@ -1,5 +1,6 @@
 # Public-APIs [![Twitter: @abgbm](https://img.shields.io/badge/contact-@n0shake-blue.svg?style=flat)](https://twitter.com/n0shake) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
+
 This is an attempt to categorise different APIs scoured from the web which make their resources available for consumption.
 
 > Items marked with ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") are open-source
@@ -242,6 +243,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 ### Design
 | API | Description | Open/Trial |
 | --- | ----------- | ---- |
+| [**Colormind**](http://colormind.io/api-access/) | A REST API for generating and customizing color palettes for design projects. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
 | [**Dribbble**](http://developer.dribbble.com/) | Dribbble is a community of designers answering that question each day. | **N/A** |
 | [**Icon Horse**](https://icon.horse/usage) | Get the favicon logo for any web address, customizable and complete with a fallback if it fails. | **N/A** |
 | [**Pexels**](https://www.pexels.com/api/) | Pexels provides high quality and completely free stock photos licensed under the Creative Commons Zero (CC0) license. | **N/A** |
