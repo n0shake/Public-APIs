@@ -533,6 +533,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**Wallhaven**](https://wallhaven.cc/help/api) | A huge wallpaper library. | **N/A** |
 | [**Who Hosts This**](https://www.who-hosts-this.com/API) | Detect the hosting provider powering any website. | **N/A** |
 | [**WolframAlpha**](http://products.wolframalpha.com/api/) | Integrate top of the line computational knowledge into your applications through the WolframAlpha API. | 💸 |
+| [**Clientsbee**](https://clientsbee.com/) | Free leads for bussiness and technographics data.  | **Free** |
 
 [⬆ Back to Table of Contents](#table-of-contents)
 ### Movies
