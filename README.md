@@ -331,6 +331,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**Atom Finance**](https://docs.atom.finance/) | Atom Finance provides access to market, earnings and news data. | 💸 |
 | [**IEX**](https://iextrading.com/developer/) | Free Stocks and Market Data. | **N/A** |
 | [**Twelve Data**](https://twelvedata.com/docs/) | Stock market data (real-time & historical). | **N/A** |
+| [**ValueRay**](https://www.valueray.com/api) | Technical, quantitative and sentiment data for stocks and ETFs, optimized for AI/LLM agents. | **N/A** |
 | [**Australia**](https://www.rba.gov.au/statistics/tables/) | Plenty of kinds of data in [CSV](https://en.wikipedia.org/wiki/Comma-separated_values) format. | **N/A** |
 | [**Canada**](https://www.bankofcanada.ca/rates/) | Daily exchange rates and statistical data tables in [CSV](https://en.wikipedia.org/wiki/Comma-separated_values), [XML](https://en.wikipedia.org/wiki/XML) or [JSON](https://en.wikipedia.org/wiki/JSON) formats. | **N/A** |
 | [**Exchange Rates**](https://exchangeratesapi.io/) | Foreign exchange rates API with currency conversion. [JSON](https://en.wikipedia.org/wiki/JSON) & [CORS](https://en.wikipedia.org/wiki/Cross-origin_resource_sharing). | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
