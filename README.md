@@ -498,6 +498,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**Game of Thrones Quotes**](https://gameofthronesquotes.xyz) | A free API to retrieve some quotes of Game of Thrones! | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
 | [**Geocodify**](https://geocodify.com) | Worldwide geocoding, geoparsing and autocomplete for addresses. | 💸 |
 | [**Giphy**](https://developers.giphy.com/docs/) | Worlds largest library of GIFs. | **N/A** |
+| [**Government Contracts & Grants**](https://government-data-api.onrender.com/docs) | Access US federal contracts, grants, and agency data. | **N/A** |
 | [**Httpbin**](https://httpbin.org/) | A Simple HTTP Request & Response Service. | ![Open Source](https://raw.githubusercontent.com/n0shake/Public-APIs/master/opensource.png "Open Source") |
 | [**Httpbin Cloudflare**](https://cloudflare-quic.com/b/) | A Simple HTTP Request & Response Service with HTTP/3 Support by Cloudflare. | ![Open Source](https://raw.githubusercontent.com/n0shake/Public-APIs/master/opensource.png "Open Source") |
 | [**Icanhazepoch**](https://icanhazepoch.com) | Get Epoch time. | ![Open Source](https://raw.githubusercontent.com/n0shake/Public-APIs/master/opensource.png "Open Source") |
