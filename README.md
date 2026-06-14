@@ -215,7 +215,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**Perfect Tense API**](https://www.perfecttense.com/developers) | The Perfect Tense API is the only spelling and grammar checking API that uses artificial intelligence to correct all of your text automatically in one call. | 💸 |
 | [**qKast Channel Content**](https://github.com/egfx/qKast) | Access live content collections sourced from any page around the web. | **N/A** |
 | [**Random Data Generator**](https://randommer.io/randommer-api) | API Generator for telephones, text, numbers, passwords, names, social security numbers, and cards. | 💸 |
-| [**Random Facts**](https://fungenerators.com/api/facts/) | Random Facts API  | 💸 |
+| [**Random Facts**](https://fungenerators.com/api/facts/) | Random facts API. | **N/A** |
 | [**SLF**](https://github.com/slftool/slftool.github.io/blob/master/API.md) | German city, country, river, database. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
 | [**Today in History**](https://history.muffinlabs.com/) | Daily historical events, births and deaths API.  | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") | 
 | [**Wikipedia**](https://en.wikipedia.org/w/api.php) | Free multilingual Encyclopedia. | **N/A** | 
