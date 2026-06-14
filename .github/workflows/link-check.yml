@@ -1,0 +1,29 @@
+name: Link Check
+
+on:
+  pull_request:
+  push:
+    branches:
+      - master
+  schedule:
+    - cron: "0 0 * * 0"
+  workflow_dispatch:
+
+jobs:
+  awesome-bot:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: "3.3"
+
+      - name: Install awesome_bot
+        run: gem install awesome_bot
+
+      - name: Check README links
+        run: awesome_bot README.md --allow-dupe --allow-redirect --allow-ssl --allow-timeout --allow 999,403,405,500,503,522
