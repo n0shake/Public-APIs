@@ -150,6 +150,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**Poloniex**](https://poloniex.com/support/api/) | US based digital asset exchange. | **N/A** |
 | [**ShapeShift.io**](https://shapeshift.io/) | Exchange between cryptocurrencies without an account. Well documented API for easy use. | **N/A** |
 | [**Technical Analysis**](https://technical-analysis-api.com) | Cryptocurrency prices, technical analysis and sentiment detection. | **N/A** |
+| [**NanoStack**](https://api.nano-labs.io) | Cross-chain execution API for native token swaps across 80+ chains. | **N/A** |
 
 
 [⬆ Back to Table of Contents](#table-of-contents)
