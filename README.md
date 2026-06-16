@@ -439,7 +439,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**Microsoft Azure Machine Learning API**](https://azure.microsoft.com/en-us/services/cognitive-services/) | Helps data scientists publish in minutes which once used to take days after they had developed a feasible model. | **N/A** |
 | [**ObjectCut**](https://objectcut.com) | Automatic background removal service powered by AI. From an input image given its public-accessible URL or being the image itself, ObjectCut returns the same image but without background. | **N/A** |
 | [**OVHcloud AI Endpoints**](https://endpoints.ai.cloud.ovh.net/) | Simplify GenAI & ML integration with secure, ready-to-use APIs. | **N/A** |
-| **Pollinations AI**(https://pollinations.ai/) | Free AI image and text generation API | No | Yes | Unknown |
+| **Pollinations AI**(https://pollinations.ai/docs) | Free AI image and text generation API. | N/A |
 | [**Unplugg**](http://unplu.gg/test_api.html) | Automated Forecasting API for timeseries data which can be used to forecast energy consumption, temperature, or any other timeseries data which has some seasonality effect. | **N/A** |
 
 [⬆ Back to Table of Contents](#table-of-contents)
