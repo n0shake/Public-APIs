@@ -412,6 +412,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | --- | ----------- | ---- |
 | [**GitHub Licenses API**](https://developer.github.com/v3/licenses/) | **N/A** | **N/A** |
 | [**ToSDR Terms Of Service API**](https://tosdr.org/api.html) | **N/A** | **N/A** |
+| [**Quantum Surety Bond Verify**](https://verify.quantumsurety.bond) | Search Texas notary bonds and TDLR contractor license bonds by name or license number. Free public API — no key required. | **N/A** |
 
 [⬆ Back to Table of Contents](#table-of-contents)
 ### Login Authentication
