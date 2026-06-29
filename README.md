@@ -436,6 +436,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**AYLIEN**](http://aylien.com/) | AYLIEN Text Analysis API is a package of Natural Language Processing, Information Retrieval and Machine Learning tools for extracting meaning and insight from textual and visual content with ease. | **N/A** |
 | [**Big ML**](http://bigml.com/api/) | BigML is a user-friendly and developer-friendly Machine learning API that mainly concentrates on decision trees. | **N/A** |
 | [**Cloud Machine Learning Engine**](https://cloud.google.com/ml-engine/docs/) | Cloud-based machine learning and pattern matching tool. | **N/A** |
+| [**cv.cm**](https://cv.cm/api) | Generative-media REST API for text-to-video and image-to-video (Seedance 2.0) plus AI image generation, with a free credit tier. | 💸 |
 | [**Microsoft Azure Machine Learning API**](https://azure.microsoft.com/en-us/services/cognitive-services/) | Helps data scientists publish in minutes which once used to take days after they had developed a feasible model. | **N/A** |
 | [**ObjectCut**](https://objectcut.com) | Automatic background removal service powered by AI. From an input image given its public-accessible URL or being the image itself, ObjectCut returns the same image but without background. | **N/A** |
 | [**OVHcloud AI Endpoints**](https://endpoints.ai.cloud.ovh.net/) | Simplify GenAI & ML integration with secure, ready-to-use APIs. | **N/A** |
