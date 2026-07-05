@@ -601,6 +601,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**NewsAPI**](https://newsapi.org/) | 70+ news sources and their headlines, one API. | **N/A** |
 | [**NewsCatcherAPI**](https://newscatcherapi.com/news-api) | News API to find news articles by any topic, country, language, website or keyword. | 💸 |
 | [**RSS API**](https://docs.rssapi.net) | API to parse and subscribe to RSS Feeds to get webhooks when new items are published. | 💸 |
+| [**Sonto**](https://sonto.tech/api/) | Curated tech-news feed with AI-written headlines, summaries, and categories. Full and slim JSON plus RSS, category and hot-story filters, and a multilingual editorial feed in English, German, Spanish, French, and Japanese. No API key or signup. | **N/A** |
 | [**The Guardian**](http://open-platform.theguardian.com/) | Access a huge range of content from The Guardian. | **N/A** |
 
 [⬆ Back to Table of Contents](#table-of-contents)
