@@ -480,6 +480,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**Mozilla Addons**](https://addons-server.readthedocs.io/en/latest/topics/api/index.html) | Mozilla's catalogue of addons for Firefox-compatible web browsers. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
 | [**Art Institute of Chicago API**](https://api.artic.edu/docs/) | Allows developers to explore and integrate the Art Institute of Chicago's public data into their projects. | **N/A** |
 | [**Bored API**](https://www.boredapi.com/documentation) | Generates tasks to do when bored. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
+| [**BottleneckPC**](https://bottleneckpc.com/data) | Open PC hardware dataset with specs and gaming scores for 300+ CPUs and 140+ GPUs, licensed CC BY 4.0. | **N/A** |
 | [**Bhagavad Gita**](https://bhagavadgita.io/) | Bhagavad Gita in various languages. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
 | [**BrowserCat**](https://www.browsercat.com/docs) | Headless browser API for automation, scraping, AI agent web access, image/pdf generation, and more. | **N/A** |
 | [**Bruzu**](https://docs.bruzu.com) |  Dynamically generate Images with a URL string. This service allows you to create dynamic images using nothing more than a URL string.| 💸 |
