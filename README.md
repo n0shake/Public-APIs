@@ -226,6 +226,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | --- | ----------- | ---- |
 | [**1Forge.com**](https://1forge.com/) | Real-time forex and crypto quotes via [JSON](https://en.wikipedia.org/wiki/JSON) and WebSocket. | **N/A** | 
 | [**Coingecko.com**](https://www.coingecko.com/en/api) | Free, comprehensive cryptocurrency API. | **N/A** | 
+| [**AgentServices**](https://agentservices.to) | x402-paid crypto/market data APIs with MCP server (54 services, 97 endpoints). Pay per call with USDC on Base. | **N/A** |
 | [**Currency-api**](https://github.com/fawazahmed0/currency-api#readme) | Free Currency Exchange Rates API with 150+ Currencies & No Rate Limits. | ![Open Source](https://raw.githubusercontent.com/n0shake/Public-APIs/master/opensource.png "Open Source") |
 | [**CurrencyLayer.com**](https://currencylayer.com/documentation) | Exchange rates and currency conversion API. | **N/A** | 
 | [**CurrencyScoop.com**](https://currencyscoop.com/) | Real-time and historical currency rates [JSON](https://en.wikipedia.org/wiki/JSON) API. | **N/A** | 
