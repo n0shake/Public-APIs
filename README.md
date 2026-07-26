@@ -141,6 +141,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**Coinlore**](https://www.coinlore.com/cryptocurrency-data-api) | Cryptocurrency tick data API. | **N/A** | 
 | [**CoinMarketCap**](https://coinmarketcap.com/api/) | Cryptocurrencies Prices. | **N/A** |
 | [**coinpaprika**](https://api.coinpaprika.com) | Cryptocurrencies prices, market capitalization, volume and more. | **N/A** |
+| [**Crypto Fear & Greed Index (qiaobax)**](https://qiaobax.com/en/tools/fear-greed-index/) | Free crypto market sentiment index (0-100), updated hourly. JSON endpoint with CORS enabled, no API key required. | **Open** |
 | [**CryptoCompare**](https://www.cryptocompare.com/api) | Cryptocurrencies Comparison. | **N/A** |
 | [**Cryptonator**](https://www.cryptonator.com/api/) | Cryptocurrencies Exchange Rates. | **N/A** |
 | [**Coinigy**](https://coinigy.docs.apiary.io) | Interact with Coinigy Accounts and Exchange Accounts Directly. | **N/A** |
