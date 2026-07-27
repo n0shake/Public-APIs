@@ -700,6 +700,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**DeviantArt**](https://www.deviantart.com/developers/) | The largest social networking website for artists and art enthusiasts. | **N/A** |
 | [**EventBrite**](https://github.com/eventbrite/eventbrite-sdk-python) | The Eventbrite Python SDK makes it trivial to interact with the Eventbrite API. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
 | [**Facebook**](https://developers.facebook.com/) | For ads, games, payments, login, sharing stats, and user data. | **N/A** |
+| [**SocialClaw**](https://getsocialclaw.com/) | Schedule and publish posts across X, LinkedIn, Instagram, Facebook Pages, TikTok, YouTube, Reddit, Pinterest, Discord, Telegram, and WordPress. | 💸 |
 | [**Flickr**](https://www.flickr.com/services/api/) | Search through user Flickr content, contacts, upload or replace photos. | **N/A** |
 | [**Foursquare**](https://developer.foursquare.com/) | Access to Foursquare database and ability to interact with Foursquare users. | **N/A** |
 | [**GoodReads**](https://www.goodreads.com/api) | Allows developers access to Goodreads data in order to help websites or applications that deal with books. | **N/A** |
