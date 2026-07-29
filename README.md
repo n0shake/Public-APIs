@@ -718,16 +718,17 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**Telegram**](https://core.telegram.org/) | The Telegram API allows you to build your own customized Telegram clients. | **N/A** |
 | [**TikTok**](https://developers.tiktok.com/) | TikTok Display API allows you to display TikTok creator's videos and their profile information and many more features. | **N/A** |
 | [**Trash Nothing**](https://trashnothing.com/developer) | Build apps on top of one of the largest freecycling and reuse communities with millions of people giving away thousands of free items every day. | **N/A** |
+| [**Tumblr**](https://www.tumblr.com/docs/en/api/v2) | Create new ways to use Tumblr with access to content, likes, followers, and drafts. | **N/A** |
 | [**Twitch**](https://dev.twitch.tv/docs) | The Twitch API enables you to develop your own applications using the rich feature set that Twitch provides. | **N/A** |
 | [**Twitter**](https://developer.twitter.com/) | Enables an app to interact with many of Twitter’s functions. | **N/A** |
-| [**Tumblr**](https://www.tumblr.com/docs/en/api/v2) | Create new ways to use Tumblr with access to content, likes, followers, and drafts. | **N/A** |
-| [**Vimeo**](https://developer.vimeo.com/) | Access to Vimeo’s API. | **N/A** | 
+| [**Untappd**](https://untappd.com/api/docs) | Untappd is a mobile web app that allows you to socially share beers that you're enjoying. | **N/A** |
 | [**Viber**](https://developers.viber.com/docs/api/) | With Viber’s APIs, you can create unique experiences for users at scale. | **N/A** |
+| [**Vimeo**](https://developer.vimeo.com/) | Access to Vimeo’s API. | **N/A** |
 | [**VK**](https://vk.com/dev) | Access to VKontakte's API. This has a variety of features, such as authorization via VK, embedding VK comments for things like blogs, and taking payments via VK. Additionally, you may use the VK API to control much of the functionality on the website (for example, adjusting shop inventory in your VK community's market section). | **N/A** |
 | [**Weibo**](http://open.weibo.com/wiki/API%E6%96%87%E6%A1%A3/en) | Programmatic access to China’s most popular microblogging site. | **N/A** |
 | [**Whatsapp Document Interaction**](https://faq.whatsapp.com/en/iphone/23559013) | If your application creates photos, videos or audio notes and you’d like your users to share these media using WhatsApp. #Limited | **N/A** |
 | [**Wordpress**](https://codex.wordpress.org/WordPress_APIs) | Access to Wordpress’ API. | **N/A** |
-| [**Untappd**](https://untappd.com/api/docs) | Untappd is a mobile web app that allows you to socially share beers that you're enjoying. | **N/A** |
+| [**Xquik**](https://docs.xquik.com/api-reference/overview) | X data & automation API for reads, account actions, monitoring, & webhooks. Xquik is an independent third-party service. Not affiliated with X Corp. "Twitter" and "X" are trademarks of X Corp. | 💸 |
 | [**YouTube**](https://developers.google.com/youtube/) | Add YouTube functionality to your sites and apps. | **N/A** |
 | [**Zomato**](https://developers.zomato.com/api) | Zomato APIs give you access to the freshest and most exhaustive information for over 1.5 million restaurants across 10,000 cities globally. | **N/A** |
 
@@ -747,9 +748,9 @@ This is an attempt to categorise different APIs scoured from the web which make 
 ### Sport
 | API | Description | Open/Trial |
 | --- | ----------- | ---- |
-| [**Ergast Formula 1**](http://ergast.com/mrd/) | Provides access to current and historical Formula 1 race data from 1950 to today. | **N/A** |
 | [**FIFA women's world cup 2019**](https://worldcup.sfg.io/) | FIFA women's world cup 2019 matches and group stage results. | **N/A** |
 | [**Football Prediction**](https://boggio-analytics.com/fp-api/) | Predictions for upcoming football matches, odds, results and stats. | 💸 |
+| [**Jolpica F1**](https://github.com/jolpica/jolpica-f1/blob/main/docs/README.md) | Open-source Formula 1 data with backwards-compatible Ergast endpoints. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
 | [**LIVE-SCORE API**](https://live-score-api.com/documentation/reference/) | Football API for live-scores, fixtures, group standings, history data and match events. | 💸 |
 | [**NBA GraphQL**](https://nbaapi.com/graphql/) | Current and historical NBA Stats | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
 | [**NBA REST API**](http://rest.nbaapi.com/index.html) | Up-to-date Current and Historical NBA Stats and Shot Chart API. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
