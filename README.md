@@ -327,6 +327,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 ### Finance
 | API | Description | Open/Trial |
 | --- | ----------- | ---- |
+| [**Adanos**](https://api.adanos.org/docs) | Market sentiment for stocks and crypto from Reddit, X, financial news, and Polymarket. | 💸 |
 | [**Alpha Vantage**](https://www.alphavantage.co/) | Y Combinator backed API provider for stock, ETF, mutual fund, forex, and crypto data. There is also a 2000+ star [Python wrapper](https://github.com/RomelTorres/alpha_vantage) for it on GitHub. | **N/A** |
 | [**Atom Finance**](https://docs.atom.finance/) | Atom Finance provides access to market, earnings and news data. | 💸 |
 | [**IEX**](https://iextrading.com/developer/) | Free Stocks and Market Data. | **N/A** |
