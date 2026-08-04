@@ -440,6 +440,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**ObjectCut**](https://objectcut.com) | Automatic background removal service powered by AI. From an input image given its public-accessible URL or being the image itself, ObjectCut returns the same image but without background. | **N/A** |
 | [**OVHcloud AI Endpoints**](https://endpoints.ai.cloud.ovh.net/) | Simplify GenAI & ML integration with secure, ready-to-use APIs. | **N/A** |
 | [**Unplugg**](http://unplu.gg/test_api.html) | Automated Forecasting API for timeseries data which can be used to forecast energy consumption, temperature, or any other timeseries data which has some seasonality effect. | **N/A** |
+| [**Veritify**](https://github.com/PantaleonSystems/veritify-python/blob/main/docs/getting-started.md) | Verify data integrity and detect novelty in files, backed by a publicly verifiable cryptographic receipt. | **N/A** |
 
 [⬆ Back to Table of Contents](#table-of-contents)
 ### Maps
