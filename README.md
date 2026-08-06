@@ -347,6 +347,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**Switzerland**](https://data.snb.ch/en) | Rich variety of data in [XLS](https://en.wikipedia.org/wiki/Microsoft_Excel#File_formats) and [CSV](https://en.wikipedia.org/wiki/Comma-separated_values) formats. | **N/A** |
 | [**Ukraine**](https://bank.gov.ua/control/en/publish/article?art_id=25365630) | Exchange rates and bond placements in [JSON](https://en.wikipedia.org/wiki/JSON) and [XML](https://en.wikipedia.org/wiki/XML) formats. | **N/A** |
 | [**Portfolio Optimizer**](https://portfoliooptimizer.io/) | API for investment portfolio optimization. | **N/A** |
+| [**Project Cost Estimator**](https://projectcostestimator.com/api-docs) | Web and app project cost benchmarks (build cost, hourly rates, hosting, 3-year TCO) in [JSON](https://en.wikipedia.org/wiki/JSON) format, calibrated on 600+ project quotes and public rate benchmarks. CC BY 4.0 licensed. | **N/A** |
 
 [⬆ Back to Table of Contents](#table-of-contents)
 ### Fitness
