@@ -329,6 +329,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | --- | ----------- | ---- |
 | [**Alpha Vantage**](https://www.alphavantage.co/) | Y Combinator backed API provider for stock, ETF, mutual fund, forex, and crypto data. There is also a 2000+ star [Python wrapper](https://github.com/RomelTorres/alpha_vantage) for it on GitHub. | **N/A** |
 | [**Atom Finance**](https://docs.atom.finance/) | Atom Finance provides access to market, earnings and news data. | 💸 |
+| [**Open Banking**](https://open-banking.io/) | Certificate-free EU/UK PSD2 open banking API for bank account data, balances, and transactions. | 💸 |
 | [**IEX**](https://iextrading.com/developer/) | Free Stocks and Market Data. | **N/A** |
 | [**Twelve Data**](https://twelvedata.com/docs/) | Stock market data (real-time & historical). | **N/A** |
 | [**Australia**](https://www.rba.gov.au/statistics/tables/) | Plenty of kinds of data in [CSV](https://en.wikipedia.org/wiki/Comma-separated_values) format. | **N/A** |
