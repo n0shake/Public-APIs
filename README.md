@@ -195,6 +195,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | API | Description | Open/Trial |
 | --- | ----------- | ---- |
 | [**Africa's Talking**](https://africastalking.com/) | Access African telco services through a HTTP API. | 💸 |
+| [**Atomic Mail**](https://atomic-mail.github.io/atomic-mail-agentic/) | Email for AI agents; create inboxes and send/receive over the open JMAP standard. Free. |  |
 | [**iP1sms**](https://www.ip1sms.com/en/developer/) | Send and receive SMS messages worldwide. | 💸 |
 | [**Eqivo**](https://eqivo.org) | Telephony/Programmable-Voice API platform. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
 | [**MailGun**](https://mailgun.com) | Transactional Email API Service For Developers. Free first 10000 emails per month. | 💸 |
