@@ -141,11 +141,11 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**Coinlore**](https://www.coinlore.com/cryptocurrency-data-api) | Cryptocurrency tick data API. | **N/A** | 
 | [**CoinMarketCap**](https://coinmarketcap.com/api/) | Cryptocurrencies Prices. | **N/A** |
 | [**coinpaprika**](https://api.coinpaprika.com) | Cryptocurrencies prices, market capitalization, volume and more. | **N/A** |
-| [**DexPaprika**](https://api.dexpaprika.com) | Free DEX data across 34 blockchains. Pools, tokens, trades, OHLCV, real-time streaming. No API key needed. | **N/A** |
 | [**CryptoCompare**](https://www.cryptocompare.com/api) | Cryptocurrencies Comparison. | **N/A** |
 | [**Cryptonator**](https://www.cryptonator.com/api/) | Cryptocurrencies Exchange Rates. | **N/A** |
 | [**Coinigy**](https://coinigy.docs.apiary.io) | Interact with Coinigy Accounts and Exchange Accounts Directly. | **N/A** |
 | [**Covalent**](https://www.covalenthq.com/docs/api/) | Multi-blockchain data aggregator at one unified API. | **N/A** |
+| [**DexPaprika**](https://api.dexpaprika.com) | DEX pools, tokens, trades and OHLCV across 36 chains. Free tier, no API key required. | **N/A** |
 | [**Exchange Rates API**](https://blockchain.info/api/exchange_rates_api) | Market Prices and exchanges rates api. | **N/A** |
 | [**PENDAX**](https://github.com/CompendiumFi/PENDAX-SDK) | Javascript SDK for Trading, Data, and Websockets for FTX, FTXUS, OKX, Bybit, & More. | **N/A** |
 | [**Poloniex**](https://poloniex.com/support/api/) | US based digital asset exchange. | **N/A** |
