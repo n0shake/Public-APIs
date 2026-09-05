@@ -765,6 +765,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | --- | ----------- | ---- |
 | [**ExtendsClass**](https://extendsclass.com/fake-api.html) | Collection of free REST APIs designed to help web developers with prototyping. | **N/A** |
 | [**Faker API**](https://fakerapi.it) | Collection of completely free APIs that helps web developers and web designers with generating fake data. | **N/A** |
+| [**TradeDataHub**](https://www.tradedatahub.net/developers/) | U.S. contractor dataset discovery API with coverage, pricing, and masked previews. | **N/A** |
 
 [⬆ Back to Table of Contents](#table-of-contents)
 ### Transportation
