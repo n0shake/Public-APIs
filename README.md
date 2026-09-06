@@ -801,6 +801,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**CSGO API**](https://bymykel.github.io/CSGO-API/) | An unofficial JSON API for Counter-Strike: Global Offensive. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
 | [**Clash Of Clans**](https://developer.clashofclans.com/) | An API for Clash of Clans to fetch all information about players, clans, wars, etc. | **N/A** |
 | [**Clash Royale**](https://github.com/martincarrera/clash-royale-api) | API that provides information about the Clash Royale game. | **N/A** |
+| [**L2 Calendar**](https://l2calendar.com/api/servers?lang=en) | Lineage 2 private servers list: names, websites, chronicles, rates and opening dates. | **N/A** |
 | [**FreeToGame**](https://www.freetogame.com/api-doc) | Free-to-play games database API. | **N/A** |
 | [**GamerPower**](https://www.gamerpower.com/api-read) | Access programmatically the best giveaways in gaming, from free games to beta keys to free in-game loot and more.| **N/A** |
 | [**GiantBomb**](http://www.giantbomb.com/api/) | API to query the GiantBomb database for videogames, characters, companies, genres and many more. | **N/A** |
