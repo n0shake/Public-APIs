@@ -244,6 +244,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | --- | ----------- | ---- |
 | [**Dribbble**](http://developer.dribbble.com/) | Dribbble is a community of designers answering that question each day. | **N/A** |
 | [**Icon Horse**](https://icon.horse/usage) | Get the favicon logo for any web address, customizable and complete with a fallback if it fails. | **N/A** |
+| [**Motomarks**](https://motomarks.io/docs/image-cdn) | Car manufacturer logos, badges, and wordmarks from a maintained image CDN. | 💸 |
 | [**Pexels**](https://www.pexels.com/api/) | Pexels provides high quality and completely free stock photos licensed under the Creative Commons Zero (CC0) license. | **N/A** |
 | [**PHP-Noise**](https://php-noise.com/) | Noise background image generator api with various parameters. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
 
