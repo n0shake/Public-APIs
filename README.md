@@ -227,6 +227,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**1Forge.com**](https://1forge.com/) | Real-time forex and crypto quotes via [JSON](https://en.wikipedia.org/wiki/JSON) and WebSocket. | **N/A** | 
 | [**Coingecko.com**](https://www.coingecko.com/en/api) | Free, comprehensive cryptocurrency API. | **N/A** | 
 | [**Currency-api**](https://github.com/fawazahmed0/currency-api#readme) | Free Currency Exchange Rates API with 150+ Currencies & No Rate Limits. | ![Open Source](https://raw.githubusercontent.com/n0shake/Public-APIs/master/opensource.png "Open Source") |
+| [**CurrencyFreaks**](https://currencyfreaks.com/) | Currency conversion with latest and historical forex exchange rates | `apiKey` | Yes | Yes |
 | [**CurrencyLayer.com**](https://currencylayer.com/documentation) | Exchange rates and currency conversion API. | **N/A** | 
 | [**CurrencyScoop.com**](https://currencyscoop.com/) | Real-time and historical currency rates [JSON](https://en.wikipedia.org/wiki/JSON) API. | **N/A** | 
 | [**Ecb.europa.eu**](https://www.ecb.europa.eu/stats/eurofxref/eurofxref-daily.xml) | Free currency exchange rates from european central bank(personal use). | **N/A** | 
@@ -333,6 +334,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**Twelve Data**](https://twelvedata.com/docs/) | Stock market data (real-time & historical). | **N/A** |
 | [**Australia**](https://www.rba.gov.au/statistics/tables/) | Plenty of kinds of data in [CSV](https://en.wikipedia.org/wiki/Comma-separated_values) format. | **N/A** |
 | [**Canada**](https://www.bankofcanada.ca/rates/) | Daily exchange rates and statistical data tables in [CSV](https://en.wikipedia.org/wiki/Comma-separated_values), [XML](https://en.wikipedia.org/wiki/XML) or [JSON](https://en.wikipedia.org/wiki/JSON) formats. | **N/A** |
+| [**CommodityPriceAPI**](https://commoditypriceapi.com/) | Real-time commodity pricing for 70+ products (metals, energy, agriculture) | `apiKey` | Yes | Yes |
 | [**Exchange Rates**](https://exchangeratesapi.io/) | Foreign exchange rates API with currency conversion. [JSON](https://en.wikipedia.org/wiki/JSON) & [CORS](https://en.wikipedia.org/wiki/Cross-origin_resource_sharing). | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
 | [**IBANAPI**](https://ibanapi.com/get-api) | Validate IBAN number & get bank account from it. | 💸 |
 | [**Ireland**](https://data.gov.ie/data/search?publisher=central-bank-of-ireland) | Variety of data mainly in [XLS](https://en.wikipedia.org/wiki/Microsoft_Excel#File_formats) format. | **N/A** |
@@ -532,6 +534,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**Typeform**](https://developer.typeform.com/) | Typeform's APIs allow you to create and edit Typeform surveys, and retrieve survey responses on demand. | **N/A** |
 | [**Wallhaven**](https://wallhaven.cc/help/api) | A huge wallpaper library. | **N/A** |
 | [**Who Hosts This**](https://www.who-hosts-this.com/API) | Detect the hosting provider powering any website. | **N/A** |
+| [**WhoisFreaks**](https://whoisfreaks.com/) | WHOIS and domain data API with live/historical records, bulk queries, registrar info | `apiKey` | Yes | Yes |
 | [**WolframAlpha**](http://products.wolframalpha.com/api/) | Integrate top of the line computational knowledge into your applications through the WolframAlpha API. | 💸 |
 
 [⬆ Back to Table of Contents](#table-of-contents)
@@ -646,6 +649,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**Nokia**](https://developer.here.com/develop/javascript-api) | Providing a JavaScript places search that can be searched by search term, with a detail search for display by JS widget. | **N/A** |
 | [**World Wonders API**](https://github.com/Rolv-Apneseth/world-wonders-api) | Provides information about famous wonders from around the world. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
 | [**Yelp**](https://docs.developer.yelp.com/docs/getting-started) | You can search location using longitude and latitude, neighborhood, address or city and filter listings by “where”, using a list of support categories. | **N/A** |
+| [**IPGeolocation**](https://ipgeolocation.io/) | IP geolocation, timezone, and location data with free tier | `apiKey` | Yes | Yes |
 
 [⬆ Back to Table of Contents](#table-of-contents)
 ### Product
@@ -839,6 +843,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | --- | ----------- | ---- |
 | [**Abstract**](https://www.abstractapi.com) | Suite of utility API's (validate emails, create user avatars, calculate VAT, and more) | 💸 |
 | [**Apiary**](https://apiary.io/) | Collaborative tool to design APIs. | 💸 |
+| [**APIFreaks**](https://apifreaks.com/) | Hub of 60+ production-ready APIs for geolocation, DNS, email, finance, weather, and automation | **N/A** | **N/A** |
 | [**OpenAPI**](https://www.openapis.org) | Standard, language-agnostic interface to REST APIs (based on [Swagger](http://swagger.io/)). | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
 | [**Swagger**](http://swagger.io/) | Tools for designing, building, and documenting RESTful APIs. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
 
