@@ -349,6 +349,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**Portfolio Optimizer**](https://portfoliooptimizer.io/) | API for investment portfolio optimization. | **N/A** |
 
 [⬆ Back to Table of Contents](#table-of-contents)
+| [**FXMacroData**](https://fxmacrodata.com/) | Macroeconomic and FX data API for 18 currencies with central bank announcements, policy rates, inflation, employment, GDP, release calendar, COT, commodities, and forex. | **N/A** |
 ### Fitness
 | API | Description | Open/Trial |
 | --- | ----------- | ---- |
