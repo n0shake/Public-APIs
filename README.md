@@ -258,6 +258,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**Lingua Robot API**](https://www.linguarobot.io/) | Definition of words, pronunciations, synonyms and antonyms, lemmatization and morpheme segmentation. | 💸 |
 | [**Merriam-Webster Dictionary API**](http://www.dictionaryapi.com/) | Gives developers access to a big ass resource of dictionary and thesaurus content as well as specialized medical, Spanish, ESL, and student-friendly vocabulary. | **N/A** |
 | [**Oxford Dictionary API**](https://developer.oxforddictionaries.com/) | Access to Oxford Dictionary services with several different subscription options including a free tier.  | 💸 |
+| [**SayItVid**](https://sayitvid.com) | English video pronunciation search with timestamps, IPA phonetics and subtitle context. | 💸 |
 | [**Wordnik**](http://developer.wordnik.com/docs.html#!/word) | Dictionary functions. | **N/A** |
 | [**Words API**](https://www.wordsapi.com/) | Use it to find definitions for more than 150,000 words. | **N/A** | 
 | [**Wiktionary API**](https://en.wiktionary.org/w/api.php) | Collaborative, free-content multilingual dictionary. | **N/A** |
