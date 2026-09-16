@@ -145,6 +145,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**Cryptonator**](https://www.cryptonator.com/api/) | Cryptocurrencies Exchange Rates. | **N/A** |
 | [**Coinigy**](https://coinigy.docs.apiary.io) | Interact with Coinigy Accounts and Exchange Accounts Directly. | **N/A** |
 | [**Covalent**](https://www.covalenthq.com/docs/api/) | Multi-blockchain data aggregator at one unified API. | **N/A** |
+| [**Deep Blue Alpha**](https://deepbluealpha.io/whale-api) | Real-time Ethereum whale wallet tracking — 20,000+ wallets, DEX trades, net flow, and conviction scoring. | **N/A** |
 | [**Exchange Rates API**](https://blockchain.info/api/exchange_rates_api) | Market Prices and exchanges rates api. | **N/A** |
 | [**PENDAX**](https://github.com/CompendiumFi/PENDAX-SDK) | Javascript SDK for Trading, Data, and Websockets for FTX, FTXUS, OKX, Bybit, & More. | **N/A** |
 | [**Poloniex**](https://poloniex.com/support/api/) | US based digital asset exchange. | **N/A** |
