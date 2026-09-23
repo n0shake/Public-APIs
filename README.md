@@ -269,6 +269,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**Anilist**](https://anilist.gitbook.io/anilist-apiv2-docs/) | Free Graphql api for thousands of animes, mangas, characters and staff | **N/A** |
 | [**Bob's Burgers API**](https://www.bobsburgersapi.com/documentation) | Get data for hundreds of characters, episodes, running gags, and images from the show. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
 | [**Breaking Bad & Better Call Saul API**](https://breakingbadapi.com/documentation) | Get data about characters, episodes, quotes, and deaths. | **N/A** |
+| [**Bucketlist.nl Dream of the Day**](https://bucketlist.nl/samenwerken?lang=en#droom-van-de-dag) | Returns one published travel or life experience idea per day, with image, theme and destination. | **N/A** |
 | [**Buffy the Vampire Slayer and Angel API**](https://github.com/Thatskat/btvs-angel-api) | Get episode, cast and crew data from Buffy the Vampire Slayer and Angel | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
 | [**Cat as a Service (CATAAS)**](https://cataas.com/#/) | Is a REST API to spread peace and love (or not) thanks to cats. | **N/A** |
 | [**Comic Vine**](http://comicvine.gamespot.com/api/) | An extremely mature, well organized and continually updated resource of comic information. | **N/A** |
