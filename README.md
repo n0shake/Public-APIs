@@ -123,6 +123,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**Google Charts**](https://developers.google.com/chart/interactive/docs/) | Free tool with a wide range of capabilities for visualizing data from a website. | **N/A** |
 | [**Keen IO**](https://keen.io/docs/api/) | Keen IO is a powerful, flexible, and scalable solution that’s literally Big Data, easy-to-implement and at your fingertips. | **N/A** |
 | [**Mongo DB**](https://github.com/mongodb) | mongoDB is ideal for developers who want precise control over the final results and processes for handling Big Data. | **N/A** |
+| [**TradeData**](https://tradedata.io) | Institutional customs manifest data, bill of lading analytics, and global trade intelligence across 10 sovereign nations. | **Free Trial** |
 | [**LinkedData.Center**](http://linkeddata.center/home/gdaas) | a RDF graph database as a service with W3C SPARQL query and SPARQL update apis. | 💸 |
 
 [⬆ Back to Table of Contents](#table-of-contents)
