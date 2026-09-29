@@ -413,6 +413,11 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**GitHub Licenses API**](https://developer.github.com/v3/licenses/) | **N/A** | **N/A** |
 | [**ToSDR Terms Of Service API**](https://tosdr.org/api.html) | **N/A** | **N/A** |
 
+#### Court Data
+| API | Description | Open/Trial |
+| --- | ----------- | ---- |
+| [**Court Rules**](https://www.courtrules.app/api) | Free reference for U.S. federal court rules, local rules, judge standing orders and court holidays, with a deadline calculator, a public API and an MCP server. | **N/A** |
+
 [⬆ Back to Table of Contents](#table-of-contents)
 ### Login Authentication
 | API | Description | Open/Trial |
