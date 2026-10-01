@@ -129,6 +129,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 ### Cryptocurrency/Crypto Wallets
 | API | Description | Open/Trial |
 | --- | ----------- | ---- |
+| [**ASTRO**](https://github.com/jarvisways-cyber/astro-starbase-crypto-api) | Market intelligence for 10 crypto assets, including prediction-market, funding, sentiment, liquidity, volatility and regime assessments. Free One Month Trials are arranged upon request. | 💸 |
 | [**Bitcoin**](https://developer.bitcoin.org/) | Find useful resources, guides and reference material for developers. | **N/A** |
 | [**Bitcoincharts**](https://bitcoincharts.com/about/markets-api/) | You can use this API to include markets data in your websites, mobile apps or desktop applets. | **N/A** |
 | [**bitpay**](https://bitpay.com/developers) | A simple, RESTful API to the most powerful bitcoin infrastructure on the planet. | **N/A** |
