@@ -689,6 +689,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**ApiFlash**](https://apiflash.com/) | Chrome based screenshot API to convert URLs to images. | **N/A** |
 | [**SavePage.io**](https://docs.savepage.io) | A free, RESTful API used to screenshot any desktop or mobile website with the real Chrome browser. | 💸 |
 | [**ScreenshotAPI.net**](https://screenshotapi.net) | Use one simple API call to generate screenshots of any website. | **N/A** |
+| [**SnapForge**](https://snapforge-hq.netlify.app) | Screenshot, OpenGraph image and PDF generation API for developers. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
 
 [⬆ Back to Table of Contents](#table-of-contents)
 ### Social Media
