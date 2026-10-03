@@ -707,6 +707,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**Hacker News**](https://github.com/HackerNews/API) | Anything that good hackers would find interesting. | **N/A** |
 | [**Hacker News GraphQL**](https://metamate.io/blog/most-advanced-hackernews-api/) | Convenient HackerNews GraphQL wrapper API. | **N/A** |
 | [**Imgur**](https://api.imgur.com/) | Imgur's API exposes the entire Imgur infrastructure via a standardized programmatic interface. | **N/A** |
+| [**Influence**](https://github.com/influence-so/influence-mcp#readme) | Social publishing via a hosted MCP API with review and approval. | 💸 |
 | [**Instagram**](https://www.instagram.com/developer/) | Search photos by location, user, tags, view trending photos, and make custom items. | **N/A** |
 | [**LinkedIn**](https://developer.linkedin.com/) | Enables apps to connect to user accounts, data, connections, groups, communications, and social streams. | **N/A** |
 | [**Mastodon**](https://docs.joinmastodon.org/) | Access to [Mastodon](https://github.com/tootsuite/mastodon)’s APIs, the Open-source twitter competitor. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
