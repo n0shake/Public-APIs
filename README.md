@@ -235,7 +235,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**Fixer.io**](http://fixer.io/) | [JSON](https://en.wikipedia.org/wiki/JSON) API for foreign exchange rates and currency conversion. End of day data only. | **N/A** | 
 | [**Frankfurter.app**](https://www.frankfurter.app/docs/) | Exchange rates and currency data API. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
 | [**OpenRates.io**](http://www.openrates.io/) | Live exchange rates and currency conversion API. | **N/A** | 
-| [**ratesapi.io**](https://ratesapi.io/) | Free foreign currency exchange rates and currency conversion. | **N/A** | 
+| [**AllRatesToday Central Bank Rates**](https://allratestoday.com/central-bank-rates-api/) | Official reference rates from 121 central banks (ECB, Fed, BoE, RBI…), keyless JSON. | **N/A** | 
 
 
 [⬆ Back to Table of Contents](#table-of-contents)
