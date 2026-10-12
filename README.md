@@ -121,6 +121,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | API | Description | Open/Trial |
 | --- | ----------- | ---- |
 | [**Google Charts**](https://developers.google.com/chart/interactive/docs/) | Free tool with a wide range of capabilities for visualizing data from a website. | **N/A** |
+| [**Invokely**](https://invokely.ai/docs) | Official statistics via REST; paid plan or credits required. Free plan: 500 calls/month via MCP. | 💸 |
 | [**Keen IO**](https://keen.io/docs/api/) | Keen IO is a powerful, flexible, and scalable solution that’s literally Big Data, easy-to-implement and at your fingertips. | **N/A** |
 | [**Mongo DB**](https://github.com/mongodb) | mongoDB is ideal for developers who want precise control over the final results and processes for handling Big Data. | **N/A** |
 | [**LinkedData.Center**](http://linkeddata.center/home/gdaas) | a RDF graph database as a service with W3C SPARQL query and SPARQL update apis. | 💸 |
