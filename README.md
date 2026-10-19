@@ -388,6 +388,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 ### Image Moderation
 | API | Description | Open/Trial |
 | --- | ----------- | ---- |
+| [**Sealed Rose**](https://sealedrose.com/developers) | Multimodal forensic verification API and web scanner for detecting AI-generated images, deepfake videos, and cloned voice audio. | **N/A** |
 | [**WebPurify**](https://www.webpurify.com/image-moderation/) | Provides live image moderation by humans. Free for the first 100 images. 2¢ per image after. | 💸 |
 
 [⬆ Back to Table of Contents](#table-of-contents)
