@@ -728,6 +728,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**Whatsapp Document Interaction**](https://faq.whatsapp.com/en/iphone/23559013) | If your application creates photos, videos or audio notes and you’d like your users to share these media using WhatsApp. #Limited | **N/A** |
 | [**Wordpress**](https://codex.wordpress.org/WordPress_APIs) | Access to Wordpress’ API. | **N/A** |
 | [**Untappd**](https://untappd.com/api/docs) | Untappd is a mobile web app that allows you to socially share beers that you're enjoying. | **N/A** |
+| [**Xquik**](https://docs.xquik.com/api-reference/overview) | Xquik is the world's fastest and cheapest X Twitter scraper service with the most complete X data. Use REST & MCP. Most other Apify Actors charge before filtering or deduplication. Xquik charges only for delivered, unique, filter-matching results and never pads rows. Xquik is paid. Xquik is an independent third-party service. Not affiliated with X Corp. "Twitter" and "X" are trademarks of X Corp. | **Paid** |
 | [**YouTube**](https://developers.google.com/youtube/) | Add YouTube functionality to your sites and apps. | **N/A** |
 | [**Zomato**](https://developers.zomato.com/api) | Zomato APIs give you access to the freshest and most exhaustive information for over 1.5 million restaurants across 10,000 cities globally. | **N/A** |
 
