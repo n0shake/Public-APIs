@@ -315,6 +315,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**DigitalOcean Spaces**](https://www.digitalocean.com/products/spaces) | API that provides easy access to store and receive files as simple object storage with easy to understand pricing. 2 Month Free Trial | 💸 |
 | [**Dropbox**](https://www.dropbox.com/developers) | API for accessing stored files and pictures which is easy to use and free for small amounts of data. | **N/A** |
 | [**Filestack**](https://filestack.com/docs/) | API for image and file manipulation, 250 uploads and 500 uploads per month for free, free CDN, HTML widget. | **N/A** |
+| [**HummingDeck**](https://hummingdeck.com/developers/api) | API for uploading documents, creating tracked share links and rooms, and reading document view events. Paid, on the Business plan. | **N/A** |
 | [**Microsoft Graph**](https://graph.microsoft.io/en-us/docs/api-reference/v1.0/resources/onedrive) | API for accessing stored files and photos for personal and enterprise users with high resolution thumbnails and Microsoft Office APIs. | **N/A** |
 | [**PDF Blocks**](https://www.pdfblocks.com/docs/api/getting-started) | API for working with PDF documents (merge, add password, watermark, and more). Well documented, easy to use. 14-day free trial. | 💸 |
 | [**SignNow API – eSign API by airSlate**](https://docs.signnow.com/docs/signnow/welcome) | Embed branded eSignature workflows in your app and quickly customize them to your user needs. | 💸 |
