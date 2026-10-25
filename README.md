@@ -757,6 +757,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**OpenLigaDB API**](https://www.openligadb.de/) | Provides sports data, especially football (soccer) league information. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
 | [**Roanuz Cricket API**](https://www.cricketapi.com/v5/docs/) | Provides cricket-related data, including scores and player information. | 💸 |
 | [**Sports Data API Providers**](https://sportsapi.com/api-directory/) | Reviews, coverage and prices from sports data providers. | **N/A** |
+| [**Sports Odds API (BetRivers, Unibet & 22 more books)**](https://apify.com/publicrecords/sports-odds-api) | Live odds from 24 Kambi-powered sportsbooks in one call, including BetRivers (12 US states + Ontario), Unibet, Paf, Svenska Spel and ATG, with every book's price and the best price per outcome; pay per call, no subscription. | 💸 |
 | [**TheSportsDB**](http://www.thesportsdb.com/) | Various sports events, results, players, teams and high quality artwork. | **N/A** |
 
 [⬆ Back to Table of Contents](#table-of-contents)
