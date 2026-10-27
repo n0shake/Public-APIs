@@ -358,6 +358,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**Strava**](https://strava.github.io/api/) | API for accessing and managing data about athletes, activities and segments. | **N/A** |
 | [**VeganCheck**](https://jokenetwork.de/vegancheck-api) | API that provides a couple of information about a food or non-food product based on its EAN/UPC code. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
 | [**Withings**](http://oauth.withings.com/api) | Access to data from Withings activity trackers and body measures. | **N/A** |
+| [**Your Move Exercise API**](https://ymove.app/exercise-api/docs) | 2,005+ HD exercise videos with instructions, muscles and equipment, plus workout and program generation. | 💸 |
 
 [⬆ Back to Table of Contents](#table-of-contents)
 ### Google
