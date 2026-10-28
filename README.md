@@ -129,6 +129,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 ### Cryptocurrency/Crypto Wallets
 | API | Description | Open/Trial |
 | --- | ----------- | ---- |
+| [**0xArchive**](https://docs.0xarchive.io/quickstart) | Real-time and historical market data from Hyperliquid and Lighter, including order books, trades, and funding. | Free tier; paid plans |
 | [**Bitcoin**](https://developer.bitcoin.org/) | Find useful resources, guides and reference material for developers. | **N/A** |
 | [**Bitcoincharts**](https://bitcoincharts.com/about/markets-api/) | You can use this API to include markets data in your websites, mobile apps or desktop applets. | **N/A** |
 | [**bitpay**](https://bitpay.com/developers) | A simple, RESTful API to the most powerful bitcoin infrastructure on the planet. | **N/A** |
