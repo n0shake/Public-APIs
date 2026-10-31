@@ -197,6 +197,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**Africa's Talking**](https://africastalking.com/) | Access African telco services through a HTTP API. | 💸 |
 | [**iP1sms**](https://www.ip1sms.com/en/developer/) | Send and receive SMS messages worldwide. | 💸 |
 | [**Eqivo**](https://eqivo.org) | Telephony/Programmable-Voice API platform. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
+| [**Fax for Agents**](https://faxforagents.com/docs/) | Fax API, hosted MCP server and SDKs so AI agents can send and receive faxes. | 💸 |
 | [**MailGun**](https://mailgun.com) | Transactional Email API Service For Developers. Free first 10000 emails per month. | 💸 |
 | [**Nexmo**](https://developer.nexmo.com) | Make and receive phone calls, send and receive SMS worldwide. Libraries in Node, Ruby, Java, PHP, .NET & Python. | 💸 |
 | [**Sakari**](https://developer.sakari.io) | Send and Receive SMS to over 200+ countries around the world. Send one or one million messages from a single API call. | 💸 |
