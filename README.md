@@ -709,6 +709,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**Imgur**](https://api.imgur.com/) | Imgur's API exposes the entire Imgur infrastructure via a standardized programmatic interface. | **N/A** |
 | [**Instagram**](https://www.instagram.com/developer/) | Search photos by location, user, tags, view trending photos, and make custom items. | **N/A** |
 | [**LinkedIn**](https://developer.linkedin.com/) | Enables apps to connect to user accounts, data, connections, groups, communications, and social streams. | **N/A** |
+| [**LurkAPI**](https://lurkapi.com/docs) | Public posts, profiles, ads and video transcripts from TikTok, Instagram, YouTube, Reddit and 12 more platforms as JSON. | 💸 |
 | [**Mastodon**](https://docs.joinmastodon.org/) | Access to [Mastodon](https://github.com/tootsuite/mastodon)’s APIs, the Open-source twitter competitor. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
 | [**Microlink**](https://microlink.io) | Turns any link into information. Take screenshots, extract predominant palette colors. | **N/A** |
 | [**Pinterest**](https://www.pinterest.com/login/?next=http%3A%2F%2Fdevelopers.pinterest.com%2Fapi_docs%2F) | Enables apps to view the most clicked-through or repinned Pins, view related posts, and user profiles. | **N/A** |
