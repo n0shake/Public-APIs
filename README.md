@@ -694,7 +694,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 ### Social Media
 | API | Description | Open/Trial |
 | --- | ----------- | ---- |
-| [**Arcmira**](https://arcmira.com) | Search indexed YouTube transcripts for timestamped quotes and speaker appearances, with a monthly free tier. [API docs](https://arcmira.com/docs). | **N/A** |
+| [**Arcmira**](https://arcmira.com) | Find quotes and speaker appearances across indexed YouTube and podcast transcripts. Results link to the source recording at the timestamp. [API docs](https://arcmira.com/docs). | **N/A** |
 | [**Ayrshare**](https://docs.ayrshare.com) | Social media APIs for scheduling, analytics, comments, and more. | 💸 |
 | [**Daily Motion**](https://developer.dailymotion.com/) | Build applications centered around DailyMotion. | **N/A** |
 | [**Delicious**](https://github.com/domainersuitedev/delicious-api) | Access to Delicious’s API. | **N/A** |
