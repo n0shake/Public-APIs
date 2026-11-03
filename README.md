@@ -310,6 +310,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 ### File Storage and Manipulation
 | API | Description | Open/Trial |
 | --- | ----------- | ---- |
+| [**KaijuConverter**](https://kaijuconverter.com/api-docs) | Convert 201+ file formats (HEIC, PDF, DOCX, CSV, ODS, RAW, CAD, MP4, MP3), 54 Studio tools, and Official MCP Server. | **Free Tier** |
 | [**Amazon S3**](https://aws.amazon.com/de/documentation/s3/) | API that provides access to stored files and can be added easily to any service - and it's free for twelve months. | 💸 |
 | [**Cloudinary**](http://cloudinary.com/documentation) | API for image and video storage and manipulation - free for up to 75,000 images and 7,500 manipulations per month, good documentation. It can also manipulate GIFs and PDFs. | **N/A** |
 | [**DigitalOcean Spaces**](https://www.digitalocean.com/products/spaces) | API that provides easy access to store and receive files as simple object storage with easy to understand pricing. 2 Month Free Trial | 💸 |
