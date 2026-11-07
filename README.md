@@ -73,6 +73,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | API | Description | Open/Trial |
 | --- | ----------- | ---- |
 | [**Amazon Mobile Ads**](https://developer.amazon.com/mobile-ads) | Monetize across platforms with multiple ad formats.| **N/A** |
+| [**Clickwise**](<https://partners.clickwise.net/developers/>) | Affiliate programs, deals and tracked links, plus product search by text or GTIN. | **N/A** |
 | [**Facebook Marketing API**](https://developers.facebook.com/docs/marketing-apis) | Manage ads and campaigns using the Facebook API. | **N/A** | 
 | [**Google AdSense**](https://developers.google.com/adsense/?hl=en) | Free, flexible way to earn money from your websites, mobile sites, and site search results. | **N/A** |
 | [**Google AdWords API**](https://developers.google.com/adwords/api/docs/guides/start) | Manage Google AdWords campaigns programmatically. | **N/A** |
