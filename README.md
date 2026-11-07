@@ -199,6 +199,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**Eqivo**](https://eqivo.org) | Telephony/Programmable-Voice API platform. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
 | [**MailGun**](https://mailgun.com) | Transactional Email API Service For Developers. Free first 10000 emails per month. | 💸 |
 | [**Nexmo**](https://developer.nexmo.com) | Make and receive phone calls, send and receive SMS worldwide. Libraries in Node, Ruby, Java, PHP, .NET & Python. | 💸 |
+| [**NumRadar**](https://numradar.app/docs) | Check WhatsApp registration for individual phone numbers and run bulk validation jobs | Paid plan required |
 | [**Sakari**](https://developer.sakari.io) | Send and Receive SMS to over 200+ countries around the world. Send one or one million messages from a single API call. | 💸 |
 | [**Telnyx**](https://developers.telnyx.com/) | Build Voice, SMS, Fax, Networking and Cellular IoT applications on a private, purpose-built global communications network. | 💸 |
 | [**The SMS Works**](https://thesmsworks.co.uk/sms-api) | The SMS Works provides a low-cost, reliable SMS API for developers. Pay only for delivered texts, all failed messages are refunded. | 💸 |
