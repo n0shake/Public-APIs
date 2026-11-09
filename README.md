@@ -84,6 +84,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 ### Analytics
 | API | Description | Open/Trial |
 | --- | ----------- | ---- |
+| [**AgentSEO**](https://www.agentseo.dev/docs/api-reference) | REST API for SEO and AI search visibility (AEO/GEO): Google SERP analysis, keyword and competitor research, rank tracking, local visibility, content gaps, AI Overviews, and LLM mention tracking. Includes 100 one-time live credits; paid plans start at $9/month. | 💸 |
 | [**Amazon Mobile Analytics**](https://aws.amazon.com/documentation/mobileanalytics/) | Service for collecting, visualizing, and understanding app usage data at scale. | **N/A** |
 | [**Clicky**](https://clicky.com/help/api) | Allows you to extract your website's traffic data into several formats, making it easy to integrate, analyze, or store your data within your own application.| **N/A** |
 | [**Companies taking action**](https://ditchcarbon.com/free-sbti-api-access/)| API access to the "companies taking action" list from SBTI.|**N/A**|
