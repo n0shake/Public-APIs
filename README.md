@@ -729,6 +729,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**Wordpress**](https://codex.wordpress.org/WordPress_APIs) | Access to Wordpress’ API. | **N/A** |
 | [**Untappd**](https://untappd.com/api/docs) | Untappd is a mobile web app that allows you to socially share beers that you're enjoying. | **N/A** |
 | [**YouTube**](https://developers.google.com/youtube/) | Add YouTube functionality to your sites and apps. | **N/A** |
+| [**YouTube License Metadata API (FlashData)**](https://flashdata.dev/docs/sources/youtube_trainability) | Read video license metadata for a Creative Commons label; does not grant training rights. Requires an API key and paid Credits. | 💸 |
 | [**Zomato**](https://developers.zomato.com/api) | Zomato APIs give you access to the freshest and most exhaustive information for over 1.5 million restaurants across 10,000 cities globally. | **N/A** |
 
 [⬆ Back to Table of Contents](#table-of-contents)
