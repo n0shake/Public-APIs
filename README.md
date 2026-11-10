@@ -651,6 +651,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 ### Product
 | API | Description | Open/Trial |
 | --- | ----------- | ---- |
+| [**Google Shopping Search API (FlashData)**](https://flashdata.dev/docs/sources/google_shopping) | Retrieve Google Shopping product links, merchants and displayed prices; no stock guarantee. Requires an API key and paid Credits. | 💸 |
 | [**Product Hunt**](https://api.producthunt.com/v2/docs) | The best new products, every day. | **N/A** |
 
 [⬆ Back to Table of Contents](#table-of-contents)
