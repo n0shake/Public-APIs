@@ -638,6 +638,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 ### Places
 | API | Description | Open/Trial |
 | --- | ----------- | ---- |
+| [**BatchData**](https://developer.batchdata.com) | U.S. real estate data API: property search and lookup, skip tracing, valuations and address verification across 169 million+ U.S. parcels. | **N/A** |
 | [**bng2latlong**](https://www.getthedata.com/bng2latlong) | Convert an OSGB36 easting and northing (British National Grid) to WGS84 latitude and longitude. | **N/A** |
 | [**CountryAPI**](https://fabian7593.github.io/CountryAPI/) | Get all the countries, and obtain the most important information of these. | **N/A** |
 | [**Factual**](https://developer.factual.com/docs/getting-started) | Providing a places search that can be searched by latitude/longitude, and “where” using full text search query string. | **N/A** |
