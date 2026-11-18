@@ -749,6 +749,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | --- | ----------- | ---- |
 | [**Ergast Formula 1**](http://ergast.com/mrd/) | Provides access to current and historical Formula 1 race data from 1950 to today. | **N/A** |
 | [**FIFA women's world cup 2019**](https://worldcup.sfg.io/) | FIFA women's world cup 2019 matches and group stage results. | **N/A** |
+| [**Footalytics**](https://footalytics.farvor.com) | AI football match predictions: win/draw/loss probabilities, confidence tiers, over/under 2.5 goals, BTTS and graded past results for the top leagues. | **N/A** |
 | [**Football Prediction**](https://boggio-analytics.com/fp-api/) | Predictions for upcoming football matches, odds, results and stats. | 💸 |
 | [**LIVE-SCORE API**](https://live-score-api.com/documentation/reference/) | Football API for live-scores, fixtures, group standings, history data and match events. | 💸 |
 | [**NBA GraphQL**](https://nbaapi.com/graphql/) | Current and historical NBA Stats | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
