@@ -765,6 +765,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | --- | ----------- | ---- |
 | [**ExtendsClass**](https://extendsclass.com/fake-api.html) | Collection of free REST APIs designed to help web developers with prototyping. | **N/A** |
 | [**Faker API**](https://fakerapi.it) | Collection of completely free APIs that helps web developers and web designers with generating fake data. | **N/A** |
+| [**Narkis Avatars**](https://narkis.ai/developers/avatars) | Seedable, realistic AI faces of people who don't exist, any size. Free placeholder avatars for mockups and seed data, no key. | **N/A** |
 
 [⬆ Back to Table of Contents](#table-of-contents)
 ### Transportation
