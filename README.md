@@ -704,6 +704,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**Foursquare**](https://developer.foursquare.com/) | Access to Foursquare database and ability to interact with Foursquare users. | **N/A** |
 | [**GoodReads**](https://www.goodreads.com/api) | Allows developers access to Goodreads data in order to help websites or applications that deal with books. | **N/A** |
 | [**Gravatar**](https://en.gravatar.com/site/implement/) | Create profiles and avatars using this web service. | **N/A** |
+| [**GusGon**](https://developer.gusgon.com) | Build interactive bots, slash commands, embeds, and real-time integrations for GusGon voice and community chat servers. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
 | [**Hacker News**](https://github.com/HackerNews/API) | Anything that good hackers would find interesting. | **N/A** |
 | [**Hacker News GraphQL**](https://metamate.io/blog/most-advanced-hackernews-api/) | Convenient HackerNews GraphQL wrapper API. | **N/A** |
 | [**Imgur**](https://api.imgur.com/) | Imgur's API exposes the entire Imgur infrastructure via a standardized programmatic interface. | **N/A** |
