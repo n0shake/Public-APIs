@@ -72,13 +72,12 @@ This is an attempt to categorise different APIs scoured from the web which make 
 ### Advertising
 | API | Description | Open/Trial |
 | --- | ----------- | ---- |
-| [**Amazon Mobile Ads**](https://developer.amazon.com/mobile-ads) | Monetize across platforms with multiple ad formats.| **N/A** |
+| [**Amazon Mobile Ads**](https://developer.amazon.com/apps-and-games/services-and-apis/monetization) | Monetize across platforms with multiple ad formats.| **N/A** |
 | [**Facebook Marketing API**](https://developers.facebook.com/docs/marketing-apis) | Manage ads and campaigns using the Facebook API. | **N/A** | 
 | [**Google AdSense**](https://developers.google.com/adsense/?hl=en) | Free, flexible way to earn money from your websites, mobile sites, and site search results. | **N/A** |
 | [**Google AdWords API**](https://developers.google.com/adwords/api/docs/guides/start) | Manage Google AdWords campaigns programmatically. | **N/A** |
 | [**Kevel Ad APIs**](https://dev.kevel.co) | Build your own ad server with Kevel's ad APIs.| **N/A** |
 | [**Microsoft Advertising Platform - Bing Ads API**](https://msdn.microsoft.com/en-us/library/bing-ads-api.aspx) | Provides programmatic access to various advertising technologies. | **N/A** |
-| [**Yahoo Gemini API**](https://developer.yahoo.com/gemini/) | Allows advertisers to manage complex Gemini accounts and campaigns more efficiently. | **N/A** |
 
 [⬆ Back to Table of Contents](#table-of-contents)
 ### Analytics
@@ -243,7 +242,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | API | Description | Open/Trial |
 | --- | ----------- | ---- |
 | [**Dribbble**](http://developer.dribbble.com/) | Dribbble is a community of designers answering that question each day. | **N/A** |
-| [**Icon Horse**](https://icon.horse/usage) | Get the favicon logo for any web address, customizable and complete with a fallback if it fails. | **N/A** |
+| [**Icon Horse**](https://icon.horse/docs.html) | Get the favicon logo for any web address, customizable and complete with a fallback if it fails. | **N/A** |
 | [**Pexels**](https://www.pexels.com/api/) | Pexels provides high quality and completely free stock photos licensed under the Creative Commons Zero (CC0) license. | **N/A** |
 | [**PHP-Noise**](https://php-noise.com/) | Noise background image generator api with various parameters. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
 
@@ -345,7 +344,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**Poland**](https://api.nbp.pl) | Currency exchange rates and gold prices in the [XML](https://en.wikipedia.org/wiki/XML) and [JSON](https://en.wikipedia.org/wiki/JSON) formats. | **N/A** |
 | [**Russian Federation**](https://www.cbr.ru/development/) | History of exchange rates via REST [XML](https://en.wikipedia.org/wiki/XML) and far more macroeconomical info via SOAP. | **N/A** |
 | [**Switzerland**](https://data.snb.ch/en) | Rich variety of data in [XLS](https://en.wikipedia.org/wiki/Microsoft_Excel#File_formats) and [CSV](https://en.wikipedia.org/wiki/Comma-separated_values) formats. | **N/A** |
-| [**Ukraine**](https://bank.gov.ua/control/en/publish/article?art_id=25365630) | Exchange rates and bond placements in [JSON](https://en.wikipedia.org/wiki/JSON) and [XML](https://en.wikipedia.org/wiki/XML) formats. | **N/A** |
+| [**Ukraine**](https://bank.gov.ua/en/open-data/api-dev) | Exchange rates and bond placements in [JSON](https://en.wikipedia.org/wiki/JSON) and [XML](https://en.wikipedia.org/wiki/XML) formats. | **N/A** |
 | [**Portfolio Optimizer**](https://portfoliooptimizer.io/) | API for investment portfolio optimization. | **N/A** |
 
 [⬆ Back to Table of Contents](#table-of-contents)
@@ -411,7 +410,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | API | Description | Open/Trial |
 | --- | ----------- | ---- |
 | [**GitHub Licenses API**](https://developer.github.com/v3/licenses/) | **N/A** | **N/A** |
-| [**ToSDR Terms Of Service API**](https://tosdr.org/api.html) | **N/A** | **N/A** |
+| [**ToSDR Terms Of Service API**](https://docs.tosdr.org/developer/tos-dr-developers) | **N/A** | **N/A** |
 
 [⬆ Back to Table of Contents](#table-of-contents)
 ### Login Authentication
@@ -422,8 +421,8 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**Firebase**](https://firebase.google.com/docs/reference/) | Authentication, analytics, cloud messaging, crash reporting, ads and more. | **N/A** |
 | [**GitHub Authentication**](https://developer.github.com/guides/basics-of-authentication/) | Access to GitHub’s Authentication API. | **N/A** |
 | [**Instagram**](https://developers.facebook.com/docs/instagram-api/overview) | Access to Instagram’s OAuth API. | **N/A** |
-| [**LinkedIn**](https://developer.linkedin.com/docs/signin-with-linkedin) | Make it convenient for your users to sign in with their professional identity. | **N/A** |
-| [**PayPal**](https://developer.paypal.com/docs/integration/direct/identity/log-in-with-paypal/) | Enables your customers to sign in to your website quickly and securely using their PayPal login credentials. | **N/A** |
+| [**LinkedIn**](https://learn.microsoft.com/en-us/linkedin/consumer/integrations/self-serve/sign-in-with-linkedin-v2) | Make it convenient for your users to sign in with their professional identity. | **N/A** |
+| [**PayPal**](https://developer.paypal.com/log-in/how-it-works) | Enables your customers to sign in to your website quickly and securely using their PayPal login credentials. | **N/A** |
 | [**Salesforce**](https://developer.salesforce.com/docs/atlas.en-us.api_rest.meta/api_rest/intro_understanding_authentication.htm) | Salesforce uses the OAuth protocol to allow users of applications to securely access data without having to reveal username and password credentials. | **N/A** |
 | [**Twitter Sign-in**]([https://developer.twitter.com/web/sign-in](https://developer.twitter.com/en/docs/authentication/guides/log-in-with-twitter)) | Works on websites, iOS, mobile and desktop applications. | **N/A** |
 | [**WorkOS**](https://workos.com/docs) | Support Single Sign-On for common Enterprise Identity Providers (Okta, Azure, OneLogin). | **N/A** |
@@ -445,7 +444,6 @@ This is an attempt to categorise different APIs scoured from the web which make 
 ### Maps
 | API | Description | Open/Trial |
 | --- | ----------- | ---- |
-| [**Amazon Maps API v2**](https://developer.amazon.com/maps) | Add interactive 3D maps, graphics, and custom overlays to your Fire Tablet and Fire phone apps. | **N/A** |
 | [**Bing Maps**](https://www.microsoft.com/maps/choose-your-bing-maps-API.aspx) | Bing Maps platform provides multiple API options for your application. | **N/A** |
 | [**Cartes.io**](https://github.com/M-Media-Group/Cartes.io/wiki/API) | Create maps and markers for anything, without authentication. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
 | [**CartoDB**](https://carto.com/developers/#apis) | Allows you to generate maps based on data hosted in your CartoDB account. | **N/A** |
@@ -499,7 +497,6 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**Geocodify**](https://geocodify.com) | Worldwide geocoding, geoparsing and autocomplete for addresses. | 💸 |
 | [**Giphy**](https://developers.giphy.com/docs/) | Worlds largest library of GIFs. | **N/A** |
 | [**Httpbin**](https://httpbin.org/) | A Simple HTTP Request & Response Service. | ![Open Source](https://raw.githubusercontent.com/n0shake/Public-APIs/master/opensource.png "Open Source") |
-| [**Httpbin Cloudflare**](https://cloudflare-quic.com/b/) | A Simple HTTP Request & Response Service with HTTP/3 Support by Cloudflare. | ![Open Source](https://raw.githubusercontent.com/n0shake/Public-APIs/master/opensource.png "Open Source") |
 | [**Icanhazepoch**](https://icanhazepoch.com) | Get Epoch time. | ![Open Source](https://raw.githubusercontent.com/n0shake/Public-APIs/master/opensource.png "Open Source") |
 | [**Icanhazip**](https://major.io/icanhazip-com-faq/) | IP Address API. | ![Open Source](https://raw.githubusercontent.com/n0shake/Public-APIs/master/opensource.png "Open Source") |
 | [**Image-Charts**](https://www.image-charts.com) | 1 URL = 1 Chart: Get a chart image in response to a URL GET or POST request. A drop-in-replacement for the deprecated Google Image Charts. | **N/A** |
@@ -738,7 +735,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**Bitbucket**](https://developer.atlassian.com/bitbucket/api/2/reference/) | Access to Bitbucket's API. | **N/A** |
 | [**GitHub**](https://developer.github.com/v3/) | Build real-world GitHub applications right from authentication, to manipulating results, to combining results with other services. | **N/A** |
 | [**GitHub Gists**](https://developer.github.com/v3/gists/) | Access to GitHub’s Gists API. | **N/A** |
-| [**GitLab**](https://docs.gitlab.com/ce/api/README.html) | Access to GitLab's API. | **N/A** |
+| [**GitLab**](https://docs.gitlab.com/api/rest/) | Access to GitLab's API. | **N/A** |
 | [**Mercurial**](https://www.mercurial-scm.org/wiki/MercurialApi) | Access to Mercurial’s API. | **N/A** |
 | [**SVN**](https://subversion.apache.org/docs/api/1.8/) | Collection of modular libraries written in the C programming language. | **N/A** |
 | [**Team Foundation Server**](https://docs.microsoft.com/en-us/azure/devops/integrate/?view=azure-devops) | TFS APIs are based on REST, OAuth, Json and service hooks. | **N/A** |
@@ -816,7 +813,6 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | --- | ----------- | ---- |
 | [**AccuWeather**](https://developer.accuweather.com/) | AccuWeather provides hourly and minute by minute forecasts with Superior accuracy. AccuWeather provides the world’s most sophisticated weather intelligence. | 💸 |
 | [**AerisWeather**](https://www.aerisweather.com) | Global weather data and imagery APIs, with a free developer subscription tier, boasting detailed documentation for simple to advanced queries, free SDKs and a Map Builder to get you up and running faster. | **N/A** |
-| [**BlueSky API**](https://blueskyapi.io/docs/api) | Global weather data, both live forecasts and forecast history, free tier available. | **N/A** |
 | [**Open-Meteo**](https://open-meteo.com/en/docs) | Global weather forecast API. Free for non-commercial use. **No API key required**. [CORS](https://en.wikipedia.org/wiki/Cross-origin_resource_sharing) supported. | **N/A** |
 | [**Open Weather**](http://openweathermap.org/api) | Access current weather data for any location on Earth including over 200,000 cities! | **N/A** |
 | [**Storm Glass Marine Weather API**](https://stormglass.io) | Global marine weather data from multiple sources in one single API! | **N/A** |
