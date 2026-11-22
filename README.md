@@ -747,6 +747,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 ### Sport
 | API | Description | Open/Trial |
 | --- | ----------- | ---- |
+| [**AsianScore**](https://asianscore.com/tools.html) | Free keyless REST API and quantitative tools for live football and NBA scores, Dixon-Coles xG, and SHA-256 prediction ledger data. | **N/A** |
 | [**Ergast Formula 1**](http://ergast.com/mrd/) | Provides access to current and historical Formula 1 race data from 1950 to today. | **N/A** |
 | [**FIFA women's world cup 2019**](https://worldcup.sfg.io/) | FIFA women's world cup 2019 matches and group stage results. | **N/A** |
 | [**Football Prediction**](https://boggio-analytics.com/fp-api/) | Predictions for upcoming football matches, odds, results and stats. | 💸 |
