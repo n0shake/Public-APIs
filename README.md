@@ -772,6 +772,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | --- | ----------- | ---- |
 | [**ADS-B Exchange**](https://www.adsbexchange.com/data/) | Access real-time and historical data of any and all airborne aircraft. | **N/A** |
 | [**AfterShip**](https://www.aftership.com/docs/api/4/overview) | Provides multi-carrier shipment tracking APIs. | **N/A** |
+| [**AQX Logistics**](https://aqxlogistics.com/openapi.json) | Real-time international air freight quotes, volumetric weight calculation, and customs de minimis lookup across 15 countries. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png) |
 | [**CarsXE API**](https://api.carsxe.com/) | Get access to millions of vehicle records, specs, ownership costs and market values. | 💸 |
 | [**Edmunds**](http://developer.edmunds.com/) | A dataset containing all the car makes. | **N/A** |
 | [**HyperTrack**](https://docs.hypertrack.com) | Build applications that track the movement of your business. | 💸 |
