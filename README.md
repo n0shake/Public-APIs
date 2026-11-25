@@ -758,6 +758,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**Roanuz Cricket API**](https://www.cricketapi.com/v5/docs/) | Provides cricket-related data, including scores and player information. | 💸 |
 | [**Sports Data API Providers**](https://sportsapi.com/api-directory/) | Reviews, coverage and prices from sports data providers. | **N/A** |
 | [**Sports Odds API (BetRivers, Unibet & 22 more books)**](https://apify.com/publicrecords/sports-odds-api) | Live odds from 24 Kambi-powered sportsbooks in one call, including BetRivers (12 US states + Ontario), Unibet, Paf, Svenska Spel and ATG, with every book's price and the best price per outcome; pay per call, no subscription. | 💸 |
+| [**Tennis Scores API (ATP & WTA)**](https://apify.com/publicrecords/tennis-scores-api) | ATP and WTA match scores, results and rankings (set-by-set scores, tiebreaks, seeds, winners, tour rankings); pay per row on your own Apify account. Standby/MCP is not built. | 💸 |
 | [**TheSportsDB**](http://www.thesportsdb.com/) | Various sports events, results, players, teams and high quality artwork. | **N/A** |
 
 [⬆ Back to Table of Contents](#table-of-contents)
