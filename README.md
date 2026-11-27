@@ -671,6 +671,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | API | Description | Open/Trial |
 | --- | ----------- | ---- |
 | [**Amazon Product Advertising API**](http://docs.aws.amazon.com/AWSECommerceService/latest/DG/Welcome.html) | Get access to the data used by Amazon including items for sale, customer reviews, seller reviews, item search, product promotions, and more. | **N/A** |
+| [**CosmeScan API**](https://cosmescan.com/api-docs/) | Free public REST API to decode cosmetic & perfume batch codes and search 2,375 beauty brands (OpenAPI 3.1, No Auth, HTTPS, CORS enabled). | **Open** |
 
 [⬆ Back to Table of Contents](#table-of-contents)
 ### Science
